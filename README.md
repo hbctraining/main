@@ -27,9 +27,9 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 [This intensive course](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/) runs for between **8 to 12 days** and is aimed at bench biologists interested in learning how to **independently** perform NGS data analyses using *best practices*. Topics include:
 
-  * High-Performance Computing (Orchestra)
-  * NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)
-  * Statistical analysis using R
+  * High-Performance Computing
+  * Best practice workflows for NGS data analysis (RNA-seq, ChIP-seq, Variant calling)
+  * R for statistical analysis and data visualization
   * Functional analysis with gene lists
 
 ## Contact us:
