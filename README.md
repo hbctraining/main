@@ -20,7 +20,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   * [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/README.html) *(Prereq: familiarity with R)*
   * [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/README.html) *(Prereq: familiarity with R)*
   * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/README.html) *(Prereq: familiarity with R)*
-  * Git and Github *Prereq: familiarity with HPC and bash*) *(In development)*
+  * Git and Github *(Prereq: familiarity with HPC and bash*) *(In development)*
   * Git using Git Kraken *(Prereq: familiarity with bash)* *(In development)*
   * Differential Gene Expression (DGE) analysis with DESeq2 *(Prereq: familiarity with R*) *(In development)*
   * Identifying variants in genome/exome sequencing data *(Prereq: familiarity with HPC and bash)* *(In development)*
