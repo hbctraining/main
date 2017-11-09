@@ -1,4 +1,4 @@
-# Bioinformatics training at the [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/)
+# Bioinformatics training at the Harvard Chan Bioinformatics Core
 
 ## Training program description:
 
@@ -33,5 +33,8 @@ These intensive courses run for **8-12 days** and are aimed at bench biologists 
   * Statistical analysis using R
   * Functional analysis with gene lists
 
+## Contact us:
 
+**Email:** [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)
 
+**Webpage:** [http://bioinformatics.sph.harvard.edu](http://bioinformatics.sph.harvard.edu)
