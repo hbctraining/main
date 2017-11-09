@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Bioinformatics training at the [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/)
 
-You can use the [editor on GitHub](https://github.com/hbctraining/main/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Training program description:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We provide bioinformatics training through both shorter workshops and longer in-depth courses. 
 
-### Markdown
+*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Workshops
 
-```markdown
-Syntax highlighted code block
+**Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their studies appropriately and perform prelimanary data analyses.
 
-# Header 1
-## Header 2
-### Header 3
+  * Introduction to R and ggplot2 (2 days)
+  * Introduction to RNA-seq data analysis using High-Performance Computing (2 or 3 days)
+  * Introduction to R and Differential Gene Expression (DGE) analysis (3 days)
+  * Introduction to Differential Gene Expression (DGE) analysis (1.5 days)
+  * Introduction to ChIP-seq using High-Performance Computing (3 days) (*In development*)
 
-- Bulleted
-- List
+**Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
 
-1. Numbered
-2. List
+  * Introduction to R & Visualizations with ggplot2 (*This is a Pre-requisite for the workshops listed below*)
+  * Plotting and visualization in R using ggplot2 and other packages (*Prereq: familiarity with R*)
+  * Functional analysis of gene lists (*Prereq: familiarity with R*)
+  * Reproducible research using R: Report generation using Rmarkdown (*Prereq: familiarity with R*)
+  * Differential Gene Expression (DGE) analysis with DESeq2 (*Prereq: familiarity with R*) (*In development*)
 
-**Bold** and _Italic_ and `Code` text
+### In-Depth Next Generation Sequencing Analysis Courses
 
-[Link](url) and ![Image](src)
-```
+These intensive courses run for **8-12 days** and are aimed at bench biologists interested in learning how to independently perform NGS data analyses using best practices. Topics include:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  * High-Performance Computing (Orchestra)
+  * NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)
+  * Statistical analysis using R
+  * Functional analysis with gene lists
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hbctraining/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
