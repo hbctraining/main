@@ -1,14 +1,12 @@
-# Bioinformatics training at the Harvard Chan Bioinformatics Core
+# Training program description:
 
-## Training program description:
-
-We provide bioinformatics training through both shorter workshops and longer in-depth courses. 
+The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training through both shorter workshops and longer in-depth courses. Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills.
 
 *No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
 
 ### Workshops
 
-**Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their studies appropriately and perform prelimanary data analyses.
+**Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform prelimanary data analyses.
 
   * [Introduction to R and ggplot2]() (2 days)
   * [Introduction to RNA-seq data analysis using High-Performance Computing]() (2 or 3 days)
