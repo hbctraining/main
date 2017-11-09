@@ -12,16 +12,16 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   * [Introduction to RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/README.html) (2 or 3 days)
   * [Introduction to R and Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/Intro-to-R-with-DGE/README.html) (3 days)
   * [Introduction to Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/DGE_workshop/) (1.5 days)
-  * Introduction to ChIP-seq using High-Performance Computing (3 days) (*In development*)
+  * Introduction to ChIP-seq using High-Performance Computing (3 days) *(In development)*
 
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
 
   * [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/README.html)
-  * [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/README.html) (*Prereq: familiarity with R*)
-  * [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/README.html) (*Prereq: familiarity with R*)
-  * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/README.html) (*Prereq: familiarity with R*)
-  * Differential Gene Expression (DGE) analysis with DESeq2 (*Prereq: familiarity with R*) (*In development*)
-  * Identifying variants in genome/exome sequencing data (*Prereq: familiarity with HPC and bash*) (*In development*)
+  * [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/README.html) *(Prereq: familiarity with R)*
+  * [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/README.html) *(Prereq: familiarity with R)*
+  * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/README.html) *(Prereq: familiarity with R)*
+  * Differential Gene Expression (DGE) analysis with DESeq2 (*Prereq: familiarity with R*) *(In development)*
+  * Identifying variants in genome/exome sequencing data (*Prereq: familiarity with HPC and bash*) *(In development)*
 
 ### In-Depth Next Generation Sequencing Analysis Course
 
