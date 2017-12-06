@@ -8,7 +8,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 **Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.
 
-  * [Introduction to R and ggplot2](https://hbctraining.github.io/Intro-to-R/README.html) (2 days)
+  * [Introduction to R and ggplot2](https://hbctraining.github.io/Intro-to-R/) (2 days)
     
   * [Introduction to RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) (2 - 3 days)
   
