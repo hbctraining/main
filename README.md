@@ -26,7 +26,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
   * [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/README.html) *(Prereq: familiarity with R)*
   
-  * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/README.html) *(Prereq: familiarity with R)*
+  * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) *(Prereq: familiarity with R)*
   
   * Git and Github *(Prereq: familiarity with HPC and bash*) *(In development)*
   
