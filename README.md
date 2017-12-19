@@ -12,7 +12,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
     
   * [Introduction to RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) (2 - 3 days)
   
-  * [Introduction to R and Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/Intro-to-R-with-DGE/README.html) (3 days)
+  * [Introduction to R and Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/Intro-to-R-with-DGE/) (3 days)
   
   * [Introduction to Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/DGE_workshop/) (1.5 days)
   
@@ -20,11 +20,11 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
 
-  * [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/README.html)
+  * [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/)
   
-  * [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/README.html) *(Prereq: familiarity with R)*
+  * [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/) *(Prereq: familiarity with R)*
   
-  * [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/README.html) *(Prereq: familiarity with R)*
+  * [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) *(Prereq: familiarity with R)*
   
   * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) *(Prereq: familiarity with R)*
   
