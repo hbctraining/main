@@ -17,7 +17,9 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   * [Introduction to Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/DGE_workshop/) (1.5 days)
   
   * Introduction to ChIP-seq using High-Performance Computing (3 days) *(In development)*
-
+  
+  * Identifying variants in genome/exome sequencing data *(Prereq: familiarity with HPC and bash)* *(In development)*
+  
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
 
   * [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/)
@@ -28,14 +30,16 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
   * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) *(Prereq: familiarity with R)*
   
-  * Git and Github *(Prereq: familiarity with HPC and bash*) *(In development)*
+  * Version Control with Git *(Prereq: familiarity with HPC and bash*) *(In development)*
   
-  * Git using Git Kraken *(Prereq: familiarity with bash)* *(In development)*
+  * Version Control with Git using GitKraken *(In development)*
   
   * Differential Gene Expression (DGE) analysis with DESeq2 *(Prereq: familiarity with R*) *(In development)*
   
-  * Identifying variants in genome/exome sequencing data *(Prereq: familiarity with HPC and bash)* *(In development)*
+  * Introduction to Python *(In development)*
   
+  * Sample group clustering with heatmaps and PCA (Principal Component Analysis) *(In development)*
+   
 ### In-Depth Next Generation Sequencing Analysis Course
 
 [This intensive course](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/) runs for between **8 to 12 days** and is aimed at bench biologists interested in learning how to **independently** perform NGS data analyses using *best practices*. Topics include:
