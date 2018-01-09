@@ -39,6 +39,8 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   * Introduction to Python *(In development)*
   
   * Sample group clustering with heatmaps and PCA (Principal Component Analysis) *(In development)*
+  
+  * Exploring genome variation using the [GEMINI framework](https://gemini.readthedocs.io/en/latest/#) *(Prereq: familiarity with HPC and bash*) *(In development)*
    
 ### In-Depth Next Generation Sequencing Analysis Course
 
