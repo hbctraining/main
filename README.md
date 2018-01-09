@@ -18,7 +18,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
   * Introduction to ChIP-seq using High-Performance Computing (3 days) *(In development)*
   
-  * Identifying variants in genome/exome sequencing data *(Prereq: familiarity with HPC and bash)* *(In development)*
+  * Identifying variants in genome/exome sequencing data *(In development)*
   
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
 
