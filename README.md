@@ -30,17 +30,11 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
   * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) *(Prereq: familiarity with R)*
   
+  * Introduction to shell/bash *(In development)*
+  
+  * Intermediate shell/bash *(Prereq: familiarity with shell/bash*) *(In development)*
+  
   * Version Control with Git *(Prereq: familiarity with HPC and bash*) *(In development)*
-  
-  * Version Control with Git using GitKraken *(In development)*
-  
-  * Differential Gene Expression (DGE) analysis with DESeq2 *(Prereq: familiarity with R*) *(In development)*
-  
-  * Introduction to Python *(In development)*
-  
-  * Sample group clustering with heatmaps and PCA (Principal Component Analysis) *(In development)*
-  
-  * Exploring genome variation using the [GEMINI framework](https://gemini.readthedocs.io/en/latest/#) *(Prereq: familiarity with HPC and bash*) *(In development)*
   
   * Introduction to [tidyverse R packages](https://www.tidyverse.org/packages/) for data visualization *(Prereq: familiarity with R*) *(In development)*
    
