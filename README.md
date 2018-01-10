@@ -34,7 +34,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
   * Intermediate shell/bash *(Prereq: familiarity with shell/bash*) *(In development)*
   
-  * Version Control with Git *(Prereq: familiarity with HPC and bash*) *(In development)*
+  * Version Control with Git *(Prereq: familiarity with shell/bash*) *(In development)*
   
   * Introduction to [tidyverse R packages](https://www.tidyverse.org/packages/) for data visualization *(Prereq: familiarity with R*) *(In development)*
    
