@@ -20,24 +20,16 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
   * Identifying variants in genome/exome sequencing data *(In development)*
   
-**Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
+**Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
 
   * [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/)
   
   * [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/) *(Prereq: familiarity with R)*
   
-  * [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) *(Prereq: familiarity with R)*
+  * [Introduction to shell/bash](https://hbctraining.github.io/Training-modules/Intro_shell/)
   
-  * [Reproducible research using R: Report generation using Rmarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) *(Prereq: familiarity with R)*
-  
-  * Introduction to shell/bash *(In development)*
-  
-  * Intermediate shell/bash *(Prereq: familiarity with shell/bash*) *(In development)*
-  
-  * Version Control with Git *(Prereq: familiarity with shell/bash*) *(In development)*
-  
-  * Introduction to [tidyverse R packages](https://www.tidyverse.org/packages/) for data visualization *(Prereq: familiarity with R*) *(In development)*
-   
+  * [Intermediate shell/bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) *(Prereq: familiarity with shell/bash*) 
+    
 ### In-Depth Next Generation Sequencing Analysis Course
 
 [This intensive course](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/) runs for between **8 to 12 days** and is aimed at bench biologists interested in learning how to **independently** perform NGS data analyses using *best practices*. Topics include:
