@@ -8,17 +8,15 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 **Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.
 
-  * [Introduction to R and ggplot2](https://hbctraining.github.io/Intro-to-R/) (2 days)
-    
-  * [Introduction to RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) (2 - 3 days)
-  
-  * [Introduction to R and Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/Intro-to-R-with-DGE/) (3 days)
-  
-  * [Introduction to Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/DGE_workshop/) (1.5 days)
-  
-  * Introduction to ChIP-seq using High-Performance Computing (3 days) *(In development)*
-  
-  * Identifying variants in genome/exome sequencing data *(In development)*
+| Topic | Link to Materials | Workshop Duration |
+:----------:|:----------:|:----------:|
+| Introduction to R and ggplot2 | [https://hbctraining.github.io/Intro-to-R/]() | 2 Days |
+| Introduction to RNA-seq data analysis using High-Performance Computing| [https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/]() | 3 Days |
+| Introduction to R and Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/Intro-to-R-with-DGE/]() | 3 Days |
+| Introduction to Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/DGE_workshop/]() | 1.5 days |
+| Introduction to ChIP-seq using High-Performance Computing | *In development* | 3 Days |
+| Identifying variants in genome/exome sequencing data | *In development* | 2 - 3 Days |
+
   
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
 
