@@ -19,7 +19,7 @@ The goal of these workshops (2-3 days) are to enable researchers to design their
 | ChIP-seq using High-Performance Computing | None  | *In development* |
 | Identifying variants in genome/exome sequencing data  | None | *In development* |
 
-#### Current topics in bioinformatics series
+#### Current topics in bioinformatics series:
 
 These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
 
