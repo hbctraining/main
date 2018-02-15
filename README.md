@@ -6,7 +6,9 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 ### Workshops
 
-**Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.
+#### Introduction to Next-Generation Sequencing (NGS) analysis series: 
+
+The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.
 
 | Training topic and link to lessons | Prerequisites | Workshop Duration |
 :----------:|:----------:|:----------:|
@@ -17,8 +19,9 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 | ChIP-seq using High-Performance Computing | None  | *In development* |
 | Identifying variants in genome/exome sequencing data  | None | *In development* |
 
-  
-**Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
+#### Current topics in bioinformatics series
+
+These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
 
 | Training topic and link to lessons | Prerequisites | Date & Location |
 :----------:|:----------:|:----------:|
@@ -46,3 +49,5 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 **Email:** [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)
 
 **Webpage:** [http://bioinformatics.sph.harvard.edu](http://bioinformatics.sph.harvard.edu)
+
+**Twitter:** [@bioinfocore](http://twitter.com/bioinfocore)
