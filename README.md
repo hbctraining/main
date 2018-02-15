@@ -8,14 +8,14 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 **Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.
 
-| Topic | Link to Materials |
+| Topic and link to lessons | Workshop Duration |
 :----------:|:----------:|
-| R and ggplot2 | [https://hbctraining.github.io/Intro-to-R/]() |
-| RNA-seq data analysis using High-Performance Computing| [https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/]() |
-| R and Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/Intro-to-R-with-DGE/]() |
-| Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/DGE_workshop/]() |
-| ChIP-seq using High-Performance Computing | *In development* |
-| Identifying variants in genome/exome sequencing data | *In development* |
+| [R and ggplot2](https://hbctraining.github.io/Intro-to-R/) | 2 days |
+| [RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) | 2 - 3 days |
+| [R and Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/Intro-to-R-with-DGE/) | 3 days |
+| [Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/DGE_workshop/) | 1.5 days |
+| [ChIP-seq using High-Performance Computing | *In development* |
+| [Identifying variants in genome/exome sequencing data | *In development* |
 
   
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
