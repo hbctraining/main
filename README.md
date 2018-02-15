@@ -10,11 +10,11 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 | Topic | Link to Materials |
 :----------:|:----------:|
-| Introduction to R and ggplot2 | [https://hbctraining.github.io/Intro-to-R/]() |
-| Introduction to RNA-seq data analysis using High-Performance Computing| [https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/]() |
-| Introduction to R and Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/Intro-to-R-with-DGE/]() |
-| Introduction to Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/DGE_workshop/]() |
-| Introduction to ChIP-seq using High-Performance Computing | *In development* |
+| R and ggplot2 | [https://hbctraining.github.io/Intro-to-R/]() |
+| RNA-seq data analysis using High-Performance Computing| [https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/]() |
+| R and Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/Intro-to-R-with-DGE/]() |
+| Differential Gene Expression (DGE) analysis | [https://hbctraining.github.io/DGE_workshop/]() |
+| ChIP-seq using High-Performance Computing | *In development* |
 | Identifying variants in genome/exome sequencing data | *In development* |
 
   
