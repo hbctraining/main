@@ -14,8 +14,8 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 | [RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) | 2 - 3 days |
 | [R and Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/Intro-to-R-with-DGE/) | 3 days |
 | [Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/DGE_workshop/) | 1.5 days |
-| [ChIP-seq using High-Performance Computing | *In development* |
-| [Identifying variants in genome/exome sequencing data | *In development* |
+| ChIP-seq using High-Performance Computing | *In development* |
+| Identifying variants in genome/exome sequencing data | *In development* |
 
   
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
