@@ -20,13 +20,16 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
 
-  * [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/)
-  
-  * [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/) *(Prereq: familiarity with R)*
-  
-  * [Introduction to shell/bash](https://hbctraining.github.io/Training-modules/Intro_shell/)
-  
-  * [Intermediate shell/bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) *(Prereq: familiarity with shell/bash*) 
+| Topic and link to lessons | Prerequisite | Date & Location |
+:----------:|:----------:|:----------:|
+| [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | None | TBD |
+| [Plotting and visualization in R using ggplot2](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | TBD |
+| [Introduction to shell/bash](https://hbctraining.github.io/Training-modules/Intro_shell/) | None | TBD |
+| [Intermediate shell/bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 02/23/2018 in Kresge G2 (HSPH) |
+| Version control using Git and Github *(In development)* | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 03/13/2018 in TMEC 227 |
+| Accessing public data for genomics *(In development)* | None | 04/27/2018 in FXB G12 (HSPH) |
+| Exploring genomic variants using GEMINI *(In development)* | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 05/25/2018 in Kresge 502 (HSPH) |
+| Introduction to tidyverse R packages for data visualization *(In development)*  | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | TBD |
     
 ### In-Depth Next Generation Sequencing Analysis Course
 
