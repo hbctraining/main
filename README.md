@@ -8,7 +8,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 **Introduction to Next-Generation Sequencing (NGS) analysis**: The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.
 
-| Topic and link to lessons | Prerequisites | Workshop Duration |
+| Training topic and link to lessons | Prerequisites | Workshop Duration |
 :----------:|:----------:|:----------:|
 | [R and ggplot2](https://hbctraining.github.io/Intro-to-R/) | None | 2 days |
 | [RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) | None | 2 - 3 days |
@@ -20,7 +20,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
   
 **Current topics in bioinformatics**: These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
 
-| Topic and link to lessons | Prerequisites | Date & Location |
+| Training topic and link to lessons | Prerequisites | Date & Location |
 :----------:|:----------:|:----------:|
 | [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | None | TBD |
 | [Plotting and visualization in R using ggplot2](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | TBD |
