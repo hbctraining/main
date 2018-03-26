@@ -16,7 +16,7 @@ The goal of these workshops (2-3 days) are to enable researchers to design their
 | [RNA-seq data analysis using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) | None | 2 - 3 days |
 | [R and Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/Intro-to-R-with-DGE/) | None | 3 days |
 | [Differential Gene Expression (DGE) analysis](https://hbctraining.github.io/DGE_workshop/) | [R and ggplot2](https://hbctraining.github.io/Intro-to-R/) | 1.5 days |
-| ChIP-seq using High-Performance Computing | None  | *In development* |
+| [ChIP-seq using High-Performance Computing](https://hbctraining.github.io/Intro-to-ChIPseq/) | None  | 3 days |
 | Identifying variants in genome/exome sequencing data  | None | *In development* |
 
 #### Current topics in bioinformatics series:
