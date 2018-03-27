@@ -29,9 +29,9 @@ These short workshops (half-day or less) are designed to allow researchers, who 
 | [Plotting and visualization in R using ggplot2](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | TBD |
 | [Introduction to shell/bash](https://hbctraining.github.io/Training-modules/Intro_shell/) | None | TBD |
 | [Intermediate shell/bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 02/23/2018 in Kresge G2 (HSPH) |
-| Version control using Git and Github *(In development)* | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 03/13/2018 in TMEC 227 |
-| Accessing public data for genomics *(In development)* | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 04/27/2018 in FXB G12 (HSPH) |
-| Exploring genomic variants using GEMINI *(In development)* | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 05/25/2018 in Kresge 502 (HSPH) |
+| [Accessing public data for genomics *(In development)*](https://hbctraining.github.io/Training-modules/Accessing_public_genomic_data/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 04/27/2018 in FXB G12 (HSPH) |
+| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 05/25/2018 in Kresge 502 (HSPH) |
+| [Exploring genomic variants using GEMINI *(In development)*](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | TBD |
 | Introduction to tidyverse R packages for data visualization *(In development)*  | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | TBD |
     
 ### In-Depth Next Generation Sequencing Analysis Course
