@@ -23,17 +23,19 @@ The goal of these workshops (2-3 days) are to enable researchers to design their
 
 These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
 
-| Training topic and link to lessons | Prerequisites | Date & Location |
-:----------:|:----------:|:----------:|
-| [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | None | TBD |
-| [Plotting and visualization in R using ggplot2](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | TBD |
-| [Introduction to shell/bash](https://hbctraining.github.io/Training-modules/Intro_shell/) | None | TBD |
-| [Intermediate shell/bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 02/23/2018 in Kresge G2 (HSPH) |
-| [Accessing public data for genomics](https://hbctraining.github.io/Training-modules/Accessing_public_genomic_data/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 04/27/2018 in FXB G12 (HSPH) |
-| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 05/25/2018 in Kresge 502 (HSPH) |
-| [Exploring genomic variants using GEMINI *(In development)*](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | TBD |
-| Introduction to tidyverse R packages for data visualization *(In development)*  | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | TBD |
-    
+| Training topic and link to lessons | Prerequisites | 
+:----------:|:----------:|
+| [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | None |
+| [Plotting and visualization in R using ggplot2](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) |
+| [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | Beginner R or [IntroR workshop](https://hbctraining.github.io/Intro-to-R/) |
+| [Reproducible research using R (Rmarkdown: report generation)](https://hbctraining.github.io/Training-modules/Rmarkdown/) | Beginner R or [IntroR workshop](https://hbctraining.github.io/Intro-to-R/) |
+| [Introduction to shell/bash](https://hbctraining.github.io/Training-modules/Intro_shell/) | None | 
+| [Intermediate shell/bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 
+| [Accessing public data for genomics](https://hbctraining.github.io/Training-modules/Accessing_public_genomic_data/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 
+| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) |
+| Exploring genomic variants using GEMINI *(In development)* | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) |
+| Introduction to tidyverse R packages for data visualization *(In development)* | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | 
+
 ### In-Depth Next Generation Sequencing Analysis Course
 
 [This intensive course](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/) runs for between **8 to 12 days** and is aimed at bench biologists interested in learning how to **independently** perform NGS data analyses using *best practices*. Topics include:
