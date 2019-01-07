@@ -11,14 +11,14 @@ We have divided our training content into two categories:
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | January 17th | 1 day | None |
+| **Introduction to the command line interface** | Basic | January 17th | 1 day | None |
 | **Introduction to R** | Basic | January 28th & 29th | 1.5 days | None |
-| **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | Early February | 1 day | None |
-| **Introduction to (bulk) RNA-seq using High-Performance Computing** | Advanced | Late February | 2 days | Beginner Shell |
+| **Introduction to the command line interface** | Basic | Early February | 1 day | None |
+| **Introduction to (bulk) RNA-seq** | Advanced | Late February | 2 days | Beginner Shell |
 | **Introduction to R** | Basic | Early March | 1.5 days | None |
-| **Introduction to Differential Gene Expression Analysis** | Advanced | Late March | 2 days | Beginner R |
-| **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | Early April | 1 day | None |
-| **Introduction to ChIP-seq Analysis** | Advanced | Late April | 2 days | Beginner R + Shell |
+| **Introduction to differential gene expression analysis (bulk RNA-seq)** | Advanced | Late March | 2 days | Beginner R |
+| **Introduction to the command line interface** | Basic | Early April | 1 day | None |
+| **Introduction to ChIP-seq analysis** | Advanced | Late April | 2 days | Beginner R + Shell |
 
 ## Basic Data Skills
 
