@@ -54,10 +54,10 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 
 | Topic | Prerequisites |
 | :----: | :----: |
-| **Introduction to (bulk) RNA-seq using High-Performance Computing** |  Introduction to shell |
-| **Introduction to Differential Gene Expression Analysis**  |  Introduction to R  |
-| **Introduction to ChIP-seq Analysis** |  Introduction to R & shell |
-| **Introduction to single cell RNA-seq Analysis** | Introduction to R & shell |
+| **[Introduction to (bulk) RNA-seq using High-Performance Computing](#rna-seq-analysis-from-raw-data-to-gene-expression-counts)** |  Introduction to shell |
+| **[Introduction to Differential Gene Expression Analysis](#differential-gene-expression-analysis-using-gene-expression-counts-from-the-above-workshop)**  |  Introduction to R  |
+| **[Introduction to ChIP-seq Analysis](#chip-seq-analysis)** |  Introduction to R & shell |
+| **[Introduction to single cell RNA-seq Analysis](#single-cell-rna-seq)** | Introduction to R & shell |
 
 ### RNA-seq Analysis (from raw data to gene expression counts)
 This 2-day hands-on workshop will cover the basics of bulk RNA-seq analysis; from designing a good experiment to performing QC on sequencing data to obtaining gene expression matrices. All the analysis will be performed on HMS-RC's O2 cluster.
@@ -69,6 +69,6 @@ This 2-day hands-on workshop will cover the statistical considerations when usin
 This 2-day hands-on workshop will cover the basics of ChIP-seq analysis; from designing a good experiment to peak calling and performing a multitude of QC steps. This workshop requires participants to have a working knowledge of both R and shell, since we will be using HMS-RC's O2 cluster for some of the work and doing other analyses locally.
 
 ### Single cell RNA-seq
-This workshop will be either 2 or 3 days long and will be offered in Summer 2019. This workshop also requires participants to have a working knowledge of both R and shell *More details coming soon!*
+This workshop will be either 2 or 3 days long and will be offered in Summer 2019. This workshop also requires participants to have a working knowledge of both R and shell. *More details coming soon!*
 
 ***
