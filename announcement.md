@@ -66,9 +66,9 @@ This 2-day hands-on workshop will cover the basics of bulk RNA-seq analysis; fro
 This 2-day hands-on workshop will cover the statistical considerations when using RNA-seq data for differential gene expression analysis, followed by using DESeq2 to obtain lists of differentially expressed (DE) genes. In addition, this workshop will cover tools that will enable broader functional analysis on the DE gene lists. All the analysis will be performed using R (RStudio).
 
 ### ChIP-seq analysis
-This 2-day hands-on workshop will cover the basics of ChIP-seq analysis; from designing a good experiment to peak calling and performing a multitude of QC steps. All the analysis will be performed on HMS-RC's O2 cluster.
+This 2-day hands-on workshop will cover the basics of ChIP-seq analysis; from designing a good experiment to peak calling and performing a multitude of QC steps. This workshop requires participants to have a working knowledge of both R and shell, since we will be using HMS-RC's O2 cluster for some of the work and doing other analyses locally.
 
 ### Single cell RNA-seq
-This workshop will be either 2 or 3 days long and will be offered in Summer 2019. *More details coming soon!*
+This workshop will be either 2 or 3 days long and will be offered in Summer 2019. This workshop also requires participants to have a working knowledge of both R and shell *More details coming soon!*
 
 ***
