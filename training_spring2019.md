@@ -24,8 +24,6 @@ We are structuring the training schedule such that it gives interested researche
 | Introduction to the command-line interface (shell) | Basic | Early April | 1 day | None |
 | Introduction to ChIP-seq analysis | Advanced | Late April | 2 days | Intro to R **+** shell |
 
-> *Please note this schedule is subject to minor changes*
-
 ***
 
 ## Basic Data Skills
