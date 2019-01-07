@@ -8,7 +8,7 @@ We have divided our training content into two categories:
 
   * **[Basic Data Skills](../announcement.md#basic-data-skills)** - No prior programming knowledge needed (no prerequisites)
   * **[Advanced Topics: Analysis of high-throughput sequencing (NGS) data]()** - One or more "Basic" workshops required as prerequisites.
-  
+
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: |
 | **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | January 17th | 1 day | None |
