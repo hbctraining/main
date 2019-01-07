@@ -52,12 +52,12 @@ Participants will learn how to use R for:
 These are 2 day intensive workshops that instruct participants on how to efficiently manage and analyze data, with a focus
 on the workflow for a specific type of next-generation sequencing data (i.e RNA-seq, ChIP-seq). *These workshops require participants to have taken one or more of the [Basic Data Skills workshops](#basic-data-skills) as listed in the table below.*
 
-| Topic | Duration | Pre requisites |
-| :----: | :----: | :----: |
-| **Introduction to (bulk) RNA-seq using High-Performance Computing** | 2 days | Introduction to shell |
-| **Introduction to Differential Gene Expression Analysis**  | 2 days | Introduction to R  |
-| **Introduction to ChIP-seq Analysis** | 2 days | Introduction to R & shell |
-| **Introduction to single cell RNA-seq Analysis** | 2 days | Introduction to R & shell |
+| Topic | Pre requisites |
+| :----: | :----: |
+| **Introduction to (bulk) RNA-seq using High-Performance Computing** |  Introduction to shell |
+| **Introduction to Differential Gene Expression Analysis**  |  Introduction to R  |
+| **Introduction to ChIP-seq Analysis** |  Introduction to R & shell |
+| **Introduction to single cell RNA-seq Analysis** | Introduction to R & shell |
 
 ### RNA-seq Analysis (from raw data to gene expression counts)
 This 2-day hands-on workshop will cover the basics of bulk RNA-seq analysis; from designing a good experiment to performing QC on sequencing data to obtaining gene expression matrices. All the analysis will be performed on HMS-RC's O2 cluster.
