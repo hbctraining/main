@@ -15,14 +15,14 @@ We are structuring the training schedule such that it gives interested researche
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| **Introduction to shell (command line interface)** | Basic | January 17th | 1 day | None |
-| **Introduction to R** | Basic | January 28th & 29th | 1.5 days | None |
-| **Introduction to shell (command line interface)** | Basic | Early February | 1 day | None |
-| **Introduction to (bulk) RNA-seq** | Advanced | Late February | 2 days | Intro to shell |
-| **Introduction to R** | Basic | Early March | 1.5 days | None |
-| **Introduction to differential gene expression analysis (bulk RNA-seq)** | Advanced | Late March | 2 days | Intro to R |
-| **Introduction to the command line interface** | Basic | Early April | 1 day | None |
-| **Introduction to ChIP-seq analysis** | Advanced | Late April | 2 days | Intro to R **+** shell |
+| Introduction to shell (command-line interface) | Basic | January 17th | 1 day | None |
+| Introduction to R | Basic | January 28th & 29th | 1.5 days | None |
+| Introduction to shell (command-line interface) | Basic | Early February | 1 day | None |
+| Introduction to (bulk) RNA-seq | Advanced | Late February | 2 days | Intro to shell |
+| Introduction to R | Basic | Early March | 1.5 days | None |
+| Introduction to differential gene expression analysis (bulk RNA-seq) | Advanced | Late March | 2 days | Intro to R |
+| Introduction to the command line interface | Basic | Early April | 1 day | None |
+| Introduction to ChIP-seq analysis | Advanced | Late April | 2 days | Intro to R **+** shell |
 
 ***
 
@@ -32,7 +32,7 @@ These are short 1-1.5 day workshops that provide an introduction to computationa
 
 We will alternate between two basic topics in the schedule, with at least one basic offering every month. *The completion of one or more of these workshops is required in order to register for the [workshops on advanced topics](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data).*
 
-### Introduction to Shell 
+### Introduction to command-line interface (Unix/shell/Linux/bash)
 
 This 1-day hands-on workshop participants will learn basic commands for navigating the file system, exploring file contents, and performing basic operations, such as moving, copying, and renaming files/folders. In addition, participants will get an introduction to high-performance computing (HPC).
 
@@ -54,10 +54,10 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 
 | Topic | Prerequisites |
 | :----: | :----: |
-| **[Introduction to (bulk) RNA-seq using High-Performance Computing](#rna-seq-analysis-from-raw-data-to-gene-expression-counts)** |  Introduction to shell |
-| **[Introduction to Differential Gene Expression Analysis](#differential-gene-expression-analysis-using-gene-expression-counts-from-the-above-workshop)**  |  Introduction to R  |
-| **[Introduction to ChIP-seq Analysis](#chip-seq-analysis)** |  Introduction to R & shell |
-| **[Introduction to single cell RNA-seq Analysis](#single-cell-rna-seq)** | Introduction to R & shell |
+| [Introduction to (bulk) RNA-seq using High-Performance Computing](#rna-seq-analysis-from-raw-data-to-gene-expression-counts) |  Introduction to shell |
+| [Introduction to Differential Gene Expression Analysis](#differential-gene-expression-analysis-using-gene-expression-counts-from-the-above-workshop)  |  Introduction to R  |
+| [Introduction to ChIP-seq Analysis](#chip-seq-analysis) |  Introduction to R & shell |
+| [Introduction to single cell RNA-seq Analysis](#single-cell-rna-seq) | Introduction to R & shell |
 
 ### RNA-seq Analysis (from raw data to gene expression counts)
 This 2-day hands-on workshop will cover the basics of bulk RNA-seq analysis; from designing a good experiment to performing QC on sequencing data to obtaining gene expression matrices. All the analysis will be performed on HMS-RC's O2 cluster.
