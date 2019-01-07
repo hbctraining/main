@@ -6,12 +6,11 @@ This semester *we are piloting a new learning model* that replaces the 3-day wor
 
 We have divided our training content into two categories: 
 
-  * **[Basic Data Skills](../announcement.md#basic-data-skills)** - No prior programming knowledge needed (no prerequisites)
-  * **[Advanced Topics: Analysis of high-throughput sequencing (NGS) data]()** - One or more "Basic" workshops required as prerequisites.
-
+* **[Basic Data Skills](#basic-data-skills)** - No prior programming knowledge needed (no prerequisites)
+* **[Advanced Topics: Analysis of high-throughput sequencing (NGS) data]()** - One or more "Basic" workshops required as prerequisites.
 
 | Topic | Category | Date | Duration | Prerequisites |
-| :----: | :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: | :----: |
 | **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | January 17th | 1 day | None |
 | **Introduction to R** | Basic | January 28th & 29th | 1.5 days | None |
 | **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | Early February | 1 day | None |
