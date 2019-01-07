@@ -52,7 +52,7 @@ Participants will learn how to use R for:
 These are 2 day intensive workshops that instruct participants on how to efficiently manage and analyze data, with a focus
 on the workflow for a specific type of next-generation sequencing data (i.e RNA-seq, ChIP-seq). *These workshops require participants to have taken one or more of the [Basic Data Skills workshops](#basic-data-skills) as listed in the table below.*
 
-| Topic | Pre requisites |
+| Topic | Prerequisites |
 | :----: | :----: |
 | **Introduction to (bulk) RNA-seq using High-Performance Computing** |  Introduction to shell |
 | **Introduction to Differential Gene Expression Analysis**  |  Introduction to R  |
