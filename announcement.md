@@ -1,4 +1,4 @@
-# Harvard Chan Bioinformatics Core's Workshops for Spring 2019
+## Harvard Chan Bioinformatics Core's Workshops for Spring 2019
 
 **We are excited to announce the launch of HBC's new training program for 2019!**
 
