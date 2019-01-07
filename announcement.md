@@ -2,7 +2,7 @@
 
 We would like to announce the launch of HBC's new training program for 2019!
 
-This year we are piloting a new learning model that replaces the 3-day workshops we have previously offered. While all of the content will remain the same as past workshops, we are changing the format to be more modular. Our current content has been separated into two categories: 1) Basic Data Skills and 2) Adavanced NGS Analyses. Each of these are described in more detail below.
+This year we are piloting a new learning model that replaces the 3-day workshops we have previously offered. While all of the content will remain the same as past workshops, we are changing the format to be more modular. Our current content has been separated into two categories: 1) Basic Data Skills and 2) Advanced NGS Analyses. Each of these are described in more detail below.
 
 
 ## Basic Data Skills
