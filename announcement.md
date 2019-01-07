@@ -7,7 +7,7 @@ This semester *we are piloting a new learning model* that replaces the 3-day wor
 We have divided our training content into two categories: 
 
 * **[Basic Data Skills](#basic-data-skills)** - No prior programming knowledge needed (no prerequisites)
-* **[Advanced Topics: Analysis of high-throughput sequencing (NGS) data]()** - One or more "Basic" workshops required as prerequisites.
+* **[Advanced Topics: Analysis of high-throughput sequencing (NGS) data](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data)** - One or more "Basic" workshops required as prerequisites.
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
