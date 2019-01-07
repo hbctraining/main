@@ -29,7 +29,7 @@ These are 2 day intensive workshops that instruct participants on how to efficie
 on the workflow for a specific type of next-generation sequencing data (i.e RNA-seq, ChIP-seq). **These workshops require participants to have taken one or more of the Basic Data Skills workshops as listed in the table below.** 
 
 | Topic | Duration | Pre requisites |
-| :----: | :----: | :----: | :----: |
+| :----: | :----: | :----: |
 | **Introduction to (bulk) RNA-seq using High-Performance Computing** | 2 days | Beginner Shell |
 | **Introduction to Differential Gene Expression Analysis**  | 2 days | Beginner R |
 | **Introduction to ChIP-seq Analysis** | 2 days | Beginner R and Beginner Shell |
