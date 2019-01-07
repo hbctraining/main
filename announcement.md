@@ -45,17 +45,19 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 
 | Topic | Duration | Pre requisites |
 | :----: | :----: | :----: |
-| **Introduction to (bulk) RNA-seq using High-Performance Computing** | 2 days | Beginner Shell |
-| **Introduction to Differential Gene Expression Analysis**  | 2 days | Beginner R |
-| **Introduction to ChIP-seq Analysis** | 2 days | Beginner R and Beginner Shell |
-| **Introduction to single cell RNA-seq Analysis** | 2 days | Beginner R and Beginner Shell |
-
+| **Introduction to (bulk) RNA-seq using High-Performance Computing** | 2 days | Introduction to shell |
+| **Introduction to Differential Gene Expression Analysis**  | 2 days | Introduction to R  |
+| **Introduction to ChIP-seq Analysis** | 2 days | Introduction to R & shell |
+| **Introduction to single cell RNA-seq Analysis** | 2 days | Introduction to R & shell |
 
 ### RNA-seq Analysis
 
+
 ### Differential Gene Expression Analysis
 
+
 ### ChIP-seq analysis
+
 
 ### Single cell RNA-seq
 
