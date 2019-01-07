@@ -2,7 +2,7 @@
 
 **We are excited to announce the launch of HBC's new training program for 2019!**
 
-This semester *we are piloting a new learning model* that replaces the 3-day workshops we have previously offered for **eligibile researchers**. While all of the content will remain the same as past workshops, we are changing the format to be *more modular*. 
+This semester *we are piloting a new learning model* that replaces the 3-day workshops we have previously offered for **eligible researchers**. While all of the content will remain the same as past workshops, we are changing the format to be *more modular*. 
 
 We have divided our training content into the two categories listed below. Any participants wanting to take an Advanced workshop will have to to have taken the required basic workshop(s) within the past 6-8 months. 
 
