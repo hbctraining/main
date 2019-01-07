@@ -1,9 +1,24 @@
-
+# Workshops offered by the Harvard Chan Bioinformatics Core (Spring 2019)
 
 We would like to announce the launch of HBC's new training program for 2019!
 
-This year we are piloting a new learning model that replaces the 3-day workshops we have previously offered. While all of the content will remain the same as past workshops, we are changing the format to be more modular. Our current content has been separated into two categories: 1) Basic Data Skills and 2) Advanced NGS Analyses. Each of these are described in more detail below.
+This semester *we are piloting a new learning model* that replaces the 3-day workshops we have previously offered. While all of the content will remain the same as past workshops, we are changing the format to be ***more modular***. 
 
+We have divided our training content into two categories: 
+
+  * **[Basic Data Skills](../announcement.md#basic-data-skills)** - No prior programming knowledge needed (no prerequisites)
+  * **[Advanced Topics: Analysis of high-throughput sequencing (NGS) data]()** - One or more "Basic" workshops required as prerequisites.
+  
+| Topic | Category | Date | Duration | Prerequisites |
+| :----: | :----: | :----: | :----: |
+| **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | January 17th | 1 day | None |
+| **Introduction to R** | Basic | January 28th & 29th | 1.5 days | None |
+| **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | Early February | 1 day | None |
+| **Introduction to (bulk) RNA-seq using High-Performance Computing** | Advanced | Late February | 2 days | Beginner Shell |
+| **Introduction to R** | Basic | Early March | 1.5 days | None |
+| **Introduction to Differential Gene Expression Analysis** | Advanced | Late March | 2 days | Beginner R |
+| **Introduction to the command line interface (Shell, Unix, Linux)** | Basic | Early April | 1 day | None |
+| **Introduction to ChIP-seq Analysis** | Advanced | Late April | 2 days | Beginner R + Shell |
 
 ## Basic Data Skills
 
@@ -23,7 +38,7 @@ Participants will learn how to use R for:
 * making publication-quality plots with the ggplot2 package
 
 
-## Advanced NGS Analyses 
+## Advanced Topics: Analysis of high-throughput sequencing (NGS) data
 
 These are 2 day intensive workshops that instruct participants on how to efficiently manage and analyze data, with a focus
 on the workflow for a specific type of next-generation sequencing data (i.e RNA-seq, ChIP-seq). **These workshops require participants to have taken one or more of the Basic Data Skills workshops as listed in the table below.** 
