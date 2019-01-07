@@ -9,9 +9,9 @@ We have divided our training content into the two categories listed below. Any p
 * **[Basic Data Skills](#basic-data-skills)** - No prior programming knowledge needed (no prerequisites)
 * **[Advanced Topics: Analysis of high-throughput sequencing (NGS) data](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data)** - One or more "Basic" workshops required as prerequisites.
 
-We are structuring the training schedule such that it gives interested researchers several opportunities to take the basic workshops. 
+#### Spring 2019 Schedule
 
-### Spring 2019 Schedule
+We are structuring the training schedule such that it gives interested researchers several opportunities to take the basic workshops. 
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
