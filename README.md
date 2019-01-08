@@ -25,7 +25,7 @@ These short workshops (half-day or less) are designed to allow researchers, who 
 
 | Training topic and link to lessons | Prerequisites | 
 :----------:|:----------:|
-| [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | None |
+| [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | None |
 | [Plotting and visualization in R using ggplot2](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) |
 | [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) |
 | [Reproducible research using R (Rmarkdown: report generation)](https://hbctraining.github.io/Training-modules/Rmarkdown/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) |
