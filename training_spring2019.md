@@ -4,7 +4,7 @@
 
 This semester *we are piloting a new learning model* that replaces the 3-day workshops we have previously offered for **eligible researchers**. 
 
-While all of the content will remain the same as past workshops, we are changing the format to be *more modular*. We have divided our training content into the two categories listed below. Any participants wanting to take an [advanced workshop](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) will have to to have taken the required [basic workshop(s)](#basic-data-skills) within the past 6-8 months. 
+While all of the content will remain the same as past workshops, we are changing the format to be *more modular*. We have divided our training content into the two categories listed below. Any participants wanting to take an [advanced workshop](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) will have to have taken the required [basic workshop(s)](#basic-data-skills) within the past 6-8 months. 
 
 * [Basic Data Skills](#basic-data-skills) - No prior programming knowledge needed (no prerequisites)
 * [Advanced Topics: Analysis of high-throughput sequencing (NGS) data](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) - One or more "Basic" workshops required as prerequisites.
