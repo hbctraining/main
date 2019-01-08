@@ -4,10 +4,10 @@
 
 This semester *we are piloting a new learning model* that replaces the 3-day workshops we have previously offered for **eligible researchers**. 
 
-While all of the content will remain the same as past workshops, we are changing the format to be *more modular*. We have divided our training content into the two categories listed below. Any participants wanting to take an [advanced workshop](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) will have to have taken the required [basic workshop(s)](#basic-data-skills) within the past 6-8 months. 
+While all of the content will remain the same as past workshops, we are changing the format to be *more modular*. We have divided our training content into the two categories listed below. Any participants wanting to take an [advanced workshop](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) will have to have taken certain [basic workshop(s)](#basic-data-skills) within the past 6 months. 
 
 * [Basic Data Skills](#basic-data-skills) - No prior programming knowledge needed (no prerequisites)
-* [Advanced Topics: Analysis of high-throughput sequencing (NGS) data](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) - One or more "Basic" workshops required as prerequisites.
+* [Advanced Topics: Analysis of high-throughput sequencing (NGS) data](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) - Certain "Basic" workshops required as prerequisites.
 
 ### Spring 2019 Schedule
 
@@ -34,7 +34,7 @@ We will alternate between two basic topics in the schedule, with at least one ba
 
 ### Introduction to command-line interface (Unix/shell/Linux/bash)
 
-This 1-day hands-on workshop participants will learn basic commands for navigating the file system, exploring file contents, and performing basic operations, such as moving, copying, and renaming files/folders. In addition, participants will get an introduction to high-performance computing (HPC).
+In this 1-day hands-on workshop, participants will learn basic commands for navigating the file system, exploring file contents, and performing basic operations, such as moving, copying, and renaming files/folders. In addition, participants will get an introduction to high-performance computing (HPC).
 
 ### Introduction to R
 This 1.5-day workshop will introduce participants to the basics of using R and RStudio, a simple programming environment that enables the effective handling of data, while providing excellent graphical support.
@@ -49,7 +49,7 @@ Participants will learn how to use R for:
 
 ## Advanced Topics: Analysis of high-throughput sequencing (NGS) data
 
-These are 2 day intensive workshops that instruct participants on how to efficiently manage and analyze data, with a focus
+These are 2-day intensive workshops that instruct participants on how to efficiently manage and analyze data, with a focus
 on the workflow for a specific type of next-generation sequencing data (i.e RNA-seq, ChIP-seq). *These workshops require participants to have taken one or more of the [Basic Data Skills workshops](#basic-data-skills) as listed in the table below.*
 
 | Topic | Prerequisites |
