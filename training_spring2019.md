@@ -17,7 +17,7 @@ We are structuring the training schedule such that it gives interested researche
 | :----: | :----: | :----: | :----: | :----: |
 | [Introduction to the command-line interface (shell)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | January 17th | 1 day | None |
 | [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | January 28th & 29th | 1.5 days | None |
-| Introduction to the command-line interface (shell) | Basic | Early February | 1 day | None |
+| Introduction to the command-line interface (shell) | Basic | February 13th | 1 day | None |
 | Introduction to (bulk) RNA-seq | Advanced | Late February | 2 days | Intro to shell |
 | Introduction to R | Basic | Early March | 1.5 days | None |
 | Introduction to differential gene expression analysis (bulk RNA-seq) | Advanced | Late March | 2 days | Intro to R |
