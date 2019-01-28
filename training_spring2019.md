@@ -15,14 +15,14 @@ We are structuring the training schedule such that it gives interested researche
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to the command-line interface (shell)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | January 17th | 1 day | None |
-| [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | January 28th & 29th | 1.5 days | None |
-| Introduction to the command-line interface (shell) | Basic | February 13th | 1 day | None |
-| Introduction to (bulk) RNA-seq | Advanced | Late February | 2 days | Intro to shell |
-| Introduction to R | Basic | Early March | 1.5 days | None |
-| Introduction to differential gene expression analysis (bulk RNA-seq) | Advanced | Late March | 2 days | Intro to R |
-| Introduction to the command-line interface (shell) | Basic | Early April | 1 day | None |
-| Introduction to ChIP-seq analysis | Advanced | Late April | 2 days | Intro to R **+** shell |
+| Introduction to the command-line interface (shell) | Basic | January 17th | 1 day | None |
+| Introduction to R | Basic | January 28th & 29th | 1.5 days | None |
+| [Introduction to the command-line interface (shell)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | February 13th | 1 day | None |
+| Introduction to (bulk) RNA-seq | Advanced | February 27th and 28th | 2 days | Intro to shell |
+| Introduction to R | Basic | March 12th and 13th | 1.5 days | None |
+| Introduction to differential gene expression analysis (bulk RNA-seq) | Advanced | April 1st and 2nd | 2 days | Intro to R |
+| Introduction to the command-line interface (shell) | Basic | April 11th | 1 day | None |
+| Introduction to ChIP-seq analysis | Advanced | April 29th and 30th | 2 days | Intro to R **&** shell |
 
 ***
 
