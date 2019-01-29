@@ -68,7 +68,10 @@ This workshop will be either 2 or 3 days long. This workshop also requires parti
 
 ## Current topics in bioinformatics series:
 
-These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. For the short workshops topics please [click here](https://hbctraining.github.io/Training-modules/).
+These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. These **free, hands-on workshops** are available to all Harvard affiliates and cover a variety of bioinformatics topics & related skills. These workshops do not require a registration, and seating in the workshops is available on a first-come-first-served basis depending on the size of the room. 
+
+* Please [click here](https://hbctraining.github.io/Training-modules/) for topics and links to materials
+* Please [click here](http://bioinformatics.sph.harvard.edu/training/#current-topics-in-bioinformatics---spring-2019) for the current schedule
 
 ## In-Depth Next Generation Sequencing Analysis Course
 
