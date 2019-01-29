@@ -21,6 +21,7 @@ These are short 1-1.5 day workshops that provide an introduction to computationa
 | [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-Shell/) | 1 day | None |
 | [Introduction to R](https://hbctraining.github.io/Intro-to-R/) | 1.5 days | None |
 
+  ***Clicking on the topic name in the table will take you to the online materials for this workshop.***
 
 **Introduction to command-line interface (Unix/shell/Linux/bash):**
 
@@ -49,6 +50,8 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 | [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop/)  | 2-day | Introduction to R  |
 | [Introduction to ChIP-seq Analysis](https://hbctraining.github.io/Intro-to-ChIPseq/) |  2-day | Introduction to R & shell |
 | Introduction to single cell RNA-seq Analysis (*In development*) | 2-day | Introduction to R & shell |
+
+  ***Clicking on the topic name in the table will take you to the online materials for this workshop.***
 
 **RNA-seq Analysis (from raw data to gene expression counts):**
 
