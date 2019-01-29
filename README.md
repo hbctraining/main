@@ -21,20 +21,8 @@ The goal of these workshops (2-3 days) are to enable researchers to design their
 
 #### Current topics in bioinformatics series:
 
-These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please [click here](https://hbctraining.github.io/Training-modules/).
+These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. For the short workshops topics please [click here](https://hbctraining.github.io/Training-modules/).
 
-| Training topic and link to lessons | Prerequisites | 
-:----------:|:----------:|
-| [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR) | None |
-| [Plotting and visualization in R using ggplot2](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR) |
-| [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR) |
-| [Reproducible research using R (Rmarkdown: report generation)](https://hbctraining.github.io/Training-modules/Rmarkdown/) | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR) |
-| [Introduction to shell/bash](https://hbctraining.github.io/Training-modules/Intro_shell/) | None | 
-| [Intermediate shell/bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 
-| [Accessing public data for genomics](https://hbctraining.github.io/Accessing_public_genomic_data) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) | 
-| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github/) | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) |
-| Exploring genomic variants using GEMINI *(In development)* | [Intro to shell](https://hbctraining.github.io/Training-modules/Intro_shell/) |
-| Introduction to tidyverse R packages for data visualization *(In development)* | [Intro to R](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | 
 
 ### In-Depth Next Generation Sequencing Analysis Course
 
