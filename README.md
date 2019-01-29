@@ -12,8 +12,8 @@ These are short 1-1.5 day workshops that provide an introduction to computationa
 
 | Topic |  Duration | Prerequisites 
 | :----: | :----: | :----: |
-| Introduction to the command-line interface (shell) | 1 day | None |
-| Introduction to R | 1.5 days | None |
+| [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-shell/) | 1 day | None |
+| [Introduction to R](https://hbctraining.github.io/Intro-to-R/) | 1.5 days | None |
 
 
 **Introduction to command-line interface (Unix/shell/Linux/bash):**
@@ -39,10 +39,10 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 
 | Topic | Duration | Prerequisites |
 | :----: | :----: | :----: |
-| [Introduction to (bulk) RNA-seq using High-Performance Computing](#rna-seq-analysis-from-raw-data-to-gene-expression-counts) | 2-day | Introduction to shell |
-| [Introduction to Differential Gene Expression Analysis](#differential-gene-expression-analysis-using-gene-expression-counts-from-the-above-workshop)  | 2-day | Introduction to R  |
-| [Introduction to ChIP-seq Analysis](#chip-seq-analysis) |  2-day | Introduction to R & shell |
-| [Introduction to single cell RNA-seq Analysis](#single-cell-rna-seq) | 2-day | Introduction to R & shell |
+| [Introduction to (bulk) RNA-seq using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/) | 2-day | Introduction to shell |
+| [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop/)  | 2-day | Introduction to R  |
+| [Introduction to ChIP-seq Analysis](https://hbctraining.github.io/Intro-to-ChIPseq/) |  2-day | Introduction to R & shell |
+| Introduction to single cell RNA-seq Analysis (*In development*) | 2-day | Introduction to R & shell |
 
 **RNA-seq Analysis (from raw data to gene expression counts):**
 
