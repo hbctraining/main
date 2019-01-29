@@ -4,9 +4,7 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 *No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
 
-### Workshops
-
-#### Introduction to Next-Generation Sequencing (NGS) analysis series: 
+### Introduction to Next-Generation Sequencing (NGS) analysis series: 
 
 The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.
 
@@ -19,7 +17,7 @@ The goal of these workshops (2-3 days) are to enable researchers to design their
 | [ChIP-seq using High-Performance Computing](https://hbctraining.github.io/Intro-to-ChIPseq/) | None  | 3 days |
 | Identifying variants in genome/exome sequencing data  | None | *In development* |
 
-#### Current topics in bioinformatics series:
+### Current topics in bioinformatics series:
 
 These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. For the short workshops topics please [click here](https://hbctraining.github.io/Training-modules/).
 
