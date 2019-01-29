@@ -2,33 +2,15 @@
 
 The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training through both shorter workshops and longer in-depth courses. Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. See our current workshop schedule on our [training website](http://bioinformatics.sph.harvard.edu/training/).
 
-**We are excited to announce the launch of HBC's new training program for 2019!**
-
-This semester *we are piloting a new learning model* that replaces the 3-day workshops we have previously offered for **eligible researchers**. 
-
-While all of the content will remain the same as past workshops, we are changing the format to be *more modular*. We have divided our training content into the two categories listed below. Any participants wanting to take an [advanced workshop](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) will have to have taken certain [basic workshop(s)](#basic-data-skills) within the past 6 months. 
-
-* [Basic Data Skills](#basic-data-skills) - No prior programming knowledge needed (no prerequisites)
-* [Advanced Topics: Analysis of high-throughput sequencing (NGS) data](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) - Certain "Basic" workshops required as prerequisites.
-
-We are structuring the training schedule such that it gives interested researchers several opportunities to take the basic workshops. 
-
-| Topic | Category | Duration | Prerequisites |
-| :----: | :----: | :----: | :----: |
-| Introduction to the command-line interface (shell) | Basic | 1 day | None |
-| Introduction to R | Basic | 1.5 days | None |
-| Bulk RNA-seq analysis| Advanced | 2 days | Intro to shell |
-| Differential gene expression analysis (bulk RNA-seq) | Advanced | 2 days | Intro to R |
-| ChIP-seq analysis | Advanced | 2 days | Intro to R **&** shell |
-| Single-cell RNA-seq analysis | Advanced | 2 days | Intro to R **&** shell **&** Differential gene expression |
-
-***
-
 ## Basic Data Skills
 
 These are short 1-1.5 day workshops that provide an introduction to computational skills required for someone to get started with analyzing high-throughput sequencing data independently. These have no prerequisites and do not require any prior experience with programming. 
 
-We will alternate between two basic topics in the schedule, with at least one basic offering every month. *The completion of one or more of these workshops is required in order to register for the [workshops on advanced topics](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data).*
+| Topic |  Duration | Prerequisites 
+| :----: | :----: | :----: |
+| Introduction to the command-line interface (shell) | 1 day | None |
+| Introduction to R | 1.5 days | None |
+
 
 ### Introduction to command-line interface (Unix/shell/Linux/bash)
 
@@ -50,8 +32,8 @@ Participants will learn how to use R for:
 These are 2-day intensive workshops that instruct participants on how to efficiently manage and analyze data, with a focus
 on the workflow for a specific type of next-generation sequencing data (i.e RNA-seq, ChIP-seq). *These workshops require participants to have taken one or more of the [Basic Data Skills workshops](#basic-data-skills) as listed in the table below.*
 
-| Topic | Prerequisites |
-| :----: | :----: |
+| Topic | Duration | Prerequisites |
+| :----: | :----: | :----: |
 | [Introduction to (bulk) RNA-seq using High-Performance Computing](#rna-seq-analysis-from-raw-data-to-gene-expression-counts) |  Introduction to shell |
 | [Introduction to Differential Gene Expression Analysis](#differential-gene-expression-analysis-using-gene-expression-counts-from-the-above-workshop)  |  Introduction to R  |
 | [Introduction to ChIP-seq Analysis](#chip-seq-analysis) |  Introduction to R & shell |
