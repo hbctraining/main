@@ -12,7 +12,7 @@ These are short 1-1.5 day workshops that provide an introduction to computationa
 
 | Topic |  Duration | Prerequisites 
 | :----: | :----: | :----: |
-| [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-shell/) | 1 day | None |
+| [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-Shell/) | 1 day | None |
 | [Introduction to R](https://hbctraining.github.io/Intro-to-R/) | 1.5 days | None |
 
 
