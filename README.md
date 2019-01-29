@@ -13,7 +13,7 @@ While all of the content will remain the same as past workshops, we are changing
 
 We are structuring the training schedule such that it gives interested researchers several opportunities to take the basic workshops. 
 
-| Topic | Category | Date | Duration | Prerequisites |
+| Topic | Category | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
 | Introduction to the command-line interface (shell) | Basic | 1 day | None |
 | Introduction to R | Basic | 1.5 days | None |
