@@ -1,6 +1,6 @@
 # Training program description:
 
-The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training through both shorter workshops and longer in-depth courses. Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills.
+The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training through both shorter workshops and longer in-depth courses. Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. See our current workshop schedule on our [training website](http://bioinformatics.sph.harvard.edu/training/).
 
 *No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
 
