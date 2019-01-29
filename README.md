@@ -17,7 +17,6 @@ We are structuring the training schedule such that it gives interested researche
 | :----: | :----: | :----: | :----: |
 | Introduction to the command-line interface (shell) | Basic | 1 day | None |
 | Introduction to R | Basic | 1.5 days | None |
-| [Introduction to the command-line interface (shell)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | 1 day | None |
 | Bulk RNA-seq analysis| Advanced | 2 days | Intro to shell |
 | Differential gene expression analysis (bulk RNA-seq) | Advanced | 2 days | Intro to R |
 | ChIP-seq analysis | Advanced | 2 days | Intro to R **&** shell |
