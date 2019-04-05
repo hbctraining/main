@@ -57,7 +57,7 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 | [Introduction to (bulk) RNA-seq using High-Performance Computing](#rna-seq-analysis-from-raw-data-to-gene-expression-counts) |  Introduction to shell |
 | [Introduction to Differential Gene Expression Analysis](#differential-gene-expression-analysis-using-gene-expression-counts-from-the-above-workshop)  |  Introduction to R  |
 | [Introduction to ChIP-seq Analysis](#chip-seq-analysis) |  Introduction to R & shell |
-| [Introduction to single cell RNA-seq Analysis](#single-cell-rna-seq) | Introduction to R & shell |
+| [Introduction to single cell RNA-seq Analysis](#single-cell-rna-seq) | Introduction to R & Introduction to shell |
 
 ### RNA-seq Analysis (from raw data to gene expression counts)
 This 2-day hands-on workshop will cover the basics of bulk RNA-seq analysis; from designing a good experiment to performing QC on sequencing data to obtaining gene expression matrices. All the analysis will be performed on HMS-RC's O2 cluster.
