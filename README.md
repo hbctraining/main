@@ -73,7 +73,7 @@ This workshop is in development, and we expect it to be either 2- or 3-days long
 
 These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. These **free, hands-on workshops** are available to all Harvard affiliates and cover a variety of bioinformatics topics & related skills. These workshops do not require a registration, and seating in the workshops is available on a first-come-first-served basis depending on the size of the room. 
 
-* Please [click here](https://hbctraining.github.io/Training-modules/) for topics and links to materials
+* [Please click here](https://hbctraining.github.io/Training-modules/) for topics and links to materials
 * *We will not be holding this series of workshops in Summer 2019, the Fall 2019 schedule will be available in August.*
 
 ## In-Depth Next Generation Sequencing Analysis Course
