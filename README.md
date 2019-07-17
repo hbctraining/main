@@ -84,7 +84,7 @@ These short workshops (half-day or less) are designed to allow researchers, who 
   * Best practice workflows for NGS data analysis (RNA-seq, ChIP-seq, Variant calling)
   * R for statistical analysis and data visualization
   * Functional analysis with gene lists
-  * Additional skils and tools for better reproducibility like reports with RMarkdown, version control with Git/Github, etc.
+  * Additional skills and tools for better reproducibility like reports with RMarkdown, version control with Git/Github, etc.
 
 # Contact us:
 
