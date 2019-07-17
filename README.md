@@ -49,7 +49,7 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 | [Introduction to (bulk) RNA-seq using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/) | 2-day | Introduction to shell |
 | [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop/)  | 2-day | Introduction to R  |
 | [Introduction to ChIP-seq Analysis](https://hbctraining.github.io/Intro-to-ChIPseq/) |  2-day | Introduction to R & shell |
-| Introduction to single cell RNA-seq Analysis (*In development*) | 2-day | Introduction to R & shell |
+| [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq/) | 2-day | Introduction to R |
 
 *Clicking on the topic name in the table above will take you to the online materials for this workshop.*
 
