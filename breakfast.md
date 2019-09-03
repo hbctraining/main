@@ -1,4 +1,11 @@
-<p align="center"> <h2>Bioinformatics Community Breakfast<h2> </p>
+<style type="text/css">
+
+h1.title {
+  text-align: center;
+}
+</style>
+
+# Bioinformatics Community Breakfast
 
 Held on the last Wednesday of every month!
 
@@ -15,6 +22,5 @@ These breakfasts hosted by the [Harvard Chan Bioinformatics Core (HBC)](http://b
 <p align="center"> 
 <img src="img/breakfast_Monvej.png" width="600">   
 </p> 
- 
 
 There is no registration for attending these, but seating and food will be available on a first-come-first-served basis. This is a time to get together without computers and we welcome anyone with bioinformatics questions or just an interest in bioinformatics, in addition to other bioinformaticians looking for a community. You don’t have to stay for the entire breakfast, but we plan to have introductions at 9:30am. 
