@@ -1,4 +1,4 @@
-<p align="center"> <b><h2>Bioinformatics Community Breakfast<h2></b> </p>
+<p align="center"> <h2>Bioinformatics Community Breakfast<h2> </p>
 
 Held on the last Wednesday of every month!
 
