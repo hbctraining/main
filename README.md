@@ -78,7 +78,7 @@ Additional topics and associated training materials can be [accessed here](https
 
 ### Series theme for Fall 2019: Setting up for a successful bulk RNA-seq project
 
-### Schedule for Fall 2019 (no pre-requisites):
+**Schedule for Fall 2019 (no pre-requisites):**
 
 | Topic | Date | Time | Location |
 | :----: | :----: | :----: | :----: |
