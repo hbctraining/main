@@ -79,7 +79,7 @@ These **free, hands-on workshops** are available to all Harvard affiliates and c
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
 | **Setting up for success: *Everything you need to know when planning an (bulk) RNA-seq analysis Part I*** | September 20th | 1 PM | HSPH Kresge G1 | None |
-| **Setting up for success: *Everything you need to know when planning an (bulk) RNA-seq analysis Part II*** | October (TBD) | 1 PM | HSPH Kresge G1 | None |
+| **Setting up for success: *Everything you need to know when planning an (bulk) RNA-seq analysis Part II*** | October 25th | 1 PM | HSPH Kresge G1 | None |
 | **Setting up for Success: *Everything you need to know to make your data analysis reproducible*** | November 15th | 1 PM | HSPH Kresge G2 | None |
 | **Setting up for Success: *Introduction to Version Control (Git)*** | December 13th | 1 PM | HSPH Kresge G2 | None |
 
