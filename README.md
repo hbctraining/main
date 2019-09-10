@@ -76,14 +76,14 @@ These **free, hands-on workshops** are available to all Harvard affiliates and c
 
 ### Series theme for Fall 2019: Setting up for a successful bulk RNA-seq project
 
-### Schedule for Fall 2019:
+### Schedule for Fall 2019 (no pre-requisites):
 
-| Topic | Date | Time | Location | Pre requisites |
-| :----: | :----: | :----: | :----: | :----: |
-| Everything you need to know when planning an (bulk) RNA-seq analysis Part I | September 20th | 1 PM | HSPH Kresge G1 | None |
-| Everything you need to know when planning an (bulk) RNA-seq analysis Part II | October 25th | 1 PM | HSPH Kresge G1 | None |
-| Everything you need to know to make your data analysis reproducible | November 15th | 1 PM | HSPH Kresge G2 | None |
-| Introduction to Version Control (Git) | December 13th | 1 PM | HSPH Kresge G2 | None |
+| Topic | Date | Time | Location |
+| :----: | :----: | :----: | :----: |
+| Everything you need to know when planning an (bulk) RNA-seq analysis Part I | September 20th | 1 PM | HSPH Kresge G1 |
+| Everything you need to know when planning an (bulk) RNA-seq analysis Part II | October 25th | 1 PM | HSPH Kresge G1 |
+| Everything you need to know to make your data analysis reproducible | November 15th | 1 PM | HSPH Kresge G2 |
+| Introduction to Version Control (Git) | December 13th | 1 PM | HSPH Kresge G2 |
 
 * [Please click here](https://hbctraining.github.io/Training-modules/) for topics and links to materials.
 
