@@ -78,7 +78,11 @@ Additional topics and associated training materials can be [accessed here](https
 
 ### Series theme for Fall 2019: Setting up for a success with your RNA-seq experiment
 
-This series of 4 short workshops will provide an overview of everything you need to know when considering an RNA-seq experiment of your own. Each session will discuss various key factors to consider from the lab to through to manuscript preparation. Each workshop will go into detail about the different strategies when considering an RNA-seq experiment, outlining current standards and required resources for the analysis of RNA sequencing data to ensure that everything you are doing is feasible and reproducible.
+The Fall 2019 series of 4 workshops will provide an overview of everything you need to know **when planning an RNA-seq experiment of your own**. We will be specificially focusing on methods for "bulk" RNA-seq experiments (*not single-cell RNA-seq*). 
+
+Each workshop will discuss various key factors to consider from the lab through to manuscript preparation: 
+* The first 2 workshops in this series will outline the **best practices for experimental design and analysis tools/workflows**, in addition to the **computational resources needed** for a bulk RNA-seq analysis. 
+* The last 2 workshops will give participants an idea of how to manage a project of this magnitude from start to finish and **ensure that all steps are reproducible**.
 
 **Schedule for Fall 2019 (no pre-requisites):**
 
