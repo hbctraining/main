@@ -1,10 +1,9 @@
 # Training program description:
 
-The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training through both shorter workshops and longer in-depth courses and are broadly divided into three series. 
+The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training in multiple formats, they can be broadly divided into the following: 
 
 1. [Introduction to Next-Generation Sequencing (NGS) analysis series](#introduction-to-next-generation-sequencing-ngs-analysis-series)
 2. [Current topics in bioinformatics series](#current-topics-in-bioinformatics-series)
-3. [In-Depth Next Generation Sequencing Analysis Course](#in-depth-next-generation-sequencing-analysis-course)
 
 Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. 
 
@@ -69,22 +68,13 @@ This 2-day hands-on workshop covers the basics of ChIP-seq analysis; from design
 
 This workshop is in development, and we expect it to be either 2- or 3-days long. This workshop also requires participants to have a working knowledge of both R and shell. *More details coming soon!*
 
-## Current topics in bioinformatics series:
+## [Current topics in bioinformatics series](https://hbctraining.github.io/Training-modules/):
 
-These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. These **free, hands-on workshops** are available to all Harvard affiliates and cover a variety of bioinformatics topics & related skills. These workshops do not require a registration, and seating in the workshops is available on a first-come-first-served basis depending on the size of the room. 
+[These short workshops](https://hbctraining.github.io/Training-modules/) (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
 
-* [Please click here](https://hbctraining.github.io/Training-modules/) for topics and links to materials
-* *We will not be holding this series of workshops in Summer 2019, the Fall 2019 schedule will be available in August.*
+These **free, hands-on workshops** are available to all Harvard affiliates and cover a variety of bioinformatics topics & related skills. These workshops do not require a registration, and seating in the workshops is available on a first-come-first-served basis depending on the size of the room. 
 
-## In-Depth Next Generation Sequencing Analysis Course
-
-[This intensive course](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/) runs for between **8 to 12 days** and is aimed at bench biologists interested in learning how to **independently** perform NGS data analyses using *best practices*. Topics include:
-
-  * High-performance computing
-  * Best practice workflows for NGS data analysis (RNA-seq, ChIP-seq, Variant calling)
-  * R for statistical analysis and data visualization
-  * Functional analysis with gene lists
-  * Additional skills and tools for better reproducibility like reports with RMarkdown, version control with Git/Github, etc.
+* [Please click here](https://hbctraining.github.io/Training-modules/) for topics and links to materials.
 
 # Contact us:
 
