@@ -11,6 +11,8 @@ See our current workshop schedule on our [training website](http://bioinformatic
 
 ## Introduction to Next-Generation Sequencing (NGS) analysis series:
 
+This series of workshops is divided into 2 categories, [Basic Data Skills](#basic-data-skills) and [Advanced Topics: Analysis of high-throughput sequencing (NGS) data](#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data). The Basic workshops serve as the foundation that participants can build upon in the Advanced workshops and we will be offering these as pairs with the appropriate basic workshop preceding and advanced one. Please see below for a description of workshops under each of these 2 categories.
+
 ### Basic Data Skills
 
 These are short 1-1.5 day workshops that provide an introduction to computational skills required for someone to get started with analyzing high-throughput sequencing data independently. These have no prerequisites and do not require any prior experience with programming. 
