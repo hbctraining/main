@@ -92,7 +92,7 @@ Each workshop will discuss various key factors to consider from the lab through 
 | :----: | :----: | :----: | :----: |
 | Planning a bulk RNA-seq analysis: Part I | September 20th | 1 PM | HSPH Kresge G1 |
 | Planning a bulk RNA-seq analysis: Part II | October 25th | 1 PM | HSPH Kresge G1 |
-| Make your (RNA-seq) data analysis reproducible | November 15th | 1 PM | HSPH Kresge G2 |
+| Make your (RNA-seq) data analysis reproducible (Taught by [Julie Goldman](https://scholar.harvard.edu/julie_goldman) from Countway Library) | November 15th | 1 PM | HSPH Kresge G2 |
 | Improving your (RNA-seq) data analysis using version control (Git) | December 13th | 1 PM | HSPH Kresge G2 |
 
 # Contact us:
