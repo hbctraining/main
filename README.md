@@ -68,7 +68,7 @@ This 2-day hands-on workshop covers the basics of ChIP-seq analysis; from design
 
 **Single cell RNA-seq:**
 
-This workshop is in development, and we expect it to be either 2- or 3-days long. This workshop also requires participants to have a working knowledge of both R and shell. *More details coming soon!*
+his 2-day hands-on workshop will instruct participants on how to design a single-cell RNA-seq experiment, and how to efficiently manage and analyze the data starting from count matrices. This will be a hands-on workshop in which we will focus on using the Seurat package using R/RStudio. 
 
 ## [Current topics in bioinformatics series](https://hbctraining.github.io/Training-modules/):
 
