@@ -78,23 +78,6 @@ These **free, hands-on workshops** are available to all Harvard affiliates and c
 
 Additional topics and associated training materials can be [accessed here](https://hbctraining.github.io/Training-modules/).
 
-### Series theme for Fall 2019: Setting up for a success with your RNA-seq experiment
-
-The Fall 2019 series of 4 workshops will provide an overview of everything you need to know **when planning an RNA-seq experiment of your own**. We will be specifically focusing on methods for "bulk" RNA-seq experiments (*not single-cell RNA-seq*). 
-
-Each workshop will discuss various key factors to consider from the lab through to manuscript preparation: 
-* The first 2 workshops in this series will outline the **best practices for experimental design and analysis tools/workflows**, in addition to the **computational resources needed** for a bulk RNA-seq analysis. 
-* The last 2 workshops will give participants an idea of how to manage a project of this magnitude from start to finish and **ensure that all steps are reproducible**.
-
-**Schedule for Fall 2019 (no pre-requisites):**
-
-| Topic | Date | Time | Location |
-| :----: | :----: | :----: | :----: |
-| Planning a bulk RNA-seq analysis: Part I | September 20th | 1 PM | HSPH Kresge G1 |
-| Planning a bulk RNA-seq analysis: Part II | October 25th | 1 PM | HSPH Kresge G1 |
-| Make your (RNA-seq) data analysis reproducible - *Taught by [Julie Goldman](https://scholar.harvard.edu/julie_goldman) from Countway Library* | November 15th | 1 PM | HSPH Kresge G2 |
-| Improving your (RNA-seq) data analysis using version control (Git) | December 13th | 1 PM | HSPH Kresge G2 |
-
 # Contact us:
 
 **Email:** [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)
