@@ -17,10 +17,10 @@ This series of workshops is divided into 2 categories, [Basic Data Skills](#basi
 
 These are short 1-1.5 day workshops that provide an introduction to computational skills required for someone to get started with analyzing high-throughput sequencing data independently. These have no prerequisites and do not require any prior experience with programming. 
 
-| Topic |  Duration | Prerequisites 
+| Topic and Link(s) to lessons | Duration | Prerequisites |
 | :----: | :----: | :----: |
 | [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-Shell/) | 1 day | None |
-| [Introduction to R](https://hbctraining.github.io/Intro-to-R/) | 1.5 days | None |
+|  Introduction to R - [In-person](https://hbctraining.github.io/Intro-to-R/)/[Online](https://hbctraining.github.io/Intro-to-R-flipped/) | 1.5 days | None |
 
 *Clicking on the topic name in the table above will take you to the online materials for this workshop.*
 
