@@ -1,4 +1,4 @@
-## Bioinformatics Trainer and Analyst Position at the [Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu)
+## Bioinformatics Trainer and Analyst Position at [HBC](https://bioinformatics.sph.harvard.edu)
 
 ### Title
 Research Associate - Bioinformatics Trainer and Analyst
