@@ -7,7 +7,7 @@ Research Associate - Bioinformatics Trainer and Analyst
 Harvard T.H. Chan School of Public Health
 
 ### Department/Area	
-Biostatisitcs
+Biostatistics
 
 ### Position Description	
 The Harvard Chan Bioinformatics Core is excited to expand our bioinformatics training program as part of a new collaboration with the Dana-Farber / Harvard Cancer Center (DF/HCC). We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is enthusiastic about teaching (as demonstrated by their teaching experience), enjoys working in a collaborative environment, and has a background in high-throughput data analysis, specifically for next-generation sequencing (NGS) data. This role provides a unique and rewarding opportunity to train and support world-class researchers making a profound impact on human health.
