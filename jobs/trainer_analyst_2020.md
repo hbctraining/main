@@ -1,25 +1,27 @@
-## Bioinformatics Trainer and Analyst Position at [HBC](https://bioinformatics.sph.harvard.edu)
+## Bioinformatics Trainer and Analyst Position
+
+***This will be a remote (telework) position until the end of the COVID-19 pandemic.***
 
 ### Title
 Research Associate - Bioinformatics Trainer and Analyst
 
 ### School	
-Harvard T.H. Chan School of Public Health
+Harvard T.H. Chan School of Public Health, Boston MA
 
 ### Department/Area	
 Biostatistics
 
 ### Position Description	
-The Harvard Chan Bioinformatics Core is excited to expand our bioinformatics training program as part of a new collaboration with the Dana-Farber / Harvard Cancer Center (DF/HCC). We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is enthusiastic about teaching (as demonstrated by their teaching experience), enjoys working in a collaborative environment, and has a background in high-throughput data analysis, specifically for next-generation sequencing (NGS) data. This role provides a unique and rewarding opportunity to train and support world-class researchers making a profound impact on human health.
+The Harvard Chan Bioinformatics Core is excited to expand our bioinformatics training program as part of a new collaboration with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/). We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is enthusiastic about teaching (as demonstrated by their teaching experience), enjoys working in a collaborative environment, and has a background in high-throughput data analysis, specifically for next-generation sequencing (NGS) data. This role provides a unique and rewarding opportunity to train and support world-class researchers making a profound impact on human health.
 
 ### About us
-Located at the Harvard T.H. Chan School of Public Health, the Harvard Chan Bioinformatics Core (HBC) is a central resource for bioinformatics research, services and training at Harvard and across the Boston biomedical community. We work closely with biomedical scientists to develop and execute innovative workflows to analyze, interpret, visualize and distribute scientific discoveries derived from the analysis of high-throughput data.
+Located at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/), [the Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu/) is a central resource for bioinformatics research, services and training at Harvard and across the Boston biomedical community. We work closely with biomedical scientists to develop and execute innovative workflows to analyze, interpret, visualize and distribute scientific discoveries derived from the analysis of high-throughput data.
 
 Our training team is tasked with the mission of educating the Harvard community on best practices in experimental design, analysis workflows, and data management. Workshops are designed to foster independence and confidence among participants, many of whom are wet-lab biologists applying computational methods to their research for the first time.
 
 The HBC also provides consulting services for researchers wishing to analyze high-throughput biomedical datasets. We work closely with investigators across a broad range of disciplines from the Harvard and with industry collaborators. Projects range from short-term projects (weeks to months) to longer term collaborations (months to years) involving large data sets or multiple omics data types. By combining training and consulting activities, our training team members continue to develop their expertise in NGS data analysis through access to real-world data sets and opportunities to apply emerging and best practice methods.
 
-As a team, we embrace an open source approach to computing and training. We use and teach open source tools and contribute to the development of open source projects; our training materials are freely available on GitHub (https://hbctraining.github.io/main). In line with this community approach, the HBC emphasizes teamwork, collaboration and provides a supportive environment where team members can learn from each other.
+As a team, we embrace an open source approach to computing and training. We use and teach open source tools and contribute to the development of open source projects; our training materials are freely available on [GitHub (https://hbctraining.github.io/main)](https://hbctraining.github.io/main). In line with this community approach, the HBC emphasizes teamwork, collaboration and provides a supportive environment where team members can learn from each other.
 
 ### About you
 You have a background in cancer biology, biomedical or quantitative science and a strong interest in helping biomedical researchers. You have experience with NGS data analysis and enjoy teaching. You thrive on scientific challenges, love sharing knowledge, and enjoy working both collaboratively and independently. You excel at communicating with programmers and wet-lab scientists alike, and are able to explain complex concepts simply in written and spoken form. You are motivated to continually expand your skills and are keen to learn and apply new methods. You have a system for writing good code and managing your data, and see value in enabling reproducible research. You are organized, have strong time management skills and are capable of simultaneously working on multiple projects and meeting deadlines.
@@ -55,20 +57,17 @@ You will also spend time providing analysis support to researchers at Harvard an
 * Knowledge of and experience with cancer datasets is a plus
 	
 ### Contact
-Email	**[hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)** for more information
+Email	**[hbctraining (at) hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)** for more information
 
 ### Equal Opportunity Employer	
 We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions or any other characteristic protected by law.
 
-### Minimum Number of References Required	
-2
-
-### Maximum Number of References Allowed	
-4
-
 ### Required Documents
 * Curriculum Vitae
 * Cover Letter
+* References Required/Allowed
+  * Minimum - 2
+  * Maximum - 4
 
 ### Apply
 To apply **[Click Here](https://academicpositions.harvard.edu/postings/9711)**!
