@@ -87,6 +87,7 @@ Email	**[hbctraining (at) hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)
 ### What I removed:
 	
 > NOTE: I took this out because they can use the link provided above for more detail on the courses
+
 Training topics include basic data skills (shell, version control, R, high-performance computing, Python, etc.), data management, and NGS data analysis (RNA-seq, ChIP-seq, variant calling, etc.). In addition to teaching existing content at workshops, you will 
 
 
