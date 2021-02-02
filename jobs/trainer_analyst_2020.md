@@ -77,10 +77,9 @@ To apply **[Click Here](https://academicpositions.harvard.edu/postings/9711)**!
 ### Contact us!
 Email	**[hbctraining (at) hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)** for more information
 
----
 
 > ### Equal Opportunity Employer	
-We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions or any other characteristic protected by law.
+> We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions or any other characteristic protected by law.
 
 --- 
 
