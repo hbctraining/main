@@ -91,9 +91,11 @@ Training topics include basic data skills (shell, version control, R, high-perfo
 
 
 > NOTE: consider adding some of these back in as bullet points under "Who we are looking for?" Imo, having all of these is overkill
+
 You have a background in cancer biology, biomedical or quantitative science and a strong interest in helping biomedical researchers. You have experience with NGS data analysis and enjoy teaching. You thrive on scientific challenges, love sharing knowledge, and enjoy working both collaboratively and independently. You excel at communicating with programmers and wet-lab scientists alike, and are able to explain complex concepts simply in written and spoken form. You are motivated to continually expand your skills and are keen to learn and apply new methods. You have a system for writing good code and managing your data, and see value in enabling reproducible research. You are organized, have strong time management skills and are capable of simultaneously working on multiple projects and meeting deadlines.
 
-> NOTE: I don't think any of this text is necessaru since it is in the main offical post
+> NOTE: I don't think any of this text is necessary since it is in the main offical post
+
 Our training team is tasked with the mission of educating the Harvard community on best practices in experimental design, analysis workflows, and data management. Workshops are designed to foster independence and confidence among participants, many of whom are wet-lab biologists applying computational methods to their research for the first time.
 
 The HBC also provides consulting services for researchers wishing to analyze high-throughput biomedical datasets. We work closely with investigators across a broad range of disciplines from the Harvard and with industry collaborators. Projects range from short-term projects (weeks to months) to longer term collaborations (months to years) involving large data sets or multiple omics data types. By combining training and consulting activities, our training team members continue to develop their expertise in NGS data analysis through access to real-world data sets and opportunities to apply emerging and best practice methods.
