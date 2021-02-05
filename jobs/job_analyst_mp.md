@@ -37,7 +37,7 @@ As a member of the HBC you will also be **providing analysis support to research
 
 ### Required Qualifications	
 * **Doctoral degree** in the biomedical sciences (e.g. molecular biology, cancer biology, biostatistics, computational biology, bioinformatics, etc.)
-* At least **2 years experience performing bioinformatics research as a lead analyst**
+* At least **2 years experience performing NGS analyses as a lead analyst**
 * **Experience teaching courses or workshops**
 * Excellent written and spoken English
 * Programming and data skills
