@@ -51,8 +51,6 @@ As a member of the HBC you will also be **providing analysis support to research
   * RNA-seq (bulk/single-cell)
   * ChIP-seq or ATAC-seq
   * Other sequencing applications
-
-### Additional Qualifications	
 * Proven ability to interpret and analyze large data sets and present results
 * Strong interpersonal skills
 
