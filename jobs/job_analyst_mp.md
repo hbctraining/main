@@ -11,18 +11,19 @@
 
 ## Who are we looking for?
 
-The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics training program** as part of a new collaboration with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/). This role provides a **unique and rewarding opportunity to help determine the future direction of the training program**, while training and supporting world-class researchers, helping to make a profound impact on human health. We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is someone who:
+The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics training program** as part of a new collaboration with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/). We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is someone who:
 
 * is enthusiastic about teaching (as demonstrated by their teaching experience)
 * enjoys working in a collaborative environment
-* has a background in high-throughput data analysis, specifically for next-generation sequencing (NGS) data
+* has a background in data analysis, specifically for high-throughput sequencing (HTS) data
 
+This role provides a unique and rewarding opportunity to help determine the future direction of the training program, while training and supporting world-class researchers, and helping to make a profound impact on human health.
 
 ## What will you be doing?
 
 The majority of your time will be dedicated to your role **as a member of the training team**. In this role, you will:
 
-* Help teach workshops and courses (i.e. basic data skills, NGS analysis) geared towards graduate students, postdocs, research staff and faculty from the greater Harvard community 
+* Help teach workshops and courses (i.e. basic data skills, HTS analysis) geared towards graduate students, postdocs, research staff and faculty from the greater Harvard community 
 * Develop and maintain workshop content based on the latest best practices
 * Assist with organizational tasks related to training activities
 * Be fully involved in determining the future direction of the training program
@@ -32,19 +33,18 @@ As a member of the HBC you will also be **providing analysis support to research
 * Support selected research projects by analyzing high-throughput data with best practice approaches used in the Core, assessing new methods where appropriate
 * Document all work thoroughly, and provide clear, manuscript-level reports of analyses and results
 * Be responsible for good data management of your projects
-* Participate in Core meetings, liaising with collaborating researchers, and participate in developing manuscripts for publication (when the opportunity presents)
+* Participate in Core meetings, liaise with collaborating researchers, and participate in developing manuscripts for publication (when the opportunity presents)
 
 
 ### Required Qualifications
 * **Doctoral degree** in the biomedical sciences (e.g. molecular biology, cancer biology, biostatistics, computational biology, bioinformatics, etc.)
-* At least **2 years experience performing NGS analyses as a lead analyst**
-* **Experience teaching courses or workshops**
+* At least 2 years experience performing HTS analyses as the lead analyst
+* Teaching experience (courses or workshops)
 * Excellent written and spoken English
 * Programming and data skills
   * Knowledge of shell and high-performance computing
   * Knowledge of R or Python
-* Working knowledge of biology and genetics
-* Experience in **at least one** of the following NGS domains:
+* Experience in at least one of the following HTS domains:
   * Whole genome sequencing
   * Exome-seq
   * RNA-seq (bulk/single-cell)
@@ -55,15 +55,14 @@ As a member of the HBC you will also be **providing analysis support to research
 
 ### Preferred Qualifications
 * Post-doctoral experience
-* Experience training researchers to perform NGS data analysis
-* Statistical knowledge
-* Knowledge of and experience with cancer datasets
-* Knowledge of and experience performing variant calling
-* Experience using Github for version control
-* Interest in development of bioinformatic pipelines
+* Experience training researchers to perform HTS data analysis
+* Biostatistics expertise
+* Cancer research experience
+* Experience applying HTS to Cancer research
+* Interest in development of bioinformatics pipelines
 * Experience interacting with clients and/or collaborators
 
-> *Position may be tailored to a more **senior research scientist** role if background and experience exceeds qualifications posted.*
+> *Position can be tailored to a more **senior position** depending on the background and experience of the applicant.*
 
 ## About us
 The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu/) is a team of skilled and personable bioinformaticians. We are a central resource for bioinformatics research, services and training at Harvard and across the Boston biomedical community. We work closely with biomedical scientists to develop and execute innovative workflows to analyze, interpret, visualize and distribute scientific discoveries derived from the analysis of high-throughput data.
