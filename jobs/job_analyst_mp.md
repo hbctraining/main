@@ -11,7 +11,7 @@
 
 ## Who are we looking for?
 
-The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics training program** as part of a new collaboration with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/). This role provides a unique and rewarding opportunity to train and support world-class researchers making a profound impact on human health. We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is someone who:
+The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics training program** as part of a new collaboration with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/). This role provides a unique and rewarding opportunity to help determine the future direction of the training program, while training and supporting world-class researchers, helping to make a profound impact on human health. We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is someone who:
 
 * is enthusiastic about teaching (as demonstrated by their teaching experience)
 * enjoys working in a collaborative environment
@@ -43,7 +43,6 @@ As a member of the HBC you will also be **providing analysis support to research
 * Programming and data skills
   * Knowledge of shell and high-performance computing
   * Knowledge of R or Python
-  * Reproducible coding skills
 * Working knowledge of biology and genetics
 * Experience in **at least one** of the following NGS domains:
   * Whole genome sequencing
@@ -64,11 +63,13 @@ As a member of the HBC you will also be **providing analysis support to research
 * Interest in development of bioinformatic pipelines
 * Experience interacting with clients and/or collaborators
 
+*Position may be tailored to a more senior research scientist role if background and experience exceeds qualifications posted.*
+
 
 ## About us
 The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu/) is a team of skilled and personable bioinformaticians. We are a central resource for bioinformatics research, services and training at Harvard and across the Boston biomedical community. We work closely with biomedical scientists to develop and execute innovative workflows to analyze, interpret, visualize and distribute scientific discoveries derived from the analysis of high-throughput data.
 
-As a team, we embrace an open source approach to computing and training. We use and teach open source tools and contribute to the development of open source projects; our training materials are freely available on [GitHub (https://hbctraining.github.io/main)](https://hbctraining.github.io/main). In line with this community approach, the HBC emphasizes teamwork, collaboration and provides a supportive environment where team members can learn from each other.
+As a team, we embrace an open source approach to computing and training. We use and teach open source tools and contribute to the development of open source projects; our training materials are freely available on [GitHub (https://hbctraining.github.io/main)](https://hbctraining.github.io/main). In line with this community approach, the HBC emphasizes teamwork, collaboration and provides a supportive environment where team members can learn from each other. We are enthusiastically recruiting bioinformaticians who are junior and looking to learn and gain experience, as well as, more senior researchers who are looking to lead projects and analyses and/or manage and mentor junior researchers.
 
 
 ## How do I apply?
