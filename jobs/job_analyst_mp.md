@@ -69,14 +69,13 @@ The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.
 
 As a team, we embrace an open source approach to computing and training. We use and teach open source tools and contribute to the development of open source projects; our training materials are freely available on [GitHub (https://hbctraining.github.io/main)](https://hbctraining.github.io/main). In line with this community approach, the HBC emphasizes teamwork, collaboration and provides a supportive environment where team members can learn from each other. We are enthusiastically recruiting bioinformaticians who are junior and looking to learn and gain experience, as well as, more senior researchers who are looking to lead projects and analyses and/or manage and mentor junior researchers.
 
+## Salary Range
+
+$75K - $95K
 
 ## How do I apply?
 
 To apply **[Click Here](https://academicpositions.harvard.edu/postings/9711)**!
-
-## Salary Range
-
-$75K - $95K
 
 ## Questions?
 
