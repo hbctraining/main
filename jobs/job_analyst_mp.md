@@ -17,7 +17,6 @@ The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics t
 * enjoys working in a collaborative environment
 * has a background in high-throughput data analysis, specifically for next-generation sequencing (NGS) data
 
-*Position may be tailored to a more senior research scientist role if background and experience exceeds qualifications posted.*
 
 ## What will you be doing?
 
@@ -36,7 +35,7 @@ As a member of the HBC you will also be **providing analysis support to research
 * Participate in Core meetings, liaising with collaborating researchers, and participate in developing manuscripts for publication (when the opportunity presents)
 
 
-### Required Qualifications	
+### Required Qualifications	(*Position may be tailored to a more senior research scientist role if background and experience exceeds qualifications posted.*)
 * **Doctoral degree** in the biomedical sciences (e.g. molecular biology, cancer biology, biostatistics, computational biology, bioinformatics, etc.)
 * At least **2 years experience performing NGS analyses as a lead analyst**
 * **Experience teaching courses or workshops**
