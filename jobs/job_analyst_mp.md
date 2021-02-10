@@ -62,7 +62,7 @@ As a member of the HBC you will also be **providing analysis support to research
 * Interest in development of bioinformatics pipelines
 * Experience interacting with clients and/or collaborators
 
-*Position can be tailored to a more **senior position** depending on the background and experience of the applicant.*
+*Position is flexible, and can be tailored to a more **senior role** for applicants with appropriate expertise.*
 
 ## About us
 The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu/) is a team of skilled and personable bioinformaticians. We are a central resource for bioinformatics research, services and training at Harvard and across the Boston biomedical community. We work closely with biomedical scientists to develop and execute innovative workflows to analyze, interpret, visualize and distribute scientific discoveries derived from the analysis of high-throughput data.
@@ -74,6 +74,9 @@ As a team, we embrace an open source approach to computing and training. We use 
 
 To apply **[Click Here](https://academicpositions.harvard.edu/postings/9711)**!
 
+## Salary Range
+
+$75K - $95K
 
 ## Questions?
 
@@ -83,7 +86,3 @@ Email	**[hbctraining (at) hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)
 
 > ### Equal Opportunity Employer	
 > We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions or any other characteristic protected by law.
-
-
-
-
