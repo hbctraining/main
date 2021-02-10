@@ -11,7 +11,7 @@
 
 ## Who are we looking for?
 
-The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics training program** as part of a new collaboration with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/). This role provides a unique and rewarding opportunity to help determine the future direction of the training program, while training and supporting world-class researchers, helping to make a profound impact on human health. We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is someone who:
+The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics training program** as part of a new collaboration with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/). This role provides a **unique and rewarding opportunity to help determine the future direction of the training program, while training and supporting world-class researchers, helping to make a profound impact on human health.** We are looking for a bioinformatician to join our team in our efforts to provide education and analytical support to the Harvard community. The ideal candidate is someone who:
 
 * is enthusiastic about teaching (as demonstrated by their teaching experience)
 * enjoys working in a collaborative environment
