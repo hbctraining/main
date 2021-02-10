@@ -35,7 +35,7 @@ As a member of the HBC you will also be **providing analysis support to research
 * Participate in Core meetings, liaising with collaborating researchers, and participate in developing manuscripts for publication (when the opportunity presents)
 
 
-### Required Qualifications	(*Position may be tailored to a more senior research scientist role if background and experience exceeds qualifications posted.*)
+### Required Qualifications
 * **Doctoral degree** in the biomedical sciences (e.g. molecular biology, cancer biology, biostatistics, computational biology, bioinformatics, etc.)
 * At least **2 years experience performing NGS analyses as a lead analyst**
 * **Experience teaching courses or workshops**
@@ -63,6 +63,7 @@ As a member of the HBC you will also be **providing analysis support to research
 * Interest in development of bioinformatic pipelines
 * Experience interacting with clients and/or collaborators
 
+* *Position may be tailored to a more **senior research scientist** role if background and experience exceeds qualifications posted.*
 
 ## About us
 The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu/) is a team of skilled and personable bioinformaticians. We are a central resource for bioinformatics research, services and training at Harvard and across the Boston biomedical community. We work closely with biomedical scientists to develop and execute innovative workflows to analyze, interpret, visualize and distribute scientific discoveries derived from the analysis of high-throughput data.
