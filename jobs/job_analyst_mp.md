@@ -17,6 +17,7 @@ The Harvard Chan Bioinformatics Core is excited to **expand our bioinformatics t
 * enjoys working in a collaborative environment
 * has a background in high-throughput data analysis, specifically for next-generation sequencing (NGS) data
 
+*Position may be tailored to a more senior research scientist role if background and experience exceeds qualifications posted.*
 
 ## What will you be doing?
 
@@ -62,8 +63,6 @@ As a member of the HBC you will also be **providing analysis support to research
 * Experience using Github for version control
 * Interest in development of bioinformatic pipelines
 * Experience interacting with clients and/or collaborators
-
-*Position may be tailored to a more senior research scientist role if background and experience exceeds qualifications posted.*
 
 
 ## About us
