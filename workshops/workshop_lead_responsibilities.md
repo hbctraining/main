@@ -1,5 +1,7 @@
 # Online Workshop – Lead Instructor Responsibilities
 
+**Maria will perform the following:**
+
 1. Set up the Zoom meeting
    Select dates/times; recurring meeting 
   - Waiting room
@@ -10,11 +12,17 @@
       - Edit email body
   - Add poll questions
   
-2.  Register hosts/instructors manually
+2. Send hosts/instructors links to register
 
 3. Register students as sessionInfo() emails come in
     - Check spreadsheet in DropBox
     - Click on Registration link in DropBox and manually enter participants
+
+**Lead instructor duties**
+
+1.  Ensure hosts/instructors register manually
+
+2. Remind Radhika to add polls
 
 4. Update workshop schedule where necessary
     - Instructors
@@ -28,3 +36,5 @@
     - Check that links are correct and working
     - Check that funding information is correct 
     - If necessary, update keynote and generate new pdf for upload to GitHub
+    
+8. Remind Radhika to add information about who attended and how long
