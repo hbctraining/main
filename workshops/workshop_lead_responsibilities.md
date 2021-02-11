@@ -1,16 +1,16 @@
 # Online Workshop – Lead Instructor Responsibilities
 
-**Maria will perform the following:**
+## Maria will perform the following:
 
 1. Set up the Zoom meeting
-   Select dates/times; recurring meeting 
-  - Waiting room
-  - Mute participants upon entry
-  - Once meeting created edit “Email settings”
+    - Select dates/times; recurring meeting 
+    - Waiting room
+    - Mute participants upon entry
+    - Once meeting created edit “Email settings”
       - Contact: HBC Training Team
       - Email: hbctraining@hsph.harvard.edu
       - Edit email body
-  - Add poll questions
+    - Add poll questions
   
 2. Send hosts/instructors links to register
 
@@ -18,9 +18,9 @@
     - Check spreadsheet in DropBox
     - Click on Registration link in DropBox and manually enter participants
 
-**Lead instructor duties**
+## Lead instructor duties
 
-1.  Ensure hosts/instructors register manually
+1. Ensure hosts/instructors register manually
 
 2. Remind Radhika to add polls
 
@@ -30,6 +30,7 @@
     - Lessons
 
 5. Check workshop repo to see if there are any issues to be addressed
+
 6.  Make sure Exit survey is ready
 
 7. Update Intro and Wrap-up slides
