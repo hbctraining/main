@@ -20,6 +20,8 @@
 
 ## Lead instructor duties (for all workshops)
 
+> **NOTE:** For Shell (and Shell-based) workshops se additional responsibilities below.
+
 1. Ensure hosts/instructors register manually
 
 2. Remind Radhika to add polls
@@ -32,20 +34,36 @@
 
 5. Check workshop repo to see if there are any issues to be addressed
 
-6. Update the DropBox links for homework submission
-    i. Go to the appropriate DropBox folder
-    i. Right click and select "Request files..."
-    i. Clicking on "Request files..." will bring you online
-    i. Name your request and add a deadline
+6. Update the DropBox links for homework submission:
     
-    <img src="../img/dropbox_request.png">
+    - Go to the appropriate DropBox folder
+    - Right click and select "Request files..."
+    - Clicking on "Request files..." will bring you online
+    - Name your request and add a deadline
+    
+    <img src="../img/dropbox_request.png" width=300>
 
-7. Update Intro and Wrap-up slides
+7. PollEverywhere:
+    - Remove old questions
+    - Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
+   
+8. Update Intro and Wrap-up slides
     - Check that tinyurl links are correct and working
     - Check that funding information is correct
     - Update to the "Odds and Ends" slide (as Zoom changes our stickie situation) 
     - If necessary, update keynote and generate new pdf for upload to GitHub
     
-8. Make sure Exit survey is ready
+9. Make sure Exit survey is ready
 
-9. Remind Radhika to add information about who attended and how long
+10. Remind Radhika to add information about who attended and how long
+
+
+## Lead Instructor duties for Shell workshops
+
+1. Request training accounts from HMS-RC (about two weeks prior)
+    - Submit a ticket to RC-help but cc Andy and Kathleen
+    - Provide dates and times of training
+    - Provide number of accounts
+    - Provide resources (advising students to use at most 3 cores and at most 1GB of memory)
+2. Email Kathleen (or another RCC) to check O2 slides for any updates.
+3. Create a Google sheets with the attendees names and assign training accounts. Example can be found [here](https://docs.google.com/spreadsheets/d/1fxpzu5NU20y_Wh4ILZXa9YRh6JzXulTulaoOJ0mmNTs/edit#gid=0)
