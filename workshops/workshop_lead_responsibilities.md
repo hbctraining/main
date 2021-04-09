@@ -36,6 +36,7 @@
 
 6. Update the DropBox links for homework submission:
     
+    - Delete the old homework submissions
     - Go to the appropriate DropBox folder
     - Right click and select "Request files..."
     - Clicking on "Request files..." will bring you online
