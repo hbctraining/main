@@ -58,6 +58,8 @@
 
 10. Remind Radhika to add information about who attended and how long
 
+11. Review emails of hbctraining to ensure all class-related emails are answered
+
 
 ## Lead Instructor duties for Shell workshops
 
