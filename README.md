@@ -19,8 +19,8 @@ These are short 1-1.5 day workshops that provide an introduction to computationa
 
 | Topic and Link(s) to lessons | Duration | Prerequisites |
 | :----: | :----: | :----: |
-| [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-shell-flipped/) | 1 day | None |
-| [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/) | 1.5 days | None |
+| [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html) | 1 day | None |
+| [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | 1.5 days | None |
 
 *Clicking on the topic name in the table above will take you to the online materials for this workshop.*
 
@@ -47,10 +47,10 @@ on the workflow for a specific type of next-generation sequencing data (i.e RNA-
 
 | Topic | Duration | Prerequisites |
 | :----: | :----: | :----: |
-| [Introduction to (bulk) RNA-seq using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/) | 2-day | Introduction to shell |
-| [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop_salmon_online/)  | 2-day | Introduction to R  |
-| [Introduction to ChIP-seq Analysis](https://hbctraining.github.io/Intro-to-ChIPseq/) |  2-day | Introduction to R & shell |
-| [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq_online/) | 2-day | Introduction to R |
+| [Introduction to (bulk) RNA-seq using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html) | 2-day | Introduction to shell |
+| [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)  | 2-day | Introduction to R  |
+| [Introduction to ChIP-seq Analysis](https://hbctraining.github.io/Intro-to-ChIPseq) |  2-day | Introduction to R & shell |
+| [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) | 2-day | Introduction to R |
 
 *Clicking on the topic name in the table above will take you to the online materials for this workshop.*
 
