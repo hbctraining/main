@@ -60,6 +60,8 @@
 
 11. Review hbctraining emails to ensure all class-related emails are answered
 
+12. Once workshop is complete, clear the environment and remove any scripts so project is ready for next class.
+
 
 ## Lead Instructor duties for Shell workshops
 
