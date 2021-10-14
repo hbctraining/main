@@ -38,7 +38,7 @@ These are intensive workshops that instruct participants on how to design experi
 
 ## Current topics in bioinformatics series:
 
-[These short workshops](https://hbctraining.github.io/Training-modules/) (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. 
+These workshops provide instruction on basic data skills as well as introduce new topics of interest to the community.
 
 ### R-based short workshops:
 
