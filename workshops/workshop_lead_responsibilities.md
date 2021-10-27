@@ -49,6 +49,8 @@
     - Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
    
 8. Update Intro and Wrap-up slides
+    - Add slide for modules (temporary)
+    - Add that we can provide experimental design help (temporary)
     - Check that tinyurl links are correct and working
     - Check that funding information is correct
     - Update to the "Odds and Ends" slide (as Zoom changes our stickie situation) 
