@@ -19,7 +19,8 @@ These workshops provide an introduction to computational skills required for som
 
 | Topic and Link(s) to lessons | Prerequisites |
 | :----: | :----: | 
-| [Introduction to the command-line interface (shell)](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html) | None |
+| [Introduction to the command-line interface (shell) - O2 cluster](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html) | None |
+| [Introduction to the command-line interface (shell) - FAS-RC cluster](https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/schedule/links-to-lessons.html) | None |
 | [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | None |
 | [Introduction to R (video tutorials)](https://projects.iq.harvard.edu/hcatrresource/) | None |
   
@@ -29,9 +30,10 @@ These are intensive workshops that instruct participants on how to design experi
   
 | Topic and Link(s) to lessons | Prerequisites |
 | :----: | :----: |
-| [Introduction to (bulk) RNA-seq using High-Performance Computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html) | Introduction to shell |
+| [Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html) | Introduction to shell |
+| [Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster](https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/schedule/links-to-lessons.html) | Introduction to shell |
 | [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)  | Introduction to R  |
-| [Introduction to ChIP-seq Analysis](https://hbctraining.github.io/Intro-to-ChIPseq) | Introduction to R & shell |
+| [Introduction to ChIP-seq Analysis - O2 cluster](https://hbctraining.github.io/Intro-to-ChIPseq) | Introduction to R & shell |
 | [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) | Introduction to R |
 
 ***
