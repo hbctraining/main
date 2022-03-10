@@ -58,12 +58,15 @@
     
 9. Make sure Exit survey is ready
 
-10. Remind Radhika to add information about who attended and how long
-
 11. Review hbctraining emails to ensure all class-related emails are answered
 
-12. Once workshop is complete, clear the environment and remove any scripts so project is ready for next class.
-
+12. Once workshop is complete:
+    * If needed, clear the environment and remove any scripts so project is ready for next class.
+    * Remind Radhika to add information about who attended to the registration doc
+    * Send an email to everyone reminding them:
+        * to fill out the exit survey
+        * the schedule page and links will be available for the forseeable future (add link)
+        * that resources are listed at the bottom of the schedule page
 
 ## Lead Instructor duties for Shell workshops
 
