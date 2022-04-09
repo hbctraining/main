@@ -51,6 +51,7 @@
 8. Update Intro and Wrap-up slides
     - Add slide for modules (temporary)
     - Add that we can provide experimental design help (temporary)
+    - Update links to update data management workshops at Countway
     - Check that tinyurl links are correct and working
     - Check that funding information is correct
     - Update to the "Odds and Ends" slide (as Zoom changes our stickie situation) 
