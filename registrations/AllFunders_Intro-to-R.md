@@ -1,4 +1,4 @@
-# **Introduction to R workshop (2022)**
+# Introduction to R workshop (2022)
 
 Note: Until further notice, workshops will be taught online via Zoom. However, we anticipate returning to in-person teaching in 2022.
 
