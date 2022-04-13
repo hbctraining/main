@@ -24,7 +24,7 @@
 
 1. Ensure hosts/instructors register manually
 
-2. Remind Radhika to add polls
+2. Check if polls were added: Start the workshop zoom and check, or ask Maria directly.
 
 4. Update workshop schedule where necessary
     - Instructors
