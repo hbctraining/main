@@ -82,8 +82,6 @@ Please make sure you **take the following into account when signing up** for the
 2. _Between workshop sessions **participants will be required to spend 2-3 hours on reading and exercises**._
 3. _**Online (Zoom) and in-person** classes will be focused on exercises and **discussion**._
 
- <a><button name="button" style = "color: red" onclick="https://bioinformatics.sph.harvard.edu/">[Click here to Register!](https://hbctraining.github.io/main/)</button></a>
- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" onclick="location.href='https://bioinformatics.sph.harvard.edu/'">Click here to Register!</button></a>
 </div>
