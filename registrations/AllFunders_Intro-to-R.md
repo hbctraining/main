@@ -61,7 +61,7 @@ We will be accepting 40-45 participants on a first-come, first-served basis:
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
-<a><button name="button" style = "color: red" onclick="https://hbctraining.github.io/main/">Click here to Register!</button></a>
+<a><button name="button" style = "color: red" onclick="https://hbctraining.github.io/main/">[Click here to Register!](https://hbctraining.github.io/main/)</button></a>
 
 
 ### **Eligibility requirements:**
