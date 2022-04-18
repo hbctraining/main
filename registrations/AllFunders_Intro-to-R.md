@@ -84,8 +84,8 @@ Please make sure you **take the following into account when signing up** for the
 
  <a><button name="button" style = "color: red" onclick="https://bioinformatics.sph.harvard.edu/">[Click here to Register!](https://hbctraining.github.io/main/)</button></a>
  
- <div class="button-center">
-	<a class="button" rel="bookmark" href="https://bioinformatics.sph.harvard.edu">Click here to Register!</a>
+<div class="center">
+	<a><button name="button" style = "color: red" onclick="https://bioinformatics.sph.harvard.edu/">[Click here to Register!](https://hbctraining.github.io/main/)</button></a>
 </div>
  
 ---
