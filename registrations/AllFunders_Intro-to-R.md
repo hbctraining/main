@@ -1,6 +1,6 @@
 # Introduction to R workshop (2022)
 
-> *Note: Until further notice, workshops will be taught online via Zoom. However, we anticipate returning to in-person teaching in 2022.*
+*Note: Until further notice, workshops will be taught online via Zoom. However, we anticipate returning to in-person teaching in 2022.*
 
 
 ### **Workshop dates and times:**
@@ -81,8 +81,7 @@ Please make sure you **take the following into account when signing up** for the
 2. _Between workshop sessions **participants will be required to spend 2-3 hours on reading and exercises**._
 3. _**Online (Zoom) and in-person** classes will be focused on exercises and **discussion**._
 
-<a><button name="button" style = "color: red" onclick="https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R.html">Click here to Register!</button></a>
-
+<a><button name="button" style = "color: red" onclick="https://hbctraining.github.io/main/">[Click here to Register!](https://hbctraining.github.io/main/)</button></a>
 
 ---
 
