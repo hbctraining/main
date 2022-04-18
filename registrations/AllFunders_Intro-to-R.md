@@ -2,6 +2,7 @@
 
 *Note: Until further notice, workshops will be taught online via Zoom. However, we anticipate returning to in-person teaching in 2022.*
 
+
 ### **Workshop dates and times:**
 
 **Tuesday, April 19th**: 10 AM - 12 PM
@@ -13,7 +14,9 @@
 **Friday, April 29th**: 10 AM - 12 PM
 
 
-Instruction will be mostly learner-centric, **requiring workshop participants to spend between 2-3 hours on reading and exercises from selected lessons between the workshop sessions.** *Online (Zoom) and in-person classes will be focused on exercises and discussion, and participants are expected to attend all four sessions*. Please make sure you take this into account when you sign up for the workshop!
+_Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
+
+---
 
 ### **Description:**
 This **hands-on** workshop will introduce participants to using R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R.
@@ -36,21 +39,28 @@ Workshop segments will address the following:
 
 In addition to the above, we will focus on good data management practices, installing and working with data wrangling and visualization packages, and the different ways to get help when coding in R. After this workshop participants can expect to be comfortable with the basics of data wrangling and plotting using R. 
 
+---
+
 ### **Prerequisites:**
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
 This workshop (or fluency in R) is a prerequisite for advanced workshops introducing the analysis of bulk RNA-seq and scRNA-seq data.
 
+---
+
 ### **Who should attend?**
 
-Eligible* Harvard researchers who: 
+[Eligible*](#eligibility-requirements) Harvard researchers who: 
 
 - want to learn how to use R and RStudio for data wrangling and visualizations
 - desire to perform data analysis methods where basic knowledge of R is a requirement
 - are interested in taking an advanced workshop with us on analysis of sequencing data within the next 6 - 8 months
 
-### **Cost and Registration:**
+
+---
+
+### **Cost:**
 
 There is a ***non-refundable*** and ***non-transferable*** $35 registration fee for this online workshop.
 
@@ -61,8 +71,20 @@ We will be accepting 40-45 participants on a first-come, first-served basis:
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
-<a><button name="button" style = "color: red" onclick="https://hbctraining.github.io/main/">[Click here to Register!](https://hbctraining.github.io/main/)</button></a>
 
+---
+
+### **Registration:**
+
+Please make sure you **take the following into account when signing up** for the workshop:
+ 
+1. _Participants are expected to **attend all four sessions**._
+2. _Between workshop sessions **participants will be required to spend 2-3 hours on reading and exercises**._
+3. _**Online (Zoom) and in-person** classes will be focused on exercises and **discussion**._
+
+<a><button name="button" style = "color: red" onclick="https://bioinformatics.sph.harvard.edu/">[Click here to Register!](https://hbctraining.github.io/main/)</button></a>
+
+---
 
 ### **Eligibility requirements:**
 
@@ -79,6 +101,8 @@ We will be accepting 40-45 participants on a first-come, first-served basis:
 (Please check the eligibility requirements prior to registering)
 
 NOTE: We do ***not*** record our training sessions. 
+
+---
 
 ### **Questions?**
 
