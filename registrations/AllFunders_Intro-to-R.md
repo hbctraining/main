@@ -63,6 +63,9 @@ We will be accepting 40-45 participants on a first-come, first-served basis:
 
 [Click here to register]()
 
+<a><button name="button" style = "color: red" onclick="https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R.html">Click here to Register!</button></a>
+
+
 ### **Eligibility requirements:**
 
 <sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
