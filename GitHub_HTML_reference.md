@@ -1,0 +1,229 @@
+---
+title: "Using HTML with GitHub"
+author: "Will Gammerdinger"
+date: "October 24th, 2022"
+---
+
+Contributors: Will Gammerdinger
+
+# HTML Basics
+
+GitHub's Markdown format supports a limited about of HTML formatting. Ths goal of this reference is to provide users of GitHub Markdown with a reference that they can use when using HTML within GitHub's Markdown.
+
+The basic syntax of HTML will look like:
+
+<***tag***>Text you want that tag applied<***/tag***>.
+
+You can think of the first `<>` as "opening the tag" and `</>` as "closing the tag".
+
+## General formatting
+
+The first few subsections will discuss formatting that can easily be done in GitHub Markdown. However, if you are working within a larger HTML code chunk it is best to use HTML formatting, thus we need to discuss these essential formatting tools in HTML.
+
+### Bold `<b>`
+
+You could be accustomed to using `**`in order to initiate **bold** in GitHub Markdown. However, you can also do this in HTML by using `<b>` before the text you would like to be bold and `</b>` following the text you would like to be bold. The syntax would look like this:
+
+```
+<b>Text that you want to be bold</b>
+```
+
+Which appears as:
+
+<b>Text that you want to be bold</b>
+
+### Italics `<i>`
+
+In order to do italics in HTML, you need to use `<i>` to initiate the italics and `</i>` to close the italics. The syntax would look like:
+
+```
+<i>Text that you want to be italicized</i>
+```
+
+Which appears as:
+
+<i>Text that you want to be italicized</i>
+
+### Underline `<ins>`
+
+Underlining text in HTMl requires that you use `<ins>` to initiate underlining and `</ins>` to close underlining. The syntax would look like:
+
+
+```
+<ins>Text that you want to be underlined</ins>
+```
+
+Which appears as:
+
+<ins>Text that you want to be underlined</ins>
+
+### Subscript `<sub>`
+
+To initiate subscript you need to use `<sub>` and to close subscript `</sub>` The syntax would look like:
+
+```
+H<sub>2</sub>O
+```
+
+Which appears as:
+
+H<sub>2</sub>O
+
+
+### Subscript `<sup>`
+
+To initiate superscript you need to use `<sup>` and to close subscript `</sup>` The syntax would look like:
+
+```
+F<sup>2</sup>
+```
+
+Which appears as:
+
+F<sup>2</sup>
+
+## Combining formatting
+
+Formatting in HTML is oftentimes quite flexible and you can nest one formatting tag within another. For example if you wanted your text to be bold and underlined you could use:
+
+```
+<b><ins>Text that you want to be bold and underlined</ins></b>
+```
+
+Which appears as:
+
+<b><ins>Text that you want to be bold and underlined</ins></b>
+
+## Code
+
+You may be insterested in displaying code in HTML. Similarly, to how GitHub Markdown has <code>`</code> for in-line code and <code>```</code> for code blocks, HTML has <code>&lt;code&gt;</code> for in-line code and <code>&lt;pre&gt;</code> for code blocks.
+
+### In-line <code>&lt;code&gt;</code> 
+
+You can initiate in-line code with <code>&lt;code&gt;</code>  and close in-line code with <code>&lt;/code&gt;</code>. The syntax would look like:
+
+```
+Change directories to your favorite pictures directory by using: <code>cd /my/favorite/pictures/</code>
+```
+
+Which appears as:
+
+ Change directories to your favorite pictures directory by using: <code>cd /my/favorite/pictures/</code>
+
+### Code Blocks <code>&lt;pre&gt;</code>
+
+To initial a code block in HTML, you need to use <code>&lt;pre&gt;</code> and <code>&lt;/pre&gt;</code> terminates a code block. The syntax would look like:
+
+```
+To see the contents of your favorite pictures directory:
+<pre>cd /my/favorite/pictures/
+ls</pre>
+```
+
+Which appears as:
+
+To see the contents of your favorite pictures directory:
+<pre>cd /my/favorite/pictures/
+ls</pre>
+
+## Special Characters
+
+HTML is has some special characters that it is picky about. The table below displays the special characters and what you should use in their place in HTML.
+
+| Character | HTML |
+|----|----|
+| < | `&lt;` |
+| > | `&gt;` |
+| ' | `&#39;` |
+| " | `&quot;` |
+| & | `&amp;` |
+
+```
+As Lisa recounted the story, &quot;Marge said &#39;Homer, don't you know that 3 &lt; 4 &amp; also that 3 &gt; 1?&#39;&quot;
+```
+
+Which appears as:
+
+As Lisa recounted the story, &quot;Marge said &#39;Homer, don't you know that 3 &lt; 4 &amp; also that 3 &gt; 1?&#39;&quot;
+
+## Breaks `<br>`
+
+To add breaks/new lines use `<br>`. The syntax would look like:
+
+```
+Text 1<br>
+Text 2<br><br>
+Text 3
+```
+
+Which appears as:
+
+Text 1<br>
+Text 2<br><br>
+Text 3
+
+## Lists
+
+You could be interested in making bulleted lists without numbers (Unordered Lists) using `<ul>` or list with numbers (Ordered Lists) `<ol>`.
+
+### Unordered Lists `<ul>`
+
+To make a bulleted list without numbers (Unordered List) You will need to initiate the unordered list with `<ul>` and close the unordered list with `</ul>`. Each bullet in the unordered list is going to need to start with a line item tag `<li>` and then close with `<li>`. The syntax would look like:
+
+```
+Items I need from the grocery store:
+<ul><li>Milk</li>
+<li>Eggs</li>
+<li>Cereal</li></ul>
+```
+
+Which appears as:
+
+Items I need from the grocery store:
+<ul><li>Milk</li>
+<li>Eggs</li>
+<li>Cereal</li></ul>
+
+### Ordered Lists `<ol>`
+
+Ordered lists function similarly to unordered lists except you initiate ordered lists with `<ol>` and close them with `</ol>`. Like unordered lists they still need each list item to be initiated with `<li>` and closed with `</li>`. The syntax would look like:
+
+```
+The definitive ranking of best colors is:
+<ol><li>Red</li>
+<li>Green</li>
+<li>Blue</li></ol>
+```
+
+Which appears as:
+
+The definitive ranking of best colors is:
+<ol><li>Red</li>
+<li>Green</li>
+<li>Blue</li></ol>
+
+### Nesting Lists
+  
+Sometimes you might want to put a sub-bullets to a bulleted item. That follows all of the same syntactical rules we have discussed. The syntax for would like:
+  
+```
+My unordered list:
+<ul><li>List Item 1</li>
+<li>List Item 2</li>
+<ul><li>Sub-list Item 1</li>
+<li>Sub-list Item 2</li>
+<li>Sub-list Item 3</li></ul>
+<li>List Item 3</li></ul>
+```
+
+Which appears as:
+
+My unordered list:
+<ul><li>List Item 1</li>
+<li>List Item 2</li>
+<ul><li>Sub-list Item 1</li>
+<li>Sub-list Item 2</li>
+<li>Sub-list Item 3</li></ul>
+<li>List Item 3</li></ul>
+
+## Dropdowns
