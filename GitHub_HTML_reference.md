@@ -226,4 +226,20 @@ My unordered list:
 <li>Sub-list Item 3</li></ul>
 <li>List Item 3</li></ul>
 
-## Dropdowns
+## Dropdowns Menus
+
+One neat aspect that HTML offers that we can't do in GitHub's Markdown is use dropdown menus. These collapsible menus are great for allowing users to toggle information. All of the formatting that we've used up to this point is all able to be used within these dropdown menus. To initiate a dropdown menu use `<details>` and to end a dropdown menu use `</details>`. When using a dropdown menu, you will likely want to have text for the user to click on in order to engage this dropdown. This text is initiated with `<summary>` and closed with `</summary>`. The syntax would look like:
+
+```
+<details>
+<summary>Click here to expand the dropdown menu</summary>
+You couldn't see this menu before, but now you can. Click the &quot;Click here to expand the dropdown menu&quot; again to hide this.
+</details>
+```
+
+Which appears as:
+
+<details>
+<summary>Click here to expand the dropdown menu</summary>
+You couldn't see this menu before, but now you can. Click the &quot;Click here to expand the dropdown menu&quot; again to hide this.
+</details>
