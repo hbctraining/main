@@ -8,7 +8,7 @@ Contributors: Will Gammerdinger
 
 # HTML Basics
 
-GitHub's Markdown format supports a limited about of HTML formatting. Ths goal of this reference is to provide users of GitHub Markdown with a reference that they can use when using HTML within GitHub's Markdown.
+GitHub's Markdown format supports a limited amount of HTML formatting. The goal of this reference is to provide users of GitHub Markdown with a reference that they can use when using HTML within GitHub's Markdown.
 
 The basic syntax of HTML will look like:
 
@@ -18,7 +18,7 @@ You can think of the first `<>` as "opening the tag" and `</>` as "closing the t
 
 ## General formatting
 
-The first few subsections will discuss formatting that can easily be done in GitHub Markdown. However, if you are working within a larger HTML code chunk it is best to use HTML formatting, thus we need to discuss these essential formatting tools in HTML.
+The first few subsections will discuss formatting that can easily be done in GitHub Markdown. However, ***if you are working within a larger HTML code chunk it is best to use HTML formatting for all parts of that HTML code chunk***, thus we need to discuss these essential formatting tools in HTML.
 
 ### Bold `<b>`
 
@@ -48,7 +48,6 @@ Which appears as:
 
 Underlining text in HTMl requires that you use `<ins>` to initiate underlining and `</ins>` to close underlining. The syntax would look like:
 
-
 ```
 <ins>Text that you want to be underlined</ins>
 ```
@@ -59,7 +58,7 @@ Which appears as:
 
 ### Subscript `<sub>`
 
-To initiate subscript you need to use `<sub>` and to close subscript `</sub>` The syntax would look like:
+To initiate subscript you need to use `<sub>` and to close subscript you need to use `</sub>` The syntax would look like:
 
 ```
 H<sub>2</sub>O
@@ -72,7 +71,7 @@ H<sub>2</sub>O
 
 ### Subscript `<sup>`
 
-To initiate superscript you need to use `<sup>` and to close subscript `</sup>` The syntax would look like:
+To initiate superscript you need to use `<sup>` and to close subscript you need ot use `</sup>` The syntax would look like:
 
 ```
 F<sup>2</sup>
@@ -96,11 +95,11 @@ Which appears as:
 
 ## Code
 
-You may be insterested in displaying code in HTML. Similarly, to how GitHub Markdown has <code>`</code> for in-line code and <code>```</code> for code blocks, HTML has <code>&lt;code&gt;</code> for in-line code and <code>&lt;pre&gt;</code> for code blocks.
+You may be interested in displaying code in HTML. Similarly, to how GitHub Markdown has <code>`</code> for in-line code and <code>```</code> for code blocks, HTML has <code>&lt;code&gt;</code> for in-line code and <code>&lt;pre&gt;</code> for code blocks.
 
 ### In-line <code>&lt;code&gt;</code> 
 
-You can initiate in-line code with <code>&lt;code&gt;</code>  and close in-line code with <code>&lt;/code&gt;</code>. The syntax would look like:
+You can initiate in-line code with <code>&lt;code&gt;</code> and close in-line code with <code>&lt;/code&gt;</code>. The syntax would look like:
 
 ```
 Change directories to your favorite pictures directory by using: <code>cd /my/favorite/pictures/</code>
@@ -108,7 +107,7 @@ Change directories to your favorite pictures directory by using: <code>cd /my/fa
 
 Which appears as:
 
- Change directories to your favorite pictures directory by using: <code>cd /my/favorite/pictures/</code>
+Change directories to your favorite pictures directory by using: <code>cd /my/favorite/pictures/</code>
 
 ### Code Blocks <code>&lt;pre&gt;</code>
 
@@ -137,6 +136,8 @@ HTML is has some special characters that it is picky about. The table below disp
 | ' | `&#39;` |
 | " | `&quot;` |
 | & | `&amp;` |
+
+Their syntax would look like:
 
 ```
 As Lisa recounted the story, &quot;Marge said &#39;Homer, don't you know that 3 &lt; 4 &amp; also that 3 &gt; 1?&#39;&quot;
@@ -204,7 +205,7 @@ The definitive ranking of best colors is:
 
 ### Nesting Lists
   
-Sometimes you might want to put a sub-bullets to a bulleted item. That follows all of the same syntactical rules we have discussed. The syntax for would like:
+Sometimes you might want to put a sub-bullets to a bulleted item. This follows all of the same syntactical rules we have discussed and your new list needs to be intiated and closed prior to the larger list being closed. The syntax for would like:
   
 ```
 My unordered list:
@@ -226,6 +227,24 @@ My unordered list:
 <li>Sub-list Item 3</li></ul>
 <li>List Item 3</li></ul>
 
+## Inserting Images `<p>`
+
+You might be interested in inserting an image. To do this, initiate the image with `<p>` and close the image with `</p>`. However, in your `<p>` you are also going to need to specifiy your alignment for the image (i.e. would you like the image `left`-aligned, `center`-aligned or `right`-aligned. The default is a `left`-alignment.
+
+Between your `<p>` and `</p>` you will need to open up `<img>` tag and and provide the indirect path from your current position to the image on GitHub to the `src` option along with the width in pixels that you would like to use to the `width` option. The syntax would look like:
+
+```
+<p align="center">
+<img src="img/breakfast_Monvej.png" width="700" >
+</p>
+```
+
+Which appears as:
+
+<p align="center">
+<img src="img/breakfast_Monvej.png" width="700" >
+</p>
+
 ## Dropdowns Menus
 
 One neat aspect that HTML offers that we can't do in GitHub's Markdown is use dropdown menus. These collapsible menus are great for allowing users to toggle information. All of the formatting that we've used up to this point is all able to be used within these dropdown menus. To initiate a dropdown menu use `<details>` and to end a dropdown menu use `</details>`. When using a dropdown menu, you will likely want to have text for the user to click on in order to engage this dropdown. This text is initiated with `<summary>` and closed with `</summary>`. The syntax would look like:
@@ -243,3 +262,6 @@ Which appears as:
 <summary>Click here to expand the dropdown menu</summary>
 You couldn't see this menu before, but now you can. Click the &quot;Click here to expand the dropdown menu&quot; again to hide this.
 </details>
+
+***
+*This lesson has been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
