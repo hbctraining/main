@@ -13,14 +13,14 @@ Let's start by trying to understand what 'omics data, HTS, computer clusters, sh
 
 ## What the heck is 'omics?
 
-Using methods such as Sanger sequencing and allozymes scientists used to be able to study just a few genes at a time. However, new sequencing technologies (often abbreviated **NGS for next generation sequencing**) now allow us to look at the entirety of a certain type of data in an organsim. This data, called 'omics data, encompasses the entirety genes, proteins, etc in a cell or organism. We can break 'omics down into 4 specific categories:
+Using methods such as Sanger sequencing and allozymes scientists used to be able to study just a few genes at a time. However, new sequencing technologies (often abbreviated **NGS for next generation sequencing**) now allow us to look at the entirety of a certain type of data in an organsim. This data, called 'omics data, encompasses the entirety of the genes or proteins etc in a cell or organism. We can break 'omics down into 4 specific categories:
 
-* genOMICS - The study of the complete set of **DNA** in an organism, sigle cells, or group of cells
-* transcriptOMICS - The study of the complete set of **RNA** in an organism, sigle cells, or group of cells
-* proteOMICS - The study of the complete set of **Proteins** in an organism, sigle cells, or group of cells
-* metabolOMICS - The study of the complete set of **Metabolites** in an organism, sigle cells, or group of cells
+* genOMICS - The study of the complete set of **DNA** in an organism, sigle cells, or group of cells.
+* transcriptOMICS - The study of the complete set of **RNA** in an organism, sigle cells, or group of cells.
+* proteOMICS - The study of the complete set of **Proteins** in an organism, sigle cells, or group of cells.
+* metabolOMICS - The study of the complete set of **Metabolites** in an organism, sigle cells, or group of cells.
 
-'Omics does not put a limit on the number of biological or technical replicates. So even if you are studying the genome of a single individual it is considered 'omics data.
+'Omics does not put a limit on the number of biological or technical replicates. So even if you are studying the genome of a single individual it is considered 'omics data. However, we usually are looking at data from large number of biological samples (individuals, cell lines, etc).
 
 ## How does High Throughput Sequencing relate to 'omics?
 
