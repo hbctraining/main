@@ -24,10 +24,10 @@ Using methods such as Sanger sequencing and allozymes scientists used to be able
 
 ## How does High Throughput Sequencing relate to 'omics?
 
-Genomes and transcriptomes, etc are massive data sets containing hundreds of millions or billions of [base pairs](https://en.wikipedia.org/wiki/Base_pair) (A,T,G,C). For a comparison, an average length book might have something like 375,000 characters. Reading those bases one at a time will take too long even for a fast machine. **H**igh **T**hroughput **S**equencing (HTS) is when multiple DNA or RNA moleculars are sequenced in parallel (i.e., at the same time). This leads to hundreds of millions of molecules being sequenced at one time. Because only DNA and RNA are sequenced, HTS is used for genomics and transcriptomics. However, newer methodologies allow information about chromatin and proteins to be incorporated with this data.
+Genomes and transcriptomes, etc are massive data sets containing hundreds of millions or billions of [base pairs](https://en.wikipedia.org/wiki/Base_pair) (A,T,G,C). For a comparison, an average length book might have about 375,000 characters. Reading those bases one at a time will take too long even for a fast machine. **H**igh **T**hroughput **S**equencing (HTS) is when multiple DNA or RNA moleculars are sequenced in parallel (i.e., at the same time). This leads to hundreds of millions of molecules being sequenced at one time. Because only DNA and RNA are sequenced, HTS is used for genomics and transcriptomics. However, newer methodologies allow information about chromatin and proteins to be incorporated with this data.
 
 ## How do clusters and HPC relate to HTS?
-Let's return to our book example. If one book is 375,000 characters then 3.2 billion characters (the size of the human genome) translates to 8,533 books! So while we might keep 10s or even hundreds of books at our house most people will never have thousands. 
+Let's return to our book example. If one book is 375,000 characters then 3.2 billion characters (the size of the human genome) translates to 8,533 books! While we might keep tens or even hundreds of books at our house, most people will never have thousands. 
 
 <p align="center">
 <img src="img/library.jpg" width="500">
@@ -37,7 +37,7 @@ Can you imagine dusting this?
 </p>
 
 
-Same with our local computer, while we might keep small data on our laptop we don't want to clutter it up with huge data files. And this is just storage! You might be able to alphabetize or organize a hundred books but >8,000 books would be every overwhelming! The same goes for our computer. To organize billions of basepairs and make sense of our sequencing data we simply need more power. The mac laptop I am writing this on has 10 cores. A high perfomance computing (HPC) cluster might have hundreds of cores! That is a lot more power for the big computational work we want to do.
+It's the same with our local computer.  While we might keep small data files on our laptop, we don't want to clutter it up with huge data files. And this is just thinking about storage! Books or data sets need to be organized and kept track of as well. You might be able to alphabetize or organize a hundred books on your own but working with >8,000 books would be overwhelming! The same goes for our computer. To organize billions of basepairs and make sense of our sequencing data we simply need more power. The mac laptop I am writing this on has 10 cores. In comparison, a high perfomance computing (HPC) cluster might have hundreds of cores. That is a lot more power for the big computational work we want to do!
 
 Let's take a quick look at the basic architecture of a cluster environment and some cluster-specific jargon.
 
