@@ -13,20 +13,22 @@ Let's start by trying to understand what 'omics data, HTS, computer clusters, sh
 
 ## What the heck is 'omics?
 
-New sequencing technologies (often abbreviated **NGS for next generation sequencing**) now allow us to look at the entirety of a certain type of data in an organsim. To put it another way, scientists used to be limited to studying one gene, one protein etc. 'omics data encompasses the entirety genes, proteins, etc in a cell or organism. We can break 'omics down into specific categories
+Using methods such as Sanger sequencing and allozymes scientists used to be able to study just a few genes at a time. However, new sequencing technologies (often abbreviated **NGS for next generation sequencing**) now allow us to look at the entirety of a certain type of data in an organsim. This data, called 'omics data, encompasses the entirety genes, proteins, etc in a cell or organism. We can break 'omics down into 4 specific categories:
 
 * genOMICS - The study of the complete set of **DNA** in an organism, sigle cells, or group of cells
 * transcriptOMICS - The study of the complete set of **RNA** in an organism, sigle cells, or group of cells
 * proteOMICS - The study of the complete set of **Proteins** in an organism, sigle cells, or group of cells
 * metabolOMICS - The study of the complete set of **Metabolites** in an organism, sigle cells, or group of cells
 
+'Omics does not put a limit on the number of biological or technical replicates. So even if you are studying the genome of a single individual it is considered 'omics data.
 
 ## How does High Throughput Sequencing relate to 'omics?
 
-**H**igh **T**hroughput **S**equencing (HTS) is when multiple DNA or RNA moleculars are sequenced in parallel (i.e., at the same time). This leads to hundreds of millions of molecules being sequenced at one time. Because only DNA and RNA are sequenced HTS is used for genomics and transcriptomics. However, newer methodologies allow information about chromatin and proteins to be incorporated with this data.
+Genomes and transcriptomes, etc are massive data sets containing hundreds of millions or billions of [base pairs](https://en.wikipedia.org/wiki/Base_pair) (A,T,G,C). For a comparison, an average length book might have something like 375,000 characters. Reading those bases one at a time will take too long even for a fast machine. **H**igh **T**hroughput **S**equencing (HTS) is when multiple DNA or RNA moleculars are sequenced in parallel (i.e., at the same time). This leads to hundreds of millions of molecules being sequenced at one time. Because only DNA and RNA are sequenced HTS is used for genomics and transcriptomics. However, newer methodologies allow information about chromatin and proteins to be incorporated with this data.
 
 ## How do clusters relate to HTS?
-Data too big! need cluster! See below for more info on clusters.
+Let's return to our book example. If one book is 375,000 characters then 3.2 billion characters (the size of the human genome) translates to 8,533 books! So while we might keep 10s or even hundreds of books at our house most people will never have thousands. Same with our local computer, while we might keep small data on our laptop we don't want to clutter it up with huge data files. And this is just storage! You might be able to alphabetize or organize a hundred books but >8,000 books would be every overwhelming! The same goes for our computer. To organize billions of basepairs and make sense of our sequencing data we simply need more power. 
+
 
 ## What is shell and how does it relate to clusters
 Need shell to run cluster!
