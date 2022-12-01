@@ -58,7 +58,7 @@ Which appears as:
 
 ### Subscript `<sub>`
 
-To initiate subscript you need to use `<sub>` and to close subscript you need to use `</sub>` The syntax would look like:
+To initiate subscript you need to use `<sub>` and to close subscript you need to use `</sub>`. The syntax would look like:
 
 ```
 H<sub>2</sub>O
@@ -71,7 +71,7 @@ H<sub>2</sub>O
 
 ### Subscript `<sup>`
 
-To initiate superscript you need to use `<sup>` and to close subscript you need ot use `</sup>` The syntax would look like:
+To initiate superscript you need to use `<sup>` and to close subscript you need ot use `</sup>`. The syntax would look like:
 
 ```
 F<sup>2</sup>
@@ -80,6 +80,18 @@ F<sup>2</sup>
 Which appears as:
 
 F<sup>2</sup>
+
+### Hyperlink `<a>`
+
+To intiate a hyperlink you need to use `<a>` and to close a hyperlink you need to use `</a>`. Additionally, within the `<a>` tag you will need to place the `href=` option and then place your URL link in double quotes after it. The text you would like to appear to click on for the hyperlink will be between the `<a>` and `</a>`. The syntax would look like:
+
+```
+<a href="https://bioinformatics.sph.harvard.edu/training">HBC Training Webpage</a>
+```
+
+Which appears as:
+
+<a href="https://bioinformatics.sph.harvard.edu/training">HBC Training Webpage</a>
 
 ## Combining formatting
 
