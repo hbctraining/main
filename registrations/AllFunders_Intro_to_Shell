@@ -16,25 +16,13 @@ _Instruction will be **mostly learner-centric**, requiring a time commitment bet
 ---
 
 ### **Description:**
-This **hands-on** workshop will introduce participants to using R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R.
+Access to tools and computational resources for large-scale data analysis often require knowledge of the command-line interface (also referred to as Unix or Linux or bash or shell). In this 3-day hands-on workshop participants will learn the following:
 
-This workshop is intended to provide basic R programming knowledge. Participants should be interested in:
+- basic shell commands for navigating the file system, exploring file contents, performing basic operations, such as moving, copying, and renaming
+- how to write shell scripts and use "for" loops for efficiently running the same commands on multiple files
+- how to use [HMS-RC's](https://it.hms.harvard.edu/our-services/research-computing) O2 cluster for high-performance computing (HPC)
 
-- learning the basics of R for reproducible data wrangling and visualizations (ggplot2)
-- performing data analyses requiring a basic knowledge of R
-- learning R to take an advanced workshop with us on the analysis of sequencing data in the next 6-8 months
-
-
-Workshop segments will address the following:
-
-- **R syntax**: Understanding the different 'parts of speech' in R; introducing variables and functions, demonstrating how functions work, and modifying arguments for specific use cases.
-- **Data structures in R**: Getting a handle on the classes of data structures and the types of data used by R.
-- **Data inspection and wrangling**: Reading in data from files. Using indices and various functions to subset and create datasets, including the tidyverse suite of packages.
-- **Visualizing data**: Visualizing data using plotting functions from the external package ggplot2.
-- **Exporting data and graphics**: Generating new data tables and plots for use outside of the R environment.
-
-
-In addition to the above, we will focus on good data management practices, installing and working with data wrangling and visualization packages, and the different ways to get help when coding in R. After this workshop participants can expect to be comfortable with the basics of data wrangling and plotting using R. 
+**Together, this knowledge is critical for researchers looking to improve efficiency when performing computational tasks and it forms the foundation needed to analyze high-throughput sequencing data.**
 
 ---
 
@@ -42,10 +30,10 @@ In addition to the above, we will focus on good data management practices, insta
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop (or fluency in R) is a prerequisite for advanced workshops introducing the analysis of bulk RNA-seq and scRNA-seq data.
+This workshop is a prerequisite for advanced workshops introducing the analysis of RNA-seq, ChIP-seq and Introduction to Chromatin biology.
 
 ---
-
+MS: start here
 ### **Who should attend?**
 
 [Eligible*](#eligibility-requirements) Harvard researchers who: 
