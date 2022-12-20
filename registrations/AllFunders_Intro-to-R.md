@@ -49,6 +49,16 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ---
 
+### Course requirements:**
+
+- Mandatory attendance for all four classes
+- 2-3 hours of reading and exercises from selected lessons before each workshop session
+- Active paricipation during discussion sessions
+
+Instruction will be mostly learner-centric. Online classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
+
+---
+
 ### **Who should attend?**
 
 [Eligible*](#eligibility-requirements) Harvard researchers who: 
