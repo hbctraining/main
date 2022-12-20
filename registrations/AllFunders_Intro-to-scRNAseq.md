@@ -1,83 +1,70 @@
-# Introduction to R workshop (2023)
+# Introduction to single-cell RNA-seq data analysis workshop (2023)
 
 *Note: Until further notice, workshops will be taught online via Zoom. However, we anticipate returning to in-person teaching in 2023.*
 
 
 ### **Workshop dates and times:**
 
-**Tuesday, April 19th**: 10 AM - 12 PM
+**Friday, April 22nd**: 9:30 AM - 12 PM
 
-**Friday, April 22nd**: 10 AM - 12 PM
+**Tuesday, April 26th**: 9:30 AM - 12 PM
 
-**Tuesday, April 26th**: 10 AM - 12 PM
-
-**Friday, April 29th**: 10 AM - 12 PM
+**Friday, April 29th**: 9:30 AM - 12 PM
 
 
-_Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
+_Note: Registration will open about 3 weeks prior to the workshop dates, and the dates/times above may be updated at that time._
 
 ---
 
 ### **Description:**
-This **hands-on** workshop will introduce participants to using R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R.
-
-This workshop is intended to provide basic R programming knowledge. Participants should be interested in:
-
-- learning the basics of R for reproducible data wrangling and visualizations (ggplot2)
-- performing data analyses requiring a basic knowledge of R
-- learning R to take an advanced workshop with us on the analysis of sequencing data in the next 6-8 months
-
-
-Workshop segments will address the following:
-
-- **R syntax**: Understanding the different 'parts of speech' in R; introducing variables and functions, demonstrating how functions work, and modifying arguments for specific use cases.
-- **Data structures in R**: Getting a handle on the classes of data structures and the types of data used by R.
-- **Data inspection and wrangling**: Reading in data from files. Using indices and various functions to subset and create datasets, including the tidyverse suite of packages.
-- **Visualizing data**: Visualizing data using plotting functions from the external package ggplot2.
-- **Exporting data and graphics**: Generating new data tables and plots for use outside of the R environment.
-
-
-In addition to the above, we will focus on good data management practices, installing and working with data wrangling and visualization packages, and the different ways to get help when coding in R. After this workshop participants can expect to be comfortable with the basics of data wrangling and plotting using R. 
+This **hands-on** workshop will instruct participants on how to design a single-cell RNA-seq experiment, and how to efficiently manage and analyze the data starting from count matrices. This will be a hands-on workshop in which we will focus on using the Seurat package in R.  
 
 ---
 
 ### **Prerequisites:**
 
-This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
+This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the last 6-8 months: . 
 
-This workshop (or fluency in R) is a prerequisite for advanced workshops introducing the analysis of bulk RNA-seq and scRNA-seq data.
+- [Introduction to R] (https://github.com/hbctraining/main/blob/master/registrations/AllFunders_Intro-to-R.md)
+
+**I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
+Yes, you can register **AND** please do the following:
+
+Complete the registration first
+Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
 
 ---
 
 ### Course requirements:**
 
-- Mandatory attendance for all four classes
-- 2-3 hours of reading and exercises from selected lessons before each workshop session
+- Mandatory attendance for all three classes
+- 3-5 hours of reading and exercises from selected lessons before each workshop session
 - Active paricipation during discussion sessions
 
-Instruction will be mostly learner-centric. Online classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
+Instruction will be mostly learner-centric. Online and in-person classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
 
 ---
 
 ### **Who should attend?**
 
-[Eligible*](#eligibility-requirements) Harvard researchers who: 
+[Eligible*](#eligibility-requirements) Harvard researchers who want to learn: 
 
-- want to learn how to use R and RStudio for data wrangling and visualizations
-- desire to perform data analysis methods where basic knowledge of R is a requirement
-- are interested in taking an advanced workshop with us on analysis of sequencing data within the next 6 - 8 months
-
+- How to design a single-cell RNA-seq experiment
+- How to use the Seurat package to analyze single-cell RNA-seq count matrices
+- How to compute and assess QC metrics at every step in the workflow
+- How to cluster cells based on expression data and derive the identity of the different cell types present
+- How to combine samples within a dataset, and across datasets using Integration
 
 ---
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $35 registration fee for this online workshop.
+There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this advanced workshop.
 
-We will be accepting 40-45 participants on a first-come, first-served basis:
+We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 40-45 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $35 registration fee. 
-- **If you are not among the first 40-45 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $50 registration fee. 
+- **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
