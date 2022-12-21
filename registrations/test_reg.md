@@ -87,7 +87,7 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" onclick="location.href=''">Registration is now closed!</button></a>
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
  
 ---
