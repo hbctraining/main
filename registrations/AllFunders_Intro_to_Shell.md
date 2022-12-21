@@ -1,6 +1,6 @@
-# Introduction to R workshop (2022)
+# Introduction to the Command-Line Interface (Shell, Bash, Unix, Linux) (2023)
 
-*Note: Until further notice, workshops will be taught online via Zoom. However, we anticipate returning to in-person teaching in 2022.*
+*Note: We anticipate returning to in-person teaching in March 2023.*
 
 
 ### **Workshop dates and times:**
