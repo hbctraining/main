@@ -1,17 +1,17 @@
 # Introduction to R workshop (2023)
 
-*Note: Until further notice, workshops will be taught online via Zoom. However, we anticipate returning to in-person teaching in 2023.*
+*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **Workshop dates and times:**
+### **ONLINE - Workshop dates and times:**
 
-**Tuesday, April 19th**: 10 AM - 12 PM
+**Tuesday, January 24th**: 10 AM - 12 PM
 
-**Friday, April 22nd**: 10 AM - 12 PM
+**Friday, January 27th**: 10 AM - 12 PM
 
-**Tuesday, April 26th**: 10 AM - 12 PM
+**Tuesday, January 31st**: 10 AM - 12 PM
 
-**Friday, April 29th**: 10 AM - 12 PM
+**Friday, February 3th**: 10 AM - 12 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
@@ -49,16 +49,6 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ---
 
-### Course requirements:**
-
-- Mandatory attendance for all four classes
-- 2-3 hours of reading and exercises from selected lessons before each workshop session
-- Active paricipation during discussion sessions
-
-Instruction will be mostly learner-centric. Online classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
-
----
-
 ### **Who should attend?**
 
 [Eligible*](#eligibility-requirements) Harvard researchers who: 
@@ -67,35 +57,37 @@ Instruction will be mostly learner-centric. Online classes will be focused on ex
 - desire to perform data analysis methods where basic knowledge of R is a requirement
 - are interested in taking an advanced workshop with us on analysis of sequencing data within the next 6 - 8 months
 
-
 ---
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $35 registration fee for this online workshop.
+There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this online workshop.
 
-We will be accepting 40-45 participants on a first-come, first-served basis:
+We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 40-45 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $35 registration fee. 
-- **If you are not among the first 40-45 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $50 registration fee. 
+- **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
 
 ---
 
-### **Registration:**
+### **Course requirements and Registration:**
 
 Please make sure you **take the following into account when signing up** for the workshop:
  
-1. _Participants are expected to **attend all four sessions**._
-2. _Between workshop sessions **participants will be required to spend 2-3 hours on reading and exercises**._
-3. _**Online (Zoom) and in-person** classes will be focused on exercises and **discussion**._
+1. _Mandatory attendance for all four classes._
+2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
+3. _Active paricipation during discussion sessions._
+
+Instruction will be mostly learner-centric. Online classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" onclick="location.href='https://bioinformatics.sph.harvard.edu/'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
- 
+
+(Registration opens 2 weeks before the start of basic workshops. Workshop times are subect to change.)
 ---
 
 ### **Eligibility requirements:**
