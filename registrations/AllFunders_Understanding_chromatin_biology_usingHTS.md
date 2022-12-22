@@ -26,7 +26,7 @@ This 3-day hands-on workshop will begin with a basic introduction of concepts re
 
 This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
-- [Introduction to command-line interface workshop ](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-Shell)
+- [Introduction to command-line interface workshop ](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell)
 
 **I am fluent in command-line and already use HMS-RC's O2 cluster but have not attended the HBC prerequisite workshop, can I still register?**
 
