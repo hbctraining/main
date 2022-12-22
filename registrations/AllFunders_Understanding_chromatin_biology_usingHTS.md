@@ -3,7 +3,7 @@
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **ONLINE Workshop dates and times:**
+### **Workshop dates and times:**
 
 **TBA**: 9:30 AM - 12 PM
 
