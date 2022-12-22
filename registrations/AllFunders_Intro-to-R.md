@@ -88,6 +88,7 @@ Instruction will be mostly learner-centric. Online classes will be focused on ex
 </div>
 
 (Registration opens 2 weeks before the start of basic workshops. Workshop times are subect to change.)
+
 ---
 
 ### **Eligibility requirements:**
