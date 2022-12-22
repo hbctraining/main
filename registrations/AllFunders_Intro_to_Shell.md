@@ -1,9 +1,9 @@
 # Introduction to the Command-Line Interface (Shell, Bash, Unix, Linux) (2023)
 
-*Note: We anticipate returning to in-person teaching in March 2023.*
+*Note: In 2023, some HBC workshops will be taught in person and others will be online via Zoom.*
 
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
 **Feb/Mar 2023 TBD**: 9:30 AM - 12 PM
 
