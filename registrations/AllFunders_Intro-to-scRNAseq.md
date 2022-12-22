@@ -25,13 +25,14 @@ This **hands-on** workshop will instruct participants on how to design a **singl
 
 This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
-- [Introduction to R] (https://github.com/hbctraining/main/blob/master/registrations/AllFunders_Intro-to-R.md)
+- [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
 
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
+
 Yes, you can register **AND** please do the following:
 
-Complete the registration first
-Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
+- Complete the registration first
+- Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
 
 ---
 
