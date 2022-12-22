@@ -1,4 +1,4 @@
-# Understanding chromatinbiology using high-throughput sequencing workshop (2023)
+# Understanding chromatin biology using high-throughput sequencing workshop (2023)
 
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
