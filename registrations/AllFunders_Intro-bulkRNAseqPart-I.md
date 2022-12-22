@@ -1,5 +1,6 @@
 # Introduction to bulk RNA-seq data Data Analysis Part I workshop (2023) 
-(Experimental design --> Raw data --> Count matrices)
+**(Experimental design --> Raw data --> Count matrices)**
+
 ---
 
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
