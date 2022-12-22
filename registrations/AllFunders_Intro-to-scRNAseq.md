@@ -1,9 +1,9 @@
 # Introduction to single-cell RNA-seq data analysis workshop (2023)
 
-*Note: We anticipate returning to in-person teaching in March 2023.*
+*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
 **Friday, February 10th**: 9:30 AM - 12 PM
 
