@@ -5,11 +5,11 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Feb/Mar 2023 TBD**: 9:30 AM - 12 PM
+**Feb/Mar 2023 TBA**: 9:30 AM - 12 PM
 
-**Feb/Mar 2023 TBD**: 9:30 AM - 12 PM
+**Feb/Mar 2023 TBA**: 9:30 AM - 12 PM
 
-**Feb/Mar 2023 TBDth**: 9:30 AM - 12 PM
+**Feb/Mar 2023 TBA**: 9:30 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
