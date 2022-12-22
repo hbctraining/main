@@ -81,13 +81,11 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active paricipation during discussion sessions._
 
-Instruction will be mostly learner-centric. Online classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
-
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
 
-(Registration opens 2 weeks before the start of basic workshops. Workshop times are subect to change.)
+(Registration opens 2 weeks before the start of basic workshops.)
 
 ---
 
