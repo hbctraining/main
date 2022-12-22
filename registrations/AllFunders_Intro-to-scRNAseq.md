@@ -5,11 +5,11 @@
 
 ### **Workshop dates and times:**
 
-**Friday, April 22nd**: 9:30 AM - 12 PM
+**Friday, February 10th**: 9:30 AM - 12 PM
 
-**Tuesday, April 26th**: 9:30 AM - 12 PM
+**Tuesday, February 14th**: 9:30 AM - 12 PM
 
-**Friday, April 29th**: 9:30 AM - 12 PM
+**Friday, February 17th**: 9:30 AM - 12 PM
 
 
 _Note: Registration will open about 3 weeks prior to the workshop dates, and the dates/times above may be updated at that time._
@@ -17,13 +17,13 @@ _Note: Registration will open about 3 weeks prior to the workshop dates, and the
 ---
 
 ### **Description:**
-This **hands-on** workshop will instruct participants on how to design a single-cell RNA-seq experiment, and how to efficiently manage and analyze the data starting from count matrices. This will be a hands-on workshop in which we will focus on using the Seurat package in R.  
+This **hands-on** workshop will instruct participants on how to design a **single-cell RNA-seq experiment**, and **how to efficiently manage and analyze the data** starting from count matrices. This will be a hands-on workshop in which we will focus on using the Seurat package in R.  
 
 ---
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the last 6-8 months: . 
+This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 - [Introduction to R] (https://github.com/hbctraining/main/blob/master/registrations/AllFunders_Intro-to-R.md)
 
@@ -32,16 +32,6 @@ Yes, you can register **AND** please do the following:
 
 Complete the registration first
 Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
-
----
-
-### Course requirements:**
-
-- Mandatory attendance for all three classes
-- 3-5 hours of reading and exercises from selected lessons before each workshop session
-- Active paricipation during discussion sessions
-
-Instruction will be mostly learner-centric. Online and in-person classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
 
 ---
 
@@ -59,11 +49,11 @@ Instruction will be mostly learner-centric. Online and in-person classes will be
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this advanced workshop.
+There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop.
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $50 registration fee. 
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $65 registration fee. 
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
@@ -74,13 +64,17 @@ We will be accepting 25 participants on a first-come, first-served basis:
 ### **Registration:**
 
 Please make sure you **take the following into account when signing up** for the workshop:
- 
-1. _Participants are expected to **attend all four sessions**._
-2. _Between workshop sessions **participants will be required to spend 2-3 hours on reading and exercises**._
-3. _**Online (Zoom) and in-person** classes will be focused on exercises and **discussion**._
+
+1. _Mandatory attendance for all three classes._
+2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
+3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" onclick="location.href='https://bioinformatics.sph.harvard.edu/'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: red" >Registration is closed!</button></a>
+</div>
+
+<div style="text-align:center">
+	 (Registration opens 3 weeks before the start of advanced workshops.)
 </div>
  
 ---
