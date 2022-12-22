@@ -5,18 +5,18 @@
 
 ### **Workshop dates and times:**
 
-**Tuesday, October 11th**: 9:30 AM - 12 PM
+**Feb/Mar 2023 TBD**: 9:30 AM - 12 PM
 
-**Friday, October 14th**: 9:30 AM - 12 PM
+**Feb/Mar 2023 TBD**: 9:30 AM - 12 PM
 
-**Tuesday, October 18th**: 9:30 AM - 12 PM
+**Feb/Mar 2023 TBDth**: 9:30 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
 ---
 
 ### **Description:**
-Access to tools and computational resources for large-scale data analysis often require knowledge of the command-line interface (also referred to as Unix or Linux or bash or shell). In this 3-day hands-on workshop participants will learn the following:
+Access to tools and computational resources for large-scale data analysis often require knowledge of the command-line interface (also referred to as Unix or Linux or bash or shell). In this **3-day hands-on workshop** participants will learn the following:
 
 - basic shell commands for navigating the file system, exploring file contents, performing basic operations, such as moving, copying, and renaming
 - how to write shell scripts and use "for" loops for efficiently running the same commands on multiple files
@@ -30,17 +30,7 @@ Access to tools and computational resources for large-scale data analysis often 
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop is a prerequisite for advanced workshops introducing the analysis of RNA-seq, ChIP-seq and Introduction to Chromatin biology.
-
----
-
-### Course requirements:**
-
-- Mandatory attendance for all three classes
-- 2-3 hours of reading and exercises from selected lessons before each workshop session
-- Active paricipation during discussion sessions
-
-Instruction will be mostly learner-centric. Online classes will be focused on exercises and discussion. Please make sure you take this into account when you sign up for the workshop!
+This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) introducing the analysis of RNA-seq, ChIP-seq and Introduction to Chromatin biology.
 
 ---
 
@@ -57,11 +47,11 @@ Instruction will be mostly learner-centric. Online classes will be focused on ex
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $35 registration fee for this workshop.
+There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this workshop.
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $35 registration fee. 
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $50 registration fee. 
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
@@ -73,9 +63,17 @@ We will be accepting 25 participants on a first-come, first-served basis:
 
 Please make sure you **take the following into account when signing up** for the workshop:
  
-1. _Participants are expected to **attend all four sessions**._
-2. _Between workshop sessions **participants will be required to spend 2-3 hours on reading and exercises**._
-3. _**Online (Zoom) and in-person** classes will be focused on exercises and **discussion**._
+1. _Mandatory attendance for all three classes._
+2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
+3. _Active paricipation during discussion sessions._
+
+<div style="text-align:center">
+	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
+</div>
+
+<div style="text-align:center">
+	(Registration opens 2 weeks before the start of basic workshops.) 
+</div> 
 
 ---
 
@@ -91,10 +89,6 @@ Please make sure you **take the following into account when signing up** for the
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
-<div style="text-align:center">
-	 <a><button name="button" style = "color: red" onclick="location.href='https://bioinformatics.sph.harvard.edu/'">Click here to Register!</button></a>
-</div>
- 
 
 (Please check the eligibility requirements prior to registering)
 
