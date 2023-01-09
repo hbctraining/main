@@ -11,7 +11,7 @@
 
 **Tuesday, January 31st**: 10 AM - 12 PM
 
-**Friday, February 3th**: 10 AM - 12 PM
+**Friday, February 3rd**: 10 AM - 12 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
