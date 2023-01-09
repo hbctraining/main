@@ -79,7 +79,7 @@ Please make sure you **take the following into account when signing up** for the
  
 1. _Mandatory attendance for all four classes._
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
-3. _Active paricipation during discussion sessions._
+3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_6sqSqYV5OEK25sV'">Click here to Register!</button></a>
