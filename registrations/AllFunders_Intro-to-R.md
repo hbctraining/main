@@ -82,10 +82,10 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active paricipation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
+	 <a><button name="button" style = "color: blue" >[Click here to register!](https://harvard.az1.qualtrics.com/jfe/form/SV_6sqSqYV5OEK25sV)</button></a>
 </div>
 
-(Registration opens 2 weeks before the start of basic workshops.)
+(Please check the eligibility requirements below prior to registering)
 
 ---
 
@@ -101,7 +101,6 @@ Please make sure you **take the following into account when signing up** for the
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
-(Please check the eligibility requirements prior to registering)
 
 NOTE: We do ***not*** record our training sessions. 
 
