@@ -175,6 +175,30 @@ Text 1<br>
 Text 2<br><br>
 Text 3
 
+## Headers
+
+To add headers use `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>`. The syntax would look like:
+
+```
+<h1>Header 1</h1>
+<h2>Header 2</h2>
+<h3>Header 3</h3>
+<h4>Header 4</h4>
+<h5>Header 5</h5>
+<h6>Header 6</h6>
+```
+
+Which appears as:
+
+<h1>Header 1</h1>
+<h2>Header 2</h2>
+<h3>Header 3</h3>
+<h4>Header 4</h4>
+<h5>Header 5</h5>
+<h6>Header 6</h6>
+
+**NOTE: It does not appear that you can go further than `<h6>`.**
+
 ## Lists
 
 You could be interested in making bulleted lists without numbers (Unordered Lists) using `<ul>` or list with numbers (Ordered Lists) `<ol>`.
