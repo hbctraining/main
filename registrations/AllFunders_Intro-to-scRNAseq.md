@@ -90,7 +90,6 @@ Please make sure you **take the following into account when signing up** for the
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
-(Please check the eligibility requirements prior to registering)
 
 NOTE: We do ***not*** record our training sessions. 
 
