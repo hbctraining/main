@@ -72,6 +72,7 @@ Please make sure you **take the following into account when signing up** for the
 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_6sqSqYV5OEK25sV'">Click here to Register!</button></a>
+</div>
 
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
