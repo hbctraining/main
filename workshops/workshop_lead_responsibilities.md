@@ -34,23 +34,15 @@
 
 5. Check workshop repo to see if there are any issues to be addressed
 
-6. Update the DropBox links for homework submission:
-    
-    - Delete the old homework submissions
-    - Go to the appropriate DropBox folder
-    - Right click and select "Request files..."
-    - Clicking on "Request files..." will bring you online
-    - Name your request and add a deadline
-    
-    <img src="../img/dropbox_request.png" width=300>
+6. Clear Google Form Responses
+    - Convert Dropbox to Google Form (temporary)
 
 7. PollEverywhere:
     - Remove old questions
     - Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
    
 8. Update Intro and Wrap-up slides
-    - Add slide for modules (temporary)
-    - Add that we can provide experimental design help (temporary)
+    - Update funders (temporary)
     - Update links to update data management workshops at Countway
     - Check that tinyurl links are correct and working
     - Check that funding information is correct
