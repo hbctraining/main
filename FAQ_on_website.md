@@ -33,7 +33,7 @@ No, we do not record our workshops.
 
 - Do you offer any video tutorials for your training material?
 
-In collaboration with Harvard Catalyst, we developed an online, hands-on video tutorial for "Introduction to R". You could access the resource [here](https://catalyst.harvard.edu/courses/intro-to-r/)(HarvardKey login required).
+In collaboration with Harvard Catalyst, we developed an online, hands-on video tutorial for "Introduction to R". You could access the resource [here](https://catalyst.harvard.edu/courses/intro-to-r/) (HarvardKey login required).
 
 - Can I sign up for a mailing list?
 
