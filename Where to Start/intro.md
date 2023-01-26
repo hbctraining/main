@@ -88,6 +88,8 @@ The **shell** is what runs in these programs to interpret your commands. These p
 
 ## What is R and what can it do?
 
+<INSERT AN R IMAGE HERE>
+
 Why do we recommend R instead of other languages? According to [R-project](https://www.r-project.org/about.html) R is "R is a language and environment for statistical computing and graphics." R is also a well developed and relatively simple language that is widely used among data scientists and people in STEM. Compelling arguements for learning R include:
 
 * It’s open-source. This means no fees or licenses are needed and you won't get any pop ups asking for money.
@@ -101,7 +103,9 @@ Why do we recommend R instead of other languages? According to [R-project](https
 
 ## Where do I go from here?
 
-Hopefully you now feel like you have a grasp on some of these terms. If you want to start getting your hands wet, we recommend that you take our [Intro to R Course](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) and the appropriate shell intro for the cluster you will use, either [O2](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html) or [FAS-RC](https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/schedule/links-to-lessons.html). You are free to take a workshop with us or work through the lessons yourself at your own pace. See our [main page](https://hbctraining.github.io/main/) for all course offerings. Happy Computing!
+Hopefully you now feel like you have a grasp on some of these terms. If you want to start getting your hands wet, we recommend that you take a look at our training program. <INCLUDE LINK TO THE MAIN_DRAFT PAGE HERE?>
+ 
+ Happy Computing!
 
 
 
