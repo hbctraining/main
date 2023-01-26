@@ -1,44 +1,37 @@
 ## This page is for people who are feeling overwhelmed and lost
 
-
-* Are the words 'omics, HTS, R programming, shell, and computer cluster new for you?
-* Are you unsure how to start getting comfortable with large data sets?
-* Have you never written a single line of code?
+* Are you keen on data analysis but not really sure where to start?
+* Does the idea of writing your own code seem exciting yet daunting?
+* Do you have a general idea of what is involved with high throughput sequencing data, but eager to learn more?
 
 
 ### If this fits you then you are on the right page! 
 
-Let's start by trying to understand what 'omics data, HTS, computer clusters, shell, and R are and who might need to use them.
+Let's start by trying to understand some important concepts. 
+
+**A bit hestitant to describe/focus all 'omics' since we don't really teach all of them.**
+
+## What is Big data?
+
+A paragraph on data types, data formats, standards, metadata and data management strategies (of course, I had to try and get this in here ;) ).
 
 
-## What the heck is 'omics?
+## What kind of data do we see in biomedical research?
 
-Using methods such as Sanger sequencing and allozymes scientists used to be able to study just a few genes at a time. However, new sequencing technologies (often abbreviated **NGS for next generation sequencing**) now allow us to look at the entirety of a certain type of data in an organsim. This data, called 'omics data, encompasses the entirety of the genes or proteins etc in a cell or organism. We can break 'omics down into 4 specific categories:
+A commonly encountered type of big data in biomedical research is genomic and transcriptomics data. 
 
 * genOMICS - The study of the complete set of **DNA** in an organism, sigle cells, or group of cells.
 * transcriptOMICS - The study of the complete set of **RNA** in an organism, sigle cells, or group of cells.
-* proteOMICS - The study of the complete set of **Proteins** in an organism, sigle cells, or group of cells.
-* metabolOMICS - The study of the complete set of **Metabolites** in an organism, sigle cells, or group of cells.
 
-'Omics does not put a limit on the number of biological or technical replicates. So even if you are studying the genome of a single individual it is considered 'omics data. However, we usually are looking at data from large number of biological samples (individuals, cell lines, etc).
+The most common way to interrogate the transcritptome and genome is using **high throughput sequencing**. 
 
-## How does High Throughput Sequencing relate to 'omics?
+## What is High Throughput Sequencing (HTS)?
 
 Genomes and transcriptomes, etc are massive data sets containing hundreds of millions or billions of [base pairs](https://en.wikipedia.org/wiki/Base_pair) (A,T,G,C). For a comparison, an average length book might have about 375,000 characters. Reading those bases one at a time will take too long even for a fast machine. **H**igh **T**hroughput **S**equencing (HTS) is when multiple DNA or RNA moleculars are sequenced in parallel (i.e., at the same time). This leads to hundreds of millions of molecules being sequenced at one time. Because only DNA and RNA are sequenced, HTS is used for genomics and transcriptomics. However, newer methodologies allow information about chromatin and proteins to be incorporated with this data.
 
-## How do clusters and HPC relate to HTS?
-Let's return to our book example. If one book is 375,000 characters then 3.2 billion characters (the size of the human genome) translates to 8,533 books! While we might keep tens or even hundreds of books at our house, most people will never have thousands. 
+## What is a high performance cluster (HPC) environment?
 
-<p align="center">
-<img src="img/library.jpg" width="500">
-</p>
-<p align = "center">
-Can you imagine dusting this?
-</p>
-
-
-It's the same with our local computer.  While we might keep small data files on our laptop, we don't want to clutter it up with huge data files. And this is just thinking about storage! Books or data sets need to be organized and kept track of as well. You might be able to alphabetize or organize a hundred books on your own but working with >8,000 books would be overwhelming! The same goes for our computer. To organize billions of basepairs and make sense of our sequencing data we simply need more power. The mac laptop I am writing this on has 10 cores. In comparison, a high perfomance computing (HPC) cluster might have hundreds of cores. That is a lot more power for the big computational work we want to do!
-
+Define a cluster ---
 Let's take a quick look at the basic architecture of a cluster environment and some cluster-specific jargon.
 
 <p align="center">
@@ -51,9 +44,22 @@ The above image reflects the many computers that make up a **"cluster"** of comp
   * many more, faster CPUs
   * each of those CPUs has many more cores
 
+## Do I need a HPC for analyses, when I have a pretty good laptop?
+
+Let's return to our book example. If one book is 375,000 characters then 3.2 billion characters (the size of the human genome) translates to 8,533 books! While we might keep tens or even hundreds of books at our house, most people will never have thousands. 
+
+<p align="center">
+<img src="img/library.jpg" width="500">
+</p>
+<p align = "center">
+Can you imagine dusting this?
+</p>
+
+
+It's the same with our local computer.  While we might keep small data files on our laptop, we don't want to clutter it up with huge data files. And this is just thinking about storage! Books or data sets need to be organized and kept track of as well. You might be able to alphabetize or organize a hundred books on your own but working with >8,000 books would be overwhelming! The same goes for our computer. To organize billions of basepairs and make sense of our sequencing data we simply need more power. Your "pretty good" laptop might have 16 cores. In comparison, a high perfomance computing (HPC) cluster might have hundreds of cores. That is a lot more power for the big computational work we want to do!
+
 E.g. A cluster “Node” that has eight “quad"-core CPUs, means that node has 32 cores (ability to process 32 computations at a time).
 
-The data on a cluster is also stored differently than what we are used to with our laptops and desktops, in that it is not computer- or node-specific storage, but all of the data is available to all the nodes in a cluster. This ensures that you don't have to worry about which node is working on your analysis.
 
 ### Why use the cluster or an HPC environment?
 
@@ -63,45 +69,11 @@ The data on a cluster is also stored differently than what we are used to with o
     * 100s of Gigabytes or Petabytes of storage!
     * 100s of Gigabytes of memory!
 
-### Parallelization
 
-Point #2 in the last section brings us to the idea of **parallelization** or parallel computing that enables us to efficiently use the resources available on the cluster.
-
-#### One input file
-
-Let's start with the most basic idea of processing 1 input file to generate 1 output (result) file. On a personal computer this would happen with a single core in the CPU. 
-
-<p align="center">
-<img src="img/serial_hpc_crop.png" width="50">
-</p>
-
-On a cluster we have access to many cores on a single node, so in theory we could split up the analysis of a single file into multiple distinct processes and use as many cores to speed up the generation of an output file. This is called **multithreading**, i.e. using multiple threads or cores. As you can imagine, multithreading can speed up how fast the analysis is performed! In the example below, the input file is analyzed using 8 cores, likely resulting in an 8 fold speed up!
-
-<p align="center">
-<img src="img/multithreaded_hpc.png" width="450">
-</p>
-
-> **Note:** Multithreading is done internally by analysis tools being employed, and **not** by manually splitting the input (except in very unusual circumstances).
-
-#### Three input files
-
-Now, what if we had 3 input files? Well, we could process these files **in serial**, i.e. use the same core(s) over and over again, as shown in the image below.
-
-<p align="center">
-<img src="img/serial_hpc_3samples.png" width="450">
-</p>
-
-This is great, but it is not as efficient as multithreading each analysis, and using a set of 8 cores for each of the three input samples. This is actually considered to be true parallelization.
-
-<p align="center">
-<img src="img/multithreaded_hpc_3samples.png" width="650">
-</p>
-
-With parallelization, several samples can be analysed at the same time!
 
 ## What is shell and how does it relate to clusters?
 
-So how might you actually use a cluster? Unfortunately you can't just walk up to where the cluster is stored and start using it. Clusters are accessed remotely, that means that you connect to the cluster from your own computer. You will do this from the **command line** or a text based user interface. We are used to clicking on applications we want to use and selecting various commands from dropdown menus. Clusters do not work this way. Any task that you want a cluster to do has to be communicated through text.
+So how might you actually use a cluster? Unfortunately you can't just walk up to where the cluster is stored and start using it. Clusters are accessed remotely, that means that you connect to the cluster from your own computer. You will do this from the **command line** or a text based user interface. We are used to a point and click environment on our laptops. We are comfortable using our mouse to click on applications we want to use and selecting various commands from dropdown menus. Unfortunately, our mouse is pretty useless when working on the command -line.
 
 <p align="center">
 <img src="img/fasRC.jpeg" width="650">
@@ -110,7 +82,9 @@ So how might you actually use a cluster? Unfortunately you can't just walk up to
 The FAS-RC Cluster
 </p>
 
-If you have never taken a computer science course or worked with clusters before this will all be brand new to you. But don't worry, we have [courses for that](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)! For now let's just review the basics. To look at command line on your own computer you can open the terminal program in macs or the download the [Git BASH](https://gitforwindows.org/) or [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) program for windows. The **shell** is what runs in these programs to interpret your commands. These programs all use [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell), a command language. As you get into HTS and computational work you will encounter a lot of languages such as python, perl, fortran, R, c++, java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R.  
+Any task that you want a cluster to do has to be communicated through text. If you have never taken a computer science course or worked with clusters before this will all be brand new to you. 
+
+The **shell** is what runs in these programs to interpret your commands. These programs all use [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell), a command language. As you get into HTS and computational work you will encounter a lot of languages such as python, perl, fortran, R, c++, java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R.  
 
 ## What is R and what can it do?
 
