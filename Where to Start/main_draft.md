@@ -67,11 +67,30 @@ See our current workshop schedule on our [training website](http://bioinformatic
 | :----: | :----: | :----: | :----: |
 | **E** - Advanced programming with the bash command line | <ul><li>Anyone who wants to make custom scripts or pipelines</li></ul> | Learning to include version control in your projects and advanced bash scripting | <ul><li>[Improving your (RNA-seq) data analysis using version control (Git)](https://hbctraining.github.io/versioning_data_scripts/)</li><li>[Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data)</li></ul>|
 | **F** - Advanced R for generating complex plots and reports | <ul><li>Anyone who wants to make publication level figures</li><li>Anyone who wants to make high level HTML reports of analyses</li></ul> | Exploring additional R features such as reports and publication perfect figures| <ul><li>[Publication Perfect](https://hbctraining.github.io/Training-modules/publication_perfect)</li><li>[Generating research analysis reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown)</li></ul>|
-  
+
+
+<table>
+  <tr>
+    <th>Skill</th>
+    <th>Who needs it</th>
+    <th>Overview</th>
+    <th>Courses</th>
+  </tr>
+  <tr>
+    <td><b>E</b> - Advanced programming with the <code>bash</code> command line</td>
+    <td><ul><li>Anyone who wants to make custom scripts or pipelines</li></ul></td>
+    <td>Learning to include version control in your projects and advanced bash scripting</td>
+    <td><ul><li><a href="https://hbctraining.github.io/versioning_data_scripts/">Improving your (RNA-seq) data analysis using version control (Git)</a></li><li><a href="https://hbctraining.github.io/Accessing_public_genomic_data">Accessing genomic reference and experimental sequencing data</a></li></ul></td>
+  </tr>
+  <tr>
+    <td><b>F</b> - Advanced R for generating complex plots and reports</td>
+    <td><ul><li>Anyone who wants to make publication level figures</li><li>Anyone who wants to make high level HTML reports of analyses</li></ul></td>
+    <td>Exploring additional R features such as reports and publication perfect figures</td>
+    <td><ul><li><a href="https://hbctraining.github.io/Training-modules/publication_perfect">Publication Perfect</a></li><li><a href="https://hbctraining.github.io/Training-modules/Rmarkdown">Generating research analysis reports with RMarkdown</li></ul></td>
+  </tr>
+</table>   
+
 ***  
-  
-  
-  
   
   
 ## Additional Courses
