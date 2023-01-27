@@ -86,7 +86,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td><b>F</b> - Advanced R for generating complex plots and reports</td>
     <td><ul><li>Anyone who wants to make publication level figures</li><li>Anyone who wants to make high level HTML reports of analyses</li></ul></td>
     <td>Exploring additional R features such as reports and publication perfect figures</td>
-    <td><ul><li><a href="https://hbctraining.github.io/Training-modules/publication_perfect">Publication Perfect</a></li><li><a href="https://hbctraining.github.io/Training-modules/Rmarkdown">Generating research analysis reports with RMarkdown</li></ul></td>
+    <td><ul><li><a href="https://hbctraining.github.io/Training-modules/publication_perfect">Publication Perfect</a></li><li><a href="https://hbctraining.github.io/Training-modules/Rmarkdown">Generating research analysis reports with RMarkdown</a></li></ul></td>
   </tr>
 </table>   
 
