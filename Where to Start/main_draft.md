@@ -97,11 +97,11 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td><b>D</b> - Statistical Analysis of HTS data in R</td>
     <td><ul><li>Anyone who wants to use popular R packages for HTS data such as Seurat or DESEQ2</li></ul> </td>
     <td>Learning Workflows of pipelines designed to analyze various forms of HTS data and understanding each step</td>
-    <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Single-cell RNA-seq data analysis</a></li>
-      <li><a href="https://hbctraining.github.io/DGE_workshop_salmon_online/">Differential gene expression</a></li>
+    <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Introduction to single cell RNA-seq Analysis</a></li>
+      <li><a href="https://hbctraining.github.io/DGE_workshop_salmon_online/">Introduction to Differential Gene Expression</a></li>
   </tr>
 </table>
-  
+
 ***  
   
 ## How can I build my skillset further?
