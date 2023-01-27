@@ -97,10 +97,8 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td><b>D</b> - Statistical Analysis of HTS data in R</td>
     <td><ul><li>Anyone who wants to use popular R packages for HTS data such as Seurat or DESEQ2</li></ul> </td>
     <td>Learning Workflows of pipelines designed to analyze various forms of HTS data and understanding each step</td>
-    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html">Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster</a></li>
-      <li><a href="https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/schedule/links-to-lessons.html">Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster</a></li>
-      <li><a href="https://github.com/hbctraining/Intro-to-ChIPseq-flipped">Understanding chromatin biology using high throughput sequencing</a></li>
-      <li><a href="https://github.com/hbctraining/variant_analysis">Variant calling</a></li></ul></td>
+    <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Single-cell RNA-seq data analysis</a></li>
+      <li><a href="https://hbctraining.github.io/DGE_workshop_salmon_online/">Differential gene expression</a></li>
   </tr>
 </table>
   
