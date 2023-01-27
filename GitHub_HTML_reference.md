@@ -263,6 +263,52 @@ My unordered list:
 <li>Sub-list Item 3</li></ul>
 <li>List Item 3</li></ul>
 
+## Tables
+
+Tables are a useful way of organizing data. You will need to initiate a table with `<table>` and close a table with `</table>`. Each row will need to be initiated with `<tr>` and closed with `</tr>`. If the elements of the table are headers, then they can be initiated with `<th>` and closed with `</th>`. While elements of data in a table that aren't headers are initiated with `<td>` and closed with `</td>`. Elements that are table headers get slightly different formatting than normal table data elements. The syntax would look like this:
+
+```
+My Table:
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td>Data 1 for Header 1</td>
+    <td>Data 1 for header 2</td>
+    <td>Data 1 for Header 3</td>
+  </tr>
+  <tr>
+    <td>Data 2 for Header 1</td>
+    <td>Data 2 for header 2</td>
+    <td>Data 2 for Header 3</td>
+  </tr>
+</table>
+```
+
+Which appears as:
+
+My Table:
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td>Data 1 for Header 1</td>
+    <td>Data 1 for header 2</td>
+    <td>Data 1 for Header 3</td>
+  </tr>
+  <tr>
+    <td>Data 2 for Header 1</td>
+    <td>Data 2 for header 2</td>
+    <td>Data 2 for Header 3</td>
+  </tr>
+</table>
+
 ## Inserting Images `<p>`
 
 You might be interested in inserting an image. To do this, initiate the image with `<p>` and close the image with `</p>`. However, in your `<p>` you are also going to need to specifiy your alignment for the image (i.e. would you like the image `left`-aligned, `center`-aligned or `right`-aligned. The default is a `left`-alignment.
