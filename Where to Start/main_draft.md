@@ -65,7 +65,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
   
 | Skill | Who needs it | Overview | Courses |
 | :----: | :----: | :----: | :----: |
-| **E** - Advanced programming in the HPC environment | <ul><li>Anyone who wants to make custom scripts or pipelines</li></ul> | Learning to include version control in your projects and advanced bash scripting | <ul><li>[Improving your (RNA-seq) data analysis using version control (Git)](https://hbctraining.github.io/versioning_data_scripts/)</li><li>[Version control using GitKraken](https://github.com/hbctraining/version-control-gitkraken)</li><li>**Advanced Shell**</li></ul>|
+| **E** - Advanced programming with shell | <ul><li>Anyone who wants to make custom scripts or pipelines</li></ul> | Learning to include version control in your projects and advanced bash scripting | <ul><li>[Improving your (RNA-seq) data analysis using version control (Git)](https://hbctraining.github.io/versioning_data_scripts/)</li><li>[Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data)</li></ul>|
 | **F** - Advanced R for generating complex plots and reports | <ul><li>Anyone who wants to make publication level figures</li><li>Anyone who wants to make high level HTML reports of analyses| Exploring additional R features such as Shiny web apps, reports, and publication perfect figures|<ul><li>[Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect)</li><li>[Publication Perfect: Part II](https://hbctraining.github.io/Training-modules/publication_perfect)</li><li>[Introduction to R Practical](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource)</li><li>[Generating research analysis reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown)</li><li>[Interactive Data Visualization with Shiny in R (with Ista Zahn from the Harvard Business School)](https://github.com/izahn/shiny_workshop)</li></ul>|
   
 ***  
@@ -76,8 +76,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
   
 ## Additional Courses
 - [Introduction to Python](https://hbctraining.github.io/Training-modules/Python)
-- [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data)
-  
+- [Version control using GitKraken](https://github.com/hbctraining/version-control-gitkraken)
   
   
   ***
