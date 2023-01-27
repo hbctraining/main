@@ -33,7 +33,7 @@ These are intensive workshops that instruct participants on how to design experi
 | [Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html) | Introduction to shell |
 | [Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster](https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/schedule/links-to-lessons.html) | Introduction to shell |
 | [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)  | Introduction to R  |
-| [Introduction to ChIP-seq Analysis - O2 cluster](https://hbctraining.github.io/Intro-to-ChIPseq) | Introduction to R & shell |
+| [Understanding chromatin biology using high throughput sequencing - O2 cluster](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/schedule/) | Introduction to shell |
 | [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) | Introduction to R |
 
 ***
@@ -46,15 +46,13 @@ These workshops provide instruction on basic data skills as well as introduce ne
 
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|
-| [Introduction to R](IntroR) | None |
-| [Visualization in R](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
+| [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR) | None |
 | [Introduction to R Practical](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
-| [Gene annotations and functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
+| [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
 | [Generating research analysis reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
-| [Interactive Data Visualization with Shiny in R (with Ista Zahn from the Harvard Business School)](https://github.com/izahn/shiny_workshop) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
 | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
 | [Publication Perfect: Part II](https://hbctraining.github.io/Training-modules/publication_perfect) | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) |
-| [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
+
 
 ### Shell-based short workshops:
 
@@ -64,7 +62,7 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | [Intermediate bash](https://hbctraining.github.io/Training-modules/Intermediate_shell) | Beginner shell or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell) |
 | [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | Beginner shell or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell)  |
 | [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data) | Beginner shell or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell)  |
-| [Exploring genomic variants using GEMINI](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI) | Beginner shell or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell) |
+
 
 ### Other short workshops:
 
@@ -74,7 +72,7 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | [Planning a bulk RNA-seq analysis: Part I](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq#part-i) | None |
 | [Planning a bulk RNA-seq analysis: Part II](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq#part-ii) | None |
 | [Make your (RNA-seq) data analysis reproducible](https://hbctraining.github.io/Training-modules/reproducible_analyses)- *Taught by [Julie Goldman](https://scholar.harvard.edu/julie_goldman) from Countway Library* | None |
-| [Improving your (RNA-seq) data analysis using version control (Git)](https://hbctraining.github.io/versioning_data_scripts/) | None |
+| [Improving your (RNA-seq) data analysis using version control (Git) - In collaboration with HBC-RCS](https://hbctraining.github.io/versioning_data_scripts/) | None |
 
 ***
 
