@@ -100,7 +100,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html">Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/schedule/links-to-lessons.html">Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster</a></li>
       <li><a href="https://github.com/hbctraining/Intro-to-ChIPseq-flipped">Understanding chromatin biology using high throughput sequencing</a></li>
-      <li><a href="https://github.com/hbctraining/variant_analysis">Variant calling</li></ul></td>
+      <li><a href="https://github.com/hbctraining/variant_analysis">Variant calling</a></li></ul></td>
   </tr>
 </table>
   
