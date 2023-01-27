@@ -7,7 +7,7 @@ We are delighted to have you here!
 
 
 
-The training team at the Harvard Chan Bioinformatics Core provides bioinformatics to help biologists become comfortable with using tools to analyse high-throughput data. 
+The training team at the Harvard Chan Bioinformatics Core provides bioinformatics to help biologists become comfortable with using tools to analyse high-throughput sequencing (HTS) data. 
 
 
 We offer courses and skills at three different levels starting at the basics and building upwards. We focus on the two most commonly used HTS interfaces, **R** and **Bash/Shell**.
