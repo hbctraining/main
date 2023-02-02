@@ -53,7 +53,7 @@ Can you imagine dusting this?
 </p>
 
 
-It's the same with our local computer.  While we might keep small data files on our laptop, we don't want to clutter it up with huge data files. And this is just thinking about storage! Books or data sets need to be organized and kept track of as well. You might be able to alphabetize or organize a hundred books on your own but working with >8,000 books would be overwhelming! The same goes for our computer. To organize billions of basepairs and make sense of our sequencing data we simply need more power. The mac laptop I am writing this on has 10 cores. In comparison, a high perfomance computing (HPC) cluster might have hundreds of cores. That is a lot more power for the big computational work we want to do!
+It's the same with our local computer.  While we might keep small data files on our laptop, we don't want to clutter it up with huge data files. And this is just thinking about storage! Books or data sets need to be organized and kept track of as well. You might be able to alphabetize or organize a hundred books on your own but working with >8,000 books would be overwhelming! The same goes for our computer. To organize billions of base pairs and make sense of our sequencing data we simply need more power. The mac laptop I am writing this on has 10 cores (a single unit of processing available in our CPU; see below for more information). In comparison, a high perfomance computing (HPC) cluster might have hundreds or thousands of cores. That is a lot more processing capacity, more in line with the large amount of computational work we want to do!
 
 Let's take a quick look at the basic architecture of a cluster environment and some cluster-specific jargon.
 
@@ -69,7 +69,7 @@ The above image reflects the many computers that make up a **"cluster"** of comp
 
 E.g. A cluster “Node” that has eight “quad"-core CPUs, means that node has 32 cores (ability to process 32 computations at a time).
 
-The data on a cluster is also stored differently than what we are used to with our laptops and desktops, in that it is not computer- or node-specific storage, but all of the data is available to all the nodes in a cluster. This ensures that you don't have to worry about which node is working on your analysis.
+The data on a cluster is also stored differently than what we are used to with our laptops and desktops, in that it is not computer- or node-specific storage, but it is external and is available to all the nodes in a cluster. This ensures that you don't have to worry about which node is working on your analysis.
 
 ### Why use the cluster or an HPC environment?
 
@@ -117,7 +117,7 @@ With parallelization, several samples can be analysed at the same time!
 
 ## What is shell and how does it relate to clusters?
 
-So how might you actually use a cluster? Unfortunately you can't just walk up to where the cluster is stored and start using it. Clusters are accessed remotely, that means that you connect to the cluster from your own computer. You will do this from the **command line** or a text based user interface. We are used to clicking on applications we want to use and selecting various commands from dropdown menus. Clusters do not work this way. Any task that you want a cluster to do has to be communicated through text.
+So how might you actually use a cluster? Unfortunately you can't just walk up to where the cluster is stored and start using it. Clusters are accessed remotely, that means that you connect to the cluster from your own computer. You will do this from the **command line** or a text-based user interface. We are used to clicking on applications we want to use and selecting various commands from dropdown menus. Clusters do not work this way. Any task that you want a cluster to do has to be communicated through a text command.
 
 <p align="center">
 <img src="img/fasRC.jpeg" width="650">
@@ -126,7 +126,9 @@ So how might you actually use a cluster? Unfortunately you can't just walk up to
 The FAS-RC Cluster
 </p>
 
-If you have never taken a computer science course or worked with clusters before this will all be brand new to you. But don't worry, we have [courses for that](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)! For now let's just review the basics. To look at command line on your own computer you can open the terminal program in macs or the download the [Git BASH](https://gitforwindows.org/) or [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) program for windows. The **shell** is what runs in these programs to interpret your commands. These programs all use [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell), a command language. As you get into HTS and computational work you will encounter a lot of languages such as python, perl, fortran, R, c++, java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R.  
+If you have never taken a computer science course or worked with clusters before this will all be brand new to you. But don't worry, we have [courses for that](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)! 
+
+For now let's just review the basics. To look at command line on your own computer you can open the Terminal program on Macs or for Windows download the [Git BASH](https://gitforwindows.org/) or similar application. The **shell** is what runs in these programs to interpret your commands. These programs all use [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell), a command language. As you get into HTS and computational work you will encounter a lot of languages such as Python, Perl, Fortran, R, C++, Java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R to begin with.  
 
 ## What is R and what can it do?
 
@@ -134,7 +136,7 @@ Why do we recommend R instead of other languages? According to [R-project](https
 
 * It’s open-source. This means no fees or licenses are needed and you won't get any pop ups asking for money.
 * It’s platform-independent. This means that R runs on all operating systems (mac, windows, unix) and R scripts written on on platform can be run on any other platform.
-* People write packages for R. The R language has more than 10,000 packages stored in the CRAN repository, and that number is continuously increasing. Many packages for analyzing HTS data are written for R such as DESeq2 and Seurat among other.
+* People write packages for R, especially in the field of bioinformatics. The R language has more than 10,000 packages stored in the CRAN repository, and that number is continuously increasing. Many packages for analyzing HTS data are written for R such as DESeq2 and Seurat among other.
 * Data wrangling, i.e., turning raw data into the desired format. Data wrangling is necessary for working with any 'omics data set and R has many packages that can turn unstructured, messy data into a structured format.
 * Great plotting programs. R has wonderful packages to make publication ready figures. We even have a [workshop](https://hbctraining.github.io/Training-modules/publication_perfect/) devoted to it!
 * It’s great for statistics. Unlike SAS which is very costly R is free and has many different statistical packages available.
