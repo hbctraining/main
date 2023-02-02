@@ -1,4 +1,4 @@
-## Are you feeling lost and unsure about bioinformatics?
+## Are you feeling lost and unsure about bioinformatic anaysis?
 
 * Do you want to utilize high-throughput sequencing data in your research, but not really sure where to start?
 * Does the idea of writing your own code for data analysis seem necessary, yet daunting?
@@ -129,7 +129,7 @@ The FAS-RC Cluster
 
 If you have never taken a computer science course or worked with clusters before this will all be brand new to you. But don't worry, we have [courses for that](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)! 
 
-For now let's just review the basics. To look at command line on your own computer you can open the Terminal program on Macs or for Windows download the [Git BASH](https://gitforwindows.org/) or similar application. The **shell** is what runs in these programs to interpret your commands. These programs all use [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell), a command language. As you get into HTS and computational work you will encounter a lot of languages such as Python, Perl, Fortran, R, C++, Java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R to begin with.  
+For now let's just review the basics. To look at command line on your own computer you can open the Terminal program on Macs or for Windows download [Git BASH](https://gitforwindows.org/) or a similar application. The **shell** is what runs in these programs to interpret your commands. These programs all use [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell), a command language. As you get into HTS and computational work you will encounter a lot of languages such as Python, Perl, Fortran, R, C++, Java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R to begin with.  
 
 ## What is R and what can it do?
 
@@ -140,7 +140,7 @@ Why do we recommend R instead of other languages? According to [R-project](https
 * People write packages for R, especially in the field of bioinformatics. The R language has more than 10,000 packages stored in the CRAN repository, and that number is continuously increasing. Many packages for analyzing HTS data are written for R such as DESeq2 and Seurat among other.
 * Data wrangling, i.e., turning raw data into the desired format. Data wrangling is necessary for working with any 'omics data set and R has many packages that can turn unstructured, messy data into a structured format.
 * Great plotting programs. R has wonderful packages to make publication ready figures. We even have a [workshop](https://hbctraining.github.io/Training-modules/publication_perfect/) devoted to it!
-* It’s great for statistics. Unlike SAS which is very costly R is free and has many different statistical packages available.
+* It’s great for statistics. Unlike SAS which is very costly, R is free and has many different statistical packages available.
 * You can use R for Machine Learning. R is ideal for machine learning operations such as regression and classification and even for artificial neural network development.
 * R is growing. R has a solid support program and help with issues is widely available. New packages and features are available regularly! 
 
