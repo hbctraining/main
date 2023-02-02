@@ -1,63 +1,51 @@
-<details>
-  <summary><b>Click here to open the FAQ</b></summary>
-    <br><b>Click on the following questions to expand them for the answer</b><br>
+ <b>Click on the following questions to expand them for the answer</b><br>
       <details>
        <summary>Do you have any of the following questions about bioinformatics analysis?</summary><br>
         <ul><li>Do you want to utilize high-throughput sequencing data in your research, but not really sure where to start?</li>
         <li>Does the idea of writing your own code for data analysis seem necessary, yet daunting?</li>
-        <li>Do you need to brush up on what you already know about analysis of high-throughput sequencing data?</li>
+        <li>Do you need to brush up on what you already know about analysis of high-throughput sequencing data?</li></ul><br>
+          <b>If the answer to any of the questions is *yes*, or even *maybe*, then you are on the right page! </b><br><br>
+          Before we tell you about [our program](), we want to describe some of the jargon & concepts you will encounter. If you are familiar with the concepts below, you can skip this FAQ.
       </details>
       <details>
-        <summary>How can I ....</summary>
-          Answer to question
-      </details>
+        
+      <summary>What the heck is 'omics?</summary><br>
+          Over the last 10-15 years many technological advances allow us to assess the entirety of a certain type of molecule(s) in an organsim. The resulting high-throughput data are called 'omics data. We can break 'omics down into 4 specific categories:<br><br>
+<ul><li>genOMICS - The study of the complete set of **DNA** in an organism, sigle cells, or group of cells.</li>
+<li>transcriptOMICS - The study of the complete set of **RNA** in an organism, sigle cells, or group of cells.</li>
+<li>proteOMICS - The study of the complete set of **Proteins** in an organism, sigle cells, or group of cells.</li>
+<li>metabolOMICS - The study of the complete set of **Metabolites** in an organism, sigle cells, or group of cells.</li></ul><br>
+High-throughput data from even a single sample is considered 'omics data. However, we usually are looking at data from large number of biological samples (individuals, cell lines, etc).<br><br>
+<em><b>We will be focusing the rest of these Q&As around Genomics and Transcriptomics!</em></b> </details>
       <details>
-       <summary>Do I need to ....</summary>
+       
+      <summary>What is High-throughput Sequencing (HTS) or Next-generation Sequencing (NGS) data</summary><br>
          Answer to question
       </details>
       <details>
-        <summary>How can I ....</summary>
+       
+      <summary>How do clusters and HPC relate to analysis of HTS data?</summary><br>
           Answer to question
       </details>
       <details>
-       <summary>Do I need to ....</summary>
+       
+      <summary>What is shell and how does it relate to clusters?</summary><br>
          Answer to question
       </details>
       <details>
-        <summary>How can I ....</summary>
+       
+      <summary>What is R and what can it do?</summary><br>
           Answer to question
       </details>
       <details>
-       <summary>Do I need to ....</summary>
+     
+      <summary>Where do I go from here?</summary><br>
          Answer to question
       </details>
-</details>
 
 
-## Do you have any of the following questions about bioinformatics analysis?
 
-* Do you want to utilize high-throughput sequencing data in your research, but not really sure where to start?
-* Does the idea of writing your own code for data analysis seem necessary, yet daunting?
-* Do you need to brush up on what you already know about analysis of high-throughput sequencing data?
-
-### If the answer to any of the questions is *yes*, or even *maybe*, then you are on the right page! 
-
-Before we tell you about [our program](), we want to describe some of the jargon & concepts you will encounter. If you are familiar with the concepts below, you can [skip them]().
-
-## What the heck is 'omics?
-
-Over the last 10-15 years many technological advances allow us to assess the entirety of a certain type of molecule(s) in an organsim. The resulting high-throughput data are called 'omics data. We can break 'omics down into 4 specific categories:
-
-* genOMICS - The study of the complete set of **DNA** in an organism, sigle cells, or group of cells.
-* transcriptOMICS - The study of the complete set of **RNA** in an organism, sigle cells, or group of cells.
-* proteOMICS - The study of the complete set of **Proteins** in an organism, sigle cells, or group of cells.
-* metabolOMICS - The study of the complete set of **Metabolites** in an organism, sigle cells, or group of cells.
-
-High-throughput data from even a single sample is considered 'omics data. However, we usually are looking at data from large number of biological samples (individuals, cell lines, etc).
-
-***We will be focusing the rest of these Q&As around Genomics and Transcriptomics!***
-
-## High-throughput Sequencing (HTS) or Next-generation Sequencing (NGS)
+## What is High-throughput Sequencing (HTS) or Next-generation Sequencing (NGS) data
 
 * What is a Genome? *all of the DNA in an individual or a species*
 * What is a Transcriptome? *all of the RNA in an individual or a species (typically transcribed from DNA in individual cells)*
