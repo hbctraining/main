@@ -32,13 +32,14 @@ With the massive advancements spurred by the HGP, the field of "next-generation"
 
 > Over the last few years the community is slowly replacing the term NGS (Next-generation Sequencing) with the more descriptive HTS (High-throughput Sequencing).
 
-There are [hundreds of assays](https://www.illumina.com/science/sequencing-method-explorer.html) that have been developed for HTS that have enabled us to gain deep insights into the working of a cell. The most commonly used HTS applications that you will encounter here are:
+There are [hundreds of assays](https://www.illumina.com/science/sequencing-method-explorer.html) that have been developed for HTS that have enabled us to gain deep insights into the working of a cell. The most commonly used HTS applications that you will encounter are:
 * Bulk RNA-seq
 * Single-cell RNA-seq
+* ChIP-seq
 * Whole genome sequencing
 * Exome sequencing
 * ATAC-seq
-* single cell ATAC-seq
+* Single-cell ATAC-seq
 
 ## How do clusters and HPC relate to analysis of HTS data?
 
