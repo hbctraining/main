@@ -3,15 +3,15 @@
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **ONLINE - Workshop dates and times:**
+### **IN PERSON - Workshop dates and times:**
 
-**Tuesday, January 24th**: 10 AM - 12 PM
+**Friday, April 28th**: 10 AM - 12 PM
 
-**Friday, January 27th**: 10 AM - 12 PM
+**Tuesday, May 2nd**: 10 AM - 12 PM
 
-**Tuesday, January 31st**: 10 AM - 12 PM
+**Friday, May 5th**: 10 AM - 12 PM
 
-**Friday, February 3rd**: 10 AM - 12 PM
+**Tuesday, May 9th**: 10 AM - 12 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
@@ -97,7 +97,6 @@ Please make sure you **take the following into account when signing up** for the
 - Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
 - Graduate student at the Harvard Medical School
 - Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
-- Harvard researcher whose PI is associated with the HSCI as [Principal](https://hsci.harvard.edu/faculty) or [Affiliated](https://hsci.harvard.edu/affiliate-faculty) faculty
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
