@@ -6,13 +6,13 @@
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, March 17, 2023**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, March 21, 2023**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, March 24, 2023**: 9:30 AM - 12 PM
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
