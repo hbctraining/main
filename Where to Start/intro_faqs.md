@@ -7,9 +7,8 @@
           <b>If the answer to any of the questions is *yes*, or even *maybe*, then you are on the right page! </b><br><br>
           Before we tell you about [our program](), we want to describe some of the jargon & concepts you will encounter. If you are familiar with the concepts below, you can skip this FAQ.
       </details>
-      <details>
-        
-      <summary>What the heck is 'omics?</summary><br>
+      <details> 
+       <summary>What the heck is 'omics?</summary><br>
           Over the last 10-15 years many technological advances allow us to assess the entirety of a certain type of molecule(s) in an organsim. The resulting high-throughput data are called 'omics data. We can break 'omics down into 4 specific categories:<br><br>
 <ul><li>genOMICS - The study of the complete set of **DNA** in an organism, sigle cells, or group of cells.</li>
 <li>transcriptOMICS - The study of the complete set of **RNA** in an organism, sigle cells, or group of cells.</li>
@@ -18,28 +17,23 @@
 High-throughput data from even a single sample is considered 'omics data. However, we usually are looking at data from large number of biological samples (individuals, cell lines, etc).<br><br>
 <em><b>We will be focusing the rest of these Q&As around Genomics and Transcriptomics!</em></b> </details>
       <details>
-       
-      <summary>What is High-throughput Sequencing (HTS) or Next-generation Sequencing (NGS) data</summary><br>
+       <summary>What is High-throughput Sequencing (HTS) or Next-generation Sequencing (NGS) data</summary><br>
          Answer to question
       </details>
-      <details>
-       
-      <summary>How do clusters and HPC relate to analysis of HTS data?</summary><br>
+<details>       
+       <summary>How do clusters and HPC relate to analysis of HTS data?</summary><br>
           Answer to question
       </details>
-      <details>
-       
-      <summary>What is shell and how does it relate to clusters?</summary><br>
+<details> 
+       <summary>What is shell and how does it relate to clusters?</summary><br>
          Answer to question
       </details>
-      <details>
-       
-      <summary>What is R and what can it do?</summary><br>
+<details>       
+       <summary>What is R and what can it do?</summary><br>
           Answer to question
       </details>
-      <details>
-     
-      <summary>Where do I go from here?</summary><br>
+<details>     
+       <summary>Where do I go from here?</summary><br>
          Answer to question
       </details>
 
