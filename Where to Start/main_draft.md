@@ -52,22 +52,22 @@ See our current workshop schedule on our [training website](http://bioinformatic
   </tr>
   <tr>
     <td><b>A1</b> - Using the command line interface</td>
-    <td><ul><li>Anyone planning on doing scientific computing using the command-line.</li></ul></td>
+    <td>Anyone planning on doing scientific computing using the command-line.</td>
     <td>Understanding the need for shell and master basic commands</td>
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-shell-flipped/">Introduction to the command-line interface (shell) - O2 cluster</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/">Introduction to the command-line interface (shell) - FAS-RC cluster</a></li></ul></td>
   </tr>
   <tr>
     <td><b>A2</b> - Using a HPC cluster</td>
-    <td><ul><li>Anyone that wants to efficiently run analyses on large datasets (requiring more computational resources than a laptop can provide).
-</li></ul></td>
+    <td>Anyone who wants to efficiently run analyses on large datasets (requiring more computational resources than a laptop can provide).
+</td>
     <td>Understanding the components of a high performance compute cluster (HPC), and learning to navigate and properly use available HPCs at Harvard.</td>
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-shell-flipped/">Introduction to the command-line interface (shell) - O2 cluster</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/">Introduction to the command-line interface (shell) - FAS-RC cluster</a></li></ul></td>
   </tr>
   <tr>
     <td><b>B</b> - Using R </td>
-    <td><ul><li>Anyone who wants to learn a programming language that is especially useful for data wrangling and statistics.</li></ul></td>
+    <td>Anyone who wants to learn a programming language that is especially useful for data wrangling and statistics.</td>
     <td>Learning the R and RStudio interface, Basic R syntax, and data visualization</td>
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-R-flipped/">Introduction to R</a></li>
       <li><a href="https://projects.iq.harvard.edu/hcatrresource/">Introduction to R (video tutorials)</a></li></ul></td>
@@ -87,7 +87,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
   </tr>
   <tr>
     <td><b>C</b> - Analysis of HTS data in the HPC environment</td>
-    <td><ul><li>Anyone planning on doing genomic or transcriptomic next-generation sequencing and is interested in analyzing their own data.</li></ul></td>
+    <td>Anyone planning on doing genomic or transcriptomic next-generation sequencing and is interested in analyzing their own data.</td>
     <td><ul><li>Analysis of bulk RNAseq data, Variant calling, and sequencing data related to Chromatin biology starting with raw data.</li>
       <li>Automating the workflow with advanced shell scripts.</li></ul></td>
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster</a></li>
@@ -97,7 +97,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
   </tr>
   <tr>
     <td><b>D</b> - Statistical Analysis of HTS data in R</td>
-    <td><ul><li>Anyone who wants to use popular R packages for downstream analysis of HTS data. Main focuses include Seurat and DESeq2.</li></ul> </td>
+    <td>Anyone who wants to use popular R packages for downstream analysis of HTS data. Main focuses include Seurat and DESeq2.</td>
     <td><ul><li>Using R to implement best practices workflows for the analysis of various forms of HTS data.</li>
       <li>Clear explanataions of theory behind each step in of the workflow.</li></ul></td>
     <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Introduction to single cell RNA-seq Analysis</a></li>
@@ -118,15 +118,15 @@ See our current workshop schedule on our [training website](http://bioinformatic
   </tr>
   <tr>
     <td><b>E</b> - Advanced programming with the <code>bash</code> command line</td>
-    <td><ul><li>Anyone who wants to create custom shell scripts and utilize bash for various tasks.</li></ul></td>
+    <td>Anyone who wants to create custom shell scripts and utilize bash for various tasks.</td>
     <td>Learning to include version control in your projects and advanced bash scripting</td>
     <td><ul><li><a href="https://hbctraining.github.io/versioning_data_scripts/">Improving your (RNA-seq) data analysis using version control (Git)</a></li>
       <li><a href="https://hbctraining.github.io/Accessing_public_genomic_data/">Accessing genomic reference and experimental sequencing data</a></li></ul></td>
   </tr>
   <tr>
     <td><b>F</b> - Advanced R for generating complex plots and reports</td>
-    <td><ul><li>Anyone who wants to make publication level figures</li>
-      <li>Anyone who wants to make high level HTML reports of analyses</li></ul></td>
+    <td>Anyone who wants to make publication quality figures<br><br>
+      Anyone who wants to make high level HTML reports of analyses</td>
     <td>Exploring additional R features such as reports and publication perfect figures</td>
     <td><ul><li><a href="https://hbctraining.github.io/publication_perfect/">Publication Perfect</a></li>
       <li><a href="https://hbctraining.github.io/Training-modules/Rmarkdown">Generating research analysis reports with RMarkdown</a></li></ul></td>
