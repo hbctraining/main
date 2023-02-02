@@ -88,8 +88,8 @@ See our current workshop schedule on our [training website](http://bioinformatic
   <tr>
     <td><b>C</b> - Analysis of HTS data in the HPC environment</td>
     <td>Anyone planning on doing genomic or transcriptomic next-generation sequencing and is interested in analyzing their own data.</td>
-    <td><ul><li>Analysis of bulk RNAseq data, Variant calling, and sequencing data related to Chromatin biology starting with raw data.</li>
-      <li>Automating the workflow with advanced shell scripts.</li></ul></td>
+    <td> - Analysis of bulk RNAseq data, Variant calling, and sequencing data related to Chromatin biology starting with raw data.<br><br>
+      - Automating the workflow with advanced shell scripts.</td>
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-ChIPseq-flipped/">Understanding chromatin biology using high throughput sequencing</a></li>
@@ -98,8 +98,8 @@ See our current workshop schedule on our [training website](http://bioinformatic
   <tr>
     <td><b>D</b> - Statistical Analysis of HTS data in R</td>
     <td>Anyone who wants to use popular R packages for downstream analysis of HTS data. Main focuses include Seurat and DESeq2.</td>
-    <td><ul><li>Using R to implement best practices workflows for the analysis of various forms of HTS data.</li>
-      <li>Clear explanataions of theory behind each step in of the workflow.</li></ul></td>
+    <td> - Using R to implement best practices workflows for the analysis of various forms of HTS data.<br><br>
+      - Clear explanations of the theory behind each step in of the workflow.</td>
     <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Introduction to single cell RNA-seq Analysis</a></li>
       <li><a href="https://hbctraining.github.io/DGE_workshop_salmon_online/">Introduction to Differential Gene Expression</a></li>
   </tr>
