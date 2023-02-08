@@ -93,6 +93,18 @@ Which appears as:
 
 <a href="https://bioinformatics.sph.harvard.edu/training">HBC Training Webpage</a>
 
+### Keyboard Keys `<kbd>`
+
+In order to insert a keyboard looking key, we need to intiate it with `<kbd>` and close it with `</kbd>`.The syntax would look like:
+
+```
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>
+```
+
+Which appears as:
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>
+
 ## Combining formatting
 
 Formatting in HTML is oftentimes quite flexible and you can nest one formatting tag within another. For example if you wanted your text to be bold and underlined you could use:
