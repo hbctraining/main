@@ -187,6 +187,22 @@ Text 1<br>
 Text 2<br><br>
 Text 3
 
+## Thematic Breaks `<hr />`
+
+In order to add thematic, which are light lines that go across the page to break up sections, we need to use <hr />. The syntax would look like:
+
+```
+Section 1
+<hr />
+Section 2
+```
+
+Which appears as:
+
+Section 1
+<hr />
+Section 2
+
 ## Headers
 
 To add headers use `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>`. The syntax would look like:
