@@ -85,7 +85,7 @@ Please make sure you **take the following into account when signing up** for the
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
-(Please check the eligibility requirements below prior to registering)
+(Registration opens two weeks before HBC basic workshops)
 
 ---
 
