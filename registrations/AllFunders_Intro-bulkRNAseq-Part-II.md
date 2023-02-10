@@ -3,15 +3,15 @@
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **ONLINE Workshop dates and times:**
+### **IN-PERSON Workshop dates and times:**
 
-**TBD ~March 2023**: 10 AM - 12 PM
+**Tuesday, May 16, 2023**: 10 AM - 12 PM
 
-**TBD ~March 2023**: 10 AM - 12 PM
+**Friday, May 19, 2023**: 10 AM - 12 PM
 
-**TBD ~March 2023**: 10 AM - 12 PM
+**Tuesday, May 23, 2023**: 10 AM - 12 PM
 
-**TBD ~March 2023**: 10 AM - 12 PM
+**Friday, May 26, 2023**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
