@@ -41,19 +41,13 @@ There are [hundreds of assays](https://www.illumina.com/science/sequencing-metho
 * ATAC-seq
 * Single-cell ATAC-seq
 
-## How do clusters and HPC relate to analysis of HTS data?
+## What is High Throughput Sequencing (HTS)?
 
-Let's return to our book example. If one book is 375,000 characters then 3.2 billion characters (the size of the human genome) translates to 8,533 books! While we might keep tens or even hundreds of books at our house, most people will never have thousands. 
+Genomes and transcriptomes, etc are massive data sets containing hundreds of millions or billions of [base pairs](https://en.wikipedia.org/wiki/Base_pair) (A,T,G,C). For a comparison, an average length book might have about 375,000 characters. Reading those bases one at a time will take too long even for a fast machine. **H**igh **T**hroughput **S**equencing (HTS) is when multiple DNA or RNA moleculars are sequenced in parallel (i.e., at the same time). This leads to hundreds of millions of molecules being sequenced at one time. Because only DNA and RNA are sequenced, HTS is used for genomics and transcriptomics. However, newer methodologies allow information about chromatin and proteins to be incorporated with this data.
 
-<p align="center">
-<img src="img/library.jpg" width="500">
-</p>
-<p align = "center">
-Can you imagine dusting this?
-</p>
+## What is a High-Performance Cluster (HPC)?
 
-
-It's the same with our local computer. While we might keep small data files on our laptop, we don't want to clutter it up with huge data files. And this is just thinking about storage! Books or data sets need to be organized and kept track of as well. You might be able to alphabetize or organize a hundred books on your own, but working with >8,000 books would be overwhelming! The same goes for our computer. To organize billions of base pairs and make sense of our sequencing data we simply need more power. The mac laptop I am writing this on has 10 cores (a single unit of processing available in our CPU; see below for more information). In comparison, a high perfomance computing (HPC) cluster might have hundreds or thousands of cores. That is a lot more processing capacity, more in line with the large amount of computational work we want to do!
+An HPC, or called **cluster** for short, is a large interconnected system of many high-powered computers. It provides all the resources needed to perform analysis on large amounts of data, as well as analyses requiring very high amounts of RAM (memory).
 
 Let's take a quick look at the basic architecture of a cluster environment and some cluster-specific jargon.
 
@@ -67,11 +61,24 @@ The above image reflects the many computers that make up a **"cluster"** of comp
   * many more, faster CPUs
   * each of those CPUs has many more cores
 
-E.g. A cluster “Node” that has eight “quad"-core CPUs, means that node has 32 cores (ability to process 32 computations at a time).
+E.g. A cluster “Node” that has eight “quad"-core CPUs, means that node has 32 cores (ability to process 32 computations at a time!)
 
 The data on a cluster is also stored differently than what we are used to with our laptops and desktops, in that it is not computer- or node-specific storage, but it is external and is available to all the nodes in a cluster. This ensures that you don't have to worry about which node is working on your analysis.
 
-### Why use the cluster or an HPC environment?
+## How do clusters and HPC relate to analysis of HTS data?
+
+Let's return to our book example. If one book is 375,000 characters then 3.2 billion characters (the size of the human genome) translates to 8,533 books! While we might keep tens or even hundreds of books at our house, most people will never have thousands. 
+
+<p align="center">
+<img src="img/library.jpg" width="500">
+</p>
+<p align = "center">
+Can you imagine dusting this?
+</p>
+
+It's the same with our local computer.  While we might keep small data files on our laptop, we don't want to clutter it up with huge data files. And this is just thinking about storage! Books or data sets need to be organized and kept track of as well. You might be able to alphabetize or organize a hundred books on your own but working with >8,000 books would be overwhelming! The same goes for our computer. To organize billions of basepairs and make sense of our sequencing data we simply need more power. Your "pretty good" laptop might have 16 cores. In comparison, a cluster (HPC) might have hundreds of cores. That is a lot more power for the big computational work we want to do!
+
+## Do I need a HPC for analyses, when I have a pretty good laptop?
 
 1. A lot of software is designed to work with the resources on an HPC environment and is either unavailable for, or unusable on, a personal computer.
 2. If you are performing analysis on large data files (e.g. high-throughput sequencing data), you should work on the cluster to avoid issues with memory and to get the analysis done a lot faster with the superior processing capacity. Essentially, a cluster has:
@@ -80,45 +87,9 @@ The data on a cluster is also stored differently than what we are used to with o
  <h4 align="center">   * 100s of Gigabytes or Petabytes of storage!</h4>
  <h4 align="center">   * 100s of Gigabytes of memory!</h4>
 
-### Parallelization
-
-Point #2 in the last section brings us to the idea of **parallelization** or parallel computing that enables us to efficiently use the resources available on the cluster.
-
-#### One input file
-
-Let's start with the most basic idea of processing 1 input file to generate 1 output (result) file. On a personal computer this would happen with a single core in the CPU. 
-
-<p align="center">
-<img src="img/serial_hpc_crop.png" width="50">
-</p>
-
-On a cluster we have access to many cores on a single node, so in theory we could split up the analysis of a single file into multiple distinct processes and use as many cores to speed up the generation of an output file. This is called **multithreading**, i.e. using multiple threads or cores. As you can imagine, multithreading can speed up how fast the analysis is performed! In the example below, the input file is analyzed using 8 cores, likely resulting in an 8 fold speed up!
-
-<p align="center">
-<img src="img/multithreaded_hpc.png" width="450">
-</p>
-
-> **Note:** Multithreading is done internally by analysis tools being employed, and **not** by manually splitting the input (except in very unusual circumstances).
-
-#### Three input files
-
-Now, what if we had 3 input files? Well, we could process these files **in serial**, i.e. use the same core(s) over and over again, as shown in the image below.
-
-<p align="center">
-<img src="img/serial_hpc_3samples.png" width="450">
-</p>
-
-This is great, but it is not as efficient as multithreading each analysis, and using a set of 8 cores for each of the three input samples. This is actually considered to be true parallelization.
-
-<p align="center">
-<img src="img/multithreaded_hpc_3samples.png" width="650">
-</p>
-
-With parallelization, several samples can be analysed at the same time!
-
 ## What is shell and how does it relate to clusters?
 
-So how might you actually use a cluster? Unfortunately you can't just walk up to where the cluster is stored and start using it. Clusters are accessed remotely, that means that you connect to the cluster from your own computer. You will do this from the **command line** or a text-based user interface. We are used to clicking on applications we want to use and selecting various commands from dropdown menus. Clusters do not work this way. Any task that you want a cluster to do has to be communicated through a text command.
+So how might you actually use a cluster? Unfortunately you can't just walk up to where the cluster is stored and start using it. Clusters are accessed remotely, that means that you connect to the cluster from your own computer. You will do this from the **command line** or a text-based user interface. We are used to clicking on applications we want to use and selecting various commands from dropdown menus. Clusters do not work this way; any task that you want a cluster to do has to be communicated through a text command.
 
 <p align="center">
 <img src="img/fasRC.jpeg" width="650">
@@ -127,9 +98,9 @@ So how might you actually use a cluster? Unfortunately you can't just walk up to
 The FAS-RC Cluster
 </p>
 
-If you have never taken a computer science course or worked with clusters before this will all be brand new to you. But don't worry, we have [courses for that](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)! 
+If you have never done any coding before or worked with clusters before the idea of using a computer by sending it text commands or using ***the shell*** will be brand new to you. The shell interprets your text commands into binary. Operating systems on the cluster (as well as your mac) all use the shell, most commnly the [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell) shell. You type in commands using shell syntax (the language shell understands), and shell takes care of the rest. 
 
-For now let's just review the basics. To look at command line on your own computer you can open the Terminal program on Macs or for Windows download [Git BASH](https://gitforwindows.org/) or a similar application. The **shell** is what runs in these programs to interpret your commands. These programs all use [Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell), a command language. As you get into HTS and computational work you will encounter a lot of languages such as Python, Perl, Fortran, R, C++, Java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R to begin with.  
+As you get into HTS and computational work you will encounter a lot of languages such as Python, Perl, Fortran, R, C++, Java and more. You can think of these as being akin to human languages; French and English sound very different and have different syntax (the order of words) but can be used to convey the same message. At HBC training we recommend that you become familiar (or fluent) in bash and R to begin with.    
 
 ## What is R and what can it do?
 
@@ -146,7 +117,9 @@ Why do we recommend R instead of other languages? According to [R-project](https
 
 ## Where do I go from here?
 
-Hopefully you now feel like you have a grasp on some of these terms. If you want to start getting your hands wet, we recommend that you take our [Intro to R Course](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) and the appropriate shell intro for the cluster you will use, either [O2](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html) or [FAS-RC](https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/schedule/links-to-lessons.html). You are free to take a workshop with us or work through the lessons yourself at your own pace. See our [main page](https://hbctraining.github.io/main/) for all course offerings. Happy Computing!
+Hopefully you now feel like you have a grasp on some of these terms. If you want to start getting your hands wet, we recommend that you take a look at our training program. <INCLUDE LINK TO THE MAIN_DRAFT PAGE HERE?>
+ 
+ Happy Computing!
 
 
 
