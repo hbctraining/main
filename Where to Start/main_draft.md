@@ -38,7 +38,7 @@ We offer courses and skills at three different levels starting at the basics and
 High-throughput data from even a single sample is considered &#39;omics data. However, we usually are looking at data from large number of biological samples (individuals, cell lines, etc).<br><br><hr />
 </details>
 <details>
-  <summary><b>What is High-throughput Sequencing (HTS) or Next-generation Sequencing (NGS) data</b></summary><br>
+  <summary><b>What is High-throughput Sequencing (HTS) or Next-generation Sequencing (NGS) data?</b></summary><br>
     <ul><li> <b> What is a Genome? <i>All of the DNA in an individual or a species</i> </b></li>
     <li> <b> What is a Transcriptome? <i>All of the RNA in an individual or a species (typically transcribed from DNA in individual cells)</i> </b></li></ul>
 
