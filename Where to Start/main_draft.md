@@ -27,7 +27,7 @@ We offer courses and skills at three different levels starting at the basics and
 
 <details>
   <summary><b>Click here to open the FAQ</b></summary>
-    <br><b>Click on the following questions to expand them for the answer</b><br>
+    <br><b>Click on the following questions to expand them for the answer</b><br><br>
       <details>
       <summary><b>What the heck is 'omics?</b></summary><br>
           Over the last 10-15 years many technological advances allow us to assess the entirety of a certain type of molecule(s) in an organsim. The resulting high-throughput data are called 'omics data. We can break 'omics down into 4 specific categories:<br><br>
@@ -77,7 +77,7 @@ Let's take a quick look at the basic architecture of a cluster environment and s
 <img src="img/cluster.png" width="500">
 </p>
 
-The above image reflects the many computers that make up a <b>"cluster"</b> of computers. Each individual computer in the cluster is usually a lot more powerful than any laptop or desktop computer we are used to working with, and is referred to as a <b>"node"</b> (instead of computer). Each node has a designated role, either for logging in or for performing computational analysis/work. <b>A given cluster will usually have a few login nodes and several compute nodes.</b> Each individual node in an HPC environment is a lot <b>more powerful<b> than any laptop or desktop computer we are used to working with. What we mean by <i>powerful</i> here is that each of these nodes have:
+The above image reflects the many computers that make up a <b>"cluster"</b> of computers. Each individual computer in the cluster is usually a lot more powerful than any laptop or desktop computer we are used to working with, and is referred to as a <b>"node"</b> (instead of computer). Each node has a designated role, either for logging in or for performing computational analysis/work. <b>A given cluster will usually have a few login nodes and several compute nodes.</b> Each individual node in an HPC environment is a lot <b>more powerful</b> than any laptop or desktop computer we are used to working with. What we mean by <i>powerful</i> here is that each of these nodes have:
 
   * a lot more memory (temporary storage)
   * many more, faster CPUs
@@ -149,7 +149,7 @@ For now let's just review the basics. To look at command line on your own comput
     </details>
     <details>
          <summary><b>What is R and what can it do?</b></summary><br>
-Why do we recommend R instead of other languages? According to [R-project](https://www.r-project.org/about.html) R is "R is a language and environment for statistical computing and graphics." R is also a well developed and relatively simple language that is widely used among data scientists and people in STEM. Compelling arguements for learning R include:
+Why do we recommend R instead of other languages? According to [R-project](https://www.r-project.org/about.html) "R is a language and environment for statistical computing and graphics." R is also a well developed and relatively simple language that is widely used among data scientists and people in STEM. Compelling arguements for learning R include:
 
 * It’s open-source. This means no fees or licenses are needed and you won't get any pop ups asking for money.
 * It’s platform-independent. This means that R runs on all operating systems (mac, windows, unix) and R scripts written on on platform can be run on any other platform.
