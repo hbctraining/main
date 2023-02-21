@@ -93,6 +93,22 @@ Which appears as:
 
 <a href="https://bioinformatics.sph.harvard.edu/training">HBC Training Webpage</a>
 
+### Blockquote `<blockquote>`
+
+TO initiate a blockquote you need to use `<blockquote>` and to close a blockquote you need to use `<blockquote>`. The syntax would look like:
+
+```
+<blockquote>
+Sometimes we need to blockquote text. Blockquoting text can have several purposes, perhaps we are adding a note about a command or we are quoting our favorite celebrity, Olivia Colman.
+</blockquote>
+```
+
+Which appears as:
+
+<blockquote>
+Sometimes we need to blockquote text. Blockquoting text can have several purposes, perhaps we are adding a note about a command or we are quoting our favorite celebrity, Olivia Colman.
+</blockquote>
+
 ### Keyboard Keys `<kbd>`
 
 In order to insert a keyboard looking key, we need to intiate it with `<kbd>` and close it with `</kbd>`.The syntax would look like:
