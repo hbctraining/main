@@ -160,7 +160,7 @@ Why do we recommend R instead of other languages? According to <a href="https://
 <li>Great plotting programs. R has wonderful packages to make publication ready figures. We even have a <a href="https://hbctraining.github.io/Training-modules/publication_perfect/">workshop</a> devoted to it!</li>
 <li>It’s great for statistics. Unlike SAS which is very costly R is free and has many different statistical packages available.</li>
 <li>You can use R for Machine Learning. R is ideal for machine learning operations such as regression and classification and even for artificial neural network development.</li>
-<li>R is growing. R has a solid support program and help with issues is widely available. New packages and features are available regularly!</li> 
+<li>R is growing. R has a solid support program and help with issues is widely available. New packages and features are available regularly!</li></ul> 
 <hr />
 </details>
 <details>
