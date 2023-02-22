@@ -29,7 +29,7 @@ We make the decision on a case-by-case basis and we encourage you to do the foll
 1. register for the advanced workshop first
 1. [email us](mailto: hbctraining@hsph.harvard.edu) with your experience (please refer to the corresponding workshop registration page for more details about the pre-requisites)
 
-Once we assess your registeration+email we will let you know.
+Once we assess your registration+email we will let you know.
 
 ### Do I need to attend all sessions of a workshop?
 
