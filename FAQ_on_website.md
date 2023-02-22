@@ -13,7 +13,7 @@ Yes! You should sign up for our [mailing list](https://hsphsun3.harvard.edu/mail
 
 ### Who is eligible for workshops sponsored by DF/HCC and HMS?
 
-**DF/HCC:** Researchers in the lab of any DF/HCC member is eligible.
+**DF/HCC:** Researchers in the lab of any [DF/HCC member](https://www.dfhcc.harvard.edu/insider/for-researchers/) is eligible.
 
 **HMS:** To be eligible through HMS, PIs have to be in one of the “[Basic and Social Science](https://hms.harvard.edu/departments?f%5B0%5D=department_type%3A231)” departments at HMS, or have a grant administered through HMS (Gordon Hall) directly.
 
