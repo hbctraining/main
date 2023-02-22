@@ -23,10 +23,7 @@ We offer courses and skills at three different levels starting at the basics and
 * Does the idea of writing your own code for data analysis seem necessary, yet daunting?
 * Do you need to brush up on what you already know about analysis of high-throughput sequencing data?
 
-### Click on our Q&A below! 
-
-
-**Click on the following questions to expand them for the answer**
+### Click on the following questions to expand them for the answers:
 
 <details>
   <summary><b>What the heck is &#39;omics?</b></summary><br>
