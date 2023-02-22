@@ -11,6 +11,12 @@ The workshop registration usually opens three weeks prior to the workshop date. 
 
 Yes! You should sign up for our [mailing list](https://hsphsun3.harvard.edu/mailman/listinfo/hbctraining) to receive timely emails about upcoming workshops.
 
+### Who is eligible for workshops sponsored by DF/HCC and HMS?
+
+**DF/HCC:** Researchers in the lab of any DF/HCC member is eligible.
+
+**HMS:** To be eligible through HMS, PIs have to be in one of the “[Basic and Social Science](https://hms.harvard.edu/departments?f%5B0%5D=department_type%3A231)” departments at HMS, or have a grant administered through HMS (Gordon Hall) directly.
+
 ### What if I am not sure whether my lab meets the eligibility requirement?
 
 Please register for the workshop anywway, and we will get back to you.
