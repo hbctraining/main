@@ -5,11 +5,11 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Friday, March 3rd 2023**: 9:30 AM - 12 PM
+**Tuesday, June 20th 2023**: 9:30 AM - 12 PM
 
-**Tuesday, March 7th 2023**: 9:30 AM - 12 PM
+**Friday, June 23rd 2023**: 9:30 AM - 12 PM
 
-**Friday, March 10th 2023**: 9:30 AM - 12 PM
+**Tuesday, June 27th 2023**: 9:30 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
@@ -69,12 +69,13 @@ Please make sure you **take the following into account when signing up** for the
 
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2so7i0xjQE3Gqq'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
 
-<div style="text-align:center">	
-	(Please check the eligibility requirements below prior to registering) 
-</div> 
+<div style="text-align:center">
+(Registration opens 2 weeks before the start of basic workshops.)
+</div>
+
 
 ---
 
