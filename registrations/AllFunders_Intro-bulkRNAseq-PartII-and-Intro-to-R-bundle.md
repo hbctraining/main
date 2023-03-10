@@ -6,34 +6,22 @@ The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundl
 
 ### Workshop bundle
 
-### **IN-PERSON (Longwood area) Workshop dates and times:**
+### **IN-PERSON: Countway 403 Classroom 
+### **Workshop dates and times:**
 
-**Introduction to R**
-
-**Friday, April 28, 2023**: 10 AM - 12 PM
-
-**Tuesday, May 2, 2023**: 10 AM - 12 PM
-
-**Friday, May 5, 2023**: 10 AM - 12 PM
-
-**Tuesday, May 9, 2023**: 10 AM - 12 PM
-
-**Introduction to bukRNA-seq II**
-
-**Tuesday, May 16, 2023**: 10 AM - 12 PM
-
-**Friday, May 19, 2023**: 10 AM - 12 PM
-
-**Tuesday, May 23, 2023**: 10 AM - 12 PM
-
-**Friday, May 26, 2023**: 10 AM - 12 PM
+| **Introduction to R** | **Introduction to bukRNA-seq II** |
+|:---------------|:-------------:|
+| **Friday, April 28, 2023**: 10 AM - 12 PM      |  **Tuesday, May 16, 2023**: 10 AM - 12 PM |
+| **Tuesday, May 2, 2023**: 10 AM - 12 PM        | **Friday, May 19, 2023**: 10 AM - 12 PM |
+| **Friday, May 5, 2023**: 10 AM - 12 PM         |  **Tuesday, May 23, 2023**: 10 AM - 12 PM |
+| **Tuesday, May 9, 2023**: 10 AM - 12 PM        | **Friday, May 26, 2023**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 ---
 
 ### **Description:**
-This hands-on workshop will introduce participants to R programming and statistical methods and considerations utilized to perform differential gene expression analysis on bulk RNA-seq data. Participants will learn about best practices in quality control, how to perform statistical analysis to obtain lists of differentially expressed (DE) genes using DESeq2. The workshop will also give participants an overview of tools for functional analysis of DE genes and how to extract some biological meaning from large gene lists.
+These hands-on workshops will introduce participants to R programming and statistical methods and considerations utilized to perform differential gene expression analysis on bulk RNA-seq data. Participants will learn about best practices in quality control, how to perform statistical analysis to obtain lists of differentially expressed (DE) genes using DESeq2. The workshop will also give participants an overview of tools for functional analysis of DE genes and how to extract some biological meaning from large gene lists.
 
 ** Please note that this workshop does NOT cover single-cell RNA-seq analysis. **
 
@@ -69,7 +57,7 @@ There is a ***non-refundable*** and ***non-transferable*** $105 registration fee
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $65 registration fee. 
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $105 registration fee. 
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
