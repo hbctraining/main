@@ -2,7 +2,7 @@
 
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
-The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundle* offering both Introduction to R and Introduction to bulkRNA-seq II since R is a pre-requisite for Introduction to bulkRNA-seq II. The bundled workshops are offered in-person in the Longwood medical area. 
+The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundle* offering *both* **Introduction to R** and **Introduction to bulkRNA-seq II** workshops since R is a pre-requisite for Introduction to bulkRNA-seq II. This bundled workshop is offered in-person in the Longwood medical area. 
 
 ### Workshop bundle
 
