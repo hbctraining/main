@@ -3,15 +3,15 @@
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **IN PERSON (Longwood area) - Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
-**Friday, April 28th**: 10 AM - 12 PM
+**Tuesday, April 11th**: 10 AM - 12 PM
 
-**Tuesday, May 2nd**: 10 AM - 12 PM
+**Friday, April 14th**: 10 AM - 12 PM
 
-**Friday, May 5th**: 10 AM - 12 PM
+**Tuesday, April 18th**: 10 AM - 12 PM
 
-**Tuesday, May 9th**: 10 AM - 12 PM
+**Friday, April 21st**: 10 AM - 12 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
