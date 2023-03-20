@@ -268,9 +268,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
   
   
 ## Additional Courses
-- [Introduction to Python](https://hbctraining.github.io/Training-modules/Python)
-- [Version control using GitKraken](https://github.com/hbctraining/version-control-gitkraken)
-  
+- [Introduction to Python](https://hbctraining.github.io/Training-modules/Python)  
   
   ***
 
