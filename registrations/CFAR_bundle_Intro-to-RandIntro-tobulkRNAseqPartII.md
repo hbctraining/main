@@ -33,7 +33,7 @@ These hands-on workshops will introduce participants to R programming and statis
 
 This is one of our bundled workshops and has *NO prerequisites* and no prior programming experience is required.
 
-Intro to R will fulfil the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to single cell RNA-seq analysis.
+Intro to R will fulfill the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to single cell RNA-seq analysis.
 
 ---
 
@@ -87,7 +87,7 @@ Please make sure you **take the following into account when signing up** for the
 
 <sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
 
--Researcher affiliated with Harvard University or
+-Researcher affiliated with Harvard University or 
 -Researcher at a Harvard affiliated institution participating in HIV related research
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
