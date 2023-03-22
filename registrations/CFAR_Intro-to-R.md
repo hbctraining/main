@@ -45,7 +45,7 @@ In addition to the above, we will focus on good data management practices, insta
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop (or fluency in R) is a prerequisite for advanced workshops introducing the analysis of bulk RNA-seq and scRNA-seq data.
+This workshop (or fluency in R) is a prerequisite for advanced workshops introducing the analysis of bulk RNA-seq II and scRNA-seq data. If you're interested in **both** R and RNAseq, [register here instead](https://hbctraining.github.io/main/registrations/CFAR_bundle_Intro-to-RandIntro-tobulkRNAseqPartII)
 
 ---
 
@@ -61,7 +61,7 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this online workshop.
+There is a ***non-refundable*** and ***non-transferable*** $35 registration fee for this online workshop.
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
