@@ -88,10 +88,13 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eyUc3fJ7LVFIb30'">Click here to Register!</button></a>
 </div>
 
-(Registration opens two weeks before HBC basic workshops)
+<div style="text-align:center">
+	 (Please check the eligibility requirements below prior to registering)
+</div>
+
 
 ---
 
