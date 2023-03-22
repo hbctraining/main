@@ -88,8 +88,8 @@ Please make sure you **take the following into account when signing up** for the
 
 <sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
 
--Researcher affiliated with Harvard University or 
--Researcher at a Harvard affiliated institution participating in HIV related research
+- Researcher affiliated with Harvard University or 
+- Researcher at a Harvard affiliated institution participating in HIV related research.
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
