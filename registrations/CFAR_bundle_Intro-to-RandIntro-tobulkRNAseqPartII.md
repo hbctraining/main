@@ -62,7 +62,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist. 
 
-*NOTE2: HBC/CFAR are offering two workshops at 2022 prices. Introduction to R, is being offered at $35 and will increase to $50 for subsequent basic workshops (ie R and Shell). Intro to RNA-seq II is being offered at $50 and subsequent advanced workshops will be offerd at $65. The workshop bundle - both Intro to R and bulk RNA seq II are being offered at a $10 discount to the 2022 rates: $75. Subsequent bundles will be offered at $105.
+*NOTE2: HBC/CFAR are offering these two workshops at 2022 prices. Introduction to R, is being offered at $35 and will increase to $50 for subsequent basic workshops (ie R and Shell). Intro to RNA-seq II is being offered at $50 and subsequent advanced workshops will be offerd at $65. The workshop bundle - both Intro to R and bulk RNA seq II, when purchased as a bundle, are being offered at a $10 discount to the 2022 rates: $75. Subsequent bundles will be offered at $105.
 
 ---
 
