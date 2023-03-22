@@ -31,9 +31,9 @@ These hands-on workshops will introduce participants to R programming and statis
 
 ### **Prerequisites:**
 
-This is one of our bundled workshops and has *NO prerequisites* and no prior programming experience is required, however, you'll learn R and it is a pre-requisite for Introduction to bulk RNA-seq Part II. 
+This is one of our bundled workshops and has *NO prerequisites* and no prior programming experience is required, however, R is a pre-requisite for Introduction to bulk RNA-seq Part II. 
 
-Intro to R will fulfill the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to bulk RNA-seq Part II and Introduction to single cell RNA-seq analysis.
+Intro to R will fulfill the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to single cell RNA-seq analysis and Introduction to bulk RNA-seq Part II.
 
 ---
 
@@ -45,9 +45,12 @@ Intro to R will fulfill the required prerequisite for other HBC advanced [worksh
 - Perform data analysis methods where basic knowledge of R is a requirement
 - Perform a differential expression analysis at the gene-level
 - Effectively use R to get your data in the appropriate format for DE analysis
-- Use the steps and statistical approaches used in assessing the quality of your abundance estimates (count data)
+- Use the steps and statistical approaches for assessing the quality of your abundance estimates (count data)
 - Visualize expression patterns for differentially expressed genes
 - Perform functional analysis on gene lists with R-based tools
+
+Interested in R only? [Register here instead](https://hbctraining.github.io/main/registrations/CFAR_Intro-to-R).
+
 
 ---
 
@@ -61,8 +64,6 @@ We will be accepting 25 participants on a first-come, first-served basis:
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist. 
-
-*NOTE2: HBC/CFAR are offering these two workshops at 2022 prices. Introduction to R, is being offered at $35 and will increase to $50 for subsequent basic workshops (ie R and Shell). Intro to RNA-seq II is being offered at $50 and subsequent advanced workshops will be offerd at $65. The workshop bundle - both Intro to R and bulk RNA seq II, when purchased as a bundle, are being offered at a $10 discount to the 2022 rates: $75. Subsequent bundles will be offered at $105.
 
 ---
 
