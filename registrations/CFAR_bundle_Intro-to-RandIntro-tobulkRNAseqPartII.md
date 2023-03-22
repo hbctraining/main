@@ -31,9 +31,9 @@ These hands-on workshops will introduce participants to R programming and statis
 
 ### **Prerequisites:**
 
-This is one of our bundled workshops and has *NO prerequisites* and no prior programming experience is required.
+This is one of our bundled workshops and has *NO prerequisites* and no prior programming experience is required, however, you'll learn R and it is a pre-requisite for Introduction to bulk RNA-seq Part II. 
 
-Intro to R will fulfill the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to single cell RNA-seq analysis.
+Intro to R will fulfill the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to bulk RNA-seq Part II and Introduction to single cell RNA-seq analysis.
 
 ---
 
@@ -75,11 +75,11 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is closed!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_bgt7DjIOeu3fnH8'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
-	 (Registration opens 3 weeks before the start of advanced workshops.)
+	 (Please check the eligibility requirements below prior to registering)
 </div>
  
 ---
