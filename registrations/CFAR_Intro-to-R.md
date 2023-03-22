@@ -59,13 +59,19 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ---
 
+### **Interested in both R and RNA-seq?:**
+
+Interested in both R and RNA-seq?, if so [register here instead](https://hbctraining.github.io/main/registrations/CFAR_bundle_Intro-to-RandIntro-tobulkRNAseqPartII)
+
+---
+
 ### **Cost:**
 
 There is a ***non-refundable*** and ***non-transferable*** $35 registration fee for this online workshop.
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $50 registration fee. 
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $35 registration fee. 
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
@@ -93,10 +99,8 @@ Please make sure you **take the following into account when signing up** for the
 
 <sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
 
-- Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
-- Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
-- Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
+- Researcher affiliated with Harvard University
+- Researcher at a Harvard affiliated institution participating in HIV related research.
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
