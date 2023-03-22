@@ -25,7 +25,7 @@ These hands-on workshops will introduce participants to R programming and statis
 
 ** Please note that this workshop does NOT cover single-cell RNA-seq analysis. **
 
-** Please note that you DO NOT need to attend Part I to attend this workshop.
+** Please note that you **DO NOT** need to attend bulk RNA-seq Part I to attend the Introduction to bukRNA-seq II workshop.
 
 ---
 
@@ -53,15 +53,16 @@ Intro to R will fulfill the required prerequisite for other HBC advanced [worksh
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $105 registration fee for this workshop bundle.
+There is a ***non-refundable*** and ***non-transferable*** $75 registration fee for this workshop bundle.
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $105 registration fee. 
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $75 registration fee. 
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
-*NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
+*NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist. 
 
+*NOTE2: HBC/CFAR are offering two workshops at 2022 prices. Introduction to R, is being offered at $35 and will increase to $50 for subsequent basic workshops (ie R and Shell). Intro to RNA-seq II is being offered at $50 and subsequent advanced workshops will be offerd at $65. The workshop bundle - both Intro to R and bulk RNA seq II are being offered at a $10 discount to the 2022 rates: $75. Subsequent bundles will be offered at $105.
 
 ---
 
