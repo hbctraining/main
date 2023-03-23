@@ -100,7 +100,7 @@ Please make sure you **take the following into account when signing up** for the
 
 ### **Eligibility requirements:**
 
-<sup>*</sup>To be eligible to attend this workshop you need to be a Researcher at a Harvard affiliated institution participating in HIV related research.
+<sup>*</sup>To be eligible to attend this workshop you must be a Researcher at a Harvard affiliated institution participating in HIV related research.
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
