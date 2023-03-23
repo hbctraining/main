@@ -59,9 +59,9 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ---
 
-### **Interested in both R and RNA-seq II workshops?**
+### **Interested in both R and RNA-seq II?**
 
-If interested in registering right now for both the R and the Differential Gene Expression (RNA-seq II) workshops, [register here instead](https://hbctraining.github.io/main/registrations/CFAR_bundle_Intro-to-RandIntro-tobulkRNAseqPartII) (Note: signing up for both together offers a $10 savings.)
+We will offer a Differential Gene Expression (RNA-seq II) workshop in June (Online). Registration will open in May. However, if you're interested in registering right now for both the R and the Differential Gene Expression (RNA-seq II) workshops, [register here](https://hbctraining.github.io/main/registrations/CFAR_bundle_Intro-to-RandIntro-tobulkRNAseqPartII) (Note: signing up for both together offers a $10 savings.)
 
 ---
 
