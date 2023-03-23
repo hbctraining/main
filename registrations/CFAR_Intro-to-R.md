@@ -45,7 +45,7 @@ In addition to the above, we will focus on good data management practices, insta
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop (or fluency in R) is a prerequisite for advanced workshops introducing the analysis of bulk RNA-seq II and scRNA-seq data. If you're interested in **both** R and RNAseq, [register here instead](https://hbctraining.github.io/main/registrations/CFAR_bundle_Intro-to-RandIntro-tobulkRNAseqPartII)
+This workshop (or fluency in R) is a prerequisite for advanced workshops introducing the analysis of bulk RNA-seq II and scRNA-seq data. 
 
 ---
 
@@ -59,9 +59,9 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ---
 
-### **Interested in both R and RNA-seq?:**
+### **Interested in registering now for both R and the Differential Gene Expression (RNA-seq II) workshops?**
 
-Interested in both R and RNA-seq?, if so [register here instead](https://hbctraining.github.io/main/registrations/CFAR_bundle_Intro-to-RandIntro-tobulkRNAseqPartII)
+If interested in registering right now for both the R and the Differential Gene Expression (RNA-seq II) workshops, [register here](https://hbctraining.github.io/main/registrations/CFAR_bundle_Intro-to-RandIntro-tobulkRNAseqPartII) (Note: signing up for both together offers a $10 savings.)
 
 ---
 
