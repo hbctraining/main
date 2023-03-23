@@ -59,7 +59,7 @@ There is a ***non-refundable*** and ***non-transferable*** $50 registration fee 
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $65 registration fee. 
+- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $50 registration fee. 
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
