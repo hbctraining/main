@@ -76,11 +76,7 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_bgt7DjIOeu3fnH8'">Click here to Register!</button></a>
-</div>
-
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
  
 ---
