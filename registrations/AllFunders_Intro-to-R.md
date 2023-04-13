@@ -3,7 +3,7 @@
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **IN PERSON (Longwood area) - Workshop dates and times:**
+### **IN PERSON (Countway 403 Classroom) - Workshop dates and times:**
 
 **Friday, April 28th**: 10 AM - 12 PM
 
@@ -59,6 +59,12 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ---
 
+### **Interested in both R and RNA-seq II?**
+
+We will offer a Differential Gene Expression (RNA-seq II) workshop in May (In Person). Registration will open at the end of April. However, if you're interested in registering right now for both the R and the Differential Gene Expression (RNA-seq II) workshops, register [here](https://hbctraining.github.io/main/registrations/AllFunders_Intro-bulkRNAseq-PartII-and-Intro-to-R-bundle) (Note: signing up for both together offers a $10 savings.)
+
+---
+
 ### **Cost:**
 
 There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this online workshop.
@@ -82,10 +88,13 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2qTowuZgfj4wxo'">Click here to Register!</button></a>
 </div>
 
-(Registration opens two weeks before HBC basic workshops)
+<div style="text-align:center">
+	 (Please check the eligibility requirements below prior to registering)
+</div>
+
 
 ---
 
