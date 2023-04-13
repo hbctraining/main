@@ -6,7 +6,7 @@ The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundl
 
 ### **Workshop bundle**
 
-### **IN-PERSON: Countway 403 Classroom** 
+### **IN-PERSON: Countway Library** 
 
 ### **Workshop dates and times:**
 
