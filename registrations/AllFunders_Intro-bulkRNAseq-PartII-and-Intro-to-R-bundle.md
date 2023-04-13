@@ -31,9 +31,9 @@ These hands-on workshops will introduce participants to R programming and statis
 
 ### **Prerequisites:**
 
-This is one of our bundled workshops and has *NO prerequisites* and no prior programming experience is required.
+This is one of our bundled workshops and has NO prerequisites and no prior programming experience is required, however, R is a pre-requisite for Introduction to bulk RNA-seq Part II.
 
-Intro to R will fulfil the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to single cell RNA-seq analysis.
+Intro to R will fulfil the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to single cell RNA-seq analysis and Introduction to bulk RNA-seq Part II.
 
 ---
 
@@ -48,6 +48,8 @@ Intro to R will fulfil the required prerequisite for other HBC advanced [worksho
 - Use the steps and statistical approaches used in assessing the quality of your abundance estimates (count data)
 - Visualize expression patterns for differentially expressed genes
 - Perform functional analysis on gene lists with R-based tools
+
+Interested in R only? [Register here instead](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R).
 
 ---
 
@@ -74,11 +76,11 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is closed!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_5urhUEwwNFyTC0C'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
-	 (Registration opens 3 weeks before the start of advanced workshops.)
+	 (Please check the eligibility requirements below prior to registering)
 </div>
  
 ---
