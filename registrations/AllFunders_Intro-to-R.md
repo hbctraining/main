@@ -3,7 +3,9 @@
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **IN PERSON (Countway 403 Classroom) - Workshop dates and times:**
+### **IN PERSON (Countway 403 Classroom)** 
+
+### **Workshop dates and times:**
 
 **Friday, April 28th**: 10 AM - 12 PM
 
@@ -61,7 +63,7 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ### **Interested in both R and RNA-seq II?**
 
-We will offer a Differential Gene Expression (RNA-seq II) workshop in May (In Person). Registration will open at the end of April. However, if you're interested in registering right now for both the R and the Differential Gene Expression (RNA-seq II) workshops, register [here](https://hbctraining.github.io/main/registrations/AllFunders_Intro-bulkRNAseq-PartII-and-Intro-to-R-bundle) (Note: signing up for both together offers a $10 savings.)
+We will offer a Differential Gene Expression (RNA-seq II) workshop in May. Registration will open at the end of April. However, if you're interested in registering right now for both the R and the Differential Gene Expression (RNA-seq II) workshops, register [here](https://hbctraining.github.io/main/registrations/AllFunders_Intro-bulkRNAseq-PartII-and-Intro-to-R-bundle) (Note: signing up for both together offers a $10 savings.)
 
 ---
 
