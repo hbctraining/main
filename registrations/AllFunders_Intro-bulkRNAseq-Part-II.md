@@ -82,6 +82,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
  
+	
 ---
 
 ### **Eligibility requirements:**
