@@ -96,7 +96,7 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-	 (Registration opens 2 weeks before the start of advanced workshops.)
+	 (Registration opens 2 weeks before the start of basic workshops.)
 </div>
 
 
