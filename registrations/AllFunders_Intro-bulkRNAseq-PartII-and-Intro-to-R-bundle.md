@@ -50,7 +50,7 @@ Intro to R will fulfil the required prerequisite for other HBC advanced [worksho
 - Visualize expression patterns for differentially expressed genes
 - Perform functional analysis on gene lists with R-based tools
 
-Interested in R only? [Register here instead](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R).
+Interested in Bulk RNA-seq II workshop only? [Register here instead](https://hbctraining.github.io/main/registrations/AllFunders_Intro-bulkRNAseq-Part-II).
 
 ---
 
@@ -77,8 +77,9 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_5urhUEwwNFyTC0C'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
+
 
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
