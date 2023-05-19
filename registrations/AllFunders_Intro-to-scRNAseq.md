@@ -5,11 +5,11 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Friday, February 10th**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Tuesday, February 14th**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, February 17th**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
@@ -73,7 +73,11 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
- 
+
+<div style="text-align:center">
+	 (Registration opens 3 weeks before the start of advanced workshops.)
+</div>
+
 ---
 
 ### **Eligibility requirements:**
