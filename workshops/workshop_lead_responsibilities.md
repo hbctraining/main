@@ -35,7 +35,6 @@
 5. Check workshop repo to see if there are any issues to be addressed
 
 6. Clear Google Form Responses
-    - Convert Dropbox to Google Form (temporary)
 
 7. PollEverywhere:
     - Remove old questions
