@@ -87,8 +87,7 @@ Please make sure you **take the following into account when signing up** for the
 - Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
 - Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
 - Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
-- Harvard researcher whose PI is associated with the HSCI as [Principal](https://hsci.harvard.edu/faculty) or [Affiliated](https://hsci.harvard.edu/affiliate-faculty) faculty
+- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
