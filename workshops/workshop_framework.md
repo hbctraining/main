@@ -16,4 +16,5 @@
   * Any hard coded variables should be clearly marked
   * Should be parallelizable for all samples/samplegroups with job arrays or similar
 * Downstream analysis lessons should focus on biological significance and visualization of results
-  * If adding other tools, make sure to include a description of tools, parameters and parameter choices and very importantly the interpretation and connection to the biological context (tie it back to the first lesson on dataset description)
+  * Include a description of tools, parameters and parameter choices.
+  * Include the interpretation and connection to the biological context (tie it back to the first lesson on dataset description)
