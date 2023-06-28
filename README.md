@@ -223,7 +223,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-ChIPseq-flipped/">Understanding chromatin biology using high throughput sequencing</a></li>
-      <li><a href="https://hbctraining.github.io/variant_analysis/">Variant calling</a></li></ul></td>
+      <li><a href="">Variant calling</a></li></ul></td>
   </tr>
   <tr>
     <td><b>D</b> - Statistical Analysis of HTS data in R</td>
