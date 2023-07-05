@@ -1,6 +1,7 @@
-## Guidelines to develop workshop materials
+## Guidelines to develop materials
 (copied over from https://docs.google.com/document/d/1OhrFpQhBt4qb4R4LIm54VCc8cb_FZB3EWFcOO42giNU/edit)
 
+### Workshops
 * Better deadlines that are met!
 * Better coordination between developers
 * Workflow development
@@ -21,3 +22,6 @@
   * Review of full workflow (all lessons) by at least 2 people (complete at least 2 weeks before workshop)
     * One person should test on teaching computer
     * If feasible, test on PC
+
+### Modules (short workshops)
+* 
