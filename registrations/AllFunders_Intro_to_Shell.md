@@ -3,13 +3,13 @@
 *Note: In 2023, some HBC workshops will be taught in person and others will be online via Zoom.*
 
 
-### **IN PERSON (Longwood area) Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
-**Tuesday, June 20th 2023**: 9:30 AM - 12 PM
+**Tuesday, October 24th 2023**: 9:30 AM - 12 PM
 
-**Friday, June 23rd 2023**: 9:30 AM - 12 PM
+**Friday, October 27th 2023**: 9:30 AM - 12 PM
 
-**Tuesday, June 27th 2023**: 9:30 AM - 12 PM
+**Tuesday, October 31st 2023**: 9:30 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
