@@ -49,7 +49,7 @@ Yes, you can register **AND** please do the following:
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop.
+There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop*.
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
@@ -57,6 +57,8 @@ We will be accepting 25 participants on a first-come, first-served basis:
 - **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
+
+*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you.
 
 
 ---
