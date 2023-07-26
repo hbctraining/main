@@ -2,15 +2,15 @@
 
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, August 8, 2023**: 1:30 PM - 3:30 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, August 11, 2023**: 1:30 PM - 3:30 PM
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, August 15, 2023**: 1:30 PM - 3:30 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, August 18, 2023**: 1:30 PM - 3:30 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
@@ -58,15 +58,9 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ---
 
-### **Interested in both R and RNA-seq II?** [Register here instead](https://hbctraining.github.io/main/registrations/AllFunders_Intro-bulkRNAseq-PartII-and-Intro-to-R-bundle)
-
-We will offer a Differential Gene Expression (RNA-seq II) workshop in May. Registration will open at the end of April. However, if you're interested in registering right now for both the R and the Differential Gene Expression (RNA-seq II) workshops, [register here instead](https://hbctraining.github.io/main/registrations/AllFunders_Intro-bulkRNAseq-PartII-and-Intro-to-R-bundle) (Note: signing up for both together offers a $10 savings.)
-
----
-
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this online workshop.
+There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this online workshop*.
 
 We will be accepting 25 participants on a first-come, first-served basis:
 
@@ -75,6 +69,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
+*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you.
 
 ---
 
@@ -86,16 +81,13 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active participation during discussion sessions._
 
+<div style="text-align:center">
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2qTowuZgfj4wxo'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is closed!</button></a>
+	 (Please check the eligibility requirements below prior to registering)
 </div>
-
-<div style="text-align:center">
-	 (Registration opens 2 weeks before the start of basic workshops.)
-</div>
-
 
 ---
 
