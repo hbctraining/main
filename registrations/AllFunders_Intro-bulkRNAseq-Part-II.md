@@ -1,4 +1,4 @@
-# Differential Gene Expression Analysis workshop (2023)
+# Differential Gene Expression Analysis Workshop (2023)
 
 *Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
 
