@@ -5,15 +5,15 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Friday, August 11th**: 9:30 AM - 12 PM
+**Tuesday, November 14th**: 9:30 AM - 12 PM
 
-**Tuesday, August 15th**: 9:30 AM - 12 PM
+**Friday, November 17th**: 9:30 AM - 12 PM
 
-**Friday, August 18th**: 9:30 AM - 12 PM
+**Tuesday, November 21st**: 9:30 AM - 12 PM
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
-
+Workshop dates and times are subject to change
 ---
 
 ### **Description:**
@@ -72,12 +72,13 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_bHkovdDu7Tj3a0C'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
+(Registration opens 3 weeks before the start of advanced workshops.)
 </div>
+
  
 ---
 
