@@ -18,11 +18,7 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 ---
 
 ### **Description:**
-This hands-on workshop will introduce participants to statistical methods and considerations utilized to perform differential gene expression analysis on bulk RNA-seq data. Participants will learn about best practices in quality control, how to perform statistical analysis to obtain lists of differentially expressed (DE) genes using DESeq2. The workshop will also give participants an overview of tools for functional analysis of DE genes and how to extract some biological meaning from large gene lists.
-
-** Please note that this workshop does NOT cover single-cell RNA-seq analysis. **
-
-** Please note that you DO NOT need to attend Part I to attend this workshop, all you need is R fluency.
+This hands-on workshop will introduce participants to statistical methods and considerations utilized to perform differential gene expression analysis on **bulk RNA-seq** data. Participants will learn about best practices in quality control, how to perform statistical analysis to obtain lists of differentially expressed (DE) genes using DESeq2. The workshop will also give participants an overview of tools for functional analysis of DE genes and how to extract some biological meaning from large gene lists.
 
 ---
 
@@ -45,7 +41,7 @@ Yes, you can register **AND** please do the following:
 
 [Eligible*](#eligibility-requirements) Harvard researchers who have attended our Introduction to R workshop (or have working knowledge of R), and want to learn: 
 
-- How to perform a differential expression analysis at the gene-level
+- How to perform a differential expression analysis at the gene-level on bulk RNA-seq data
 - How to effectively use R to get your data in the appropriate format for DE analysis
 - The steps and statistical approaches used in assessing the quality of your abundance estimates (count data)
 - How to visualize expression patterns for differentially expressed genes
@@ -78,11 +74,11 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eK86Te20HZeJRAy'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
-(Registration opens 3 weeks before the start of advanced workshops.)
+	 (Please check the eligibility requirements below prior to registering)
 </div>
 	
 ---
