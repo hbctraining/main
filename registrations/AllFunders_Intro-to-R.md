@@ -4,13 +4,13 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**TBD**: 
+**Tuesday, October 24th, 2023**: 10 AM - 12 PM
 
-**TBD**: 
+**Friday, October 27th, 2023**: 10 AM - 12 PM
 
-**TBD**: 
+**Tuesday, October 31st, 2023**: 10 AM - 12 PM
 
-**TBD**: 
+**Friday, November 3rd, 2023**: 10 AM - 12 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
