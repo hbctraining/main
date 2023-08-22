@@ -5,11 +5,11 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, October 24th 2023**: 9:30 AM - 12 PM
+**Tuesday, November 14th 2023**: 9:30 AM - 12 PM
 
-**Friday, October 27th 2023**: 9:30 AM - 12 PM
+**Friday, November 17th 2023**: 9:30 AM - 12 PM
 
-**Tuesday, October 31st 2023**: 9:30 AM - 12 PM
+**Tuesday, November 21st 2023**: 9:30 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
