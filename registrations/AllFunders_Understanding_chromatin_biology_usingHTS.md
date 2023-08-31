@@ -5,11 +5,11 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, November 14th**: 9:30 AM - 12 PM
+**TBD**
 
-**Friday, November 17th**: 9:30 AM - 12 PM
+**TBD**
 
-**Tuesday, November 21st**: 9:30 AM - 12 PM
+**TBD**
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
