@@ -76,8 +76,14 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-	 (Registration opens 3 weeks before the start of advanced workshops.)
+	 (Registration opens 2-3 weeks before the start of advanced workshops.)
 </div>
+
+<!-- 
+<div style="text-align:center">
+	 (Please check the eligibility requirements below prior to registering) -->
+
+<!-- This content will not appear in the rendered Markdown -->
 
 ---
 
@@ -89,6 +95,7 @@ Please make sure you **take the following into account when signing up** for the
 - Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
 - Graduate student at the Harvard Medical School
 - Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
+- Researcher at a Harvard-affiliated institution participating in HIV related research.
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
