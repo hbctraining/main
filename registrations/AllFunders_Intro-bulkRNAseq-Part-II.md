@@ -5,13 +5,13 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, September 5th, 2023**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Friday, September 8th, 2023**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Tuesday, September 12th, 2023**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Friday, September 15th, 2023**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -88,6 +88,7 @@ Please make sure you **take the following into account when signing up** for the
 - Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
 - Graduate student at the Harvard Medical School
 - Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
+- Researcher at a Harvard-affiliated institution participating in HIV related research.
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
