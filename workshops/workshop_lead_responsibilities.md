@@ -23,24 +23,26 @@
 > **NOTE:** For Shell (and Shell-based) workshops se additional responsibilities below.
 
 1. Ensure hosts/instructors register manually
+   
+2. Check with guest speakers well **ahead of time** to see if they are available 
 
-2. Check if polls were added: Start the workshop zoom and check, or ask Maria directly.
+4. Check if polls were added: Start the workshop zoom and check, or ask Maria directly.
 
-4. Update workshop schedule where necessary
+5. Update workshop schedule where necessary
     - Instructors
     - Timings 
     - Lessons
     - Any language updates on the schedule page
 
-5. Check workshop repo to see if there are any issues to be addressed
+6. Check workshop repo to see if there are any issues to be addressed
 
-6. Clear Google Form Responses
+7. Clear Google Form Responses
 
-7. PollEverywhere:
+8. PollEverywhere:
     - Remove old questions
     - Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
    
-8. Update Intro and Wrap-up slides
+9. Update Intro and Wrap-up slides
     - Update funders (temporary)
     - Update links to update data management workshops at Countway
     - Check that tinyurl links are correct and working
@@ -48,7 +50,7 @@
     - Update to the "Odds and Ends" slide (as Zoom changes our stickie situation) 
     - If necessary, update keynote and generate new pdf for upload to GitHub
     
-9. Make sure Exit survey is ready
+10. Make sure Exit survey is ready
 
 11. Review hbctraining emails to ensure all class-related emails are answered
 
