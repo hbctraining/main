@@ -54,7 +54,7 @@ Some helpful notes here for first time teaching a workshop:
     * Go through the answers
 3) **Briefly go through self-learning section, focusing on areas of need based on homeworks/polls, and conceptually important sections**
     * Pause and ask for questions
-4)  **After all self learning sections are done, consider taking a biob-break before starting the in-class portion**
+4)  **After all self learning sections are done, consider taking a bio-break before starting the in-class portion**
 
 ### During class: in-class lesson
 
