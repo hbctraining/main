@@ -1,4 +1,4 @@
-# Online Workshop – Lead Instructor Responsibilities
+# Lead Instructor Responsibilities
 
 ## Maria will perform the following:
 
@@ -12,21 +12,22 @@
       - Edit email body
     - Add poll questions
   
-2. Send hosts/instructors links to register
+2. Add hosts/instructors as alternative hosts (check email inbox for zoom link)
 
-3. Register students as sessionInfo() emails come in
-    - Check spreadsheet in DropBox
-    - Click on Registration link in DropBox and manually enter participantsimg/dropbox_re
+3. Sending students an invitation for Zoom (remote) or classroom details (in-person)
+    - First add students to spreadhseet and add funder/affiliation eligibility
+    - Check spreadsheet in Google drive/DropBox and assess pre-req (need to cross-reference with emails)
+    - Students who are **eligible AND pre-reqs** are satisfied:
+       -  For R-based advanced workshops: Get sent a preparation email  --> sessionInfo() emails come in (screenshot from RShiny app) --> send link
+       -  For all other workshops: Send a registration link 
 
 ## Lead instructor duties (for all workshops)
 
-> **NOTE:** For Shell (and Shell-based) workshops se additional responsibilities below.
+> **NOTE:** For Shell (and Shell-based) workshops see additional responsibilities below.
 
-1. Ensure hosts/instructors register manually
-   
-2. Check with guest speakers well **ahead of time** to see if they are available 
+1. Check with guest speakers well **ahead of time** to see if they are available. 
 
-4. Check if polls were added: Start the workshop zoom and check, or ask Maria directly.
+2. Check if polls were added: Start the workshop zoom and check, or ask Maria directly (remote). Check the Google form polls and make sure the answers have been cleared (in-person).
 
 5. Update workshop schedule where necessary
     - Instructors
@@ -34,9 +35,9 @@
     - Lessons
     - Any language updates on the schedule page
 
-6. Check workshop repo to see if there are any issues to be addressed
+6. Check workshop repo to see if there are any GitHub issues to be addressed
 
-7. Clear Google Form Responses
+7. Clear Google Form Responses from homework links
 
 8. PollEverywhere:
     - Remove old questions
