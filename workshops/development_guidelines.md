@@ -1,4 +1,9 @@
-## Guidelines to develop materials for HBC 
+# HBC Workshop Development
+
+### Table of Contents
+* [General guidelines for material development](#general-guidelines)
+
+## General guidelines
 (copied over from https://docs.google.com/document/d/1OhrFpQhBt4qb4R4LIm54VCc8cb_FZB3EWFcOO42giNU/edit)
 
 * Workflow development
