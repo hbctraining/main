@@ -1,18 +1,23 @@
-## Teaching workshop (protocol)
+## A guide to teaching an HBC workshop 
 
-Some helpful notes here for first time teaching a workshop:
+These are some guidelines on things to think about when teaching your first workshop. 
 
-### Before-class prep
+### Leading up to the workshop 
 
-#### The day (or several days) before
-
-1) **Decide who is teaching what in-class section(s) and self-learning sections, and become comfortable with your section(s)**
-  * Install packages, run through code, save project for easy loading in class
+* **Decide who is teaching what in-class section(s) and self-learning sections, and become comfortable with your section(s)**
   * Recognize where personal expertise will let you add to the material, or what can be skimmed over quickly
   * Familiarize yourself with concepts and anticipate where questions might arise
   * Identify sections where pausing to get green checkmarks or confirmation of understanding is prudent (such as prepping an R workspace, a chunk of R code, or an important concept)
-  * Nice html versions of your class can be found in the linke directly below the *About* section on the righthand side of the main GitHub page for your class; these look more professional than presenting from the GitHub page directly
-     * Familiarize yourself with any exercises and make sure you understand the answers
+  * Walk-through a lesson with another instructor (practice run)
+ 
+>   * Nice html versions of your class can be found in the linke directly below the *About* section on the righthand side of the main GitHub page for your class; these look more professional than presenting from the GitHub page directly
+    
+* For R workshops:
+     * install packages
+     * run through code
+     * save project for easy loading in class
+
+* Familiarize yourself with any exercises/homework and make sure you understand the answers
      * Answers to in-class exercise can be found in the links labeled *Answer Key* towards the bottom of the *schedule* page for the workshop on GitHub
      * Answers to self-lerning exercises can be found in the *exercises* folder on the GitHub repo for the workshop
       
