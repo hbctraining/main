@@ -41,31 +41,33 @@
 
 8. PollEverywhere:
     - Remove old questions
-    - Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
+    - _If it is helpful:_ Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
    
 9. Update Intro and Wrap-up slides
     - Update funders (temporary)
-    - Update links to update data management workshops at Countway
+    - Update slide on data management workshops at Countway. For HPC workshops, include a slide on HMS-RC workshops. Cross-posting helps our community.
     - Check that tinyurl links are correct and working
     - Check that funding information is correct
-    - Update to the "Odds and Ends" slide (as Zoom changes our stickie situation) 
+    - Update to the "Odds and Ends" slide as needed for in-person and remote
     - If necessary, update keynote and generate new pdf for upload to GitHub
     
-10. Make sure Exit survey is ready
+10. Make sure Qualtrics Exit survey is ready
 
-11. Review hbctraining emails to ensure all class-related emails are answered
 
-12. Once workshop is complete:
+**Once workshop is complete:**
+
     * If needed, clear the environment and remove any scripts so project is ready for next class.
-    * Remind Radhika to add information about who attended to the registration doc
+    * Remote workshop: Download zoom information about who attended and how long each day. Add to spreadsheet
+    * In-person workshop: Add attendance information to spreadsheet
     * Send an email to everyone reminding them:
         * to fill out the exit survey
         * the schedule page and links will be available for the forseeable future (add link)
         * that resources are listed at the bottom of the schedule page
+        * any other information that was promiesd in-class
 
-## Lead Instructor duties for Shell workshops
+## Additional Lead Instructor duties for Shell workshops
 
-1. Request training accounts from HMS-RC (about two weeks prior)
+1. Request training accounts from HMS-RC (about **two weeks prior**)
     - Submit a ticket to RC-help but cc Andy and Kathleen
     - Provide dates and times of training
     - Provide number of accounts
