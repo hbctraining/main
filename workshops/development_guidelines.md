@@ -7,6 +7,8 @@
    * [Final Draft](#final-draft)
 * [Basic Data Skills Workshops](#basic-data-skills-workshops)
 * [Advanced NGS Analysis Workshops](#advanced-ngs-analysis-workshops)
+    * Guidelines specific to R-based workshops
+    * Guidelines specific to shell-based workshop
 * [Current topics in Bioinformatics](#current-topics-in-bioinformatics)
 
 ## General guidelines
