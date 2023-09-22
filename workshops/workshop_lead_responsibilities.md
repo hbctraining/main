@@ -56,14 +56,14 @@
 
 **Once workshop is complete:**
 
-    * If needed, clear the environment and remove any scripts so project is ready for next class.
-    * Remote workshop: Download zoom information about who attended and how long each day. Add to spreadsheet
-    * In-person workshop: Add attendance information to spreadsheet
-    * Send an email to everyone reminding them:
-        * to fill out the exit survey
-        * the schedule page and links will be available for the forseeable future (add link)
-        * that resources are listed at the bottom of the schedule page
-        * any other information that was promiesd in-class
+* If needed, clear the environment and remove any scripts so project is ready for next class.
+* Remote workshop: Download zoom information about who attended and how long each day. Add to spreadsheet
+* In-person workshop: Add attendance information to spreadsheet
+* Send an email to everyone reminding them:
+  * to fill out the exit survey
+  * the schedule page and links will be available for the forseeable future (add link)
+  * that resources are listed at the bottom of the schedule page
+  * any other information that was promiesd in-class
 
 ## Additional Lead Instructor duties for Shell workshops
 
