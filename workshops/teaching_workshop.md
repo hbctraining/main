@@ -28,18 +28,18 @@ These are some guidelines on things to think about when teaching your first work
 
 **Consider doing these tasks in tandem with your teaching partner**
 
-1) **Decide who will answer which [Poll Everywhere](https://pollev.com/hbctraining945) and email questions, if any**
+1) **Run code from self-learning.** For R, this should be done in your individual projects on your personal computers (in some cases there are objects you can load). For shell, one instructor should be assigned to run code prior to class (instructors share a single training account).  
+2) **Decide who will answer which [Poll Everywhere](https://pollev.com/hbctraining945) and email questions, if any**
    * Often, people don't submit questions until the night before or the morning before class, so check this 30-60 min before class
    * You may not know the answer off the top of your head and will need to do some prep
    * If a question is too time consuming to find an answer before/during class, you can always answer after class
-   * These questions can help determine which self-learning sections to focus on
-2) **Run code from self-learning.** For R, this should be done in your individual projects. For shell, one instructor should be assigned to run code prior to class (instructors share a single training account).      
+   * These questions can help determine which self-learning sections to focus on   
 2) **Review class homework submissions**
    * Homeworks can be found by searching for your class in [the HBC google forms](https://docs.google.com/forms/u/0/?tgif=d). Student answers can be found by clicking on the *Responses* tab
    * Correct answers to homeworks can be found in the links labeled *Answer Key* towards the bottom of the *schedule* page for the workshop on GitHub. They are also usually found in the *homework* folder in the Github repo for your course.
    * Most people don't submit homework until the night before, so check this 30-60 min before class 
    * This will help you determine what self-learning areas need to be focused on in class
-3) **Familiarize yourself with the zoom/Google polls for your sections**
+3) **Familiarize yourself with the Zoom/Google polls for your sections**
    * Polls (and their answers) can be found in the *activities* folder of the GitHub repo for your class; 
    * Answers to polls can be found in the GitHub repo for individual classes
 4) **Pull up materials you will need for the class**
@@ -48,16 +48,17 @@ These are some guidelines on things to think about when teaching your first work
    * Open up tabs with links to your sections and self-learning materials
    * Have RStudio open with your section project loaded. For Shell have the terminal window open logged in to O2.
    * Homework responses, if there is a particular issue you want to address
-   * Poll answer keys
+   * Poll question answer keys
 5) **Log in to the zoom about 15 minutes early to discuss any issues with your teaching partner**
      * Open *Participants* and *Chat* windows so you can let people in from the waiting room, see green checkmarks, and see questions
      * Disable the "Sound on entry" option in Zoom
 
-### During class: introduction
+### During class: Start of class
 
 1) **Encourage students to ask questions, but not to DM whoever is actively teaching**
+2) If **homework** submissions are very few, you **can poll the class (with green stickies)** to see how many people at least had a chance to run all of the code. If it is very few, give people a chance to load pre-existing objects  (we usually have these linked in the lesson).
 
-### During class: self-learning discussion
+### During class: Self-learning discussion
 
 1) **Ask for questions about that section before beginning; consider asking if this section was the one people struggled with the most if indicated by homework submission**
     * Encourage people to ask questions during the section
@@ -67,9 +68,9 @@ These are some guidelines on things to think about when teaching your first work
     * Go through the answers
 3) **Briefly go through self-learning section, focusing on areas of need based on homeworks/polls, and conceptually important sections**
     * Pause and ask for questions
-4)  **After all self learning sections are done, consider taking a bio-break before starting the in-class portion**
+4)  **After all self-learning sections are done, consider taking a bio-break before starting the in-class portion**
 
-### During class: in-class lesson
+### During class: In-class lesson(s)
 
 #### Actively teaching:
 
