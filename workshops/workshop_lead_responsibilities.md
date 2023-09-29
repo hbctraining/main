@@ -44,7 +44,7 @@
     - _If it is helpful:_ Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
    
 9. Update Intro and Wrap-up slides
-    - Update funders (temporary)
+    - **Update Intro Consulting Slide (See Shannan's meesage in #teaching)**
     - Update slide on data management workshops at Countway. For HPC workshops, include a slide on HMS-RC workshops. Cross-posting helps our community.
     - Check that tinyurl links are correct and working
     - Check that funding information is correct
