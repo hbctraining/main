@@ -4,13 +4,13 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, October 24th, 2023**: 10 AM - 12 PM
+**Tuesday, November 28th, 2023**: 10 AM - 12 PM
 
-**Friday, October 27th, 2023**: 10 AM - 12 PM
+**Friday, December 1st, 2023**: 10 AM - 12 PM
 
-**Tuesday, October 31st, 2023**: 10 AM - 12 PM
+**Tuesday, December 5th, 2023**: 10 AM - 12 PM
 
-**Friday, November 3rd, 2023**: 10 AM - 12 PM
+**Friday, December 8th, 2023**: 10 AM - 12 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
@@ -86,7 +86,7 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-(Registration opens 2 weeks before the start of basic workshops.)
+(Registration opens 2-3 weeks before the start of basic workshops.)
 </div>
 
 
