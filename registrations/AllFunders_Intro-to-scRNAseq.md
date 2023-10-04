@@ -1,15 +1,15 @@
-# Introduction to single-cell RNA-seq data analysis workshop (2023)
+# Introduction to single-cell RNA-seq data analysis workshop (2024)
 
-*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
+*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **IN-PERSON Workshop (Longwood area) dates and times:**
+### **ONLINE or IN-PERSON Workshop-TBD. Dates and times:**
 
-**Tuesday, October 10th**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, October 13th**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Tuesday, October 17th**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
@@ -72,12 +72,23 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
+</div>
+
+<div style="text-align:center">
+(Registration opens 2 weeks before the start of advanced workshops.)
+</div>
+
+<!-- 
+<div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
+
+<!-- This content will not appear in the rendered Markdown -->
 
 <!-- 
 <div style="text-align:center">
