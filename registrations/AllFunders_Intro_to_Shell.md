@@ -5,11 +5,11 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, November 14th 2023**: 9:30 AM - 12 PM
+**TBA**: 9:30 AM - 12 PM
 
-**Friday, November 17th 2023**: 9:30 AM - 12 PM
+**TBA**: 9:30 AM - 12 PM
 
-**Tuesday, November 21st 2023**: 9:30 AM - 12 PM
+**TBA**: 9:30 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
@@ -69,22 +69,23 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active paricipation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
-</div>
-
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <!-- 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
+	 (Registration opens 2 weeks before the start of basic workshops.)
+</div> 
+
+<!-- 
+<div style="text-align:center">
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
 </div>
 
+<!-- 
 <div style="text-align:center">
-	 (Registration opens 2 weeks before the start of basic workshops.)
-</div> -->
- 
+	 (Please check the eligibility requirements below prior to registering)
+</div> 
 
 ---
 
