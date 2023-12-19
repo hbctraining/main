@@ -45,9 +45,11 @@
    
 9. Update Intro and Wrap-up slides
     - **Update Intro Consulting Slide (See Shannan's meesage in #teaching)**
+    - Check to see that the **personnel slide is updated**. Add/remove/move around group members as needed
+    - Add/unhide a Breakfast slide
     - Update slide on data management workshops at Countway. For HPC workshops, include a slide on HMS-RC workshops. Cross-posting helps our community.
     - Check that tinyurl links are correct and working
-    - Check that funding information is correct
+    - Check that funding information is correct; addition of CFAr may be missing
     - Update to the "Odds and Ends" slide as needed for in-person and remote
     - If necessary, update keynote and generate new pdf for upload to GitHub
     
