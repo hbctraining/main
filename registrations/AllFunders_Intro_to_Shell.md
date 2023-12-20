@@ -1,15 +1,15 @@
-# Introduction to the Command-Line Interface (Shell, Bash, Unix, Linux) (2023)
+# Introduction to the Command-Line Interface (Shell, Bash, Unix, Linux) (2024)
 
-*Note: In 2023, some HBC workshops will be taught in person and others will be online via Zoom.*
+*Note: In 2024, some HBC workshops will be taught in person and others will be online via Zoom.*
 
 
 ### **ONLINE Workshop dates and times:**
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, March 5, 2024**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, March 8, 2024**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, March 12, 2024**: 9:30 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
@@ -72,19 +72,8 @@ Please make sure you **take the following into account when signing up** for the
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
-<!-- 
 <div style="text-align:center">
 	 (Registration opens 2 weeks before the start of basic workshops.)
-</div> 
-
-<!-- 
-<div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
-</div>
-
-<!-- 
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
 </div> 
 
 ---
