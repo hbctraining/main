@@ -1,16 +1,17 @@
 # Introduction to R workshop (2023)
 
-*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
+*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
-### **ONLINE Workshop dates and times:**
+### **Workshop dates and times:**
+**IN-PERSON (Longwood Medical Area):**
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, January 23, 2024**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, January 26, 2024**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, January 30, 2024**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, February 2, 2024**: 10 AM - 12 PM
 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
