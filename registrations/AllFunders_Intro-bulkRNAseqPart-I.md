@@ -1,19 +1,20 @@
-# Introduction to bulk RNA-seq data Data Analysis Part I workshop (2023) 
+# Introduction to bulk RNA-seq data Data Analysis Part I workshop (2024) 
 **(Experimental design --> Raw data --> Count matrices)**
 
 ---
 
-*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
+*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
 ### **ONLINE Workshop dates and times:**
 
-**TBD**: 9:30 AM - 12 PM
+**Tuesday, March 19, 2024**: 9:30 AM - 12 PM
 
-**TBD**: 9:30 AM - 12 PM
+**Friday, March 22, 2024**: 9:30 AM - 12 PM
 
-**TBD**: 9:30 AM - 12 PM
+**Tuesday, March 26, 2024**: 9:30 AM - 12 PM
 
+NOTE: Workshop dates are subject to change.
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -81,7 +82,7 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
+	 (Registration opens 2 weeks before the start of advanced workshops.)
 </div>
  
 ---
