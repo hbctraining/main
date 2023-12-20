@@ -1,19 +1,21 @@
-# Differential Gene Expression Analysis Workshop (2023)
+# Differential Gene Expression Analysis Workshop (2024)
 
-*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
+*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
 ### **ONLINE Workshop dates and times:**
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, April 30, 2024**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, May 3, 2024**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, May 7, 2024**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, May 10, 2024**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
+
+NOTE: Workshop dates are subject to change.
 
 ---
 
@@ -77,6 +79,9 @@ Please make sure you **take the following into account when signing up** for the
 	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
 
+<div style="text-align:center">
+(Registration opens 2 weeks before the start of advanced workshops.)
+</div>
 
 ---
 
