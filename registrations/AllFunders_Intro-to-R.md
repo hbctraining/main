@@ -1,4 +1,4 @@
-# Introduction to R workshop (2023)
+# Introduction to R workshop (2024)
 
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
@@ -13,6 +13,7 @@
 
 **Friday, February 2, 2024**: 10 AM - 12 PM
 
+NOTE: Workshop dates are subject to change
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
