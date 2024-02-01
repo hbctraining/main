@@ -4,16 +4,17 @@
 
 
 ### **Workshop dates and times:**
-**IN-PERSON (Longwood Medical Area):**
+<!--**IN-PERSON (Longwood Medical Area):**-->
 
-**Friday, February 9, 2024**: 9:30 AM - 12 PM
+**TBD 2024**: 9:30 AM - 12 PM
 
-**Tuesday, February 13, 2024**: 9:30 AM - 12 PM
+**TBD 2024**: 9:30 AM - 12 PM
 
-**Friday, February 16, 2024**: 9:30 AM - 12 PM
+**TBD 2024**: 9:30 AM - 12 PM
 
+<!--
 NOTE: Workshop dates are subject to change
-
+-->
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 ---
@@ -73,22 +74,22 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <div style="text-align:center">
 (Registration opens 2 weeks before the start of advanced workshops.)
-</div> -->
+</div> 
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
-</div>
+</div> -->
 
 <!-- This content will not appear in the rendered Markdown -->
 
