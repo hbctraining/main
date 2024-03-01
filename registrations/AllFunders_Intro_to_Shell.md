@@ -3,13 +3,14 @@
 *Note: In 2024, some HBC workshops will be taught in person and others will be online via Zoom.*
 
 
-### **ONLINE Workshop dates and times:**
+### **IN-PERSON Workshop dates and times:**
+### **Location: Longwood Medical Area**
 
-**Tuesday, March 5, 2024**: 9:30 AM - 12 PM
+**Friday, May 17, 2024**: 9:30 AM - 12 PM
 
-**Friday, March 8, 2024**: 9:30 AM - 12 PM
+**Tuesday, May 21, 2024**: 9:30 AM - 12 PM
 
-**Tuesday, March 12, 2024**: 9:30 AM - 12 PM
+**Friday, May 24, 2024**: 9:30 AM - 12 PM
 
 NOTE: Workshop dates are subject to change
 
@@ -70,9 +71,6 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active paricipation during discussion sessions._
 
-<!-- This content will not appear in the rendered Markdown -->
-
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -80,8 +78,10 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens 2 weeks before the start of basic workshops.)
 </div> 
--->
 
+<!-- This content will not appear in the rendered Markdown -->
+
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
 </div>
@@ -89,7 +89,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
-
+-->
 
 ---
 
