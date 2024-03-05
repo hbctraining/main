@@ -29,7 +29,7 @@ Note: Differential gene expression analysis on the count matrix will be covered 
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://github.com/hbctraining/main/tree/master?tab=readme-ov-file#how-can-i-apply-the-basic-skills), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 - [Introduction to command line interface workshop](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell)
 
