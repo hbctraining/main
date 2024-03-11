@@ -8,16 +8,16 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, March 19, 2024**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, March 22, 2024**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Tuesday, March 26, 2024**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-<!-- This content will not appear in the rendered Markdown NOTE: Workshop dates are subject to change. -->
+NOTE: Workshop dates are currently being re-scheduled and are subject to change. 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
-
+<!-- This content will not appear in the rendered Markdown -->
 ---
 
 ### **Description:**
@@ -77,8 +77,6 @@ Please make sure you **take the following into account when signing up** for the
 2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
-<!-- 
-
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -87,10 +85,9 @@ Please make sure you **take the following into account when signing up** for the
 	 (Registration opens 2 weeks before the start of advanced workshops.)
 </div>
 
--->
 
 <!-- This content will not appear in the rendered Markdown -->
-
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_1Bapzq2Wg8zRSjY'">Click here to Register!</button></a>
 </div>
@@ -99,7 +96,7 @@ Please make sure you **take the following into account when signing up** for the
 	 (Please check the eligibility requirements below prior to registering)
 </div>
 
- 
+-->
 ---
 
 ### **Eligibility requirements:**
