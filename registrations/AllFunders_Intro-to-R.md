@@ -2,15 +2,15 @@
 
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
-### **ONLINE Workshop dates and times:**
+### **Workshop dates and times:**
 
-**Tuesday, April 9, 2024**: 10 AM - 12 PM
+**TBA**: 10 AM - 12 PM
 
-**Friday, April 12, 2024**: 10 AM - 12 PM
+**TBA**: 10 AM - 12 PM
 
-**Tuesday, April 16, 2024**: 10 AM - 12 PM
+**TBA**: 10 AM - 12 PM
 
-**Friday, April 19, 2024**: 10 AM - 12 PM
+**TBA**: 10 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
@@ -84,9 +84,6 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active participation during discussion sessions._
 
-<!-- This content will not appear in the rendered Markdown -->
-
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -94,8 +91,10 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens two weeks before the start of the workshop.)
 </div>
--->
 
+<!-- This content will not appear in the rendered Markdown -->
+
+<!-- 
 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_dos7dpP9615SvP0'">Click here to Register!</button></a>
@@ -104,7 +103,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
-
+-->
 
 ---
 
