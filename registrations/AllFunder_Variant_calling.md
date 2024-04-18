@@ -21,7 +21,9 @@ Note: Workshop dates and times are subject to change
 
 ### **Description:**
 
-This 4-day hands-on workshop will ... Coming soon
+This 4-day hands-on workshop will ... 
+
+The descpription is coming soon
 
 ---
 
