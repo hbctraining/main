@@ -5,13 +5,13 @@
 ### **IN-PERSON Workshop dates and times:**
 ### **Location: Longwood Medical Area**
 
-**Tuesday, May 28, 2024**: 9:00 AM - 12 PM
+**Tuesday, May 28, 2024**: 9:30 AM - 12 PM
 
-**Friday, May 31, 2024**: 9:00 AM - 12 PM
+**Friday, May 31, 2024**: 9:30 AM - 12 PM
 
-**Tuesday, June 4, 2024**: 9:00 AM - 12 PM
+**Tuesday, June 4, 2024**: 9:30 AM - 12 PM
 
-**Friday, June 7, 2024**: 9:00 AM - 12 PM
+**Friday, June 7, 2024**: 9:30 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
