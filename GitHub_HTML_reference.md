@@ -371,6 +371,20 @@ Which appears as:
 <img src="img/breakfast_Monvej.png" width="700" >
 </p>
 
+## Adding Formulas
+
+If you want to add formulas, [GitHub now has syntax for doing this](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions), however there aren't great HTML options for this. Currently, there is one option that has been working for me. You can go to [CodeCogs](https://editor.codecogs.com/) and write the expression that you would like to have rendered into the equation editor box and select the orange box to be "HTML". This will convert it into the HTML code you need to render your equation. You can click the generated HTML code and paste it into your GitHub Markdown. Euler's Identity would look like:
+
+```
+<img src="https://latex.codecogs.com/svg.image?e^{i\pi}&plus;1=0" title="e^{i\pi}+1=0" />
+```
+
+Which appears as:
+
+<img src="https://latex.codecogs.com/svg.image?e^{i\pi}&plus;1=0" title="e^{i\pi}+1=0" />
+
+This isn't super clean as it is an image link from a different website, rather than being generated internally in GitHub and so if this site stops working, then the equations will as well. However, it appears to work for now, so until it breaks we can try to use this method when we need to put equations within HTML.
+
 ## Dropdowns Menus
 
 One neat aspect that HTML offers that we can't do in GitHub's Markdown is use dropdown menus. These collapsible menus are great for allowing users to toggle information. All of the formatting that we've used up to this point is all able to be used within these dropdown menus. To initiate a dropdown menu use `<details>` and to end a dropdown menu use `</details>`. When using a dropdown menu, you will likely want to have text for the user to click on in order to engage this dropdown. This text is initiated with `<summary>` and closed with `</summary>`. The syntax would look like:
