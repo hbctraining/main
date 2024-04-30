@@ -403,5 +403,7 @@ Which appears as:
 You couldn't see this menu before, but now you can. Click the &quot;Click here to expand the dropdown menu&quot; again to hide this.
 </details>
 
+Here is a [nice page on nesting dropdowns](https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d).
+
 ***
 *This lesson has been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
