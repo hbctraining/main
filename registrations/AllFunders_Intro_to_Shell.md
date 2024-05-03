@@ -12,18 +12,22 @@
 
 **Friday, May 24, 2024**: 9:30 AM - 12 PM
 
-NOTE: Workshop dates are subject to change
+<!-- This content will not appear in the rendered Markdown -->
+<!--
+NOTE: Workshop dates are subject to change -->
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
 ---
 
 ### **Description:**
-Access to tools and computational resources for large-scale data analysis often require knowledge of the command-line interface (also referred to as Unix or Linux or bash or shell). In this **3-day hands-on workshop** participants will learn the following:
+Large-scale data analysis often requires use of high-performance computing (HPC) resources and knowledge of tools available via the command-line interface (also referred to as Unix or Linux or bash or shell).
+
+In this **3-day hands-on workshop** participants will learn the following:
 
 - basic shell commands for navigating the file system, exploring file contents, performing basic operations, such as moving, copying, and renaming
 - how to write shell scripts and use "for" loops for efficiently running the same commands on multiple files
-- how to use [HMS-RC's](https://it.hms.harvard.edu/our-services/research-computing) O2 cluster for high-performance computing (HPC)
+- how to use [HMS-RC's](https://it.hms.harvard.edu/our-services/research-computing) O2 cluster for high-performance computing (HPC) - guest logins are provided
 
 **Together, this knowledge is critical for researchers looking to improve efficiency when performing computational tasks and it forms the foundation needed to analyze high-throughput sequencing data.**
 
@@ -33,7 +37,7 @@ Access to tools and computational resources for large-scale data analysis often 
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) introducing the analysis of RNA-seq, ChIP-seq and Introduction to Chromatin biology.
+This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming Variant Calling and Understanding Chromatin biology (ChIP-seq/ATAC-seq) workshops as well as Introduction to bulk RNA-seq I.
 
 ---
 
@@ -71,6 +75,7 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active paricipation during discussion sessions._
 
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -78,10 +83,9 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens 2 weeks before the start of basic workshops.)
 </div> 
-
+-->
 <!-- This content will not appear in the rendered Markdown -->
 
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
 </div>
@@ -89,7 +93,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
--->
+
 
 ---
 
