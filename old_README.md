@@ -35,6 +35,7 @@ These are intensive workshops that instruct participants on how to design experi
 | [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)  | Introduction to R  |
 | [Understanding chromatin biology using high throughput sequencing - O2 cluster](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/schedule/) | Introduction to shell |
 | [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) | Introduction to R |
+| [Introduction to Variant Analysis](https://hbctraining.github.io/variant_analysis/) |Introduction to shell|
 
 ***
 
@@ -51,17 +52,19 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
 | [Generating research analysis reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
 | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
-| [Publication Perfect: Part II](https://hbctraining.github.io/Training-modules/publication_perfect) | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) |
+| [Publication Perfect: Part II](https://hbctraining.github.io/Training-modules/publication_perfect#part-ii) | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) |
 
 
 ### Shell-based short workshops:
 
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|
-| [Introduction to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell) | None |
-| [Intermediate bash](https://hbctraining.github.io/Training-modules/Intermediate_shell) | Beginner shell or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell) |
-| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | Beginner shell or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell)  |
-| [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data) | Beginner shell or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell)  |
+| [Basic Shell/Introduction to the command-line interface](https://hbctraining.github.io/Training-modules/Basic_shell) | None |
+| [Intermediate Shell/Accelerate with Automation](https://hbctraining.github.io/Training-modules/Accelerate_with_automation/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [Advanced Shell/Finding and Summarizing Data from Colossal Files](https://hbctraining.github.io/Training-modules/Finding_and_summarizing_colossal_files/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [Tips and Tricks on O2](https://hbctraining.github.io/Training-modules/Tips_and_Tricks_on_O2/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell)  |
 
 
 ### Other short workshops:
