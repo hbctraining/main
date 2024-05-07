@@ -1,4 +1,4 @@
-# Variant Calling (2024)
+# Introduction to Variant Calling (2024)
 
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
