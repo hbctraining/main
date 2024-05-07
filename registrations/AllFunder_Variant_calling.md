@@ -15,21 +15,20 @@
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
-Note: Workshop dates and times are subject to change
+<!-- This content will not appear in the rendered Markdown -->
+<!-- Note: Workshop dates and times are subject to change -->
 
 ---
 
 ### **Description:**
 
-This 4-day hands-on workshop will ... 
-
-The descpription is coming soon
+This Introduction to Variant Analysis workshop is aimed at providing hands-on best practices for calling variants for paired normal/tumor datasets. Importantly, while this workshop focuses on calling variants in the context of paired tumor/normal samples, much of this workshop’s pipeline and discussion is adaptable to other types of variant calling applications. This workshop will demonstrate to participants how to take raw sequence reads and process them into a VCF file with annotated variants. Furthermore, the workshop ends with a tutorial for visualizing called variants within the Integrative Genomics Viewer (IGV) and creating figures using cBioPortal.
 
 ---
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 - [Introduction to command-line interface workshop ](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell)
 
@@ -46,9 +45,11 @@ Yes, you can register **AND** please do the following:
 
 [Eligible*](#eligibility-requirements) Harvard researchers who want to learn: 
 
-- Coming soon!
-- 
-- 
+- How to design an experiment to call variants
+- How to assess QC metrics at every step in the variant calling workflow
+- How to call variants within a paired normal/tumor context
+- How to visualize results within IGV
+- How to interact with cBioPortal and generate figures
 
 ---
 
@@ -86,7 +87,7 @@ Please make sure you **take the following into account when signing up** for the
 
 <!--
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_71DktmmhwO6zeDQ'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
