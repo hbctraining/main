@@ -1,15 +1,15 @@
-# Understanding chromatin biology using high-throughput sequencing workshop (2023)
+# Understanding chromatin biology using high-throughput sequencing workshop (2024)
 
-*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
+*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
 ### **Workshop dates and times:**
 
-**TBD**
+**TBD 9:30AM-12PM**
 
-**TBD**
+**TBD 9:30AM-12PM**
 
-**TBD**
+**TBD 9:30AM-12PM**
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
@@ -78,7 +78,7 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-(Registration opens 3 weeks before the start of advanced workshops.)
+(Registration opens 2-3 weeks before the start of advanced workshops.)
 </div>
 
  
@@ -92,6 +92,7 @@ Please make sure you **take the following into account when signing up** for the
 - Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
 - Graduate student at the Harvard Medical School
 - Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
+- Researcher at a Harvard-affiliated institution participating in HIV related research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
