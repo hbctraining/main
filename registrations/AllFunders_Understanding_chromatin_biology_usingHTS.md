@@ -3,13 +3,13 @@
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
-**TBD 9:30AM-12PM**
+**Tuesday, June 18, 2024:** 9:30AM-12PM
 
-**TBD 9:30AM-12PM**
+**Friday, June 21, 2024:** 9:30AM-12PM
 
-**TBD 9:30AM-12PM**
+**Tuesday, June 25, 2024:** 9:30AM-12PM
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
@@ -81,6 +81,16 @@ Please make sure you **take the following into account when signing up** for the
 (Registration opens 2-3 weeks before the start of advanced workshops.)
 </div>
 
+<!-- This content will not appear in the rendered Markdown -->
+<!-- 
+<div style="text-align:center">
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_bHkovdDu7Tj3a0C'">Click here to Register!</button></a>
+</div>
+
+<div style="text-align:center">
+	 (Please check the eligibility requirements below prior to registering)
+</div>
+-->
  
 ---
 
