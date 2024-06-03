@@ -14,7 +14,9 @@
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
-Note: Workshop dates and times are subject to change
+<!-- This content will not appear in the rendered Markdown -->
+<!-- 
+Note: Workshop dates and times are subject to change -->
 
 ---
 
