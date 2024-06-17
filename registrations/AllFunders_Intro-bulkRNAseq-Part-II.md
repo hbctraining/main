@@ -4,20 +4,21 @@
 
 
 ### **Workshop dates and times:**
+**IN-PERSON (Longwood Medical Area):**
 
-**TBA**: 10 AM - 12 PM
+**Tuesday, December 3, 2024**: 10 AM - 12 PM
 
-**TBA**: 10 AM - 12 PM
+**Friday, December 6, 2024**: 10 AM - 12 PM
 
-**TBA**: 10 AM - 12 PM
+**Tuesday, December 10, 2024**: 10 AM - 12 PM
 
-**TBA**: 10 AM - 12 PM
+**Friday, December 13, 2024**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 <!-- This content will not appear in the rendered Markdown -->
 
-<!-- NOTE: Workshop dates are subject to change. -->
+NOTE: Workshop dates are subject to change. 
 
 ---
 
