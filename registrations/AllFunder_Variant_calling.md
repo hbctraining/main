@@ -8,6 +8,8 @@
 ### **Location: Longwood Medical Area** 
 -->
 
+**Anticipated next offering of the Variant Calling workshop is April 2025**
+
 **TBD**: 9:30 AM - 12 PM
 
 **TBD**: 9:30 AM - 12 PM
