@@ -1,4 +1,4 @@
-# Introduction to the Command-Line Interface (Shell, Bash) (2024)
+# Shell on HPC for Bioinformatics (2024)
 
 *Note: In 2024, some HBC workshops will be taught in person and others will be online via Zoom.*
 
@@ -6,15 +6,15 @@
 ### **IN-PERSON Workshop dates and times:**
 ### **Location: Longwood Medical Area**
 
-**Friday, May 17, 2024**: 9:30 AM - 12 PM
+**Tuesday, September 3, 2024**: 9:30 AM - 12 PM
 
-**Tuesday, May 21, 2024**: 9:30 AM - 12 PM
+**Friday, September 6, 2024**: 9:30 AM - 12 PM
 
-**Friday, May 24, 2024**: 9:30 AM - 12 PM
+**Tuesday, September 10, 2024**: 9:30 AM - 12 PM
 
 <!-- This content will not appear in the rendered Markdown -->
-<!--
-NOTE: Workshop dates are subject to change -->
+
+NOTE: Workshop dates are subject to change 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
