@@ -3,18 +3,17 @@
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **Workshop dates and times:**
+### **Online Workshop dates and times:**
 <!--**IN-PERSON (Longwood Medical Area):**-->
 
-**TBD 2024**: 9:30 AM - 12 PM
+**Friday, July 26, 2024**: 9:30 AM - 12 PM
 
-**TBD 2024**: 9:30 AM - 12 PM
+**Tuesday, July 30, 2024**: 9:30 AM - 12 PM
 
-**TBD 2024**: 9:30 AM - 12 PM
+**Friday, August 2, 2024**: 9:30 AM - 12 PM
 
-<!--
 NOTE: Workshop dates are subject to change
--->
+
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 ---
