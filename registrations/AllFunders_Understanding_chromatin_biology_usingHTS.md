@@ -22,7 +22,13 @@ Note: Workshop dates and times are subject to change
 
 ### **Description:**
 
-This 3-day hands-on workshop will begin with a basic introduction of concepts related to gene regulation followed by a description of three common approaches used to interrogate chromatin biology: ChIP-seq, CUT&RUN and ATAC-seq. This workshop will provide participants with important considerations for setting up a successful ChIP-seq/CUT&RUN/ATAC-seq experiment and describe the detailed workflow for analyzing ChIP-seq data. For each step of the workflow there will be additional information describing how parameters might change for CUT&RUN-seq and ATAC-seq.  The workshop will instruct participants on how to efficiently manage and analyze high throughput sequencing data starting from sequence reads through to peak calling, using tools and software available on the HMS-RC's high performance compute cluster.
+This 3-day hands-on workshop will begin with a basic introduction of concepts related to gene regulation followed by a description of three common approaches used to interrogate chromatin biology: ChIP-seq, CUT&RUN and ATAC-seq. This workshop will provide participants with:
+
+* Important considerations for setting up a successful ChIP-seq/CUT&RUN/ATAC-seq experiment
+* A description the detailed workflow for analyzing ChIP-seq data.
+* Instruction on how to efficiently manage and analyze high throughput sequencing data starting from sequence reads through to peak calling, using tools and software available on the HMS-RC's high performance compute cluster.
+
+> NOTE: For each step of the workflow there will be additional information describing how parameters might change for CUT&RUN-seq and ATAC-seq. 
 
 ---
 
@@ -32,13 +38,20 @@ This is one of our advanced [workshops](https://hbctraining.github.io/main/train
 
 - [Introduction to command-line interface workshop ](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell)
 
+There is an expectation of participants to be comfortable with some/all of the following:
+
+* Navigating filesystems (changing directories, listing contents, full/relative paths, wildcards)
+* Creating, moving, copying, and removing files/directories
+* Searching files and redirection
+* Creating "for loops" and/or short scripts
+* Creating long, advanced scripts and submitting jobs
+
 **I am fluent in command-line and already use HMS-RC's O2 cluster but have not attended the HBC prerequisite workshop, can I still register?**
 
 Yes, you can register **AND** please do the following:
 
 - Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your knowledge/experience in command-line interface and HPC. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
-
+- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your experience/usage of thw command-line interface and HPC. 
 ---
 
 ### **Who should attend?**
