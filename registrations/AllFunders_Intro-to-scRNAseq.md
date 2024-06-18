@@ -31,18 +31,18 @@ This is one of our advanced [workshops](https://hbctraining.github.io/main/train
 
 There is an expectation of participants to have some/all of the following:
 
-* Solid understanding of data structures and fluent implementation of basic syntax in R.
-* Ability to use functions regularly and can modify arguments when necessary.
-* Comfortable installing packages and troubleshooting issues.
-* Data wrangling expertise (subsetting vectors and data frames) using base R or tidyverse
-* Familiarity with ggplot2 for data visualization.
+* Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
+* Ability to use **functions** regularly and can modify arguments when necessary.
+* Comfortable **installing packages and troubleshooting** issues.
+* **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
+* Familiarity with ggplot2 for **data visualization**.
 
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
 
 Yes, you can register **AND** please do the following:
 
 - Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. 
+- Then email us directly at hbctraining@hsph.harvard.edu with a description of your experience/usage of R. 
 
 ---
 
