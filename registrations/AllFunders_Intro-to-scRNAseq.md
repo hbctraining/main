@@ -12,7 +12,7 @@
 
 **Friday, August 2, 2024**: 9:30 AM - 12 PM
 
-NOTE: Workshop dates are subject to change
+<!--NOTE: Workshop dates are subject to change-->
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -29,7 +29,7 @@ This is one of our advanced [workshops](https://hbctraining.github.io/main/train
 
 - [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
 
-There is an expectation of participants to have some/all of the following:
+There is an expectation of participants to have some/all of the following programming knowledge:
 
 * Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
 * Ability to use **functions** regularly and can modify arguments when necessary.
@@ -39,10 +39,13 @@ There is an expectation of participants to have some/all of the following:
 
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
 
-Yes, you can register **AND** please do the following:
+Yes, please register and provide your R/programming exerience on the form, and we'll get back to you.
+
+<!--
+**AND** please do the following:
 
 - Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a description of your experience/usage of R. 
+- Then email us directly at hbctraining@hsph.harvard.edu with a description of your experience/usage of R. -->
 
 ---
 
@@ -81,28 +84,24 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <div style="text-align:center">
 (Registration opens 2 weeks before the start of advanced workshops.)
-</div> 
+</div>  -->
 
-<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
-</div> -->
+</div> 
 
 <!-- This content will not appear in the rendered Markdown -->
-
-<!-- 
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering) -->
 
 
 ---
