@@ -28,7 +28,7 @@ Rigorous science requires that the science is reproducible. However, investigati
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and assumes that users have a basic grasp of coding within R.
+This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and assumes that users have a basic grasp of coding with R.
 <!-- **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**: --> 
 
 Refer to the following **Introduction to R Basic workshop** offered by our training team:
