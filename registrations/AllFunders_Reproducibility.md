@@ -33,7 +33,7 @@ This is one of our advanced [workshops](https://hbctraining.github.io/main/train
 
 Refer to the following **Introduction to R Basic workshop** offered by our training team:
 
-- [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R) **
+- [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) 
 
 There is an expectation of participants to have some/all of the following programming knowledge:
 
