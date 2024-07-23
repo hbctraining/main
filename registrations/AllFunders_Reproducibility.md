@@ -1,4 +1,4 @@
-# Reproducibility (2024)
+# Tools for Reproducible Research (2024)
 
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
@@ -28,10 +28,7 @@ Rigorous science requires that the science is reproducible. However, investigati
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and assumes that users have a basic grasp of coding with R.
-<!-- **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**: --> 
-
-Refer to the following **Introduction to R Basic workshop** offered by our training team:
+This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and assumes that users have a working knowledge of coding with R or have attended the following **Basic workshop** offered by our training team in the last 6-8 months:  
 
 - [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) 
 
@@ -87,7 +84,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 Please make sure you **take the following into account when signing up** for the workshop:
 
 1. _Mandatory attendance for all three classes._
-2. _1-2 hours of reading and exercises from selected lessons before each workshop sessions._
+2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
@@ -119,7 +116,7 @@ Please make sure you **take the following into account when signing up** for the
 - Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
 - Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
 - Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
+- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu).
 - Researcher at a Harvard-affiliated institution participating in HIV related research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
