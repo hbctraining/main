@@ -3,25 +3,22 @@
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 <!-- This content will not appear in the rendered Markdown -->
-<!-- Last workshop May 28, 31, June 4, 7, 2024
+<!-- Last workshop May 28, 31, June 4, 7, 2024 -->
 ### **IN-PERSON Workshop dates and times:**
 ### **Location: Longwood Medical Area** 
--->
 
-**Anticipated next offering of the Variant Calling workshop is April 2025**
+**Tuesday, September 17, 2024**: 9:30 AM - 12 PM
 
-**TBD**: 9:30 AM - 12 PM
+**Friday, Septmeber 20, 2024**: 9:30 AM - 12 PM
 
-**TBD**: 9:30 AM - 12 PM
-
-**TBD**: 9:30 AM - 12 PM
-
-**TBD**: 9:30 AM - 12 PM
+**Tuesday, September 24, 2024**: 9:30 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
+Note: Workshop dates and times are subject to change 
+
+
 <!-- This content will not appear in the rendered Markdown -->
-<!-- Note: Workshop dates and times are subject to change -->
 
 ---
 
@@ -33,16 +30,29 @@ This Introduction to Variant Analysis workshop is aimed at providing hands-on be
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://hbctraining.github.io/main/), and assumes that users have a working knowledg of Shell and HPC or have attended the following Basic workshop offered by our training team in the last 6-8 months:  
 
 - [Introduction to command-line interface workshop ](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell)
 
-**I am fluent in command-line and already use HMS-RC's O2 cluster but have not attended the HBC prerequisite workshop, can I still register?**
+There is an expectation of participants to have some/all of the following Shell/HPC knowledge:
 
+- Experience using a High-Performance Computing (HPC) cluster environment (e.g. O2 at HMS)
+- Navigating filesystems (changing directories, listing contents, full/relative paths, wildcards)
+- Creating, moving, copying, and removing files/directories
+- Searching files and redirection
+- Creating ‘for loops' and small scripts
+- Creating long, advanced script
+
+I am experienced using Shell/HPC but have not attended the HBC prerequisite workshop, can I still register?
+
+Yes, please register and provide your Shell/HPC exerience on the form, and we'll get back to you.
+
+
+<!-- OLD:
 Yes, you can register **AND** please do the following:
 
 - Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your knowledge/experience in command-line interface and HPC. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
+- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your knowledge/experience in command-line interface and HPC. **Failure to do this step may prevent you from being accepted into this advanced workshop.** -->
 
 ---
 
