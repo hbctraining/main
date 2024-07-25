@@ -95,7 +95,7 @@ Which appears as:
 
 ### Blockquote `<blockquote>`
 
-TO initiate a blockquote you need to use `<blockquote>` and to close a blockquote you need to use `<blockquote>`. The syntax would look like:
+To initiate a blockquote you need to use `<blockquote>` and to close a blockquote you need to use `<blockquote>`. The syntax would look like:
 
 ```
 <blockquote>
