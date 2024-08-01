@@ -6,11 +6,11 @@
 ### **Online Workshop dates and times:**
 <!--**IN-PERSON (Longwood Medical Area):**-->
 
-**Tuesday, August 6, 2024**: 9:30 AM - 12 PM
+**TBA**: 9:30 AM - 12 PM
 
-**Friday, August 9, 2024**: 9:30 AM - 12 PM
+**TBA**: 9:30 AM - 12 PM
 
-**Tuesday, August 13, 2024**: 9:30 AM - 12 PM
+**TBA**: 9:30 AM - 12 PM
 
 <!--NOTE: Workshop dates are subject to change-->
 
@@ -88,16 +88,15 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 
-<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <div style="text-align:center">
 (Registration opens 2 weeks before the start of advanced workshops.)
-</div>  -->
+</div>  
 
-
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_4G72coaxQN9fqDk'">Click here to Register!</button></a>
 </div>
@@ -105,6 +104,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div> 
+-->
 
 <!-- This content will not appear in the rendered Markdown -->
 
