@@ -3,22 +3,22 @@
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **Workshop dates and times:**
-**IN-PERSON (Longwood Medical Area):**
+### **ONLINE Workshop dates and times:**
+<!-- **IN-PERSON (Longwood Medical Area):** -->
 
-**Tuesday, December 3, 2024**: 10 AM - 12 PM
+**Tuesday, August 20, 2024**: 10 AM - 12 PM
 
-**Friday, December 6, 2024**: 10 AM - 12 PM
+**Friday, August 23, 2024**: 10 AM - 12 PM
 
-**Tuesday, December 10, 2024**: 10 AM - 12 PM
+**Tuesday, August 27, 2024**: 10 AM - 12 PM
 
-**Friday, December 13, 2024**: 10 AM - 12 PM
+**Friday, August 30, 2024**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 <!-- This content will not appear in the rendered Markdown -->
 
-NOTE: Workshop dates are subject to change. 
+<!-- NOTE: Workshop dates are subject to change. -->
 
 ---
 
@@ -29,6 +29,24 @@ This hands-on workshop will introduce participants to statistical methods and co
 
 ### **Prerequisites:**
 
+This is one of our advanced workshops, and requires registrants to have attended the following Basic workshop offered by our training team in the last 6-8 months:
+
+- [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
+  
+There is an expectation of participants to have some/all of the following programming knowledge:
+
+* Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
+* Ability to use **functions** regularly and can modify arguments when necessary.
+* Comfortable **installing packages and troubleshooting** issues.
+* **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
+* Familiarity with ggplot2 for **data visualization**.
+  
+**I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
+
+Yes, please register and **provide your R/programming exerience on the form**, and we'll get back to you.
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- OLD PREREQ verbiage - keeping just in case we revert back to it.
 This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 - [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
@@ -38,7 +56,7 @@ This is one of our advanced [workshops](https://hbctraining.github.io/main/train
 Yes, you can register **AND** please do the following:
 
 - Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
+- Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. **Failure to do this step may prevent you from being accepted into this advanced workshop.** -->
 
 ---
 
@@ -80,16 +98,17 @@ Please make sure you **take the following into account when signing up** for the
 
 <!-- This content will not appear in the rendered Markdown -->
 
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
 
 <div style="text-align:center">
-<!--(The workshop is full.)-->
-(Registration opens 2 weeks before the start of advanced workshops.)
-</div>
 
-<!-- 
+(Registration opens 2 weeks before the start of advanced workshops.)
+</div> -->
+<!--(The workshop is full.)-->
+
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eK86Te20HZeJRAy'">Click here to Register!</button></a>
 </div>
@@ -97,7 +116,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
--->
+
 ---
 
 ### **Eligibility requirements:**
