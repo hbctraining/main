@@ -19,7 +19,7 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 ---
 
 ### **Description:**
-This multi-day hands-on workshop will provide students with a suite of tools and a basic workflow of how to handle data generated from peak calling algorithms. Specifically, the workshop will focus on taking BED file formats (i.e. narrowPeak) and focus on identifying what these regions represent. This workshop will introduce participants to:
+This multi-day hands-on workshop will provide students with a suite of tools and a basic workflow of how to handle data generated from peak calling algorithms. Specifically, the workshop will focus on taking BED file formats (i.e. narrowPeak) and identifying what these regions represent. This workshop will introduce participants to:
 - Approaches to check peak quality and reproducibility across replicates
 - Peak annotation methods and tools for visualization
 - Differential peak enrichment analysis and functional analysis
