@@ -53,6 +53,7 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | [Generating research analysis reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
 | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
 | [Publication Perfect: Part II](https://hbctraining.github.io/Training-modules/publication_perfect#part-ii) | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) |
+| [RShiny](https://hbctraining.github.io/Training-modules/RShiny/) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
 
 
 ### Shell-based short workshops:
