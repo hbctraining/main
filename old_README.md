@@ -35,7 +35,8 @@ These are intensive workshops that instruct participants on how to design experi
 | [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)  | Introduction to R  |
 | [Understanding chromatin biology using high throughput sequencing - O2 cluster](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/schedule/) | Introduction to shell |
 | [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) | Introduction to R |
-| [Introduction to Variant Analysis](https://hbctraining.github.io/variant_analysis/) |Introduction to shell|
+| [Introduction to Variant Analysis](https://hbctraining.github.io/variant_analysis/) | Introduction to shell |
+| [Tools for Reproducible Research](https://hbctraining.github.io/reproducibility-tools/) | Introduction to R |
 
 ***
 
