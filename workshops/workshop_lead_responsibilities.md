@@ -38,12 +38,8 @@
 6. Check workshop repo to see if there are any GitHub issues to be addressed
 
 7. Clear Google Form Responses from homework links
-
-8. PollEverywhere:
-    - Remove old questions
-    - _If it is helpful:_ Create a Google doc for Poll everywhere questions. Members of the team can populate it as questions come in.
    
-9. Update Intro and Wrap-up slides
+8. Update Intro and Wrap-up slides
     - **Update Intro Consulting Slide (See Shannan's meesage in #teaching)**
     - Check to see that the **personnel slide is updated**. Add/remove/move around group members as needed
     - Add/unhide a Breakfast slide
@@ -53,7 +49,7 @@
     - Update to the "Odds and Ends" slide as needed for in-person and remote
     - If necessary, update keynote and generate new pdf for upload to GitHub
     
-10. Make sure Qualtrics Exit survey is ready
+9. Make sure Qualtrics Exit survey is ready
 
 
 **Once workshop is complete:**
