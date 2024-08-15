@@ -3,22 +3,22 @@
 *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
 
 
-### **ONLINE Workshop dates and times:**
+### **Workshop dates and times:**
 <!-- **IN-PERSON (Longwood Medical Area):** -->
 
-**Tuesday, August 20, 2024**: 10 AM - 12 PM
+**TBD - June 2025**: 10 AM - 12 PM
 
-**Friday, August 23, 2024**: 10 AM - 12 PM
+**TBD - June 2025**: 10 AM - 12 PM
 
-**Tuesday, August 27, 2024**: 10 AM - 12 PM
+**TBD - June 2025**: 10 AM - 12 PM
 
-**Friday, August 30, 2024**: 10 AM - 12 PM
+**TBD - June 2025**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 <!-- This content will not appear in the rendered Markdown -->
 
-<!-- NOTE: Workshop dates are subject to change. -->
+NOTE: Workshop dates are subject to change.
 
 ---
 
@@ -98,7 +98,6 @@ Please make sure you **take the following into account when signing up** for the
 
 <!-- This content will not appear in the rendered Markdown -->
 
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
@@ -106,9 +105,11 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 
 (Registration opens 2 weeks before the start of advanced workshops.)
-</div> -->
+</div> 
+
 <!--(The workshop is full.)-->
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eK86Te20HZeJRAy'">Click here to Register!</button></a>
 </div>
@@ -116,7 +117,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
-
+-->
 ---
 
 ### **Eligibility requirements:**
