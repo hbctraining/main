@@ -4,13 +4,13 @@
 
 
 ### **Online Workshop dates and times:**
-<!--**IN-PERSON (Longwood Medical Area):**-->
+--**IN-PERSON (Longwood Medical Area):**
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, November 12, 2024**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, November 15, 2024**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, November 19, 2024**: 9:30 AM - 12 PM
 
 <!--NOTE: Workshop dates are subject to change-->
 
