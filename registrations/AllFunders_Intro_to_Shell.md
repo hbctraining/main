@@ -3,7 +3,7 @@
 *Note: In 2024, some HBC workshops will be taught in person and others will be online via Zoom.*
 
 
-### **IN-PERSON Workshop dates and times:**
+### **Workshop dates and times:**
 ### **Location: Longwood Medical Area**
 
 **Tuesday, September 3, 2024**: 9:30 AM - 12 PM
@@ -13,8 +13,8 @@
 **Tuesday, September 10, 2024**: 9:30 AM - 12 PM
 
 <!-- This content will not appear in the rendered Markdown -->
-
-NOTE: Workshop dates are subject to change 
+<!--
+NOTE: Workshop dates are subject to change -->
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
@@ -37,7 +37,7 @@ In this **3-day hands-on workshop** participants will learn the following:
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming Variant Calling and Understanding Chromatin biology (ChIP-seq/ATAC-seq) workshops as well as Introduction to bulk RNA-seq I.
+This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming Variant Calling workshop as well as Introduction to bulk RNA-seq I and Understanding Chromatin biology (ChIP-seq/ATAC-seq).
 
 ---
 
