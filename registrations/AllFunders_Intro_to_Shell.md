@@ -1,4 +1,4 @@
-# Shell on HPC for Bioinformatics (2024)
+# Shell for Bioinformatics (2024)
 
 *Note: In 2024, some HBC workshops will be taught in person and others will be online via Zoom.*
 
