@@ -13,9 +13,11 @@
 
 **Tuesday, September 24, 2024**: 9:30 AM - 12 PM
 
+**Friday, Septmeber 27, 2024**: 9:30 AM - 12 PM
+
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
-Note: Workshop dates and times are subject to change 
+<!-- Note: Workshop dates and times are subject to change -->
 
 
 <!-- This content will not appear in the rendered Markdown -->
