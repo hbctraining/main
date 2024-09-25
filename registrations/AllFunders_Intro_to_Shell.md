@@ -1,16 +1,16 @@
 # Shell for Bioinformatics
 
-*Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
+*Note: Some HBC workshops are taught in person and others online via Zoom. Please take note for scheduling purposes!*
 
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 <!--### **Location: Longwood Medical Area**-->
 
-**TBD, March 2025**: 9:30 AM - 12 PM
+**Tuesday, January 21, 2025**: 9:30 AM - 12 PM
 
-**TBD, March 2025**: 9:30 AM - 12 PM
+**Friday, January 24, 2025**: 9:30 AM - 12 PM
 
-**TBD, March 2025**: 9:30 AM - 12 PM
+**Tuesday, January 28, 2025**: 9:30 AM - 12 PM
 
 <!-- This content will not appear in the rendered Markdown -->
 
