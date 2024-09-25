@@ -1,16 +1,16 @@
-# Introduction to single-cell RNA-seq data analysis workshop (2024)
+# Introduction to single-cell RNA-seq data analysis workshop
 
-*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
+<!-- *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
 
+### **ONLINE Workshop dates and times:**
+<!--**IN-PERSON (Longwood Medical Area):**-->
 
-### **Workshop dates and times:**
---**IN-PERSON (Longwood Medical Area):**
+**Friday, October 25, 2024**: 9:30 AM - 12 PM
 
-**Tuesday, November 12, 2024**: 9:30 AM - 12 PM
+**Tuesday, October 29, 2024**: 9:30 AM - 12 PM
 
-**Friday, November 15, 2024**: 9:30 AM - 12 PM
-
-**Tuesday, November 19, 2024**: 9:30 AM - 12 PM
+**Friday, November 1, 2024**: 9:30 AM - 12 PM
 
 <!--NOTE: Workshop dates are subject to change-->
 
