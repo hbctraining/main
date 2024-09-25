@@ -1,16 +1,17 @@
-# Introduction to Pseudobulk workshop (2024)
+# Introduction to Pseudobulk workshop 
 
-*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some workshops are taught in person and others are online via Zoom. Please take note before registering.*
+<!--*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
 
 
 ### **Workshop dates and times:**
 **IN-PERSON (Longwood Medical Area):**
 
-**December 3, 2024**: 9:30 AM - 12 PM
+**Tuesday, November 12, 2024**: 9:30 AM - 12 PM
 
-**December 6, 2024**: 9:30 AM - 12 PM
+**Friday, November 15, 2024**: 9:30 AM - 12 PM
 
-**December 10, 2024**: 9:30 AM - 12 PM
+**Tuesday, November 19, 2024**: 9:30 AM - 12 PM
 
 NOTE: Workshop dates are subject to change - please check back
 
