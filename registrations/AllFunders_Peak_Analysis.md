@@ -1,18 +1,18 @@
-# Introduction to Peak Analysis workshop (2024)
+# Introduction to Peak Analysis workshop
 
-*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 
 
-### **Online Workshop dates and times:**
-<!--**IN-PERSON (Longwood Medical Area):**-->
+### **Workshop dates and times:**
+**IN-PERSON (Longwood Medical Area):**
 
-**Friday, October 25, 2024**: 9:30 AM - 12 PM
+**Tuesday, December 3, 2024**: 9:30 AM - 12 PM
 
-**Tuesday, October 29, 2024**: 9:30 AM - 12 PM
+**Friday, December 6, 2024**: 9:30 AM - 12 PM
 
-**Friday, November 1, 2024**: 9:30 AM - 12 PM
+**Tuesday, December 10, 2024**: 9:30 AM - 12 PM
 
-NOTE: Workshop dates are subject to change - please check back.
+NOTE: Workshop dates are subject to change.
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -28,7 +28,7 @@ This multi-day hands-on workshop will provide students with a suite of tools and
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://hbctraining.github.io/main/#how-can-i-apply-the-basic-skills), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 - [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
 
