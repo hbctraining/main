@@ -1,23 +1,24 @@
-# Introduction to bulk RNA-seq data Data Analysis Part I workshop (2024) 
+# Introduction to bulk RNA-seq data Data Analysis Part I workshop
 **(Experimental design --> Raw data --> Count matrices)**
 
 ---
 
-*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some HBC workshops are taught in person and others online via Zoom. Please take note for scheduling purposes!*
 
 
 ### **ONLINE Workshop dates and times:**
 
-**Friday, March 29, 2024**: 9:30 AM - 12 PM
+**Tuesday, February 4, 2025**: 9:30 AM - 12 PM
 
-**Tuesday, April 2, 2024**: 9:30 AM - 12 PM
+**Friday, February 7, 2025**: 9:30 AM - 12 PM
 
-**Friday, April 5, 2024**: 9:30 AM - 12 PM
+**Tuesday, February 11, 2025**: 9:30 AM - 12 PM
+
+NOTE: Workshop dates are subject to change
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 <!-- This content will not appear in the rendered Markdown -->
-<!--
-NOTE: Workshop dates are currently being re-scheduled and are subject to change. -->
+
 ---
 
 ### **Description:**
@@ -29,16 +30,34 @@ Note: Differential gene expression analysis on the count matrix will be covered 
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://github.com/hbctraining/main/tree/master?tab=readme-ov-file#how-can-i-apply-the-basic-skills), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://github.com/hbctraining/main/tree/master?tab=readme-ov-file#how-can-i-apply-the-basic-skills), and assumes that users have a working knowledge of Shell and HPC or have attended the following Basic workshop offered by our training team in the last 6-8 months:  
 
-- [Introduction to command line interface workshop](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell)
+- [Shell for Bioinformatics](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell) (formerly called Introduction to command-line interface workshop)
+
+There is an expectation of participants to have some/all of the following Shell/HPC knowledge:
+
+- Experience using a High-Performance Computing (HPC) cluster environment (e.g. O2 at HMS)
+- Navigating filesystems (changing directories, listing contents, full/relative paths, wildcards)
+- Creating, moving, copying, and removing files/directories
+- Searching files and redirection
+- Creating ‘for loops' and small scripts
+- Creating long, advanced script
+
+I am experienced using Shell/HPC but have not attended the HBC prerequisite workshop, can I still register?
+
+Yes, please register and provide your Shell/HPC exerience on the form, and we'll get back to you.
+
+
+<!-- OLD:
+
+and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 **I am fluent in command-line but have not attended the HBC prerequisite workshop, can I still register?**
 
 Yes, you can register **AND** please do the following:
 
 - Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your knowledge/experience in command-line interface. **Failure to do this step may prevent you from being accepted into this advanced workshop.**
+- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your knowledge/experience in command-line interface. **Failure to do this step may prevent you from being accepted into this advanced workshop.** -->
 
 ---
 
@@ -77,8 +96,7 @@ Please make sure you **take the following into account when signing up** for the
 2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
-<!-- This content will not appear in the rendered Markdown -->
-<!-- 
+
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -86,8 +104,9 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens 2 weeks before the start of advanced workshops.)
 </div>
--->
 
+<!-- This content will not appear in the rendered Markdown -->
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_1Bapzq2Wg8zRSjY'">Click here to Register!</button></a>
 </div>
@@ -96,7 +115,7 @@ Please make sure you **take the following into account when signing up** for the
 	 (Please check the eligibility requirements below prior to registering)
 </div>
 
-
+-->
 ---
 
 ### **Eligibility requirements:**
