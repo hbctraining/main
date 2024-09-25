@@ -1,6 +1,6 @@
 # Introduction to Variant Calling
 
-*Note: Some workshops are taught in person and others are online via Zoom. Please take note before registering.*
+*Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!.*
 
 <!-- This content will not appear in the rendered Markdown -->
 <!-- Last workshops Sept 17, 20, 24, 27, May 28, 31, June 4, 7, 2024 
