@@ -1,18 +1,18 @@
-# Differential Gene Expression Analysis Workshop (2024)
+# Differential Gene Expression Analysis Workshop
 
-*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some HBC workshops are taught in person and others online via Zoom.*
 
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 <!-- **IN-PERSON (Longwood Medical Area):** -->
 
-**TBD - June 2025**: 10 AM - 12 PM
+**Tuesday, March 18, 2025**: 10 AM - 12 PM
 
-**TBD - June 2025**: 10 AM - 12 PM
+**Friday, March 21, 2025**: 10 AM - 12 PM
 
-**TBD - June 2025**: 10 AM - 12 PM
+**Tuesday, March 25, 2025**: 10 AM - 12 PM
 
-**TBD - June 2025**: 10 AM - 12 PM
+**Friday, March 28, 2025**: 10 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
