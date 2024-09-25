@@ -1,15 +1,16 @@
-# Understanding chromatin biology using high-throughput sequencing workshop (2024)
+# Understanding chromatin biology using high-throughput sequencing workshop 
 
-*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some HBC workshops are taught in person and others online via Zoom.*
 
 
-### **IN-PERSON Workshop dates and times (Longwood Medical Area):**
+<!-- ### **IN-PERSON Workshop dates and times (Longwood Medical Area):** -->
+### **ONLINE Workshop dates and times:**
 
-**Tuesday, September 17, 2024:** 9:30AM-12PM
+**Friday, May 2, 2025:** 9:30AM-12PM
 
-**Friday, September 20, 2024:** 9:30AM-12PM
+**Tuesday, May 6, 2025:** 9:30AM-12PM
 
-**Tuesday, September 24, 2024:** 9:30AM-12PM
+**Friday, May 9, 2025:** 9:30AM-12PM
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
@@ -34,24 +35,31 @@ This 3-day hands-on workshop will begin with a basic introduction of concepts re
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**: (or have a working knowledg of Shell and HPC)  
 
-- [Introduction to command-line interface workshop ](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell)
+- [Shell for Bioinformatics](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell) (formerly called Introduction to command-line interface workshop)
 
-There is an expectation of participants to be comfortable with some/all of the following:
+There is an expectation of participants to be confortable with some/all of the following:
 
-* Navigating filesystems (changing directories, listing contents, full/relative paths, wildcards)
-* Creating, moving, copying, and removing files/directories
-* Searching files and redirection
-* Creating "for loops" and/or short scripts
-* Creating long, advanced scripts and submitting jobs
+- Experience using a High-Performance Computing (HPC) cluster environment (e.g. O2 at HMS)
+- Navigating filesystems (changing directories, listing contents, full/relative paths, wildcards)
+- Creating, moving, copying, and removing files/directories
+- Searching files and redirection
+- Creating ‘for loops' and small scripts
+- Creating long, advanced script
 
+I am experienced using Shell/HPC but have not attended the HBC prerequisite workshop, can I still register?
+
+Yes, please register and provide your Shell/HPC exerience on the form, and we'll get back to you.
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- PREVIOUS VERSION: 
 **I am fluent in command-line and already use HMS-RC's O2 cluster but have not attended the HBC prerequisite workshop, can I still register?**
 
 Yes, you can register **AND** please do the following:
 
 - Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your experience/usage of thw command-line interface and HPC. 
+- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your experience/usage of thw command-line interface and HPC. -->
 ---
 
 ### **Who should attend?**
