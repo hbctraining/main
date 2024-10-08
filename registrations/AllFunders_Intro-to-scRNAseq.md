@@ -25,7 +25,7 @@ This **hands-on** workshop will instruct participants on how to design a **singl
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 - [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
 
