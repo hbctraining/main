@@ -13,7 +13,7 @@
 **Friday February 28, 2025**: 10 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
-<!-- This content will not appear in the rendered Markdown --> 
+
 NOTE: Workshop dates are subject to change - please check back!
 
 ---
