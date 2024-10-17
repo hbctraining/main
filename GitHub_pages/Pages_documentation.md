@@ -81,7 +81,7 @@ The contents of the SCSS file are:
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
 ```
 
-And the `dna-sequence-1600x800.jpg` will be the banner that we add to the top of the webpage.
+And the `dna-sequence-1600x800.jpg` will be the banner that we will add to the top of the webpage.
 
 <p align="center">
 <img src="img/dna-sequence-1600x800.jpg" width="800">
