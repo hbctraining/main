@@ -22,7 +22,7 @@ These steps are illustrated in the GIF below:
 <img src="img/Create_repo.gif" width="700">
 </p>
 
-# Edit Settings
+# Edit Pages Settings
 
 1. On the main GitHub for your Repository, click on **"Settings"**
 
@@ -30,11 +30,27 @@ These steps are illustrated in the GIF below:
 
 3. Underneath **"Branch"**, change the dropdown menu from **"None"** to **"main"**
 
+4. Click the **"Save"** button
+
 These steps are illustrated in the GIF below:
 
 <p align="center">
 <img src="img/GitHub_Pages_settings.gif" width="600">
 </p>
+
+# Inspecting the GitHub page
+
+You should now be able to navigate to https://<your_github_user_or_group>.github.io/<your_repo_name>/. In this case, we will navigate to https://hbctraining.github.io/github_pages_demo/. At this point this page should look like:
+
+<p align="center">
+<img src="img/GItHub_Pages_unformatted_with_tag.png" width="600">
+</p>
+
+> Note: If you go to https://hbctraining.github.io/github_pages_demo/ it will show after later formatting has been added.
+
+# Adding formatting
+
+
 
 # Additional Resources
 
