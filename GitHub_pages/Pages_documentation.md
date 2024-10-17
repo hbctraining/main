@@ -96,7 +96,7 @@ theme: jekyll-theme-cayman
 title: Enter your title here
 ```
 
-There are more things you can add to this `YAML` file, such as Google Analytics and Descriptions, whcih are outside of the scope of this tutorial.
+There are more things you can add to this `YAML` file, such as Google Analytics and Descriptions, which are outside of the scope of this tutorial.
 
 **4.** Upload the assets directory and `YAML` file to your repository
 
