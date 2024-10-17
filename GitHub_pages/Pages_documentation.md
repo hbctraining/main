@@ -43,14 +43,24 @@ These steps are illustrated in the GIF below:
 You should now be able to navigate to *https://<your_github_user_or_group>.github.io/<your_repo_name>/*. In this case, we will navigate to https://hbctraining.github.io/github_pages_demo/. At this point this page should look like:
 
 <p align="center">
-<img src="img/GItHub_Pages_unformatted_with_tag.png" width="600">
+<img src="img/GitHub_Pages_unformatted_with_tag.png" width="600">
 </p>
 
 > Note: If you go to https://hbctraining.github.io/github_pages_demo/ it will show after later formatting has been added.
 
 # Adding formatting
 
-Download and uncompress this [directory](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/assets.zip)
+**1.** Right-click and "Save link as..." this [zipped directory](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/assets.zip)
+
+**2.** Uncompress the zipped directory
+
+The contents of the unzipped directory should look like:
+
+<p align="center">
+<img src="img/Zipped_directory_contents_with_tag.png" width="600">
+</p>
+
+**3.** Right-click and "Save link as..." this [yml file](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/_config.yml)
 
 
 # Additional Resources
