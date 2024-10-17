@@ -56,6 +56,12 @@ You should now be able to navigate to *https://&lt;your_github_user_or_group&gt;
 
 **2.** Uncompress the zipped directory
 
+These steps are illustrated in the GIF below:
+
+<p align="center">
+<img src="img/Downloading_zipped_directory.gif" width="700">
+</p>
+
 The contents of the unzipped directory should look like:
 
 <p align="center">
@@ -81,10 +87,6 @@ And the `dna-sequence-1600x800.jpg` will be the banner that we add to the top of
 <img src="img/dna-sequence-1600x800.jpg" width="800">
 </p>
 
-These steps are illustrated in the GIF below:
-
-
-
 **3.** Right-click and "Save link as..." this [YAML file](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/_config.yml)
 
 The contents of the `YAML` file are:
@@ -94,11 +96,21 @@ theme: jekyll-theme-cayman
 title: Enter your title here
 ```
 
-There are more things you can add to this `YAML` file such as Google Analytics and Descriptions.
+There are more things you can add to this `YAML` file, such as Google Analytics and Descriptions, whcih are outside of the scope of this tutorial.
 
 **4.** Upload the assets directory and `YAML` file to your repository
 
-Now, return to your webpage (*https://&lt;your_github_user_or_group&gt;.github.io/&lt;your_repo_name&gt;/*) and it should have the banner and theme added. 
+This step is illustrated in the GIF below:
+
+<p align="center">
+<img src="img/Upload_formatting.gif" width="700">
+</p>
+
+Now, return to your webpage (*https://&lt;your_github_user_or_group&gt;.github.io/&lt;your_repo_name&gt;/*) and it should have the banner and theme added:
+
+<p align="center">
+<img src="img/Formatting_page_with_tag.png" width="700">
+</p>
 
 > Note: It may take a few minutes to render the updates on the webpage.
 
