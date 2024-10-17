@@ -50,7 +50,7 @@ You should now be able to navigate to *https://<your_github_user_or_group>.githu
 
 # Adding formatting
 
-Download and uncompress this [directory](https://hbctraining.github.io/main/GitHub_pages/assets.zip?raw=true)
+Download and uncompress this [directory](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/assets.zip)
 
 
 # Additional Resources
