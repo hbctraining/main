@@ -19,7 +19,7 @@ In this lesson we will discuss:
 These steps are illustrated in the GIF below:
 
 <p align="center">
-<img src="../img/Create_repo.gif" width="600">
+<img src="../img/Create_repo.gif" width="700">
 </p>
 
 # Edit Settings
