@@ -106,7 +106,7 @@ This step is illustrated in the GIF below:
 <img src="img/Upload_formatting.gif" width="700">
 </p>
 
-Now, return to your webpage (*https://&lt;your_github_user_or_group&gt;.github.io/&lt;your_repo_name&gt;/*) and it should have the banner and theme added:
+Now, return to your webpage (*https://&lt;your_github_user_or_group&gt;.github.io/&lt;your_repo_name&gt;/*) and it should have the banner and theme added!
 
 <p align="center">
 <img src="img/Formatting_page_with_tag.png" width="700">
@@ -114,8 +114,7 @@ Now, return to your webpage (*https://&lt;your_github_user_or_group&gt;.github.i
 
 > Note: It may take a few minutes to render the updates on the webpage.
 
-
-
+The example of this demo can be found [here](https://hbctraining.github.io/github_pages_demo/).
 
 ## Additional Resources
 
