@@ -40,7 +40,7 @@ These steps are illustrated in the GIF below:
 
 # Inspecting the GitHub page
 
-You should now be able to navigate to https://<your_github_user_or_group>.github.io/<your_repo_name>/. In this case, we will navigate to https://hbctraining.github.io/github_pages_demo/. At this point this page should look like:
+You should now be able to navigate to *https://<your_github_user_or_group>.github.io/<your_repo_name>/*. In this case, we will navigate to https://hbctraining.github.io/github_pages_demo/. At this point this page should look like:
 
 <p align="center">
 <img src="img/GItHub_Pages_unformatted_with_tag.png" width="600">
