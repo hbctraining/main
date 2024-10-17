@@ -57,7 +57,7 @@ You should now be able to navigate to *https://&lt;your_github_user_or_group&gt;
 The contents of the unzipped directory should look like:
 
 <p align="center">
-<img src="img/Zipped_directory_contents_with_tag.png" width="600">
+<img src="img/Zipped_directory_contents_with_tag.png" width="400">
 </p>
 
 The contents of the SCSS file are:
