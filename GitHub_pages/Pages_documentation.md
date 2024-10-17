@@ -1,10 +1,12 @@
-# Learning Objectives
+# Creating GitHub Pages
+
+## Learning Objectives
 
 In this lesson we will discuss:
 
 - Development of a custom GitHub Pages HTML
 
-# Create a new repository
+## Create a new repository
 
 **1.** Go to your GitHub account and click on **"New"** to create a new repository
 
@@ -22,7 +24,7 @@ These steps are illustrated in the GIF below:
 <img src="img/Create_repo.gif" width="700">
 </p>
 
-# Edit Pages Settings
+## Edit Pages Settings
 
 1. On the main GitHub for your Repository, click on **"Settings"**
 
@@ -38,7 +40,7 @@ These steps are illustrated in the GIF below:
 <img src="img/GitHub_Pages_settings.gif" width="600">
 </p>
 
-# Inspecting the GitHub page
+## Inspecting the GitHub page
 
 You should now be able to navigate to *https://&lt;your_github_user_or_group&gt;.github.io/&lt;your_repo_name&gt;/*. In this case, we will navigate to https://hbctraining.github.io/github_pages_demo/. At this point this page should look like:
 
@@ -48,7 +50,7 @@ You should now be able to navigate to *https://&lt;your_github_user_or_group&gt;
 
 > Note: If you go to https://hbctraining.github.io/github_pages_demo/ it will show after later formatting has been added.
 
-# Adding formatting
+## Adding formatting
 
 **1.** Right-click and "Save link as..." this [zipped directory](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/assets.zip)
 
@@ -103,7 +105,7 @@ Now, return to your webpage (*https://&lt;your_github_user_or_group&gt;.github.i
 
 
 
-# Additional Resources
+## Additional Resources
 
 Two webpages where you can find more information on what we've demonstrated can be found below:
 
