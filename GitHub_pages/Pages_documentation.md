@@ -60,7 +60,47 @@ The contents of the unzipped directory should look like:
 <img src="img/Zipped_directory_contents_with_tag.png" width="600">
 </p>
 
-**3.** Right-click and "Save link as..." this [yml file](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/_config.yml)
+The contents of the SCSS file are:
+
+```
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header { color: #fff; text-align: center; background-image: url("../images/dna-sequence-1600x800.jpg"); }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
+```
+
+And the `dna-sequence-1600x800.jpg` will be the banner that we add to the top of the webpage.
+
+<p align="center">
+<img src="img/dna-sequence-1600x800.jpg" width="800">
+</p>
+
+These steps are illustrated in the GIF below:
+
+
+
+**3.** Right-click and "Save link as..." this [YAML file](https://github.com/hbctraining/main/raw/refs/heads/master/GitHub_pages/_config.yml)
+
+The contents of the `YAML` file are:
+
+```
+theme: jekyll-theme-cayman
+title: Enter your title here
+```
+
+There are more things you can add to this `YAML` file such as Google Analytics and Descriptions.
+
+**4.** Upload the assets directory and `YAML` file to your repository
+
+Now, return to your webpage (*https://<your_github_user_or_group>.github.io/<your_repo_name>/*) and it should have the banner and theme added. 
+
+> Note: It may take a few minutes to render the updates on the webpage.
+
+
 
 
 # Additional Resources
