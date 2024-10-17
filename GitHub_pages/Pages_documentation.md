@@ -40,7 +40,7 @@ These steps are illustrated in the GIF below:
 
 # Inspecting the GitHub page
 
-You should now be able to navigate to *https://<your_github_user_or_group>.github.io/<your_repo_name>/*. In this case, we will navigate to https://hbctraining.github.io/github_pages_demo/. At this point this page should look like:
+You should now be able to navigate to *https://&lt;your_github_user_or_group&gt;.github.io/&lt;your_repo_name&gt;/*. In this case, we will navigate to https://hbctraining.github.io/github_pages_demo/. At this point this page should look like:
 
 <p align="center">
 <img src="img/GitHub_Pages_unformatted_with_tag.png" width="600">
@@ -96,7 +96,7 @@ There are more things you can add to this `YAML` file such as Google Analytics a
 
 **4.** Upload the assets directory and `YAML` file to your repository
 
-Now, return to your webpage (*https://<your_github_user_or_group>.github.io/<your_repo_name>/*) and it should have the banner and theme added. 
+Now, return to your webpage (*https://&lt;your_github_user_or_group&gt;.github.io/&lt;your_repo_name&gt;/*) and it should have the banner and theme added. 
 
 > Note: It may take a few minutes to render the updates on the webpage.
 
@@ -107,6 +107,6 @@ Now, return to your webpage (*https://<your_github_user_or_group>.github.io/<you
 
 Two webpages where you can find more information on what we've demonstrated can be found below:
 
-For creating a GitHub Pages: https://docs.github.com/en/pages/quickstart
+- [Creating a GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
-For adding more customized formatting and themeing to the GitHub Pages: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+- [Adding more customized formatting and theming to the GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
