@@ -1,18 +1,18 @@
 # Introduction to single-cell RNA-seq data analysis workshop
 
-<!--*Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
-OLD: *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
+*Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
+<!-- OLD: *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
 
-### **ONLINE Workshop dates and times:**
-<!--**IN-PERSON (Longwood Medical Area):**-->
+### **Workshop dates and times:**
+**IN-PERSON (Longwood Medical Area):**
 
-**Friday, October 25, 2024**: 9:30 AM - 12 PM
+**Tuesday, March 4, 2025**: 9:30 AM - 12 PM
 
-**Tuesday, October 29, 2024**: 9:30 AM - 12 PM
+**Friday, March 7, 2025**: 9:30 AM - 12 PM
 
-**Friday, November 1, 2024**: 9:30 AM - 12 PM
+**Tuesday, March 11, 2025**: 9:30 AM - 12 PM
 
-<!--NOTE: Workshop dates are subject to change-->
+NOTE: Workshop dates are subject to change
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -84,16 +84,15 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
-<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <div style="text-align:center">
-(Registration opens 2 weeks before the start of advanced workshops.)
+(Registration opens 2 - 3 weeks before the start of advanced workshops.)
 </div> 
--->
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
 </div>
@@ -101,7 +100,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div> 
-
+-->
 <!-- This content will not appear in the rendered Markdown -->
 
 ---
