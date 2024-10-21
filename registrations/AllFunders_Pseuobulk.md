@@ -40,6 +40,7 @@ There is an expectation of participants to have some/all of the following progra
 * Comfortable **installing packages and troubleshooting** issues.
 * **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
 * Familiarity with ggplot2 for **data visualization**.
+* Familiarity with RStudio interface
 
 This workshop also assumes that users have a background in single-cell RNA-seq analysis.
 
@@ -94,12 +95,12 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-(Registration opens 2 weeks before the start of advanced workshops.)
+(Registration opens 2 - 3 weeks before the start of advanced workshops.)
 </div> 
 
 <!--
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com-UPDATE'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_88Qi9mDKwHqz3hA'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
