@@ -1,7 +1,7 @@
 # Differential expression of single cell RNA-seq workshop
-
+<!--
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
-<!--*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
+*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
 
 
 ### **Workshop dates and times:**
@@ -13,7 +13,7 @@
 
 **Tuesday, November 19, 2024**: 9:30 AM - 12 PM
 
-NOTE: Workshop dates are subject to change
+<!-- NOTE: Workshop dates are subject to change -->
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
