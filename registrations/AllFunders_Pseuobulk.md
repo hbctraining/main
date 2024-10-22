@@ -22,7 +22,7 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 ### **Description:**
 After clustering cells as part of a single-cell RNA-seq experiment, investigators are often interested in carrying out a differential expression analysis between conditions within certain cell types. When the experimental design includes replicates with multi-conditions there is power in identifying differentially expressed genes using a pseudbulk approach.  In this hands-on workshop, we will:
 
-- Discuss various appraoches for differential expression using single cell RNA-seq data
+- Discuss various approaches for differential expression using single cell RNA-seq data
 - Prepare single-cell RNA-seq raw count data for pseudobulk analysis
 - Perform differential expression analysis on pseudobulk counts using DESeq2
 - Present approaches for differential abundance analysis
