@@ -1,4 +1,4 @@
-# Introduction to Pseudobulk workshop 
+# Differential expression of single cell RNA-seq workshop
 
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 <!--*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
@@ -20,10 +20,12 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 ---
 
 ### **Description:**
-After clustering cells as part of a single-cell RNA-seq experiment, investigators are often interested in carrying out a differential expression analysis between conditions within certain cell types. In this hands-on workshop, we will:
+After clustering cells as part of a single-cell RNA-seq experiment, investigators are often interested in carrying out a differential expression analysis between conditions within certain cell types. When the experimental design includes replicates with multi-conditions there is power in identifying differentially expressed genes using a pseudbulk approach.  In this hands-on workshop, we will:
+
+- Discuss various appraoches for differential expression using single cell RNA-seq data
 - Prepare single-cell RNA-seq raw count data for pseudobulk analysis
-- Perform differential expression analysis using DESeq2
-- Create a script to carry out differential expression analyses across cell type clusters.
+- Perform differential expression analysis on pseudobulk counts using DESeq2
+- Present approaches for differential abundance analysis
 
 ---
 
@@ -42,7 +44,7 @@ There is an expectation of participants to have some/all of the following progra
 * Familiarity with ggplot2 for **data visualization**.
 * Familiarity with RStudio interface
 
-This workshop also assumes that users have a background in single-cell RNA-seq analysis.
+_This workshop also assumes that users have a background in single-cell RNA-seq analysis._
 
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
 
@@ -60,10 +62,10 @@ Yes, please register and provide your R/programming exerience on the form, and w
 
 [Eligible*](#eligibility-requirements) Harvard researchers who want to learn: 
 
-- How to organize scRNA-seq data for analysis
+- How to organize scRNA-seq data for DE analysis
 - How to use DESeq2 to obtain a list of differentially expressed genes
-- How to visualize expression patterns of differentially expressed genes
-- How to automate scRNA-seq analyses across cell types
+- How to visualize expression patterns of differentially expressed genes in single cell RNA-seq data
+
 
 ---
 
