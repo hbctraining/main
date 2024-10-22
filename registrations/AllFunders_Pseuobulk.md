@@ -25,7 +25,8 @@ After clustering cells as part of a single-cell RNA-seq experiment, investigator
 - Discuss various approaches for differential expression using single cell RNA-seq data
 - Prepare single-cell RNA-seq raw count data for pseudobulk analysis
 - Perform differential expression analysis on pseudobulk counts using DESeq2
-- Present approaches for differential abundance analysis
+- Present approaches for evaluating differential proportions of cells between conditions
+
 
 ---
 
