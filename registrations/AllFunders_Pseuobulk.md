@@ -44,6 +44,7 @@ There is an expectation of participants to have some/all of the following progra
 * **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
 * Familiarity with ggplot2 for **data visualization**.
 * Familiarity with RStudio interface
+* Familiar with the Seurat package for single cell RNA-seq analysis
 
 _This workshop also assumes that users have a background in single-cell RNA-seq analysis._
 
