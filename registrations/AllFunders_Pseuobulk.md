@@ -94,6 +94,7 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -101,8 +102,8 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 (Registration opens 2 - 3 weeks before the start of advanced workshops.)
 </div> 
-
-<!--
+ -->
+ 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_88Qi9mDKwHqz3hA'">Click here to Register!</button></a>
 </div>
@@ -110,7 +111,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div> 
- -->
+
 <!-- This content will not appear in the rendered Markdown -->
 
 
