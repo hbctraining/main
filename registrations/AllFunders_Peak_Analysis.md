@@ -12,8 +12,8 @@
 
 **Tuesday, December 10, 2024**: 9:30 AM - 12 PM
 
-NOTE: Workshop dates are subject to change.
-
+<!-- NOTE: Workshop dates are subject to change.  -->
+<!-- This content will not appear in the rendered Markdown -->
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 ---
