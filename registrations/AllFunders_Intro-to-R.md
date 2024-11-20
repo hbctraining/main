@@ -4,6 +4,8 @@
 
 ### **Workshop dates and times:**
 
+**IN-PERSON (Longwood Medical Area):**
+
 **Tuesday, February 18, 2025**: 10 AM - 12 PM
 
 **Friday, February 21, 2025**: 10 AM - 12 PM
