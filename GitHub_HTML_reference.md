@@ -176,6 +176,8 @@ HTML is has some special characters that it is picky about. The table below disp
 | ' | `&#39;` |
 | " | `&quot;` |
 | & | `&amp;` |
+| Tab | `&emsp;` |
+| # | `&#35;` |
 
 Their syntax would look like:
 
