@@ -3,14 +3,14 @@
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 <!-- **IN-PERSON (Longwood Medical Area):**  -->
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday June 17, 2025**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Friday June 20, 2025**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday June 24, 2025**: 9:30 AM - 12 PM
 
 NOTE: Workshop dates are subject to change.
 <!-- This content will not appear in the rendered Markdown -->
