@@ -129,12 +129,16 @@ Create creating a Learning Objective, try to pick a verb that is going to pair w
 Picking the right verb for your learning objective can be really helpful for creating your assessment of that learning objective. Below is a great table of more verbs associated with each level of Bloom's Taxonomy.
 
 <p align="center">
-<img src="img/Blooms-Taxonomy-Verbs.png" width="600">
+<img src="img/Blooms-Taxonomy-Verbs.png" width="800">
 </p>
 
 *Image from https://www.learningeverest.com/blooms-taxonomy-decoded/*
 
+Boston College has a nice [webpage](https://cteresources.bc.edu/documentation/learning-objectives/) on learning objectives.
+
 ## Content
+
+Below we have outlines for the different formats of content we will find in our lessons. As you develop material, aim to get a good blend of formats. 
 
 ### Text
 
@@ -154,21 +158,44 @@ Images are an integral part of conveying information in conjunction with text. C
 
 **Does the perfect figure already exist somewhere else?**
 
-Sometimes people have created excellent figures in papers and there is no need to re-invent the wheel. If you go down this route, be sure to provide appropriate attribution underneath the figure.
+Sometimes people have created excellent figures in papers and there is no need to re-invent the wheel. If you go down this route, be sure to provide appropriate attribution underneath the figure with:
 
-**Creating our down figures**
+"*Image from [source]*"
+
+**Creating our own figures**
 
 Figures that we create should follow some guidelines:
 
 - *High-resolution* - Others in our group or elsewhere may recycle this figure and we would like the figure to be clear at different size scaling than we present. By providing high-resolution images, we can try to future proof this.
 
-- *Clarity* - 
+- *Clarity* - **Each figure should try to convey a single takeaway point.** Only include details relevant for the point we are trying to convey with an image. We can make multiple images for different points. Try to avoid cramming an image with too many details it can be distracting and lose sight of the overall goal.
+
+  Be sure to label the axes on any plots.
+
+  Use colorblind-friendly color palettes when creating figures.
+
+  If working from screenshots, make sure the interface is clean, hide the dock on Mac, clean up your Desktop, etc.
+
+- *Attribution* - On the figures we develop, put "Harvard Chan Bioinformatics Core" in the bottom right corner. This builds attribution into a figure, so if someone uses our figure and forgets to attribute us, we are still attributed.
+
+- *Management* - It is encouraged to use Adobe Illustrator to create images. Please keep any images used in creating images, like screenshots, in the same folder as the Illustrator file (.ai) along with the final PNG/SVG image on Dropbox. 
 
 ### GIFs
 
-### Dropdowns
+When using graphical user interfaces (GUIs) like IGV or FileZilla, it can be beneficial to create supplement the text with GIFs rather than screenshots to show how to interact with the interface. When deciding to create a GIF, have these considerations:
 
-### Linking out
+- **Is this GUI rather stable (i.e. IGV/RStudio/FileZilla)?** - Creating GIFs are more time-consuming than screenshots so if a tool is not in a stable state, it would likely be preferable to use screenshots over spending the time to create, and then inevitably re-create, the GIF
+- **Can I break this task into short segments?** - To work within the framework of High-Definition and not drop too many frames (less than about 12.5fps), you'll need to keep the final GIF to about 10 seconds or less in order for it to be small enough to upload to GitHUb which has a 25MB file size limit.
+
+Many of the same considerations that existed for images, also exist for GIFs. 
+
+- *High-Definition* - Export the GIF in high-definition
+
+- *Clarity* - Try to not make the GIF go too fast. It is important that workshop participants can follow it. Consider highlighting selections with boxes or arrows.
+
+- *Attribution* - On the GIFs we develop, put "Harvard Chan Bioinformatics Core" in the bottom right corner.
+
+- *Management* - It is encouraged to use Adobe Premiere Pro to create GIFs. Please keep any files used in creating GIFs, like screen capture videos, in the same folder as the Premiere Pro file (.prproj) along with the final GIF on Dropbox. 
 
 ### Equations
 
@@ -176,7 +203,7 @@ Sometimes we people have a habit of writing out equations in words like:
 
 "The gravitational force is gravitational constant times the mass of first object times the mass of the second object divided by the distance between the centre of two bodies squared"
 
-Perhaps some may find this useful, but it can be a lot more clear to provide equations ***AND*** define the elements of the equation. [Codecogs]()https://editor.codecogs.com/ provides a nice way to embed equations as images in our GitHub documents
+Perhaps some may find this useful, but it can be a lot more clear to provide equations ***AND*** define the elements of the equation. [Codecogs](https://editor.codecogs.com/) provides a nice way to embed equations as images in our GitHub documents
 
 If possible, providing toy examples and tables to help make the outcomes of the equations more intuitive. For example, instead of the gravitational example above, we could do:
 
@@ -184,7 +211,59 @@ If possible, providing toy examples and tables to help make the outcomes of the 
 <img src="https://latex.codecogs.com/svg.image?F_{gravity}=\frac{G&space;M_{1}M_{2}}{D^{2}}" width=250>
 </p>
 
+where:
+
+- _F<sub>gravity</sub>_ is the gravitational force
+- _G_ is the gravitational constant
+- _M<sub>1</sub>_ is the mass of object 1
+- _M<sub>2</sub>_ is the mass of object 2
+- _D_ is the distance between the two objects
+
+Then consider having an image that displays or even an app that allows the participants to toy with the relationships between the variables. In the interest of time, we haven't done this here, but if this were to be course materials, we would. This allows participants multiple ways to in engage with the material. Some find equations to be daunting to look at and find plots or apps showing toy data more intuitive. 
+
+> Note: When using an equation, define all of the variables.
+
 ### Shiny Apps
+
+Sometimes a topic can benefit from an app that allows workshop participants to toy around with. Developing one of these apps can be time-consuming, so please check with your collaborator and Meeta before developing it to make sure that the budget can accommodate it. When embedding the app you will use this syntax:
+
+```
+<iframe src="https://hcbc.connect.hms.harvard.edu/app_name/?showcase=0" width="800" height="600px" data-external="1"></iframe>
+```
+
+GitHub Markdown does not accomodate iframe, but this will be visualized on the HTML page. Our materials on RShiny can be found [here](https://hbctraining.github.io/Training-modules/RShiny/).
+
+### Extra Details
+
+Sometimes not all of the content that is developed is 100% relevant to the workshop, but could be for people with slightly different data, addresses outdated approaches or provides alternative analytical approaches. When we come to these "Extra details" we have two approaches, Dropdowns and Linking Out.
+
+#### Dropdowns
+
+Oftentimes you will come across places where there are two reasonable approaches to a task or want to provide more information on that is not critical for participant's immediate success, but is still information that people might like to have. If brief, these are a great place to use a dropdown. The format for these looks like:
+
+```
+<details>
+<summary>Click here to expand the dropdown menu</summary>
+You couldn't see this menu before, but now you can. Click the &quot;Click here to expand the dropdown menu&quot; again to hide this.
+</details>
+```
+
+And they look like:
+
+<details>
+<summary>Click here to expand the dropdown menu</summary>
+You couldn't see this menu before, but now you can. Click the &quot;Click here to expand the dropdown menu&quot; again to hide this.
+</details>
+
+When you are using a dropdown, **ONLY USE HTML WITHIN THE DROPDOWN. DO NOT USE MARKDOWN FORMATTING WITHIN THE DROPDOWN**. When working within a dropdown, you can use the HTML formatting found in [this guide](GitHub_HTML_reference.md).
+
+Also, be aware that some special characters like <, >, &, ', ", # can give wonky results. 
+
+Always check the output in the HTML Page to make sure that it hasn't created problems for the rest of your Markdown.
+
+#### Linking Out
+
+If there is enough content to flesh out a supplemental GitHub page, then this is too much content for a dropdown. You can make a new Markdown page for this content and link out to it from the current Markdown. Before creating a linked out page of additional content, be sure to consult with your collaborator and Meeta to make sure that this content is important enough to create this page AND will still allow us to stay within out time budget.
 
 ## Footer
 
@@ -192,7 +271,4 @@ All of the pages need to have the following footer:
 
 *These materials have been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
 
-- Include RRID
-
-
-Boston College has a nice [webpage](https://cteresources.bc.edu/documentation/learning-objectives/) on learning objectives.
+The main page for a repository should also have our Zenodo citation and include this need to include our RRID, *SCR_025373*.
