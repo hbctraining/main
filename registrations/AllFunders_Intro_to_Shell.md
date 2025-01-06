@@ -12,6 +12,7 @@
 **Friday, January 24, 2025**: 9:30 AM - 12 PM
 
 **Tuesday, January 28, 2025**: 9:30 AM - 12 PM
+
 <!--
 **Tuesday, April 22, 2025**: 9:30 AM - 12 PM
 
