@@ -18,11 +18,11 @@
 
 **Friday, April 25, 2025**: 9:30 AM - 12 PM
 
-**Tuesday, April 29, 2025**: 9:30 AM - 12 PM -->
+**Tuesday, April 29, 2025**: 9:30 AM - 12 PM 
+
+NOTE: Workshop dates are subject to change -->
 
 <!-- This content will not appear in the rendered Markdown -->
-
-NOTE: Workshop dates are subject to change 
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
@@ -45,7 +45,7 @@ In this **3-day hands-on workshop** participants will learn the following:
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming Variant Calling workshop as well as Introduction to bulk RNA-seq I and Understanding Chromatin biology (ChIP-seq/ATAC-seq).
+This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming Introduction to bulk RNA-seq I workshop as well as  Understanding Chromatin biology (ChIP-seq/ATAC-seq)and Variant Calling.
 
 ---
 
@@ -56,7 +56,6 @@ This workshop is a prerequisite for advanced [workshops](https://hbctraining.git
 - want to learn how and why to use the command line interface (Unix/Linux Shell) to efficiently manage and analyze data
 - want to use local clusters/high-performance computing environments for analyzing data (e.g. HMS-RC's O2 cluster, or FASRC cluster)
 - are interested in taking an advanced workshop with us on analysis of sequencing data within the next 6 - 8 months
-
 
 ---
 
@@ -83,6 +82,7 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active paricipation during discussion sessions._
 
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -90,8 +90,10 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens 2 weeks before the start of basic workshops.)
 </div> 
+-->
 
-<!-- 
+<!-- This content will not appear in the rendered Markdown -->
+
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
 </div>
@@ -99,9 +101,6 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
--->
-
-<!-- This content will not appear in the rendered Markdown -->
 
 
 ---
@@ -119,9 +118,10 @@ Please make sure you **take the following into account when signing up** for the
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
-
+<!-- This content will not appear in the rendered Markdown -->
+<!-- 
 (Please check the eligibility requirements prior to registering)
-
+-->
 NOTE: We do ***not*** record our training sessions. 
 
 ---
