@@ -1,14 +1,23 @@
 # Training Development Guidelines
 
-This is a guide to help create continuity across our training materials. It is a living document and will try to be maintained to the best of our ability.
+This is a guide to help create continuity across our training materials. It is a living document and will try to be maintained to the best of our ability. Contributions from team members are welcomed and encouraged.
 
-# Course Design Philosophy
+## Working as a team
 
-## Backward Design
+When working on developing course materials, if can be helpful to work as a team. What we have found when people work alone on material development is that it can be isolating and daunting. Working as a team has a few advantages over solo course development:
+
+1. Spreads the course development workload
+2. Gives you a sounding board for ideas
+3. Helps keep the development on track with someone else holding you accountable
+4. Gives a different perspective on material
+5. More fun to be doing it with someone else
+
+
+## Course Design Philosophy
 
 "Traditional" course design is often regarded as a process through which the instructor develops materials and then uses the principles from those materials to create an assessment. The "downfall" of this strategy is that it can result in teaching things that aren't assessed and can sometimes feel a bit meandering in the learning. 
 
-Backward Design principles are a set of principles for course design which focus on how students will be assessed and then work to develop materials that align with those assessment goals. When we apply backward design principles in our course development it should follow these steps:
+**Backward Design** principles are a set of principles for course design which **focus on how students will be assessed and then work to develop materials that align with those assessment goals**. When we apply backward design principles in our course development it should follow these steps:
 
 1. Identify what goals we want participants to accomplish
 2. Create an assessments that will certify that the goals was obtained
@@ -18,17 +27,26 @@ When you are planning a workshop or a lesson it can be really helpful to develop
 
 Vanderbilt has a nice [webpage](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/) on Backward Design.
 
-## Working as a team
 
-When working on developing course materials, if can be helpful to work as a team. This has a few advantages over solo course development:
 
-1. Spreads the course development workload
-2. Gives you a sounding board for ideas
-3. Helps keep the development on track with someone else holding you accountable
-4. Gives a different perspective on material
-5. More fun to be doing it with someone else
+## Phases of design
 
-What we have found when people work alone on material development is that it can be isolating and daunting. Also, when you are working alone, you oftentimes lack someone to hold you accountable and you sometimes will develop too much materials on one area and not enough in other areas.
+### 1. Identifying a dataset
+
+This *can* be one of the most time-consuming parts of development. When designing our workshops, we want to be using publically available data. People outside of Harvard oftentimes use our resources and they need to be able to access the dataset via SRA/GEO. In the past we have used data from studies where the training team members have been involved in the analysis and are co-authors, so there is a good depth of knowledge on it.
+
+Once we have the dataset, it is good practice to **run it through the workflow** we are teaching. This can be done in partnership with the [Platforms](https://hbc.github.io/Platform/) group members. Our goal is to train researchers using the best practices established within HBC, and therefore we should have a pipleine or code set up to do much of what we are teaching. If results do not pan out, or there are issues with the dataset we may want to consider using a different dataset.
+
+There will be circumstances where **custom code is created** for the workshop. Create reproducible shell scripts or Rmd files which walk through the code and interpretation of results. _Do not begin development until we know that the code is running, and we are happy with the results._
+
+**Where do we put the data and the code?**
+
+* Large datasets can be placed on O2 in `/n/groups/hbctraining`. You will want to create a folder for the workshop and setup a basic organization that is easy to navigate. Let management know if you need access to the group folder or the space has reached it's quota for storage.
+* If we have toy datasets (i.e for Intro to Shell) we should host them on Dropbox and/or GitHub. If on DropBox, it can be put in `Teaching/Courses/workshop_data`. If in the GitHub repo, place it in a `data` folder. Ideally it is good to have everything on GitHub, but sometimes there are file size issues with GitHub. First try for GitHub if we can, but if file size constricts us, then Dropbox. 
+
+We also want to avoid to much unnecessary complexity to the data. What is the minimum number of samples we can trim the data down to and still be within best practices? Perhaps the experiment had multiple conditions, can we narrow the dataset to just case and control conditions? We don't want the complexity of the dataset to take away from the learning. 
+
+When trying to identify a dataset, it is recommended to work closely with Platforms as you can have them help you test run different datasets through Nextflow pipelines more easily.
 
 When we work as a team on materials development, we need to:
 
@@ -38,7 +56,6 @@ When we work as a team on materials development, we need to:
 4. Assess and give feedback on the progress made since the last meeting
 5. **Try to avoid spending more than ~5 hours on development without getting at least some feedback on it.** It can be very easy to spend too much time and go too far down a rabbit hole and bill too much time for development.
 
-## Phases of design
 
 When we are creating a course and we have an idea for each lesson, it is a good idea to work within this framework:
 
@@ -69,13 +86,7 @@ When we are creating a course and we have an idea for each lesson, it is a good 
     - Address any typos they see
     - Check each link to ensure they work
 
-# Identifying a dataset
 
-This *can* be one of the most time-consuming parts of development. When designing our workshops, we want to be using publically available data. People outside of Harvard oftentimes use our resources and they need to be able to access the dataset via SRA/GEO. If we have toy datasets we should host them on Dropbox or GitHub (**Meeta we should make a verdict on this** Personally, I like having everything on GitHub, but sometimes there are file size issues with GitHub. Sometimes I get e-mails about access issue with people getting odds and even from Dropbox and that is annoying. I sort of feel like the policy should be GitHub if we can, but if File Size constricts us, then Dropbox?). 
-
-We also want to avoid to much unnecessary complexity to the data. What is the minimum number of samples we can trim the data down to and still be within best practices? Perhaps the experiment had multiple conditions, can we narrow the dataset to just case and control conditions? We don't want the complexity of the dataset to take away from the learning. 
-
-When trying to identify a dataset, it is recommended to work closely with Platforms as you can have them help you test run different datasets through Nextflow pipelines more easily.
 
 # Format
 
