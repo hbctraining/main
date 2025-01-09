@@ -35,6 +35,10 @@ Vanderbilt has a nice [webpage](https://cft.vanderbilt.edu/guides-sub-pages/unde
 
 This *can* be one of the most time-consuming parts of development. When designing our workshops, we want to be using publically available data. People outside of Harvard oftentimes use our resources and they need to be able to access the dataset via SRA/GEO. In the past we have used data from studies where the training team members have been involved in the analysis and are co-authors, so there is a good depth of knowledge on it.
 
+We also want to avoid to much unnecessary complexity to the data. Choose a dataset with at least three replicates and at least two sample classes. If there are many group, can we narrow the dataset to just case and control conditions or that which we need for the workshop? We don't want the complexity of the dataset to take away from the learning. _Obtain all metadata information for samples used in the study._
+
+When trying to identify a dataset, it is recommended to work closely with Platforms as you can have them help you test run different datasets through Nextflow pipelines more easily.
+
 Once we have the dataset, it is good practice to **run it through the workflow** we are teaching. This can be done in partnership with the [Platforms](https://hbc.github.io/Platform/) group members. Our goal is to train researchers using the best practices established within HBC, and therefore we should have a pipleine or code set up to do much of what we are teaching. If results do not pan out, or there are issues with the dataset we may want to consider using a different dataset.
 
 There will be circumstances where **custom code is created** for the workshop. Create reproducible shell scripts or Rmd files which walk through the code and interpretation of results. _Do not begin development until we know that the code is running, and we are happy with the results._
@@ -42,18 +46,24 @@ There will be circumstances where **custom code is created** for the workshop. C
 **Where do we put the data and the code?**
 
 * Large datasets can be placed on O2 in `/n/groups/hbctraining`. You will want to create a folder for the workshop and setup a basic organization that is easy to navigate. Let management know if you need access to the group folder or the space has reached it's quota for storage.
-* If we have toy datasets (i.e for Intro to Shell) we should host them on Dropbox and/or GitHub. If on DropBox, it can be put in `Teaching/Courses/workshop_data`. If in the GitHub repo, place it in a `data` folder. Ideally it is good to have everything on GitHub, but sometimes there are file size issues with GitHub. First try for GitHub if we can, but if file size constricts us, then Dropbox. 
+* If we have toy datasets (i.e for Intro to Shell) we should host them on Dropbox and/or GitHub. If on DropBox, it can be put in `Teaching/Courses/workshop_data`. If in the GitHub repo, place it in a `data` folder. Ideally it is good to have everything on GitHub, but sometimes there are file size issues with GitHub. First try for GitHub if we can, but if file size constricts us, then Dropbox.
+* In the GitHub repo, create a folder called 'scripts'. Here, you can place all code used in the workshop. Ideally, you would like a script for each lesson, but it can also be consolidated if there is not much code per lesson.
 
-We also want to avoid to much unnecessary complexity to the data. What is the minimum number of samples we can trim the data down to and still be within best practices? Perhaps the experiment had multiple conditions, can we narrow the dataset to just case and control conditions? We don't want the complexity of the dataset to take away from the learning. 
+### 2. Setting a repo and proposed schedule
+Create a private repo in the [HBC GitHub account](https://github.com/hbctraining). Give it a meaningful workshop name and add description. Click the box to intialize the repo with a README file. 
 
-When trying to identify a dataset, it is recommended to work closely with Platforms as you can have them help you test run different datasets through Nextflow pipelines more easily.
 
-When we work as a team on materials development, we need to:
+### 3. Timeline and Milestones
+When we work as a team on materials development, we need to explicitly lay out an overarching timeline for the project at the beginning with ample cushion time built-in. **Work backwards from the proposed date of workshop.** If there is not enough time, consider moving the workshop date.
 
-1. Explicitly lay out an overarching timeline for the project at the beginning with ample cushion time built-in
-2. Create sub-timelines for each week or two weeks of development
-3. Create time budgets for certain tasks so that everyone has clear expectations on the expected timeframe is and there can be a discussion if more time is needed and why
-4. Assess and give feedback on the progress made since the last meeting
+**How many weeks is reasonable?** Discussion point.
+
+Once the timeline is established:
+
+1. Assign tasks for each week and estimate the hours required to accomplish each task, so it is clear to everyone working on the development project. Set reasonable expectations such that the tasks can be feasibly completed within the timeframe. 
+2. Set up 30 minute standing meetings for each week. It is not mandatory to meet every week, but there should be a slot available in case there are things to be discussed. 
+3. Create milestones for a general completion of certain things. For example, by X date we would expect the first draft of Day 1 lessons to be complete. Account for extra time attributed to unexpected issues and troubleshooting.
+4. At each weekly meeting assess and give feedback on the progress made since the last meeting.
 5. **Try to avoid spending more than ~5 hours on development without getting at least some feedback on it.** It can be very easy to spend too much time and go too far down a rabbit hole and bill too much time for development.
 
 
