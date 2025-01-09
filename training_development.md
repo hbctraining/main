@@ -56,9 +56,9 @@ When we are creating a course and we have an idea for each lesson, it is a good 
    - Footer
 5. Get approval from your collaborator on the framework before proceeding
 6. Flesh out draft materials by learning objective
-7. After completing a learning objective, show it to your colloborator for feedback
-8. Incorporate your collaborator's feedback and design initial drafts for any figures/GIFs/apps (guidelines below on these) that will be embedded in the materials
-9. Repeat steps 5-8 for each learning objective in a lesson
+7. Incorporate your collaborator's feedback and design initial drafts for any figures/GIFs/apps (guidelines below on these) that will be embedded in the materials
+8. Repeat steps 5-8 for each learning objective in a lesson
+9. After completing a learning objective, show it to your collaborator for feedback
 10. Have a third-party review your materials and provide feedback. The third-party should recognize that this is still in a draft state. Fixing typos, etc. is not the goal here but rather, does the flow make sense to them, is the lesson clear, does the assessment address the learning objective, etc.
 11. Incorporate third-party's feedback into the lesson
 12. Create more finished products for the figures/GIFs/apps as needed
@@ -74,6 +74,8 @@ When we are creating a course and we have an idea for each lesson, it is a good 
 This *can* be one of the most time-consuming parts of development. When designing our workshops, we want to be using publically available data. People outside of Harvard oftentimes use our resources and they need to be able to access the dataset via SRA/GEO. If we have toy datasets we should host them on Dropbox or GitHub (**Meeta we should make a verdict on this** Personally, I like having everything on GitHub, but sometimes there are file size issues with GitHub. Sometimes I get e-mails about access issue with people getting odds and even from Dropbox and that is annoying. I sort of feel like the policy should be GitHub if we can, but if File Size constricts us, then Dropbox?). 
 
 We also want to avoid to much unnecessary complexity to the data. What is the minimum number of samples we can trim the data down to and still be within best practices? Perhaps the experiment had multiple conditions, can we narrow the dataset to just case and control conditions? We don't want the complexity of the dataset to take away from the learning. 
+
+When trying to identify a dataset, it is recommended to work closely with Platforms as you can have them help you test run different datasets through Nextflow pipelines more easily.
 
 # Format
 
@@ -179,6 +181,8 @@ Figures that we create should follow some guidelines:
 
   If working from screenshots, make sure the interface is clean (i.e. hide the dock on Mac, clean up your Desktop, etc.)
 
+  Put a figure description underneath the figure to let the reader and instructor know what the take-home message is from a figure. Sometimes figures get put into a lesson and make sense to the person embeddding them, but it isn't quite so obvious to others.
+
 - *Attribution* - On the figures we develop, put "Harvard Chan Bioinformatics Core" in the bottom right corner. This builds attribution into a figure, so if someone uses our figure and forgets to attribute us, we are still attributed.
 
 - *Management* - It is encouraged to use Adobe Illustrator to create images. Please keep any images used in creating images, like screenshots, in the same folder as the Illustrator file (.ai) along with the final PNG/SVG image on Dropbox. 
@@ -187,6 +191,7 @@ Figures that we create should follow some guidelines:
 
 When using graphical user interfaces (GUIs) like IGV or FileZilla, it can be beneficial to supplement the text with GIFs rather than screenshots to show how to interact with the interface. When deciding to create a GIF, have these considerations:
 
+- **Is a GIF needed for this?** - While GIFs are great, they can be a bit time-consuming to make. GIFs can be great when working through menus, but is a screenshot will suffice then sometimes that is the better option.
 - **Is this GUI rather stable (i.e. IGV/RStudio/FileZilla)?** - Creating GIFs are more time-consuming than screenshots so if a tool is not in a stable state, it would likely be preferable to use screenshots over spending the time to create, and then inevitably re-create, the GIF
 - **Can I break this task into short segments?** - To work within the framework of High-Definition and not drop too many frames (less than about 12.5fps), you'll need to keep the final GIF to about 10 seconds or less in order for it to be small enough to upload to GitHub which has a 25MB file size limit.
 
