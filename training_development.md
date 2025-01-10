@@ -50,11 +50,23 @@ There will be circumstances where **custom code is created** for the workshop. C
 * In the GitHub repo, create a folder called 'scripts'. Here, you can place all code used in the workshop. Ideally, you would like a script for each lesson, but it can also be consolidated if there is not much code per lesson.
 
 ### 2. Setting a repo and proposed schedule
-Create a private repo in the [HBC GitHub account](https://github.com/hbctraining). Give it a meaningful workshop name and add description. Click the box to intialize the repo with a README file. 
+Create a private repo in the [HBC GitHub account](https://github.com/hbctraining). Give it a meaningful workshop name and add description. Click the box to intialize the repo with a README file. To make this a **custom GitHub Pages HTML** (in the same format that all of our training materials are rendered) you will need to follow instructions outlined on [this page](https://github.com/hbctraining/main/blob/master/GitHub_pages/Pages_documentation.md#edit-pages-settings).
+
+Once the repo is set up, you will need to set up the README page. You may not have details for all sections, but it is good to set up a skeleton draft that you can always come back to you as you develop the workshop. The main headers include:
+
+* Title of workshop (H1)
+* A table with Audience, Computational skills required, and Duration
+* Workshop description
+* Learning objectives for the workshop
+   * Work through these with the team. It's good to have a shared understanding of what it is that you hope participants get out of this workshop. There is more on Learning Objectives described later in these guidelines.
+* Lessons: Include two links in bullet points. One to the workshop schedule page, another to the self-learning links.
+* Installation requirements
+
+Finally, be sure to include Zenodo citation at the end (we need to come up with a protovol for this), and an attribution footer.
 
 
 ### 3. Timeline and Milestones
-When we work as a team on materials development, we need to explicitly lay out an overarching timeline for the project at the beginning with ample cushion time built-in. **Work backwards from the proposed date of workshop.** If there is not enough time, consider moving the workshop date.
+When we work as a team on materials development, we need to explicitly lay out an overarching timeline for the project at the beginning with ample cushion time built-in. **Work backwards from one week prior to the proposed date of workshop.** If there is not enough time, consider moving the workshop date.
 
 **How many weeks is reasonable?** Discussion point.
 
@@ -66,8 +78,8 @@ Once the timeline is established:
 4. At each weekly meeting assess and give feedback on the progress made since the last meeting.
 5. **Try to avoid spending more than ~5 hours on development without getting at least some feedback on it.** It can be very easy to spend too much time and go too far down a rabbit hole and bill too much time for development.
 
-
-When we are creating a course and we have an idea for each lesson, it is a good idea to work within this framework:
+### 4. Creating a lesson
+This is the suggested framework for creating a lesson.
 
 1. Identify your Learning Objectives or atleast a draft of what you want them to be
 2. Draft a rough idea of your assessments for those Learning Objectives
