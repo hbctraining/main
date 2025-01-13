@@ -62,7 +62,7 @@ Once the repo is set up, you will need to set up the README page. You may not ha
 * Lessons: Include two links in bullet points. One to the workshop schedule page, another to the self-learning links.
 * Installation requirements
 
-Finally, be sure to include Zenodo citation at the end (we need to come up with a protovol for this), and an attribution footer.
+Finally, be sure to include Zenodo citation at the end (we need to come up with a protocol for this), and an attribution footer.
 
 
 ### 3. Timeline and Milestones
@@ -81,9 +81,37 @@ Once the timeline is established:
 ### 4. Creating a lesson
 This is the suggested framework for creating a lesson.
 
-1. Identify your Learning Objectives or atleast a draft of what you want them to be
-2. Draft a rough idea of your assessments for those Learning Objectives
-3. Create a framework of the lesson. This framework should be very minimalistic in content but still contain:
+**1.** Identify your **Learning Objectives** and draft a rough idea of your **assessments for those Learning Objectives**
+
+It is critical that learning objectives are:
+
+- *Measurable* - It is critical that you can assess whether a learning objective has been achieved
+- *Specific* - Focus on what we are specifically aiming for participants to get out of the lesson
+- *Achievable* - Participants can accomplish the learning objective given the resources in the lesson
+
+You will likely find that this **might be one of the more difficult parts of the lesson to develop**, but it will provide guidance for how you develop the lesson. When you are developing learning objectives, consider where on _Bloom's Taxonomy_ (see below) you are aiming for workshop participants to be reaching. Not all learning objectives for the lesson need to be at the higher levels of Bloom's taxonomy. A variety can be beneficial and also is probably an accurate reflection of the level our materials should be taught at. For example, we likely won't ask participants to "Construct a read alignment algorithm", but being able to "Paraphrase or identify key steps in the read alignment process" is likely a more reasonable expectation.
+
+<p align="center">
+<img src="img/blooms_taxonomy.png" width="450">
+</p>
+
+*Image from https://tigerlearn.fhsu.edu/the-revised-blooms-taxonomy-as-a-framework-for-writing-learning-objectives/*
+
+Try to pick a verb that is going to pair well with the level in Bloom's Taxonomy you are hoping participants will reach _AND_ with your assessment. For example, if your Learning Objective is "Identify the key steps in bwa's read alignment algorithm" then the assessment should be something like "Which of these steps are part of bwa's read alignment algorithm" and not something like "Compare bwa and HISAT2's read alignment algorithms". 
+
+Picking the right verb for your learning objective can be really helpful for creating your assessment of that learning objective. Below is a great table of more verbs associated with each level of Bloom's Taxonomy.
+
+<p align="center">
+<img src="img/Blooms-Taxonomy-Verbs.png" width="500">
+</p>
+
+*Image from https://www.learningeverest.com/blooms-taxonomy-decoded/*
+
+Boston College also has a nice [webpage](https://cteresources.bc.edu/documentation/learning-objectives/) on creating learning objectives.
+
+
+
+**3**. Create a **framework of the lesson**. In the repositiory you will have a `lessons folder` which will contain a mardkown (.md file) for each lesson. This framework should be very minimalistic in content but still contain:
    - Learning objectives
    - YAML
    - Headings
@@ -146,33 +174,7 @@ Approximate time: XX minutes
 
 Also, include a cutdown workflow image to show particiapnts where they are in the workflow process.
 
-## Learning Objectives
 
-The next section we need to add is arguably one of the most important sections in our layout, the Learning Objectives. It is critical that learning objectives are:
-
-- *Measurable* - It is critical that you can assess whether a learning objective has been achieved
-- *Specific* - Focus on what we are specifically aiming for participants to get out of the lesson
-- *Achievable* - Participants can accomplish the learning objective given the resources in the lesson
-
-You will likely find that this might be one of the more difficult parts of the lesson to develop, but it can be a great guide for how you develop the lesson. When you are developing learning objectives, consider where on Bloom's Taxonomy (see below) you are aiming for workshop participants to be reaching. Not all learning objectives for the lesson need to be at the higher levels of Bloom's taxonomy. A variety can be beneficial and also is probably an accurate reflection of the level our materials should be taught at. For example, we likely won't ask participants to "Construct a read alignment algorithm", but being able to "Paraphrase or identify key steps in the read alignment process" is likely a more reasonable expectation.
-
-<p align="center">
-<img src="img/blooms_taxonomy.png" width="600">
-</p>
-
-*Image from https://tigerlearn.fhsu.edu/the-revised-blooms-taxonomy-as-a-framework-for-writing-learning-objectives/*
-
-When creating a Learning Objective, try to pick a verb that is going to pair well with the level in Bloom's Taxonomy you are hoping participants will reach _AND_ with your assessment. For example, if your Learning Objective is "Identify the key steps in bwa's read alignment algorithm" then the assessment should be something like "Which of these steps are part of bwa's read alignment algorithm" and not something like "Compare bwa and HISAT2's read alignment algorithms". 
-
-Picking the right verb for your learning objective can be really helpful for creating your assessment of that learning objective. Below is a great table of more verbs associated with each level of Bloom's Taxonomy.
-
-<p align="center">
-<img src="img/Blooms-Taxonomy-Verbs.png" width="800">
-</p>
-
-*Image from https://www.learningeverest.com/blooms-taxonomy-decoded/*
-
-Boston College has a nice [webpage](https://cteresources.bc.edu/documentation/learning-objectives/) on learning objectives.
 
 ## Content
 
