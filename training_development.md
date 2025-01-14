@@ -52,7 +52,7 @@ There will be circumstances where **custom code is created** for the workshop. C
 ### 2. Setting a repo and proposed schedule
 Create a private repo in the [HBC GitHub account](https://github.com/hbctraining). Give it a meaningful workshop name and add description. Click the box to intialize the repo with a README file. To make this a **custom GitHub Pages HTML** (in the same format that all of our training materials are rendered) you will need to follow instructions outlined on [this page](https://github.com/hbctraining/main/blob/master/GitHub_pages/Pages_documentation.md#edit-pages-settings).
 
-Once the repo is set up, you will need to set up the README page. You may not have details for all sections, but it is good to set up a skeleton draft that you can always come back to you as you develop the workshop. The main headers include:
+Once the repo is set up, you will need to **set up the workshop README page**. You may not have details for all sections, but it is good to set up a skeleton draft that you can always come back to you as you develop the workshop. The main headers include:
 
 * Title of workshop (H1)
 * A table with Audience, Computational skills required, and Duration
@@ -62,7 +62,11 @@ Once the repo is set up, you will need to set up the README page. You may not ha
 * Lessons: Include two links in bullet points. One to the workshop schedule page, another to the self-learning links.
 * Installation requirements
 
-Finally, be sure to include Zenodo citation at the end (we need to come up with a protocol for this), and an attribution footer.
+You can **create folders** at this point or do it as you need them. Some examples include `lessons`, `schedule`, `data` and `scripts`.
+
+It is a good idea to hash out a **proposed schedule** for the workshop. You may want to do this in a shared Google doc at first. This way you can take notes on what would be contained in each lesson, jot notes on whether or not it would be in-class or self-learning.
+
+_Finally, be sure to include Zenodo citation at the end (we need to come up with a protocol for this) with the RRID, and an attribution footer._
 
 
 ### 3. Timeline and Milestones
@@ -81,7 +85,9 @@ Once the timeline is established:
 ### 4. Creating a lesson
 This is the suggested framework for creating a lesson.
 
-**1.** Identify your **Learning Objectives** and draft a rough idea of your **assessments for those Learning Objectives**
+#### 4.1. Learning objectives and Assessments
+
+Identify your **Learning Objectives** and draft a rough idea of your **assessments for those Learning Objectives**
 
 It is critical that learning objectives are:
 
@@ -110,35 +116,9 @@ Picking the right verb for your learning objective can be really helpful for cre
 Boston College also has a nice [webpage](https://cteresources.bc.edu/documentation/learning-objectives/) on creating learning objectives.
 
 
+#### 4.2 Framework of the lesson
 
-**3**. Create a **framework of the lesson**. In the repositiory you will have a `lessons folder` which will contain a mardkown (.md file) for each lesson. This framework should be very minimalistic in content but still contain:
-   - Learning objectives
-   - YAML
-   - Headings
-   - Subheadings
-   - Psuedocode of what the participants for the workshop will be doing (don't worry about the exact code or parameters at this point unless you are just copy-and-pasting them from somewhere, but something like `bwa align to mm10 reference` is fine
-   - Drafts of exercies/assessments, these don't need to be final and it could be something like `have participants run FASTQC on sample 2`
-   - Text where image will go describing it like `image showing the pseudobulk process`. If you know this image exists and we already have developed it somewhere, feel free to embed it but don't create any images at this point
-   - Navigation buttons, but don't link them to any pages yet as names will likely change
-   - Footer
-5. Get approval from your collaborator on the framework before proceeding
-6. Flesh out draft materials by learning objective
-7. Incorporate your collaborator's feedback and design initial drafts for any figures/GIFs/apps (guidelines below on these) that will be embedded in the materials
-8. Repeat steps 5-8 for each learning objective in a lesson
-9. After completing a learning objective, show it to your collaborator for feedback
-10. Have a third-party review your materials and provide feedback. The third-party should recognize that this is still in a draft state. Fixing typos, etc. is not the goal here but rather, does the flow make sense to them, is the lesson clear, does the assessment address the learning objective, etc.
-11. Incorporate third-party's feedback into the lesson
-12. Create more finished products for the figures/GIFs/apps as needed
-13. First pass at polish on the lesson. Try tidying the lesson up, fixing typos, checking links, making sure things are rendering correctly in the HTML
-14. Third-party polish. This is the final polish for a lesson, the final polisher must:
-    - Run all of the code to ensure it works
-    - Work from the HTML page to ensure renderings are correct
-    - Address any typos they see
-    - Check each link to ensure they work
-
-
-
-# Format
+In the repository you will have a `lessons` folder which will contain a markdown (.md file) for each lesson. You can create all skeleton lessons based on the schedule, or you can create them as you work on the lesson. This framework should be very minimalistic in content.
 
 The general format of the page should be:
 
@@ -147,12 +127,36 @@ The general format of the page should be:
 3. Learning Objectives
 4. Brief introduction including the step in workflow image
 5. Content
-6. Navigation buttons to the "Next Lesson" and "Back to Schedule"
-7. License Footer
+   * Headings
+   * Subheadings
+   * Pseudocode of what the participants for the workshop will be doing (don't worry about the exact code or parameters at this point unless you are just copy-and-pasting them from somewhere, but something like "bwa align to mm10 reference" is fine)
+   * Drafts of exercises/assessments, these don't need to be final and it could be something like "have participants run FASTQC on sample 2"
+   * Text where image will go describing it like "image showing the pseudobulk process". If you know this image exists and we already have developed it somewhere, feel free to embed it but don't create any images at this point
+7. Navigation buttons to the "Next Lesson" and "Back to Schedule"; but don't link them to any pages yet as names will likely change
+8. License Footer
+
+Get approval from your collaborator(s) on the framework before proceeding.
+
+#### 4.3 Filling in the lesson
+The next few steps of creating the lesson are outlined below:
+
+1. Begin to flesh out skeleton lesson by adding in content for each learning objective. Be sure to explain to define new concepts, give analogies where possible and be sure to include citations where material is take from another source.
+2. Incorporate your collaborator's feedback and design initial drafts for any figures/GIFs/apps (guidelines below on these) that will be embedded in the materials
+3. After completing a learning objective, show it to your collaborator for feedback
+4. Once a first draft of the lesson is complete, have a third-party review your materials and provide feedback. The third-party should recognize that this is still in a draft state. Fixing typos, etc. is not the goal here but rather, does the flow make sense to them, is the lesson clear, does the assessment address the learning objective, etc.
+5. Incorporate third-party's feedback into the lesson
+6. Create more finished products for the figures/GIFs/apps as needed, and try tidying the lesson up, fixing typos, checking links, making sure things are rendering correctly in the HTML
+7. Third-party polish. This is the final polish for a lesson, the final polisher must:
+    - Run all of the code to ensure it works
+    - Work from the HTML page to ensure renderings are correct
+    - Address any typos they see
+    - Check each link to ensure they work
 
 
-## YAML
-The top of the page should have a YAML that contains some metadat for the page and looks like:
+Below, we elaborate on specific concepts described when creating the lessson.
+
+### YAML
+The top of the page should have a YAML that contains some metadata for the page and looks like:
 
 ```
 ---
@@ -162,9 +166,8 @@ date: "Date"
 ---
 ```
 
-## Additional documentation
-
-Next add a list of contributing authors and the approximate time the lesson should take to complete. It may feel difficult to estimate a time when starting, but even estimating a time can help give you a framework to try to work within. When someone reviews the materials, it can be a good idea for them to update that approximate time if need be.
+### Additional documentation
+This section includes a list of contributing authors and the approximate time the lesson should take to complete. It may feel difficult to estimate a time when starting, but even estimating a time can help give you a framework to try to work within. When someone reviews the materials, it can be a good idea for them to update that approximate time if need be.
 
 ```
 Contributors: List of contributing authors
@@ -175,14 +178,8 @@ Approximate time: XX minutes
 Also, include a cutdown workflow image to show particiapnts where they are in the workflow process.
 
 
-
-## Content
-
-Below we have outlines for the different formats of content we will find in our lessons. As you develop material, aim to get a good blend of formats. 
-
 ### Text
-
-Text is important for conveying ideas, but long paragraphs and text-heavy lessons can be diificult for retaining participants' attention. Major ideas should be stated in text, but they can also be supplmented by:
+Text is important for conveying ideas, but long paragraphs and text-heavy lessons can be diificult for retaining participants' attention. Major ideas should be stated in text, but they can also be supplemented by:
 
 - Images
 - GIFs
@@ -193,8 +190,9 @@ Text is important for conveying ideas, but long paragraphs and text-heavy lesson
 You can also break-up paragraphs by using bullet points when you are listing anything. This creates a more diversive set of visuals for the reader and also it oftentimes more difficult to teach material that is in paragraph form as opposed to other mediums. A good rule of thumb (but not a hard rule) is to try to avoid more than 2 consecutive paragraphs of text. 
 
 ### Images
+Images are an integral part of conveying information in conjunction with text. 
 
-Images are an integral part of conveying information in conjunction with text. Considerations for images:
+Considerations for images:
 
 **Does the perfect figure already exist somewhere else?**
 
@@ -210,17 +208,17 @@ Figures that we create should follow some guidelines:
 
 - *Clarity* - **Each figure should try to convey a single takeaway point.** Only include details relevant for the point we are trying to convey with an image. We can make multiple images for different points. Try to avoid cramming an image with too many details it can be distracting and lose sight of the overall goal.
 
-  Be sure to label the axes on any plots.
+* Be sure to label the axes on any plots.
 
-  Use colorblind-friendly color palettes when creating figures.
+* Use colorblind-friendly color palettes when creating figures.
 
-  If working from screenshots, make sure the interface is clean (i.e. hide the dock on Mac, clean up your Desktop, etc.)
+* If working from screenshots, make sure the interface is clean (i.e. hide the dock on Mac, clean up your Desktop, etc.)
 
-  Put a figure description underneath the figure to let the reader and instructor know what the take-home message is from a figure. Sometimes figures get put into a lesson and make sense to the person embeddding them, but it isn't quite so obvious to others.
+* Put a figure description underneath the figure to let the reader and instructor know what the take-home message is from a figure. Sometimes figures get put into a lesson and make sense to the person embeddding them, but it isn't quite so obvious to others.
 
-- *Attribution* - On the figures we develop, put "Harvard Chan Bioinformatics Core" in the bottom right corner. This builds attribution into a figure, so if someone uses our figure and forgets to attribute us, we are still attributed.
+* *Attribution* - On the figures we develop, put "Harvard Chan Bioinformatics Core" in the bottom right corner. This builds attribution into a figure, so if someone uses our figure and forgets to attribute us, we are still attributed.
 
-- *Management* - It is encouraged to use Adobe Illustrator to create images. Please keep any images used in creating images, like screenshots, in the same folder as the Illustrator file (.ai) along with the final PNG/SVG image on Dropbox. 
+* *Management* - It is encouraged to use Adobe Illustrator to create images. Please keep any images used in creating images, like screenshots, in the same folder as the Illustrator file (.ai) along with the final PNG/SVG image on Dropbox. 
 
 ### GIFs
 
@@ -280,7 +278,7 @@ GitHub Markdown does not accomodate iframe, but this will be visualized on the H
 
 Sometimes not all of the content that is developed is 100% relevant to the workshop, but could be for people with slightly different data, addresses outdated approaches or provides alternative analytical approaches. When we come to these "Extra details" we have two approaches, Dropdowns and Linking Out.
 
-#### Dropdowns
+### Dropdowns
 
 Oftentimes you will come across places where there are two reasonable approaches to a task or want to provide more information on that is not critical for participant's immediate success, but is still information that people might like to have. If brief, these are a great place to use a dropdown. The syntax for these dropdowns look like:
 
@@ -304,11 +302,11 @@ Also, be aware that some special characters like <, >, &, ', ", # can give wonky
 
 Always check the output in the HTML Page to make sure that it hasn't created problems for the rest of your Markdown.
 
-#### Linking Out
+### Linking Out
 
 If there is enough content to flesh out a supplemental GitHub page, then this is too much content for a dropdown. You can make a new Markdown page for this content and link out to it from the current Markdown. Before creating a linked out page of additional content, be sure to consult with your collaborator and Meeta to make sure that this content is important enough to create this page AND will still allow us to stay within out time budget.
 
-## Footer
+### Footer
 
 All of the pages need to have the following footer:
 
