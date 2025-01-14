@@ -133,7 +133,7 @@ The general format of the page should be:
    * Drafts of exercises/assessments, these don't need to be final and it could be something like "have participants run FASTQC on sample 2"
    * Text where image will go describing it like "image showing the pseudobulk process". If you know this image exists and we already have developed it somewhere, feel free to embed it but don't create any images at this point
 7. Navigation buttons to the "Next Lesson" and "Back to Schedule"; but don't link them to any pages yet as names will likely change
-8. License Footer
+8. [License Footer](#footer)
 
 Get approval from your collaborator(s) on the framework before proceeding.
 
