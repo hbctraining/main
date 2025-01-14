@@ -1,14 +1,23 @@
 # Training Development Guidelines
 
-This is a guide to help create continuity across our training materials. It is a living document and will try to be maintained to the best of our ability.
+This is a guide to help create continuity across our training materials. It is a living document and will try to be maintained to the best of our ability. Contributions from team members are welcomed and encouraged.
 
-# Course Design Philosophy
+## Working as a team
 
-## Backward Design
+When working on developing course materials, if can be helpful to work as a team. What we have found when people work alone on material development is that it can be isolating and daunting. Working as a team has a few advantages over solo course development:
+
+1. Spreads the course development workload
+2. Gives you a sounding board for ideas
+3. Helps keep the development on track with someone else holding you accountable
+4. Gives a different perspective on material
+5. More fun to be doing it with someone else
+
+
+## Course Design Philosophy
 
 "Traditional" course design is often regarded as a process through which the instructor develops materials and then uses the principles from those materials to create an assessment. The "downfall" of this strategy is that it can result in teaching things that aren't assessed and can sometimes feel a bit meandering in the learning. 
 
-Backward Design principles are a set of principles for course design which focus on how students will be assessed and then work to develop materials that align with those assessment goals. When we apply backward design principles in our course development it should follow these steps:
+**Backward Design** principles are a set of principles for course design which **focus on how students will be assessed and then work to develop materials that align with those assessment goals**. When we apply backward design principles in our course development it should follow these steps:
 
 1. Identify what goals we want participants to accomplish
 2. Create an assessments that will certify that the goals was obtained
@@ -18,80 +27,136 @@ When you are planning a workshop or a lesson it can be really helpful to develop
 
 Vanderbilt has a nice [webpage](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/) on Backward Design.
 
-## Working as a team
 
-When working on developing course materials, if can be helpful to work as a team. This has a few advantages over solo course development:
-
-1. Spreads the course development workload
-2. Gives you a sounding board for ideas
-3. Helps keep the development on track with someone else holding you accountable
-4. Gives a different perspective on material
-5. More fun to be doing it with someone else
-
-What we have found when people work alone on material development is that it can be isolating and daunting. Also, when you are working alone, you oftentimes lack someone to hold you accountable and you sometimes will develop too much materials on one area and not enough in other areas.
-
-When we work as a team on materials development, we need to:
-
-1. Explicitly lay out an overarching timeline for the project at the beginning with ample cushion time built-in
-2. Create sub-timelines for each week or two weeks of development
-3. Create time budgets for certain tasks so that everyone has clear expectations on the expected timeframe is and there can be a discussion if more time is needed and why
-4. Assess and give feedback on the progress made since the last meeting
-5. **Try to avoid spending more than ~5 hours on development without getting at least some feedback on it.** It can be very easy to spend too much time and go too far down a rabbit hole and bill too much time for development.
 
 ## Phases of design
 
-When we are creating a course and we have an idea for each lesson, it is a good idea to work within this framework:
+### 1. Identifying a dataset
 
-1. Identify your Learning Objectives or atleast a draft of what you want them to be
-2. Draft a rough idea of your assessments for those Learning Objectives
-3. Create a framework of the lesson. This framework should be very minimalistic in content but still contain:
-   - Learning objectives
-   - YAML
-   - Headings
-   - Subheadings
-   - Psuedocode of what the participants for the workshop will be doing (don't worry about the exact code or parameters at this point unless you are just copy-and-pasting them from somewhere, but something like `bwa align to mm10 reference` is fine
-   - Drafts of exercies/assessments, these don't need to be final and it could be something like `have participants run FASTQC on sample 2`
-   - Text where image will go describing it like `image showing the pseudobulk process`. If you know this image exists and we already have developed it somewhere, feel free to embed it but don't create any images at this point
-   - Navigation buttons, but don't link them to any pages yet as names will likely change
-   - Footer
-5. Get approval from your collaborator on the framework before proceeding
-6. Flesh out draft materials by learning objective
-7. Incorporate your collaborator's feedback and design initial drafts for any figures/GIFs/apps (guidelines below on these) that will be embedded in the materials
-8. Repeat steps 5-8 for each learning objective in a lesson
-9. After completing a learning objective, show it to your collaborator for feedback
-10. Have a third-party review your materials and provide feedback. The third-party should recognize that this is still in a draft state. Fixing typos, etc. is not the goal here but rather, does the flow make sense to them, is the lesson clear, does the assessment address the learning objective, etc.
-11. Incorporate third-party's feedback into the lesson
-12. Create more finished products for the figures/GIFs/apps as needed
-13. First pass at polish on the lesson. Try tidying the lesson up, fixing typos, checking links, making sure things are rendering correctly in the HTML
-14. Third-party polish. This is the final polish for a lesson, the final polisher must:
+This *can* be one of the most time-consuming parts of development. When designing our workshops, we want to be using publically available data. People outside of Harvard oftentimes use our resources and they need to be able to access the dataset via SRA/GEO. In the past we have used data from studies where the training team members have been involved in the analysis and are co-authors, so there is a good depth of knowledge on it.
+
+We also want to avoid to much unnecessary complexity to the data. Choose a dataset with at least three replicates and at least two sample classes. If there are many group, can we narrow the dataset to just case and control conditions or that which we need for the workshop? We don't want the complexity of the dataset to take away from the learning. _Obtain all metadata information for samples used in the study._
+
+When trying to identify a dataset, it is recommended to work closely with Platforms as you can have them help you test run different datasets through Nextflow pipelines more easily.
+
+Once we have the dataset, it is good practice to **run it through the workflow** we are teaching. This can be done in partnership with the [Platforms](https://hbc.github.io/Platform/) group members. Our goal is to train researchers using the best practices established within HBC, and therefore we should have a pipleine or code set up to do much of what we are teaching. If results do not pan out, or there are issues with the dataset we may want to consider using a different dataset.
+
+There will be circumstances where **custom code is created** for the workshop. Create reproducible shell scripts or Rmd files which walk through the code and interpretation of results. _Do not begin development until we know that the code is running, and we are happy with the results._
+
+**Where do we put the data and the code?**
+
+* Large datasets can be placed on O2 in `/n/groups/hbctraining`. You will want to create a folder for the workshop and setup a basic organization that is easy to navigate. Let management know if you need access to the group folder or the space has reached it's quota for storage.
+* If we have toy datasets (i.e for Intro to Shell) we should host them on Dropbox and/or GitHub. If on DropBox, it can be put in `Teaching/Courses/workshop_data`. If in the GitHub repo, place it in a `data` folder. Ideally it is good to have everything on GitHub, but sometimes there are file size issues with GitHub. First try for GitHub if we can, but if file size constricts us, then Dropbox.
+* In the GitHub repo, create a folder called 'scripts'. Here, you can place all code used in the workshop. Ideally, you would like a script for each lesson, but it can also be consolidated if there is not much code per lesson.
+
+### 2. Setting a repo and proposed schedule
+Create a private repo in the [HBC GitHub account](https://github.com/hbctraining). Give it a meaningful workshop name and add description. Click the box to intialize the repo with a README file. To make this a **custom GitHub Pages HTML** (in the same format that all of our training materials are rendered) you will need to follow instructions outlined on [this page](https://github.com/hbctraining/main/blob/master/GitHub_pages/Pages_documentation.md#edit-pages-settings).
+
+Once the repo is set up, you will need to **set up the workshop README page**. You may not have details for all sections, but it is good to set up a skeleton draft that you can always come back to you as you develop the workshop. The main headers include:
+
+* Title of workshop (H1)
+* A table with Audience, Computational skills required, and Duration
+* Workshop description
+* Learning objectives for the workshop
+   * Work through these with the team. It's good to have a shared understanding of what it is that you hope participants get out of this workshop. There is more on Learning Objectives described later in these guidelines.
+* Lessons: Include two links in bullet points. One to the workshop schedule page, another to the self-learning links.
+* Installation requirements
+
+You can **create folders** at this point or do it as you need them. Some examples include `lessons`, `schedule`, `data` and `scripts`.
+
+It is a good idea to hash out a **proposed schedule** for the workshop. You may want to do this in a shared Google doc at first. This way you can take notes on what would be contained in each lesson, jot notes on whether or not it would be in-class or self-learning.
+
+_Finally, be sure to include Zenodo citation at the end (we need to come up with a protocol for this) with the RRID, and an attribution footer._
+
+
+### 3. Timeline and Milestones
+When we work as a team on materials development, we need to explicitly lay out an overarching timeline for the project at the beginning with ample cushion time built-in. **Work backwards from one week prior to the proposed date of workshop.** If there is not enough time, consider moving the workshop date.
+
+**How many weeks is reasonable?** Discussion point.
+
+Once the timeline is established:
+
+1. Assign tasks for each week and estimate the hours required to accomplish each task, so it is clear to everyone working on the development project. Set reasonable expectations such that the tasks can be feasibly completed within the timeframe. 
+2. Set up 30 minute standing meetings for each week. It is not mandatory to meet every week, but there should be a slot available in case there are things to be discussed. 
+3. Create milestones for a general completion of certain things. For example, by X date we would expect the first draft of Day 1 lessons to be complete. Account for extra time attributed to unexpected issues and troubleshooting.
+4. At each weekly meeting assess and give feedback on the progress made since the last meeting.
+5. **Try to avoid spending more than ~5 hours on development without getting at least some feedback on it.** It can be very easy to spend too much time and go too far down a rabbit hole and bill too much time for development.
+
+### 4. Creating a lesson
+This is the suggested framework for creating a lesson.
+
+#### 4.1. Learning objectives and Assessments
+
+Identify your **Learning Objectives** and draft a rough idea of your **assessments for those Learning Objectives**
+
+It is critical that learning objectives are:
+
+- *Measurable* - It is critical that you can assess whether a learning objective has been achieved
+- *Specific* - Focus on what we are specifically aiming for participants to get out of the lesson
+- *Achievable* - Participants can accomplish the learning objective given the resources in the lesson
+
+You will likely find that this **might be one of the more difficult parts of the lesson to develop**, but it will provide guidance for how you develop the lesson. When you are developing learning objectives, consider where on _Bloom's Taxonomy_ (see below) you are aiming for workshop participants to be reaching. Not all learning objectives for the lesson need to be at the higher levels of Bloom's taxonomy. A variety can be beneficial and also is probably an accurate reflection of the level our materials should be taught at. For example, we likely won't ask participants to "Construct a read alignment algorithm", but being able to "Paraphrase or identify key steps in the read alignment process" is likely a more reasonable expectation.
+
+<p align="center">
+<img src="img/blooms_taxonomy.png" width="450">
+</p>
+
+*Image from https://tigerlearn.fhsu.edu/the-revised-blooms-taxonomy-as-a-framework-for-writing-learning-objectives/*
+
+Try to pick a verb that is going to pair well with the level in Bloom's Taxonomy you are hoping participants will reach _AND_ with your assessment. For example, if your Learning Objective is "Identify the key steps in bwa's read alignment algorithm" then the assessment should be something like "Which of these steps are part of bwa's read alignment algorithm" and not something like "Compare bwa and HISAT2's read alignment algorithms". 
+
+Picking the right verb for your learning objective can be really helpful for creating your assessment of that learning objective. Below is a great table of more verbs associated with each level of Bloom's Taxonomy.
+
+<p align="center">
+<img src="img/Blooms-Taxonomy-Verbs.png" width="500">
+</p>
+
+*Image from https://www.learningeverest.com/blooms-taxonomy-decoded/*
+
+Boston College also has a nice [webpage](https://cteresources.bc.edu/documentation/learning-objectives/) on creating learning objectives.
+
+
+#### 4.2 Framework of the lesson
+
+In the repository you will have a `lessons` folder which will contain a markdown (.md file) for each lesson. You can create all skeleton lessons based on the schedule, or you can create them as you work on the lesson. This framework should be very minimalistic in content.
+
+The general format of the page should be:
+
+1. [YAML](#yaml)
+2. [Additional documentation](#additional-documentation)
+3. Learning Objectives
+4. Brief introduction including the step in workflow image
+5. Content
+   * Headings
+   * Subheadings
+   * Pseudocode of what the participants for the workshop will be doing (don't worry about the exact code or parameters at this point unless you are just copy-and-pasting them from somewhere, but something like "bwa align to mm10 reference" is fine)
+   * Drafts of exercises/assessments, these don't need to be final and it could be something like "have participants run FASTQC on sample 2"
+   * Text where image will go describing it like "image showing the pseudobulk process". If you know this image exists and we already have developed it somewhere, feel free to embed it but don't create any images at this point
+7. Navigation buttons to the "Next Lesson" and "Back to Schedule"; but don't link them to any pages yet as names will likely change
+8. [License Footer](#footer)
+
+Get approval from your collaborator(s) on the framework before proceeding.
+
+#### 4.3 Filling in the lesson
+The next few steps of creating the lesson are outlined below:
+
+1. Begin to flesh out skeleton lesson by adding in content for each learning objective. Be sure to explain to define new concepts, give analogies where possible and be sure to include citations where material is take from another source.
+2. Incorporate your collaborator's feedback and design initial drafts for any figures/GIFs/apps (guidelines below on these) that will be embedded in the materials
+3. After completing a learning objective, show it to your collaborator for feedback
+4. Once a first draft of the lesson is complete, have a third-party review your materials and provide feedback. The third-party should recognize that this is still in a draft state. Fixing typos, etc. is not the goal here but rather, does the flow make sense to them, is the lesson clear, does the assessment address the learning objective, etc.
+5. Incorporate third-party's feedback into the lesson
+6. Create more finished products for the [figures/GIFs/apps](#text) as needed, and try tidying the lesson up, fixing typos, checking links, making sure things are rendering correctly in the HTML
+7. Third-party polish. This is the final polish for a lesson, the final polisher must:
     - Run all of the code to ensure it works
     - Work from the HTML page to ensure renderings are correct
     - Address any typos they see
     - Check each link to ensure they work
 
-# Identifying a dataset
 
-This *can* be one of the most time-consuming parts of development. When designing our workshops, we want to be using publically available data. People outside of Harvard oftentimes use our resources and they need to be able to access the dataset via SRA/GEO. If we have toy datasets we should host them on Dropbox or GitHub (**Meeta we should make a verdict on this** Personally, I like having everything on GitHub, but sometimes there are file size issues with GitHub. Sometimes I get e-mails about access issue with people getting odds and even from Dropbox and that is annoying. I sort of feel like the policy should be GitHub if we can, but if File Size constricts us, then Dropbox?). 
+Below, we elaborate on specific concepts described when creating the lessson.
 
-We also want to avoid to much unnecessary complexity to the data. What is the minimum number of samples we can trim the data down to and still be within best practices? Perhaps the experiment had multiple conditions, can we narrow the dataset to just case and control conditions? We don't want the complexity of the dataset to take away from the learning. 
-
-When trying to identify a dataset, it is recommended to work closely with Platforms as you can have them help you test run different datasets through Nextflow pipelines more easily.
-
-# Format
-
-The general format of the page should be:
-
-1. YAML
-2. Additional documentation
-3. Learning Objectives
-4. Brief introduction including the step in workflow image
-5. Content
-6. Navigation buttons to the "Next Lesson" and "Back to Schedule"
-7. License Footer
-
-
-## YAML
-The top of the page should have a YAML that contains some metadat for the page and looks like:
+### YAML
+The top of the page should have a YAML that contains some metadata for the page and looks like:
 
 ```
 ---
@@ -101,9 +166,8 @@ date: "Date"
 ---
 ```
 
-## Additional documentation
-
-Next add a list of contributing authors and the approximate time the lesson should take to complete. It may feel difficult to estimate a time when starting, but even estimating a time can help give you a framework to try to work within. When someone reviews the materials, it can be a good idea for them to update that approximate time if need be.
+### Additional documentation
+This section includes a list of contributing authors and the approximate time the lesson should take to complete. It may feel difficult to estimate a time when starting, but even estimating a time can help give you a framework to try to work within. When someone reviews the materials, it can be a good idea for them to update that approximate time if need be.
 
 ```
 Contributors: List of contributing authors
@@ -113,41 +177,9 @@ Approximate time: XX minutes
 
 Also, include a cutdown workflow image to show particiapnts where they are in the workflow process.
 
-## Learning Objectives
-
-The next section we need to add is arguably one of the most important sections in our layout, the Learning Objectives. It is critical that learning objectives are:
-
-- *Measurable* - It is critical that you can assess whether a learning objective has been achieved
-- *Specific* - Focus on what we are specifically aiming for participants to get out of the lesson
-- *Achievable* - Participants can accomplish the learning objective given the resources in the lesson
-
-You will likely find that this might be one of the more difficult parts of the lesson to develop, but it can be a great guide for how you develop the lesson. When you are developing learning objectives, consider where on Bloom's Taxonomy (see below) you are aiming for workshop participants to be reaching. Not all learning objectives for the lesson need to be at the higher levels of Bloom's taxonomy. A variety can be beneficial and also is probably an accurate reflection of the level our materials should be taught at. For example, we likely won't ask participants to "Construct a read alignment algorithm", but being able to "Paraphrase or identify key steps in the read alignment process" is likely a more reasonable expectation.
-
-<p align="center">
-<img src="img/blooms_taxonomy.png" width="600">
-</p>
-
-*Image from https://tigerlearn.fhsu.edu/the-revised-blooms-taxonomy-as-a-framework-for-writing-learning-objectives/*
-
-When creating a Learning Objective, try to pick a verb that is going to pair well with the level in Bloom's Taxonomy you are hoping participants will reach _AND_ with your assessment. For example, if your Learning Objective is "Identify the key steps in bwa's read alignment algorithm" then the assessment should be something like "Which of these steps are part of bwa's read alignment algorithm" and not something like "Compare bwa and HISAT2's read alignment algorithms". 
-
-Picking the right verb for your learning objective can be really helpful for creating your assessment of that learning objective. Below is a great table of more verbs associated with each level of Bloom's Taxonomy.
-
-<p align="center">
-<img src="img/Blooms-Taxonomy-Verbs.png" width="800">
-</p>
-
-*Image from https://www.learningeverest.com/blooms-taxonomy-decoded/*
-
-Boston College has a nice [webpage](https://cteresources.bc.edu/documentation/learning-objectives/) on learning objectives.
-
-## Content
-
-Below we have outlines for the different formats of content we will find in our lessons. As you develop material, aim to get a good blend of formats. 
 
 ### Text
-
-Text is important for conveying ideas, but long paragraphs and text-heavy lessons can be diificult for retaining participants' attention. Major ideas should be stated in text, but they can also be supplmented by:
+Text is important for conveying ideas, but long paragraphs and text-heavy lessons can be diificult for retaining participants' attention. Major ideas should be stated in text, but they can also be supplemented by:
 
 - Images
 - GIFs
@@ -158,8 +190,9 @@ Text is important for conveying ideas, but long paragraphs and text-heavy lesson
 You can also break-up paragraphs by using bullet points when you are listing anything. This creates a more diversive set of visuals for the reader and also it oftentimes more difficult to teach material that is in paragraph form as opposed to other mediums. A good rule of thumb (but not a hard rule) is to try to avoid more than 2 consecutive paragraphs of text. 
 
 ### Images
+Images are an integral part of conveying information in conjunction with text. 
 
-Images are an integral part of conveying information in conjunction with text. Considerations for images:
+Considerations for images:
 
 **Does the perfect figure already exist somewhere else?**
 
@@ -175,17 +208,17 @@ Figures that we create should follow some guidelines:
 
 - *Clarity* - **Each figure should try to convey a single takeaway point.** Only include details relevant for the point we are trying to convey with an image. We can make multiple images for different points. Try to avoid cramming an image with too many details it can be distracting and lose sight of the overall goal.
 
-  Be sure to label the axes on any plots.
+* Be sure to label the axes on any plots.
 
-  Use colorblind-friendly color palettes when creating figures.
+* Use colorblind-friendly color palettes when creating figures.
 
-  If working from screenshots, make sure the interface is clean (i.e. hide the dock on Mac, clean up your Desktop, etc.)
+* If working from screenshots, make sure the interface is clean (i.e. hide the dock on Mac, clean up your Desktop, etc.)
 
-  Put a figure description underneath the figure to let the reader and instructor know what the take-home message is from a figure. Sometimes figures get put into a lesson and make sense to the person embeddding them, but it isn't quite so obvious to others.
+* Put a figure description underneath the figure to let the reader and instructor know what the take-home message is from a figure. Sometimes figures get put into a lesson and make sense to the person embeddding them, but it isn't quite so obvious to others.
 
-- *Attribution* - On the figures we develop, put "Harvard Chan Bioinformatics Core" in the bottom right corner. This builds attribution into a figure, so if someone uses our figure and forgets to attribute us, we are still attributed.
+* *Attribution* - On the figures we develop, put "Harvard Chan Bioinformatics Core" in the bottom right corner. This builds attribution into a figure, so if someone uses our figure and forgets to attribute us, we are still attributed.
 
-- *Management* - It is encouraged to use Adobe Illustrator to create images. Please keep any images used in creating images, like screenshots, in the same folder as the Illustrator file (.ai) along with the final PNG/SVG image on Dropbox. 
+* *Management* - It is encouraged to use Adobe Illustrator to create images. Please keep any images used in creating images, like screenshots, in the same folder as the Illustrator file (.ai) along with the final PNG/SVG image on Dropbox. 
 
 ### GIFs
 
@@ -245,7 +278,7 @@ GitHub Markdown does not accomodate iframe, but this will be visualized on the H
 
 Sometimes not all of the content that is developed is 100% relevant to the workshop, but could be for people with slightly different data, addresses outdated approaches or provides alternative analytical approaches. When we come to these "Extra details" we have two approaches, Dropdowns and Linking Out.
 
-#### Dropdowns
+### Dropdowns
 
 Oftentimes you will come across places where there are two reasonable approaches to a task or want to provide more information on that is not critical for participant's immediate success, but is still information that people might like to have. If brief, these are a great place to use a dropdown. The syntax for these dropdowns look like:
 
@@ -269,11 +302,11 @@ Also, be aware that some special characters like <, >, &, ', ", # can give wonky
 
 Always check the output in the HTML Page to make sure that it hasn't created problems for the rest of your Markdown.
 
-#### Linking Out
+### Linking Out
 
 If there is enough content to flesh out a supplemental GitHub page, then this is too much content for a dropdown. You can make a new Markdown page for this content and link out to it from the current Markdown. Before creating a linked out page of additional content, be sure to consult with your collaborator and Meeta to make sure that this content is important enough to create this page AND will still allow us to stay within out time budget.
 
-## Footer
+### Footer
 
 All of the pages need to have the following footer:
 
