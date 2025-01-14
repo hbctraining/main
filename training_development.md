@@ -122,8 +122,8 @@ In the repository you will have a `lessons` folder which will contain a markdown
 
 The general format of the page should be:
 
-1. YAML
-2. Additional documentation
+1. [YAML](#yaml)
+2. [Additional documentation](#additional-documentation)
 3. Learning Objectives
 4. Brief introduction including the step in workflow image
 5. Content
@@ -145,7 +145,7 @@ The next few steps of creating the lesson are outlined below:
 3. After completing a learning objective, show it to your collaborator for feedback
 4. Once a first draft of the lesson is complete, have a third-party review your materials and provide feedback. The third-party should recognize that this is still in a draft state. Fixing typos, etc. is not the goal here but rather, does the flow make sense to them, is the lesson clear, does the assessment address the learning objective, etc.
 5. Incorporate third-party's feedback into the lesson
-6. Create more finished products for the figures/GIFs/apps as needed, and try tidying the lesson up, fixing typos, checking links, making sure things are rendering correctly in the HTML
+6. Create more finished products for the [figures/GIFs/apps](#additional-documentation) as needed, and try tidying the lesson up, fixing typos, checking links, making sure things are rendering correctly in the HTML
 7. Third-party polish. This is the final polish for a lesson, the final polisher must:
     - Run all of the code to ensure it works
     - Work from the HTML page to ensure renderings are correct
