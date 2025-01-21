@@ -3,24 +3,17 @@
 *Note: Some HBC workshops are taught in person and others online via Zoom. Please take note for scheduling purposes!*
 
 
-### **ONLINE Workshop dates and times:**
-<!--### **IN-PERSON (Longwood Medical Area):**
+<!--### **ONLINE Workshop dates and times:** 
 ### **Location: Longwood Medical Area**-->
+### **IN-PERSON (Longwood Medical Area):**
 
-**Tuesday, January 21, 2025**: 9:30 AM - 12 PM
-
-**Friday, January 24, 2025**: 9:30 AM - 12 PM
-
-**Tuesday, January 28, 2025**: 9:30 AM - 12 PM
-
-<!--
 **Tuesday, April 22, 2025**: 9:30 AM - 12 PM
 
 **Friday, April 25, 2025**: 9:30 AM - 12 PM
 
 **Tuesday, April 29, 2025**: 9:30 AM - 12 PM 
 
-NOTE: Workshop dates are subject to change -->
+NOTE: Workshop dates are subject to change 
 
 <!-- This content will not appear in the rendered Markdown -->
 
@@ -82,7 +75,6 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active paricipation during discussion sessions._
 
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -90,10 +82,10 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens 2 weeks before the start of basic workshops.)
 </div> 
--->
+
 
 <!-- This content will not appear in the rendered Markdown -->
-
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
 </div>
@@ -101,7 +93,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
-
+-->
 
 ---
 
