@@ -14,10 +14,10 @@
 
 **Friday February 28, 2025**: 10 AM - 12 PM
 
-NOTE: Workshop dates are subject to change - please check back!
-
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
+<!-- This content will not appear in the rendered Markdown -->
+<!-- NOTE: Workshop dates are subject to change - please check back! -->
 ---
 
 ### **Description:**
@@ -83,17 +83,17 @@ Please make sure you **take the following into account when signing up** for the
 1. _Mandatory attendance for all four classes._
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active participation during discussion sessions._
-
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <div style="text-align:center">
 	 (Registration opens two weeks before the start of the workshop.)
-
+-->
 <!-- This content will not appear in the rendered Markdown -->
 
-<!--   
+  
 </div>  
 
 <div style="text-align:center">
@@ -103,7 +103,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
--->
+
 
 ---
 
