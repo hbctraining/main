@@ -38,7 +38,7 @@ Note: Differential gene expression analysis on the count matrix will be covered 
 
 This is one of our advanced [workshops](https://github.com/hbctraining/main/tree/master?tab=readme-ov-file#how-can-i-apply-the-basic-skills), and assumes that users have a working knowledge of Shell and HPC or have attended the following Basic workshop offered by our training team in the last 6-8 months:  
 
-- [Shell for Bioinformatics](https://hbctraining.github.io/Shell-for-bioinformatics/) 
+- [Shell for Bioinformatics](https://hbctraining.github.io/main/registrations/AllFunders_Shell_for_Bioinformatics) 
 
 There is an expectation of participants to have some/all of the following Shell/HPC knowledge:
 
