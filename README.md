@@ -185,7 +185,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td>Anyone planning on doing scientific computing using the command-line.</td>
     <td>Understanding the need for shell and master basic commands</td>
     <td><ul><li><a href="https://hbctraining.github.io/Shell-for-bioinformatics/">Shell for Bioinformatics</a></li>
-      <li><a href="https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/">Introduction to the command-line interface (shell) - FAS-RC cluster</a></li></ul></td>
+     </ul></td>
   </tr>
   <tr>
     <td><b>A2</b> - Using a HPC cluster</td>
@@ -193,7 +193,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
 </td>
     <td>Understanding the components of a high performance compute cluster (HPC), and learning to navigate and properly use available HPCs at Harvard.</td>
     <td><ul><li><a href="https://hbctraining.github.io/Shell-for-bioinformatics/">Shell for Bioinformatics</a></li>
-      <li><a href="https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/">Introduction to the command-line interface (shell) - FAS-RC cluster</a></li></ul></td>
+      </ul></td>
   </tr>
   <tr>
     <td><b>B</b> - Using R </td>
@@ -221,7 +221,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td> - Analysis of bulk RNAseq data, Variant Analysis, and sequencing data related to Chromatin biology starting with raw data.<br><br>
       - Automating the workflow with advanced shell scripts.</td>
     <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to bulk RNA-seq: From reads to count matrix</a></li>
-      <li><a href="https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster</a></li>
+      
       <li><a href="https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/">Investigating chromatin biology using ChIP-seq and CUT&RUN</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-variant-analysis/">Introduction to Variant Analysis</a></li></ul></td>
   </tr>
@@ -281,3 +281,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
 
 *A lot of time and effort went into the preparation of these materials. Citations help us understand the needs of the community, gain recognition for our work, and attract further funding to support our teaching activities. Thank you for citing the corresponding course (as suggested in its "Read Me" section) if it helped you in your data analysis.*
   
+<!-- This content will not appear in the rendered Markdown -->
+<!-- Removed links to FAS-RC:
+ <li><a href="https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/">Introduction to the command-line interface (shell) - FAS-RC cluster</a></li>
+ <li><a href="https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster</a></li> -->
