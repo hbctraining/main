@@ -1,4 +1,4 @@
-# Differential Gene Expression Analysis Workshop
+# Introduction to Differential Gene Expression Analysis
 
 *Note: Some HBC workshops are taught in person and others online via Zoom.*
 
