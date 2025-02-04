@@ -1,7 +1,9 @@
-# Differential expression of single cell RNA-seq workshop
+# Pseudobulk and related approaches for scRNA-seq analysis
+
+<!-- OLD: # Differential expression of single cell RNA-seq workshop -->
 
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
-<!--*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
+<!-- *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.* -->
 
 
 ### **Workshop dates and times:**
