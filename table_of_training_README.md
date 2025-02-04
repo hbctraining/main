@@ -36,7 +36,7 @@ These are intensive workshops that instruct participants on how to design experi
 | [Introduction to Variant Analysis](https://hbctraining.github.io/Intro-to-variant-analysis/) | Shell for Bioinformatics |
 | [Tools for Reproducible Research](https://hbctraining.github.io/Tools-for-reproducible-research/) | Introduction to R |
 | [Pseudobulk and related approaches for scRNA-seq analysis](https://hbctraining.github.io/Pseudobulk-for-scRNAseq/) | Introduction to R |
-| [Introduction to Peak Analysis]([https://hbctraining.github.io/Tools-for-reproducible-research/](https://github.com/hbctraining/Intro-to-peak-analysis)) | Introduction to R |
+| [Introduction to Peak Analysis](https://github.com/hbctraining/Intro-to-peak-analysis) | Introduction to R |
 
 ***
 
