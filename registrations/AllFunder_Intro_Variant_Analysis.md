@@ -1,4 +1,4 @@
-# Introduction to Variant Calling
+# Introduction to Variant Analysis
 
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!.*
 
