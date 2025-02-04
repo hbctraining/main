@@ -1,4 +1,4 @@
-# Introduction to single-cell RNA-seq data analysis workshop
+# Introduction to single-cell RNA-seq workshop
 
 *Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
 <!-- OLD: *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*-->
