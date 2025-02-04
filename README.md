@@ -184,7 +184,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td><b>A1</b> - Using the command line interface</td>
     <td>Anyone planning on doing scientific computing using the command-line.</td>
     <td>Understanding the need for shell and master basic commands</td>
-    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-shell-flipped/">Introduction to the command-line interface (shell) - O2 cluster</a></li>
+    <td><ul><li><a href="https://hbctraining.github.io/Shell-for-bioinformatics/">Shell for Bioinformatics</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/">Introduction to the command-line interface (shell) - FAS-RC cluster</a></li></ul></td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td>Anyone who wants to efficiently run analyses on large datasets (requiring more computational resources than a laptop can provide).
 </td>
     <td>Understanding the components of a high performance compute cluster (HPC), and learning to navigate and properly use available HPCs at Harvard.</td>
-    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-shell-flipped/">Introduction to the command-line interface (shell) - O2 cluster</a></li>
+    <td><ul><li><a href="https://hbctraining.github.io/Shell-for-bioinformatics/">Shell for Bioinformatics</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/">Introduction to the command-line interface (shell) - FAS-RC cluster</a></li></ul></td>
   </tr>
   <tr>
@@ -220,10 +220,10 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td>Anyone planning on doing genomic or transcriptomic next-generation sequencing and is interested in analyzing their own data.</td>
     <td> - Analysis of bulk RNAseq data, Variant Analysis, and sequencing data related to Chromatin biology starting with raw data.<br><br>
       - Automating the workflow with advanced shell scripts.</td>
-    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster</a></li>
+    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to bulk RNA-seq: From reads to count matrix</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/">Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster</a></li>
-      <li><a href="https://hbctraining.github.io/Intro-to-ChIPseq-flipped/">Understanding chromatin biology using high throughput sequencing</a></li>
-      <li><a href="https://hbctraining.github.io/variant_analysis/">Variant Analysis</a></li></ul></td>
+      <li><a href="https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/">Investigating chromatin biology using ChIP-seq and CUT&RUN</a></li>
+      <li><a href="https://hbctraining.github.io/Intro-to-variant-analysis/">Introduction to Variant Analysis</a></li></ul></td>
   </tr>
   <tr>
     <td><b>D</b> - Statistical Analysis of HTS data in R</td>
@@ -231,7 +231,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td> - Using R to implement best practices workflows for the analysis of various forms of HTS data.<br><br>
       - Clear explanations of the theory behind each step in of the workflow.</td>
     <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Introduction to single cell RNA-seq Analysis</a></li>
-      <li><a href="https://hbctraining.github.io/DGE_workshop_salmon_online/">Introduction to Differential Gene Expression</a></li></ul></td>
+      <li><a href="https://hbctraining.github.io/Intro-to-DGE/">Introduction to Differential Gene Expression Analysis</a></li></ul></td>
   </tr>
 </table>
 
