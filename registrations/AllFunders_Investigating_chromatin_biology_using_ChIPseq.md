@@ -41,7 +41,7 @@ This 3-day hands-on workshop will begin with a basic introduction of concepts re
 
 This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**: (or have a working knowledg of Shell and HPC)  
 
-- [Shell for Bioinformatics](https://hbctraining.github.io/Shell-for-bioinformatics/) 
+- [Shell for Bioinformatics](https://hbctraining.github.io/main/registrations/AllFunders_Shell_for_Bioinformatics) 
 
 There is an expectation of participants to be confortable with some/all of the following:
 
