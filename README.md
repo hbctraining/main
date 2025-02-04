@@ -220,8 +220,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td>Anyone planning on doing genomic or transcriptomic next-generation sequencing and is interested in analyzing their own data.</td>
     <td> - Analysis of bulk RNAseq data, Variant Analysis, and sequencing data related to Chromatin biology starting with raw data.<br><br>
       - Automating the workflow with advanced shell scripts.</td>
-    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to bulk RNA-seq: From reads to count matrix</a></li>
-      
+    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to bulk RNA-seq: From reads to count matrix</a></li> 
       <li><a href="https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/">Investigating chromatin biology using ChIP-seq and CUT&RUN</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-variant-analysis/">Introduction to Variant Analysis</a></li></ul></td>
   </tr>
