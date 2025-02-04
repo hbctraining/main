@@ -1,4 +1,6 @@
-# Understanding chromatin biology using high-throughput sequencing workshop 
+# Investigating chromatin biology using ChIP-seq and CUT&RUN 
+
+<!-- OLD: # Understanding chromatin biology using high-throughput sequencing workshop -->
 
 *Note: Some HBC workshops are taught in person and others online via Zoom.*
 
