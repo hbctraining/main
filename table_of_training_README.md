@@ -2,16 +2,16 @@
 
 The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training in multiple formats, they can be broadly divided into the following: 
 
-1. [Introduction to Next-Generation Sequencing (NGS) analysis series](#introduction-to-next-generation-sequencing-ngs-analysis-series)
+1. [Introduction to High-throughput sequencing (HTS) data analysis series](#introduction-to-next-generation-sequencing-ngs-analysis-series)
 2. [Current topics in bioinformatics series](#current-topics-in-bioinformatics-series)
 
 Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. 
 
-See our current workshop schedule on our [training website](http://bioinformatics.sph.harvard.edu/training#for-hsci-and-on-quad-hms-researchers).
+See our current workshop schedule on our [training website](https://bioinformatics.sph.harvard.edu/upcoming-workshops).
 
-## Introduction to Next-Generation Sequencing (NGS) analysis series:
+## Introduction to high-throughput sequeuncing (HTS) data analysis series:
 
-This series of workshops is divided into 2 categories, [Basic Data Skills](#basic-data-skills) and [Advanced Topics](#advanced-topics). The Basic workshops serve as the foundation that participants can build upon in the Advanced workshops and we will be offering these as pairs with the appropriate basic workshop preceding and advanced one. Please see below for a description of workshops under each of these 2 categories.
+This series of workshops is divided into 2 categories, [Basic Data Skills](#basic-data-skills) and [Advanced Topics](#advanced-topics). The Basic workshops serve as the foundation that participants can build upon in the Advanced workshops and we will be offering these as pairs with the appropriate basic workshop preceding an advanced one. Please see below for a description of workshops under each of these teo categories.
 
 ### Basic Data Skills:
 
@@ -19,8 +19,7 @@ These workshops provide an introduction to computational skills required for som
 
 | Topic and Link(s) to lessons | Prerequisites |
 | :----: | :----: | 
-| [Introduction to the command-line interface (shell) - O2 cluster](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html) | None |
-| [Introduction to the command-line interface (shell) - FAS-RC cluster](https://hbctraining.github.io/Intro-to-shell-fasrc-flipped/schedule/links-to-lessons.html) | None |
+| [Shell for Bioinformatics - O2 cluster](https://hbctraining.github.io/Shell-for-bioinformatics/) | None |
 | [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | None |
 | [Introduction to R (video tutorials)](https://projects.iq.harvard.edu/hcatrresource/) | None |
   
@@ -30,13 +29,14 @@ These are intensive workshops that instruct participants on how to design experi
   
 | Topic and Link(s) to lessons | Prerequisites |
 | :----: | :----: |
-| [Introduction to (bulk) RNA-seq using High-Performance Computing - O2 cluster](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html) | Introduction to shell |
-| [Introduction to (bulk) RNA-seq using High-Performance Computing - FAS-RC cluster](https://hbctraining.github.io/Intro-to-rnaseq-fasrc-salmon-flipped/schedule/links-to-lessons.html) | Introduction to shell |
-| [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)  | Introduction to R  |
-| [Understanding chromatin biology using high throughput sequencing - O2 cluster](https://hbctraining.github.io/Intro-to-ChIPseq-flipped/schedule/) | Introduction to shell |
-| [Introduction to single cell RNA-seq Analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) | Introduction to R |
-| [Introduction to Variant Analysis](https://hbctraining.github.io/variant_analysis/) | Introduction to shell |
-| [Tools for Reproducible Research](https://hbctraining.github.io/reproducibility-tools/) | Introduction to R |
+| [Introduction to bulk RNA-seq: From reads to count matrix - O2 cluster](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html) | Shell for Bioinformatics |
+| [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/Intro-to-DGE/)  | Introduction to R  |
+| [Investigating chromatin biology using ChIP-seq and CUT&RUN - O2 cluster](https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/) | Shell for Bioinformatics |
+| [Introduction to single cell RNA-seq](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) | Introduction to R |
+| [Introduction to Variant Analysis](https://hbctraining.github.io/Intro-to-variant-analysis/) | Shell for Bioinformatics |
+| [Tools for Reproducible Research](https://hbctraining.github.io/Tools-for-reproducible-research/) | Introduction to R |
+| [Pseudobulk and related approaches for scRNA-seq analysis](https://hbctraining.github.io/Pseudobulk-for-scRNAseq/) | Introduction to R |
+| [Introduction to Peak Analysis]([https://hbctraining.github.io/Tools-for-reproducible-research/](https://github.com/hbctraining/Intro-to-peak-analysis)) | Introduction to R |
 
 ***
 
@@ -51,10 +51,10 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR) | None |
 | [Introduction to R Practical](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
 | [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
-| [Generating research analysis reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
-| [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
-| [Publication Perfect: Part II](https://hbctraining.github.io/Training-modules/publication_perfect#part-ii) | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) |
-| [RShiny](https://hbctraining.github.io/Training-modules/RShiny/) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
+| [Reproducible Research using RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
+| [Publication Perfect I: Data visualization basics with ggplot2](https://hbctraining.github.io/Training-modules/publication_perfect) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
+| [Publication Perfect II: Figure formatting in R](https://hbctraining.github.io/Training-modules/publication_perfect#part-ii) | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) |
+| [Interact with your data using RShiny](https://hbctraining.github.io/Training-modules/RShiny/) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
 
 
 ### Shell-based short workshops:
@@ -65,7 +65,8 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | [Intermediate Shell/Accelerate with Automation](https://hbctraining.github.io/Training-modules/Accelerate_with_automation/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
 | [Advanced Shell/Finding and Summarizing Data from Colossal Files](https://hbctraining.github.io/Training-modules/Finding_and_summarizing_colossal_files/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
 | [Tips and Tricks on O2](https://hbctraining.github.io/Training-modules/Tips_and_Tricks_on_O2/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
-| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [“Track Changes” for Your Code: An Introduction to Git and GitHub]() | No pre-requisite (GitHub Desktop) |
+| [Coding with Others: Managing Conflicts on GitHub]() | “Track Changes” for Your Code |
 | [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell)  |
 
 
@@ -87,4 +88,3 @@ These workshops provide instruction on basic data skills as well as introduce ne
 
 **Webpage:** [http://bioinformatics.sph.harvard.edu/training/](http://bioinformatics.sph.harvard.edu/training/)
 
-**Twitter:** [@bioinfocore](http://twitter.com/bioinfocore)
