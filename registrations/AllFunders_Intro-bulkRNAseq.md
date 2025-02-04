@@ -1,18 +1,24 @@
+# Introduction to bulk RNA-seq: From reads to count matrix
+
+<!-- This content will not appear in the rendered Markdown -->
+<!--  
+OLD:
 # Introduction to bulk RNA-seq data Data Analysis Part I workshop
-**(Experimental design --> Raw data --> Count matrices)**
+**(Experimental design -> Raw data -> Count matrices)**
+-->
 
 ---
 
 *Note: Some HBC workshops are taught in person and others online via Zoom. Please take note for scheduling purposes!*
 
 
-### **ONLINE Workshop dates and times:**
+### **Workshop dates and times:**
 
-**Tuesday, February 4, 2025**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, February 7, 2025**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Tuesday, February 11, 2025**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
 <!-- NOTE: Workshop dates are subject to change -->
 
