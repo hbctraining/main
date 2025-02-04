@@ -230,7 +230,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td> - Using R to implement best practices workflows for the analysis of various forms of HTS data.<br><br>
       - Clear explanations of the theory behind each step in of the workflow.</td>
     <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Introduction to single cell RNA-seq Analysis</a></li>
-      <li><a href="https://hbctraining.github.io/Intro-to-DGE/">Introduction to Differential Gene Expression Analysis</a></li></ul></td>
+      <li><a href="https://hbctraining.github.io/Intro-to-DGE/">Introduction to Differential Gene Expression Analysis</a></li>
       <li><a href="https://hbctraining.github.io/Pseudobulk-for-scRNAseq/">Pseudobulk and related approaches for scRNA-seq analysis</a></li></ul></td>
   </tr>
 </table>
