@@ -61,7 +61,7 @@ These workshops provide instruction on basic data skills as well as introduce ne
 
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|
-| [Basic Shell/Introduction to the command-line interface](https://hbctraining.github.io/Training-modules/Basic_shell) | None |
+| [Foundations in Shell](https://hbctraining.github.io/Training-modules/Basic_shell) | None |
 | [Intermediate Shell/Accelerate with Automation](https://hbctraining.github.io/Training-modules/Accelerate_with_automation/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
 | [Advanced Shell/Finding and Summarizing Data from Colossal Files](https://hbctraining.github.io/Training-modules/Finding_and_summarizing_colossal_files/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
 | [Tips and Tricks on O2](https://hbctraining.github.io/Training-modules/Tips_and_Tricks_on_O2/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
