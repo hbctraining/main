@@ -35,7 +35,7 @@ This Introduction to Variant Analysis workshop is aimed at providing hands-on be
 
 This is one of our advanced [workshops](https://hbctraining.github.io/main/), and assumes that users have a working knowledg of Shell and HPC or have attended the following Basic workshop offered by our training team in the last 6-8 months:  
 
-- [Shell for Bioinformatics](https://hbctraining.github.io/main/registrations/AllFunders_Intro_to_Shell) (formerly called Introduction to command-line interface workshop)
+- [Shell for Bioinformatics](https://hbctraining.github.io/Shell-for-bioinformatics/) 
 
 There is an expectation of participants to have some/all of the following Shell/HPC knowledge:
 
