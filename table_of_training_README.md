@@ -2,7 +2,7 @@
 
 The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training in multiple formats, they can be broadly divided into the following: 
 
-1. [Introduction to High-throughput sequencing (HTS) data analysis series](#introduction-to-next-generation-sequencing-ngs-analysis-series)
+1. [Introduction to High-throughput sequencing (HTS) data analysis series](#introduction-to-high-throughput-sequeuncing-hts-data-analysis-series)
 2. [Current topics in bioinformatics series](#current-topics-in-bioinformatics-series)
 
 Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. 
@@ -11,7 +11,7 @@ See our current workshop schedule on our [training website](https://bioinformati
 
 ## Introduction to high-throughput sequeuncing (HTS) data analysis series:
 
-This series of workshops is divided into 2 categories, [Basic Data Skills](#basic-data-skills) and [Advanced Topics](#advanced-topics). The Basic workshops serve as the foundation that participants can build upon in the Advanced workshops and we will be offering these as pairs with the appropriate basic workshop preceding an advanced one. Please see below for a description of workshops under each of these teo categories.
+This series of workshops is divided into 2 categories, [Basic Data Skills](#basic-data-skills) and [Advanced Topics](#advanced-topics). The Basic workshops serve as the foundation that participants can build upon in the Advanced workshops and we will be offering these as pairs with the appropriate basic workshop preceding an advanced one. Please see below for a description of workshops under each of these two categories.
 
 ### Basic Data Skills:
 
