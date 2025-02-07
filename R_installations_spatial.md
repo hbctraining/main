@@ -19,7 +19,7 @@ Download the most recent versions of R and RStudio for your laptop:
 
 ```r
 if (!requireNamespace("BiocManager", quietly = TRUE)) 
-	install.packages("BiocManager")
+    install.packages("BiocManager")
 
 ```
 
@@ -37,15 +37,15 @@ BiocManager::install("pachterlab/SpatialFeatureExperiment",
 
 ```r
 pkgs = c("SFEData",
-         	"scuttle",
-         	"scater",
-         	"scran",
-         	"bluster",
-         	"BiocParallel",
-         	"Voyager",
-         	"fastverse",
-         	"ggplot2",
-         	"pals")
+         "scuttle",
+         "scater",
+         "scran",
+         "bluster",
+         "BiocParallel",
+         "Voyager",
+         "fastverse",
+         "ggplot2",
+         "pals")
 
 BiocManager::install(pkgs,
                      Ncpus = ncpu)
@@ -99,6 +99,12 @@ library(Voyager)
 library(fastverse)
 library(ggplot2)
 library(SFEData)
+library(scater)
+library(scran)
+library(bluster)
+library(BiocParallel)
+library(pals)
+
 
 ## Day 2 module requirements
 library(qs)
