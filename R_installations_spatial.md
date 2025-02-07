@@ -15,16 +15,27 @@ Download the most recent versions of R and RStudio for your laptop:
 
 ### Day 1 Module
 
-```r
-	if (!requireNamespace("BiocManager", quietly = TRUE)) 
-install.packages("BiocManager")
+**(1)** Install BiocManager:
 
+```r
+if (!requireNamespace("BiocManager", quietly = TRUE)) 
+	install.packages("BiocManager")
+
+```
+
+**(2)** Install SpatialFeatureExperiment v1.9.7+ :
+
+```r
 ncpu = 2
 
 BiocManager::install("pachterlab/SpatialFeatureExperiment",
                      ref = "devel",
                      Ncpus = ncpu)
+```
 
+**(3)** Install the remaining packages:
+
+```r
 pkgs = c("SFEData",
          	"scuttle",
          	"scater",
@@ -38,7 +49,6 @@ pkgs = c("SFEData",
 
 BiocManager::install(pkgs,
                      Ncpus = ncpu)
-
 ```
 
 
