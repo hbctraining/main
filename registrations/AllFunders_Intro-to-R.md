@@ -3,21 +3,20 @@
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 
 ### **Workshop dates and times:**
+<!-- This content will not appear in the rendered Markdown -->
+<!-- **IN-PERSON (Longwood Medical Area):** <!-- -->
 
-**IN-PERSON (Longwood Medical Area):**
+**Tuesday, May 20, 2025**: 10 AM - 12 PM
 
-**Tuesday, February 18, 2025**: 10 AM - 12 PM
+**Friday, May 23, 2025**: 10 AM - 12 PM
 
-**Friday, February 21, 2025**: 10 AM - 12 PM
+**Tuesday, May 27, 2025**: 10 AM - 12 PM
 
-**Tuesday, February 25, 2025**: 10 AM - 12 PM
-
-**Friday February 28, 2025**: 10 AM - 12 PM
+**Friday May 20, 2025**: 10 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
-<!-- This content will not appear in the rendered Markdown -->
-<!-- NOTE: Workshop dates are subject to change - please check back! -->
+NOTE: Workshop dates are subject to change - please check back! 
 ---
 
 ### **Description:**
@@ -85,8 +84,6 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 
-<!-- 
-
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -95,11 +92,10 @@ Please make sure you **take the following into account when signing up** for the
 	 (Registration opens two weeks before the start of the workshop.)
 </div>  
 
--->
 
 <!-- This content will not appear in the rendered Markdown -->
 
-
+<!-- 
 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_dos7dpP9615SvP0'">Click here to Register!</button></a>
@@ -109,7 +105,7 @@ Please make sure you **take the following into account when signing up** for the
 	 (Please check the eligibility requirements below prior to registering)
 </div>
 
-
+-->
 ---
 
 ### **Eligibility requirements:**
