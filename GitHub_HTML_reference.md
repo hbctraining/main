@@ -387,6 +387,8 @@ Which appears as:
 
 This isn't super clean as it is an image link from a different website, rather than being generated internally in GitHub and so if this site stops working, then the equations will as well. However, it appears to work for now, so until it breaks we can try to use this method when we need to put equations within HTML.
 
+> Note: When using multi-word parts of equations LaTex will collapse them down unless you use `\text{}` 
+
 ## Dropdowns Menus
 
 One neat aspect that HTML offers that we can't do in GitHub's Markdown is use dropdown menus. These collapsible menus are great for allowing users to toggle information. All of the formatting that we've used up to this point is all able to be used within these dropdown menus. To initiate a dropdown menu use `<details>` and to end a dropdown menu use `</details>`. When using a dropdown menu, you will likely want to have text for the user to click on in order to engage this dropdown. This text is initiated with `<summary>` and closed with `</summary>`. The syntax would look like:
