@@ -46,9 +46,8 @@ There is an expectation of participants to have some/all of the following progra
 * **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
 * Familiarity with ggplot2 for **data visualization**.
 * Familiarity with RStudio interface
-* Familiar with the Seurat package for single cell RNA-seq analysis
 
-_This workshop also assumes that users have a background in single-cell RNA-seq analysis._
+_This workshop assumes that users have some background in single-cell RNA-seq analysis and familiarity with the [R Seurat package](https://satijalab.org/seurat/), but it is not required._
 
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
 
