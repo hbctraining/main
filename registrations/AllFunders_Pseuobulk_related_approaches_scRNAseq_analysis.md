@@ -47,7 +47,7 @@ There is an expectation of participants to have some/all of the following progra
 * Familiarity with ggplot2 for **data visualization**.
 * Familiarity with RStudio interface
 
-_This workshop assumes that users have some background in single-cell RNA-seq analysis and familiarity with the [R Seurat package](https://satijalab.org/seurat/), but it is not required._
+_**Participants in this workshop would benefit from having some familiarity with single-cell RNA-seq analysis and the use of the [R Seurat package](https://satijalab.org/seurat/), but it is not a requirement._
 
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
 
