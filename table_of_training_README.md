@@ -48,7 +48,7 @@ These workshops provide instruction on basic data skills as well as introduce ne
 
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|
-| [Foudataions in R](https://hbctraining.github.io/Training-modules/IntroR) | None |
+| [Foudations in R](https://hbctraining.github.io/Training-modules/IntroR) | None |
 | [Practical Applications of R](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
 | [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
 | [Reproducible Research using RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
