@@ -220,7 +220,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td>Anyone planning on doing genomic or transcriptomic next-generation sequencing and is interested in analyzing their own data.</td>
     <td> - Analysis of bulk RNAseq data, Variant Analysis, and sequencing data related to Chromatin biology starting with raw data.<br><br>
       - Automating the workflow with advanced shell scripts.</td>
-    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/">Introduction to bulk RNA-seq: From reads to count matrix</a></li> 
+    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-bulk-RNAseq/">Introduction to bulk RNA-seq: From reads to count matrix</a></li> 
       <li><a href="https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/">Investigating chromatin biology using ChIP-seq and CUT&RUN</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-variant-analysis/">Introduction to Variant Analysis</a></li></ul></td>
   </tr>
@@ -229,7 +229,7 @@ See our current workshop schedule on our [training website](http://bioinformatic
     <td>Anyone who wants to use popular R packages for downstream analysis of HTS data. Main focuses include Seurat and DESeq2.</td>
     <td> - Using R to implement best practices workflows for the analysis of various forms of HTS data.<br><br>
       - Clear explanations of the theory behind each step in of the workflow.</td>
-    <td><ul><li><a href="https://hbctraining.github.io/scRNA-seq_online/">Introduction to single cell RNA-seq Analysis</a></li>
+    <td><ul><li><a href="https://hbctraining.github.io/Intro-to-scRNAseq/">Introduction to single cell RNA-seq Analysis</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-DGE/">Introduction to Differential Gene Expression Analysis</a></li>
       <li><a href="https://hbctraining.github.io/Intro-to-peak-analysis/">Introduction to Peak Analysis</a></li>
       <li><a href="https://hbctraining.github.io/Pseudobulk-for-scRNAseq/">Pseudobulk and related approaches for scRNA-seq analysis</a></li></ul></td>
