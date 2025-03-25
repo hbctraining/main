@@ -29,7 +29,7 @@ These are intensive workshops that instruct participants on how to design experi
   
 | Topic and Link(s) to lessons | Prerequisites |
 | :----: | :----: |
-| [Introduction to bulk RNA-seq: From reads to count matrix - O2 cluster](hhttps://hbctraining.github.io/Intro-to-bulk-RNAseq/schedule/links-to-lessons.html) | Shell for Bioinformatics |
+| [Introduction to bulk RNA-seq: From reads to count matrix - O2 cluster](https://hbctraining.github.io/Intro-to-bulk-RNAseq/schedule/links-to-lessons.html) | Shell for Bioinformatics |
 | [Introduction to Differential Gene Expression Analysis](https://hbctraining.github.io/Intro-to-DGE/)  | Introduction to R  |
 | [Investigating chromatin biology using ChIP-seq and CUT&RUN - O2 cluster](https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/) | Shell for Bioinformatics |
 | [Introduction to single cell RNA-seq](https://hbctraining.github.io/Intro-to-scRNAseq/schedule/links-to-lessons.html) | Introduction to R |
