@@ -1,3 +1,10 @@
+<h1 align="center">
+Welcome to the HBC Training Program
+</h1>
+<h3 align="center">
+We are delighted to have you here!
+</h3>
+
 The training team at the Harvard Chan Bioinformatics Core provides training to help biologists become comfortable with using bioinformatics tools to analyse high-throughput sequencing (HTS) data. 
 
 We offer courses and skills at three different levels starting at the basics and building upwards. We focus on the two most commonly used HTS interfaces, **R** and **Bash/Shell**.
