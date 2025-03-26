@@ -162,7 +162,9 @@ The training team at the Harvard Chan Bioinformatics Core provides bioinformatic
 
 Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. 
 
-See our current workshop schedule on our [training website](https://bioinformatics.sph.harvard.edu/upcoming-workshops).
+_See our **current workshop schedule** on our [training website](https://bioinformatics.sph.harvard.edu/upcoming-workshops)._
+
+> NOTE: The tables below are also represented using a schematic figure which can be found [on this page here](training_overview_workflow.md).
 
 ## Introduction to high-throughput sequeuncing (HTS) data analysis series:
 
