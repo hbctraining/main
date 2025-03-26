@@ -12,6 +12,15 @@ We are delighted to have you here!
 * Does the idea of writing your own code for data analysis seem necessary, yet daunting?
 * Do you need to brush up on what you already know about analysis of high-throughput sequencing data?
 
+The training team at the **Harvard Chan Bioinformatics Core provides bioinformatics training in multiple formats**, they can be broadly divided into the following: 
+
+1. [Introduction to High-throughput sequencing (HTS) data analysis series](#introduction-to-high-throughput-sequeuncing-hts-data-analysis-series)
+2. [Current topics in bioinformatics series](#current-topics-in-bioinformatics-series)
+
+Our current workshops and courses are designed to **help biologists become comfortable with using tools to analyse high-throughput data**. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. 
+
+_See our **current workshop schedule** on our [training website](https://bioinformatics.sph.harvard.edu/upcoming-workshops)._
+
 ### Click on the following questions to expand them for the answers:
 
 <details>
@@ -155,16 +164,9 @@ Hopefully you now feel like you have a grasp on some of these terms. If you want
 <hr />
 </details>
 
-The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training in multiple formats, they can be broadly divided into the following: 
 
-1. [Introduction to High-throughput sequencing (HTS) data analysis series](#introduction-to-high-throughput-sequeuncing-hts-data-analysis-series)
-2. [Current topics in bioinformatics series](#current-topics-in-bioinformatics-series)
+ > NOTE: The tables below are also represented using a schematic figure which can be found [on this page here](training_overview_workflow.md).
 
-Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. 
-
-_See our **current workshop schedule** on our [training website](https://bioinformatics.sph.harvard.edu/upcoming-workshops)._
-
-> NOTE: The tables below are also represented using a schematic figure which can be found [on this page here](training_overview_workflow.md).
 
 ## Introduction to high-throughput sequeuncing (HTS) data analysis series:
 
