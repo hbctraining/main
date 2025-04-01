@@ -8,7 +8,9 @@
 
 ### ** Workshop dates and times:**
 **To be announced**
-<!-- **IN-PERSON (Longwood Medical Area):** 
+
+<!-- 
+**IN-PERSON (Longwood Medical Area):** 
 
 **Friday, April 4, 2025**: 9:30 AM - 12 PM
 
@@ -16,6 +18,7 @@
 
 **Friday April 11, 2025**: 9:30 AM - 12 PM
 -->
+
 <!-- NOTE: Workshop dates are subject to change -->
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
