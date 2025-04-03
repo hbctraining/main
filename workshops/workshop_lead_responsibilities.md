@@ -51,6 +51,8 @@
     - If necessary, update keynote and generate new pdf for upload to GitHub
     
 9. Make sure Qualtrics Exit survey is ready
+    - **Update Exit survey with new course names in both the questions and the header**
+    - To alter the header go to: "Look and feel" --> General --> Header 
 
 
 **Once workshop is complete:**
