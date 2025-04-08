@@ -38,7 +38,7 @@ In this **3-day hands-on workshop** participants will learn the following:
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming  Understanding Chromatin biology (with a guest speaker!) (ChIP-seq/ATAC-seq) and Variant Calling as well as Introduction to bulk RNA-seq I.
+This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming  Investigating Chromatin Biology using ChIP-seq and CUT&RUN (with a guest speaker!) and Variant Calling as well as Introduction to bulk RNA-seq I.
 
 ---
 
