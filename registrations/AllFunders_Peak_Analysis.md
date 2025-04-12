@@ -6,13 +6,13 @@
 ### **ONLINE Workshop dates and times:**
 <!-- **IN-PERSON (Longwood Medical Area):**  -->
 
-**Tuesday June 17, 2025**: 9:30 AM - 12 PM
+**Tuesday July 8, 2025**: 9:30 AM - 12 PM
 
-**Friday June 20, 2025**: 9:30 AM - 12 PM
+**Friday July 11, 2025**: 9:30 AM - 12 PM
 
-**Tuesday June 24, 2025**: 9:30 AM - 12 PM
+**Tuesday July 15, 2025**: 9:30 AM - 12 PM
 
-NOTE: Workshop dates are subject to change.
+NOTE: Workshop dates are subject to change - please check back.
 <!-- This content will not appear in the rendered Markdown -->
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
