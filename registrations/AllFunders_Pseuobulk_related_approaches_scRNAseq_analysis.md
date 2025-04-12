@@ -94,7 +94,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 
 Please make sure you **take the following into account when signing up** for the workshop:
 
-1. _Mandatory attendance for all three classes._
+1. _Mandatory attendance for all four classes._
 2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
