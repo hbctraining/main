@@ -7,19 +7,18 @@
 
 
 ### ** Workshop dates and times:**
-**To be announced**
-
-<!-- 
 **IN-PERSON (Longwood Medical Area):** 
 
-**Friday, April 4, 2025**: 9:30 AM - 12 PM
+**Tuesday, October 21, 2025**: 9:30 AM - 12 PM
 
-**Tuesday, April 8, 2025**: 9:30 AM - 12 PM
+**Friday, October 24, 2025**: 9:30 AM - 12 PM
 
-**Friday April 11, 2025**: 9:30 AM - 12 PM
+**Tuesday, October 28, 2025**: 9:30 AM - 12 PM
+
+**Friday, October 31, 2025**: 9:30 AM - 12 PM
 -->
 
-<!-- NOTE: Workshop dates are subject to change -->
+NOTE: Workshop dates are subject to change - please check back
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -38,7 +37,7 @@ After clustering cells as part of a single-cell RNA-seq experiment, investigator
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
+This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
 - [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
 
