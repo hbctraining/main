@@ -7,19 +7,19 @@
 ### **IN-PERSON Workshop dates and times:**
 ### **Location: Longwood Medical Area** -->
 
-### **Workshop dates and times:**
+### **ONLINE Workshop dates and times:**
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, May 20, 2025**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, May 23, 2025**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, May 27, 2025**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, May 30, 2025**: 9:30 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
-<!-- Note: Workshop dates and times are subject to change -->
+Note: Workshop dates and times are subject to change
 
 <!-- This content will not appear in the rendered Markdown -->
 
@@ -117,7 +117,7 @@ Please make sure you **take the following into account when signing up** for the
 	
 ---
 
-### **Eligibility requirements:**
+### **Eligibility:**
 
 <sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
 
