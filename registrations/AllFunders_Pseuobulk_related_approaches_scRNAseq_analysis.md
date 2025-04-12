@@ -16,7 +16,7 @@
 **Tuesday, October 28, 2025**: 9:30 AM - 12 PM
 
 **Friday, October 31, 2025**: 9:30 AM - 12 PM
--->
+
 
 NOTE: Workshop dates are subject to change - please check back
 
