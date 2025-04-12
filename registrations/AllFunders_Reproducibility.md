@@ -1,18 +1,18 @@
-# Tools for Reproducible Research (2024)
+# Tools for Reproducible Research 
 
-*Note: In 2024, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
 
 
 ### **Online Workshop dates and times:**
 <!--**IN-PERSON (Longwood Medical Area):**-->
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, November 14, 2025**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, November 18, 2025**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, November 21, 2025**: 9:30 AM - 12 PM
 
-<!--NOTE: Workshop dates are subject to change-->
+NOTE: Workshop dates are subject to change - please check back!
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -28,9 +28,9 @@ Rigorous science requires that the science is reproducible. However, investigati
 
 ### **Prerequisites:**
 
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and assumes that users have a working knowledge of coding with R or have attended the following **Basic workshop** offered by our training team in the last 6-8 months:  
+This is one of our advanced [workshops](https://hbctraining.github.io/main/), and assumes that users have a working knowledge of coding with R or have attended the following **Basic workshop** offered by our training team in the last 6-8 months:  
 
-- [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) 
+- [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
 
 There is an expectation of participants to have some/all of the following programming knowledge:
 
@@ -93,7 +93,7 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-(Registration opens 2 weeks before the start of advanced workshops.)
+(Registration opens 2 - 3 weeks before the start of advanced workshops.)
 </div>  
 
 <!--
