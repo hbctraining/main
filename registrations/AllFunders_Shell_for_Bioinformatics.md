@@ -40,13 +40,13 @@ In this **3-day hands-on workshop** participants will learn the following:
 
 This is one of our basic [workshops](https://hbctraining.github.io/main/), and has **NO prerequisites** and no prior programming experience is required. 
 
-This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including the upcoming  Investigating Chromatin Biology using ChIP-seq and CUT&RUN (with a guest speaker!) and Introduction to Variant Analysis as well as Introduction to bulk RNA-seq: From reads to count matrix.
+This workshop is a prerequisite for advanced [workshops](https://hbctraining.github.io/main/#advanced-topics) including Investigating Chromatin Biology using ChIP-seq and CUT&RUN, Introduction to Variant Analysis as well as Introduction to bulk RNA-seq: From reads to count matrix.
 
 ---
 
 ### **Who should attend?**
 
-[Eligible*](#eligibility-requirements) Harvard researchers who: 
+[Eligible*](#eligibility) Harvard researchers who: 
 
 - want to learn how and why to use the command line interface (Unix/Linux Shell) to efficiently manage and analyze data
 - want to use local clusters/high-performance computing environments for analyzing data (e.g. HMS-RC's O2 cluster, or FASRC cluster)
@@ -77,21 +77,20 @@ Please make sure you **take the following into account when signing up** for the
 2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active paricipation during discussion sessions._
 
-<!-- This content will not appear in the rendered Markdown -->
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
 <div style="text-align:center">
-	 (Registration opens 2 weeks before the start of basic workshops.)
+	 (Registration opens 2 - 3 weeks before the start of basic workshops.)
 </div> 
--->
 
-
+<!-- This content will not appear in the rendered Markdown -->
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8GQl9QNTcxS6TwG'">Click here to Register!</button></a>
 </div>
+-->
 
 <!--
 <div style="text-align:center">
