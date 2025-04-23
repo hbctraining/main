@@ -4,14 +4,16 @@
 
 
 <!--### **ONLINE Workshop dates and times:** 
-### **Location: Longwood Medical Area**-->
-### **IN-PERSON (Longwood Medical Area):**
+### **Location: Longwood Medical Area**
+### **IN-PERSON (Longwood Medical Area):** -->
 
-**Tuesday, April 22, 2025**: 9:30 AM - 12 PM
+### **Workshop dates and times:**
 
-**Friday, April 25, 2025**: 9:30 AM - 12 PM
+**TBA**: 9:30 AM - 12 PM
 
-**Tuesday, April 29, 2025**: 9:30 AM - 12 PM 
+**TBA**: 9:30 AM - 12 PM
+
+**TBA**: 9:30 AM - 12 PM 
 
 <!-- NOTE: Workshop dates are subject to change -->
 
@@ -99,23 +101,22 @@ Please make sure you **take the following into account when signing up** for the
 
 ---
 
-### **Eligibility requirements:**
+### **Eligibility:**
 
-<sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
+<sup>*</sup>Preference is given to Harvard researchers who are:
 
-- Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
-- Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
-- Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
-- Researcher at a Harvard affiliated institution participating in HIV related research.
+- at the Harvard Medical School in a lab on the Quad, with grants administered by HMS Gordon Hall OR
+- at Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
+- Harvard Medical School graduate students OR
+- affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu) OR
+- at a Harvard-affiliated institution participating in HIV related research.
 
+*If you are unsure of your eligibility, please register and we will get back to you.*
 
-*If you are unsure of your eligibility, please register anyway and we will get back to you.*
-
-<!-- This content will not appear in the rendered Markdown -->
 <!-- 
 (Please check the eligibility requirements prior to registering)
 -->
+<!-- This content will not appear in the rendered Markdown -->
 NOTE: We do ***not*** record our training sessions. 
 
 ---
