@@ -46,7 +46,7 @@ This workshop is a prerequisite for advanced [workshops](https://hbctraining.git
 
 ### **Who should attend?**
 
-[Eligible*](#eligibility) Harvard researchers who: 
+Harvard-affiliated researchers who: 
 
 - want to learn how and why to use the command line interface (Unix/Linux Shell) to efficiently manage and analyze data
 - want to use local clusters/high-performance computing environments for analyzing data (e.g. HMS-RC's O2 cluster, or FASRC cluster)
@@ -102,20 +102,15 @@ Please make sure you **take the following into account when signing up** for the
 
 ### **Eligibility:**
 
-<sup>*</sup>Preference is given to Harvard researchers who are:
-
-- at the Harvard Medical School in a lab on the Quad, with grants administered by HMS Gordon Hall OR
-- at Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
-- Harvard Medical School graduate students OR
-- affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu) OR
-- at a Harvard-affiliated institution participating in HIV related research.
+Preference is given to Harvard-affiliated researchers:
+- at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
+- at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
+- an HMS graduate student OR 
+- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
+- an AIDS researcher affiliated with Harvard Center for AIDS Research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
 
 *If you are unsure of your eligibility, please register and we will get back to you.*
 
-<!-- 
-(Please check the eligibility requirements prior to registering)
--->
-<!-- This content will not appear in the rendered Markdown -->
 NOTE: We do ***not*** record our training sessions. 
 
 ---
