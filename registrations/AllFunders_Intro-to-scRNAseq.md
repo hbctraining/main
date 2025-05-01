@@ -51,7 +51,7 @@ Yes, please register and provide your R/programming exerience on the form, and w
 
 ### **Who should attend?**
 
-[Eligible*](#eligibility-requirements) Harvard researchers who want to learn: 
+Harvard-affiliated researchers who want to learn: 
 
 - How to design a single-cell RNA-seq experiment
 - How to use the Seurat package to analyze single-cell RNA-seq count matrices
@@ -106,15 +106,14 @@ Please make sure you **take the following into account when signing up** for the
 
 ---
 
-### **Eligibility requirements:**
+### **Eligibility:**
 
-<sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
-
-- Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
-- Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
-- Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
-- Researcher at a Harvard-affiliated institution participating in HIV related research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
+Preference is given to Harvard-affiliated researchers:
+- at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
+- at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
+- an HMS graduate student OR 
+- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
+- an AIDS researcher affiliated with Harvard Center for AIDS Research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
