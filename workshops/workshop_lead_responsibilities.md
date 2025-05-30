@@ -41,9 +41,9 @@
    
 8. Update Intro and Wrap-up slides
     - Update Shannan's headshot
-    - **Update Intro Consulting Slide (See Shannan's meesage in #teaching)**
+    - Remove **CFAR**
     - Check to see that the **personnel slide is updated**. Add/remove/move around group members as needed
-    - Add/unhide a Breakfast slide
+    - Update a Breakfast slide
     - Update slide on data management workshops at Countway. For HPC workshops, include a slide on HMS-RC workshops. Cross-posting helps our community.
     - Check that tinyurl links are correct and working
     - Check that funding information is correct; addition of CFAR may be missing
