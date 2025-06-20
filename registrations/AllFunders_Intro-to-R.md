@@ -6,13 +6,13 @@
 <!-- This content will not appear in the rendered Markdown -->
 <!-- **IN-PERSON (Longwood Medical Area):** <!-- -->
 
-**TBA**: 10 AM - 12 PM
+**Tuesday, July 15, 2025**: 10 AM - 12 PM
 
-**TBA**: 10 AM - 12 PM
+**Friday, July 18, 2025**: 10 AM - 12 PM
 
-**TBA**: 10 AM - 12 PM
+**Tuesday, July 22, 2025**: 10 AM - 12 PM
 
-**TBA**: 10 AM - 12 PM
+**Friday, July 25, 2025**: 10 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
