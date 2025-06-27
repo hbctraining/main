@@ -67,9 +67,9 @@ There is a ***non-refundable*** and ***non-transferable*** registration fee for 
 
 Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $50. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
 
-NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
+> **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
-*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+> **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
 
 <!-- This content will not appear in the rendered Markdown -->
 <!-- OLD
@@ -121,8 +121,8 @@ Please make sure you **take the following into account when signing up** for the
 
 ### **Eligibility:**
 
-Preference is given to Harvard-affiliated researchers:
-- at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
+Preference is given to Harvard researchers who are:
+- at the Harvard Medical School in a lab on the Quad, with grants administered by HMS Gordon Hall OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
 - affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
