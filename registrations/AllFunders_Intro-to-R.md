@@ -16,7 +16,7 @@
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
-NOTE: Workshop dates are subject to change - please check back! 
+<!-- NOTE: Workshop dates are subject to change - please check back! -->
 
 ---
 
@@ -53,7 +53,7 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ### **Who should attend?**
 
-Harvard-affiliated researchers who: 
+<!-- Harvard-affiliated --> Researchers who: 
 
 - want to learn how to use R and RStudio for data wrangling and visualizations
 - desire to perform data analysis methods where basic knowledge of R is a requirement
@@ -63,6 +63,16 @@ Harvard-affiliated researchers who:
 
 ### **Cost:**
 
+There is a ***non-refundable*** and ***non-transferable*** registration fee for this online workshop*. After registering below, you will receive an email within 1 week with a link to pay.
+
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $50. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+
+NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
+
+*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- OLD
 There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this online workshop*.
 
 We will be accepting 25 participants on a first-come, first-served basis:
@@ -72,7 +82,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
-*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you.
+*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you. -->
 
 ---
 
@@ -116,7 +126,7 @@ Preference is given to Harvard-affiliated researchers:
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
 - affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
-- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR) 
+<!-- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR) -->
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
