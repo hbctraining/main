@@ -91,9 +91,12 @@ We will be accepting 25 participants on a first-come, first-served basis:
 Please make sure you **take the following into account when signing up** for the workshop:
  
 1. _Mandatory attendance for all four classes._
-2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
+2. _3-5 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active participation during discussion sessions._
 
+<!-- This content will not appear in the rendered Markdown -->
+
+<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -101,15 +104,13 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens 2-3 weeks before the start of the workshop.)
 </div>  
+-->
 
 
-<!-- This content will not appear in the rendered Markdown -->
-
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_dos7dpP9615SvP0'">Click here to Register!</button></a>
 </div>
--->
+
 <!-- 
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
