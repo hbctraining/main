@@ -2,21 +2,22 @@
 
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 
-### **ONLINE Workshop dates and times:**
+### **Workshop dates and times:**
+**IN-PERSON (Longwood Medical Area):**
 <!-- This content will not appear in the rendered Markdown -->
-<!-- **IN-PERSON (Longwood Medical Area):** <!-- -->
+<!-- ### **ONLINE Workshop dates and times:** -->
 
-**Tuesday, July 15, 2025**: 10 AM - 12 PM
+**Friday, March 6, 2026**: 10 AM - 12 PM
 
-**Friday, July 18, 2025**: 10 AM - 12 PM
+**Tuesday, March 10, 2026**: 10 AM - 12 PM
 
-**Tuesday, July 22, 2025**: 10 AM - 12 PM
+**Friday, March 13, 2026**: 10 AM - 12 PM
 
-**Friday, July 25, 2025**: 10 AM - 12 PM
+**Tuesday, March 17, 2026**: 10 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
-<!-- NOTE: Workshop dates are subject to change - please check back! -->
+NOTE: Workshop dates are subject to change - please check back!
 
 ---
 
@@ -63,7 +64,7 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ### **Cost:**
 
-There is a ***non-refundable*** and ***non-transferable*** registration fee for this online workshop*. After registering below, you will receive an email within 1 week with a link to pay.
+There is a ***non-refundable*** and ***non-transferable*** registration fee for this workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
 Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $50. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
 
@@ -94,9 +95,6 @@ Please make sure you **take the following into account when signing up** for the
 2. _3-5 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active participation during discussion sessions._
 
-<!-- This content will not appear in the rendered Markdown -->
-
-<!-- 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -104,13 +102,15 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Registration opens 2-3 weeks before the start of the workshop.)
 </div>  
--->
 
+<!-- This content will not appear in the rendered Markdown -->
+
+<!-- 
 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_dos7dpP9615SvP0'">Click here to Register!</button></a>
 </div>
-
+-->
 <!-- 
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
