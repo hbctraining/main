@@ -1,6 +1,6 @@
 # Advanced topics in Single-cell RNA-seq workshop (2025)
 
-*Note: In 2024 and 2025, some workshops will be taught in person and others will be online via Zoom.*
+*Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 
 
 ### **Workshop dates and times:**
@@ -42,7 +42,7 @@ Yes, you can register **AND** please do the following:
 
 ### **Who should attend?**
 
-[Eligible*](#eligibility-requirements) Harvard researchers who want to learn: 
+Researchers who want to learn: 
 
 -
 -
@@ -54,6 +54,16 @@ Yes, you can register **AND** please do the following:
 
 ### **Cost:**
 
+There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
+
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+
+> **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
+
+> **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- OLD:
 There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop.
 
 We will be accepting 25 participants on a first-come, first-served basis:
@@ -64,6 +74,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
 *NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+-->
 
 ---
 
@@ -72,7 +83,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 Please make sure you **take the following into account when signing up** for the workshop:
 
 1. _Mandatory attendance for all three classes._
-2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
+2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
@@ -80,7 +91,7 @@ Please make sure you **take the following into account when signing up** for the
 </div>
 
 <div style="text-align:center">
-(Registration opens 2 weeks before the start of advanced workshops.)
+(Registration opens 2-3 weeks before the start of advanced workshops.)
 </div> 
 
 <!--
@@ -101,15 +112,13 @@ Please make sure you **take the following into account when signing up** for the
 
 ---
 
-### **Eligibility requirements:**
+### **Eligibility:**
 
-<sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
-
-- Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
-- Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
-- Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
-- Researcher at a Harvard-affiliated institution participating in HIV related research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
+Preference is given to Harvard-affiliated researchers:
+- at the Harvard Medical School in a lab on the Quad, with grants administered by HMS Gordon Hall OR
+- at Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall OR
+- an HMS graduate student OR
+- affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
