@@ -66,7 +66,7 @@ Yes, please register and provide your R/programming exerience on the form, and w
 
 ### **Who should attend?**
 
-Harvard-affiliated researchers who want to learn: 
+Researchers who want to learn: 
 
 - How to organize scRNA-seq data for DE analysis
 - How to use DESeq2 to obtain a list of differentially expressed genes
@@ -76,6 +76,17 @@ Harvard-affiliated researchers who want to learn:
 ---
 
 ### **Cost:**
+
+There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
+
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+
+> **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
+
+> **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- OLD:
 
 There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop.
 
@@ -87,6 +98,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
 *NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+-->
 
 ---
 
@@ -95,7 +107,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 Please make sure you **take the following into account when signing up** for the workshop:
 
 1. _Mandatory attendance for all four classes._
-2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
+2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
@@ -128,8 +140,7 @@ Preference is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
-- an AIDS researcher affiliated with Harvard Center for AIDS Research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
+- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) 
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
