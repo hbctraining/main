@@ -9,13 +9,13 @@
 
 ### **Workshop dates and times:**
 
-**TBA**: 9:30 AM - 12 PM
+**Friday, January 23, 2026**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM
+**Tuesday, January 27, 2026**: 9:30 AM - 12 PM
 
-**TBA**: 9:30 AM - 12 PM 
+**Friday, January 30, 2026**: 9:30 AM - 12 PM 
 
-<!-- NOTE: Workshop dates are subject to change -->
+NOTE: Workshop dates are subject to change
 
 <!-- This content will not appear in the rendered Markdown -->
 
@@ -46,7 +46,7 @@ This workshop is a prerequisite for advanced [workshops](https://hbctraining.git
 
 ### **Who should attend?**
 
-Harvard-affiliated researchers who: 
+Researchers who: 
 
 - want to learn how and why to use the command line interface (Unix/Linux Shell) to efficiently manage and analyze data
 - want to use local clusters/high-performance computing environments for analyzing data (e.g. HMS-RC's O2 cluster, or FASRC cluster)
@@ -55,6 +55,17 @@ Harvard-affiliated researchers who:
 ---
 
 ### **Cost:**
+
+There is a ***non-refundable*** and ***non-transferable*** registration fee for this workshop*. After registering below, you will receive an email within 1 week with a link to pay.
+
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $50. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+
+> **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
+
+> **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- OLD:
 
 There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this workshop.
 
@@ -66,6 +77,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
 *NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+-->
 
 ---
 
@@ -74,7 +86,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 Please make sure you **take the following into account when signing up** for the workshop:
  
 1. _Mandatory attendance for all three classes._
-2. _2-3 hours of reading and exercises from selected lessons before each workshop session._
+2. _3-5 hours of reading and exercises from selected lessons before each workshop session._
 3. _Active paricipation during discussion sessions._
 
 <div style="text-align:center">
@@ -106,9 +118,8 @@ Preference is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
-- an AIDS researcher affiliated with Harvard Center for AIDS Research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
-
+- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
+  
 *If you are unsure of your eligibility, please register and we will get back to you.*
 
 NOTE: We do ***not*** record our training sessions. 
