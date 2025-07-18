@@ -9,17 +9,17 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, May 20, 2025**: 9:30 AM - 12 PM
+**Tuesday, June 2, 2026**: 9:30 AM - 12 PM
 
-**Friday, May 23, 2025**: 9:30 AM - 12 PM
+**Friday, June 5, 2026**: 9:30 AM - 12 PM
 
-**Tuesday, May 27, 2025**: 9:30 AM - 12 PM
+**Tuesday, June 9, 2026**: 9:30 AM - 12 PM
 
-**Friday, May 30, 2025**: 9:30 AM - 12 PM
+**Friday, June 12, 2026**: 9:30 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
-<!-- Note: Workshop dates and times are subject to change -->
+Note: Workshop dates and times are subject to change 
 
 <!-- This content will not appear in the rendered Markdown -->
 
@@ -73,6 +73,17 @@ Harvard-affiliated researchers who want to learn:
 
 ### **Cost:**
 
+There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
+
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+
+> **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
+
+> **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- OLD:
+
 There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop*.
 
 We will be accepting 25 participants on a first-come, first-served basis:
@@ -83,7 +94,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 *NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
 
 *NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you.
-
+-->
 
 ---
 
@@ -92,11 +103,11 @@ We will be accepting 25 participants on a first-come, first-served basis:
 Please make sure you **take the following into account when signing up** for the workshop:
 
 1. _Mandatory attendance for all four classes._
-2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
+2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
 <!-- This content will not appear in the rendered Markdown -->
-<!--
+
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -104,11 +115,12 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 (Registration opens 2-3 weeks before the start of advanced workshops.)
 </div> 
--->
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_71DktmmhwO6zeDQ'">Click here to Register!</button></a>
 </div>
+-->
 
 <!--
 <div style="text-align:center">
@@ -124,8 +136,8 @@ Preference is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with Dana-Farber/Harvard Cancer Center (DFHCC) OR
-- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR) 
+- affiliated with Dana-Farber/Harvard Cancer Center (DFHCC) 
+
 
 <!-- This content will not appear in the rendered Markdown -->
 <!-- OLD:
