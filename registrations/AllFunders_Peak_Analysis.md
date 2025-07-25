@@ -102,10 +102,6 @@ Please make sure you **take the following into account when signing up** for the
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_8vmPkbFWSulYkJg'">Click here to Register!</button></a>
 </div>
 
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
-</div> 
-
 <!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
@@ -123,7 +119,7 @@ Please make sure you **take the following into account when signing up** for the
 
 ### **Eligibility:**
 
-Preference is given to Harvard-affiliated researchers:
+Priority is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
