@@ -125,7 +125,7 @@ Please make sure you **take the following into account when signing up** for the
 
 ### **Eligibility:**
 
-Preference is given to Harvard-affiliated researchers:
+Priority is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
