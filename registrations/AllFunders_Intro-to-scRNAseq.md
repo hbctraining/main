@@ -6,11 +6,11 @@
 ### **ONLINE Workshop dates and times:**
 <!-- **IN-PERSON (Longwood Medical Area):** -->
 
-**Tuesday, September 9, 2025**: 9:30 AM - 12 PM
+**Tuesday, April 14, 2026**: 9:30 AM - 12 PM
 
-**Friday, September 12, 2025**: 9:30 AM - 12 PM
+**Friday, April 17, 2026**: 9:30 AM - 12 PM
 
-**Tuesday, September 16, 2025**: 9:30 AM - 12 PM
+**Tuesday, April 21, 2026**: 9:30 AM - 12 PM
 
 NOTE: Workshop dates are subject to change - please check back
 
