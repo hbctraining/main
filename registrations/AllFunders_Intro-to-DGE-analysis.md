@@ -30,7 +30,7 @@ This hands-on workshop will introduce participants to statistical methods and co
 
 ### **Prerequisites:**
 
-This is one of our advanced workshops, and requires registrants to have attended the following Basic workshop offered by our training team in the last 6-8 months:
+This is one of our advanced workshops, and requires registrants to have attended the following Basic workshop offered by our training team in the last 12-24 months:
 
 - [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
   
@@ -77,7 +77,7 @@ Harvard-affiliated researchers who have attended our Introduction to R workshop 
 
 There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
-Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://hsph.harvard.edu/research/bioinformatics/training/workshop-pricing/) and should register below.
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
@@ -107,7 +107,16 @@ Please make sure you **take the following into account when signing up** for the
 2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
+<div style="text-align:center">
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eK86Te20HZeJRAy'">Click here to Register!</button></a>
+</div>
 
+<div style="text-align:center">
+	 (Please check the eligibility requirements below prior to registering)
+</div>
+
+<!-- This content will not appear in the rendered Markdown -->
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
@@ -116,19 +125,8 @@ Please make sure you **take the following into account when signing up** for the
 
 (Registration opens 2-3 weeks before the start of advanced workshops.)
 </div> 
-
-<!--(The workshop is full.)-->
-
-<!-- This content will not appear in the rendered Markdown -->
-<!--
-<div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eK86Te20HZeJRAy'">Click here to Register!</button></a>
-</div>
-
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
-</div>
 -->
+
 ---
 
 ### **Eligibility:**
