@@ -77,7 +77,7 @@ Text of the note.
 If you'd like to make the note collapsible, use this format:
 
 ```
-::: {collapse="true" title="Click here to see <extra_information>"}
+::: {.callout-note collapse="true" title="Click here to see <extra_information>"}
 Text of the note.
 :::
 ```
