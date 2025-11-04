@@ -6,16 +6,16 @@
 <!-- *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.* -->
 
 
-### ** ONLINE Workshop dates and times:**
-<!-- **IN-PERSON (Longwood Medical Area):** -->
+<!-- ### ** ONLINE Workshop dates and times:** -->
+<!-- ### **IN-PERSON (Longwood Medical Area):** -->
 
-**Tuesday, October 21, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Friday, October 24, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Tuesday, October 28, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Friday, October 31, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
 
 NOTE: Workshop dates are subject to change - please check back
