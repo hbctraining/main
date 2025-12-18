@@ -6,11 +6,13 @@
 ### **ONLINE Workshop dates and times:**
 <!-- **IN-PERSON (Longwood Medical Area):** -->
 
-**Tuesday, April 14, 2026**: 9:30 AM - 12 PM
+**Friday, March 6, 2026**: 10 AM - 12 PM
 
-**Friday, April 17, 2026**: 9:30 AM - 12 PM
+**Tuesday, March 10, 2026**: 10 AM - 12 PM
 
-**Tuesday, April 21, 2026**: 9:30 AM - 12 PM
+**Friday, March 13, 2026**: 10 AM - 12 PM
+
+**Tuesday, March 17, 2026**: 10 AM - 12 PM
 
 NOTE: Workshop dates are subject to change - please check back
 
@@ -65,7 +67,7 @@ Harvard-affiliated researchers who want to learn:
 
 There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
-Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://hsph.harvard.edu/research/bioinformatics/training/workshop-pricing/) and should register below.
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
@@ -92,7 +94,7 @@ We will be accepting 25 participants on a first-come, first-served basis:
 
 Please make sure you **take the following into account when signing up** for the workshop:
 
-1. _Mandatory attendance for all three classes._
+1. _Mandatory attendance for all four classes._
 2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
@@ -116,8 +118,6 @@ Please make sure you **take the following into account when signing up** for the
 </div> 
 -->
 
-
-
 ---
 
 ### **Eligibility:**
@@ -126,7 +126,8 @@ Priority is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) 
+- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
