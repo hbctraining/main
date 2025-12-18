@@ -7,13 +7,13 @@
 <!-- This content will not appear in the rendered Markdown -->
 <!-- ### **ONLINE Workshop dates and times:** -->
 
-**Friday, March 6, 2026**: 10 AM - 12 PM
+**Tuesday, February 10, 2026**: 10 AM - 12 PM
 
-**Tuesday, March 10, 2026**: 10 AM - 12 PM
+**Friday, February 13, 2026**: 10 AM - 12 PM
 
-**Friday, March 13, 2026**: 10 AM - 12 PM
+**Tuesday, February 17, 2026**: 10 AM - 12 PM
 
-**Tuesday, March 17, 2026**: 10 AM - 12 PM
+**Friday, February 20, 2026**: 10 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
@@ -127,7 +127,7 @@ Priority is given to Harvard researchers who are:
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
 - affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
-<!-- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR) -->
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
