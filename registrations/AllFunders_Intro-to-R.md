@@ -4,7 +4,6 @@
 
 ### **Workshop dates and times:**
 **IN-PERSON (Longwood Medical Area):**
-<!-- This content will not appear in the rendered Markdown -->
 <!-- ### **ONLINE Workshop dates and times:** -->
 
 **Tuesday, February 10, 2026**: 10 AM - 12 PM
@@ -54,7 +53,7 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 ### **Who should attend?**
 
-<!-- Harvard-affiliated --> Researchers who: 
+Researchers who: 
 
 - want to learn how to use R and RStudio for data wrangling and visualizations
 - desire to perform data analysis methods where basic knowledge of R is a requirement
@@ -71,19 +70,6 @@ Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
 > **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- OLD
-There is a ***non-refundable*** and ***non-transferable*** $50 registration fee for this online workshop*.
-
-We will be accepting 25 participants on a first-come, first-served basis:
-
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $50 registration fee. 
-- **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
-
-*NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
-
-*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you. -->
 
 ---
 
