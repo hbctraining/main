@@ -1,4 +1,4 @@
-# Introducing HBC workshop bundle - Introduction to R AND Introduction to bulk RNA-seq Part II workshop (2023)
+# Introducing HBC workshop bundle - Introduction to R AND Introduction to Differential Gene Expression Analysis workshop (2023)
 
 The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundle* offering *both* **Introduction to R** and **Introduction to bulkRNA-seq II** workshops since R is a pre-requisite for Introduction to bulkRNA-seq II. This bundled workshop is offered in-person in the Longwood medical area. 
 
@@ -8,7 +8,7 @@ The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundl
 
 ### **Workshop dates and times:**
 
-| **Introduction to R** | **Introduction to bukRNA-seq II** |
+| **Introduction to R** | **Introduction to Differential Gene Expression Analysis** |
 |:---------------|:-------------:|
 |  TBD | TBD |
 |  TBD | TBD |
