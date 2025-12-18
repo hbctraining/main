@@ -1,13 +1,10 @@
 # Pseudobulk and related approaches for scRNA-seq analysis
 
-<!-- OLD: # Differential expression of single cell RNA-seq workshop -->
-
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
-<!-- *Note: In 2024, some workshops will be taught in person and others will be online via Zoom.* -->
 
-
-<!-- ### ** ONLINE Workshop dates and times:** -->
-<!-- ### **IN-PERSON (Longwood Medical Area):** -->
+### **Workshop dates and times:**
+<!-- **IN-PERSON (Longwood Medical Area):**
+### **ONLINE Workshop dates and times:** -->
 
 **TBD**: 10 AM - 12 PM
 
@@ -32,7 +29,6 @@ After clustering cells as part of a single-cell RNA-seq experiment, investigator
 - Perform differential expression analysis on pseudobulk counts using DESeq2
 - Present approaches for evaluating differential proportions of cells between conditions
 
-
 ---
 
 ### **Prerequisites:**
@@ -43,24 +39,18 @@ This is one of our advanced [workshops](https://hbctraining.github.io/main/), an
 
 There is an expectation of participants to have some/all of the following programming knowledge:
 
-* Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
-* Ability to use **functions** regularly and can modify arguments when necessary.
-* Comfortable **installing packages and troubleshooting** issues.
-* **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
-* Familiarity with ggplot2 for **data visualization**.
-* Familiarity with RStudio interface
+- Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
+- Ability to use **functions** regularly and can modify arguments when necessary.
+- Comfortable **installing packages and troubleshooting** issues.
+- **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
+- Familiarity with ggplot2 for **data visualization**.
+- Familiarity with RStudio interface
 
 _Participants in this workshop would benefit from having some familiarity with single-cell RNA-seq analysis and the use of the [R Seurat package](https://satijalab.org/seurat/), but it is not a requirement._
 
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
 
 Yes, please register and provide your R/programming exerience on the form, and we'll get back to you.
-
-<!--
-**AND** please do the following:
-
-- Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a description of your experience/usage of R. -->
 
 ---
 
@@ -72,33 +62,17 @@ Researchers who want to learn:
 - How to use DESeq2 to obtain a list of differentially expressed genes
 - How to visualize expression patterns of differentially expressed genes in single cell RNA-seq data
 
-
 ---
 
 ### **Cost:**
 
 There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
-Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://hsph.harvard.edu/research/bioinformatics/training/workshop-pricing/) and should register below.
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
 > **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- OLD:
-
-There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop.
-
-We will be accepting 25 participants on a first-come, first-served basis:
-
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $65 registration fee. 
-- **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
-
-*NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
-
-*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
--->
 
 ---
 
@@ -119,6 +93,7 @@ Please make sure you **take the following into account when signing up** for the
 (Registration opens 2 - 3 weeks before the start of advanced workshops.)
 </div> 
 
+<!-- This content will not appear in the rendered Markdown -->
 <!--
 
 <div style="text-align:center">
@@ -130,8 +105,6 @@ Please make sure you **take the following into account when signing up** for the
 </div> 
 -->
 
-<!-- This content will not appear in the rendered Markdown -->
-
 ---
 
 ### **Eligibility:**
@@ -140,7 +113,8 @@ Priority is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) 
+- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
