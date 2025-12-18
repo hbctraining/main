@@ -1,7 +1,5 @@
 # Introducing HBC workshop bundle - Introduction to R AND Introduction to bulk RNA-seq Part II workshop (2023)
 
-*Note: In 2023, some workshops will be taught in person and others will be online via Zoom.*
-
 The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundle* offering *both* **Introduction to R** and **Introduction to bulkRNA-seq II** workshops since R is a pre-requisite for Introduction to bulkRNA-seq II. This bundled workshop is offered in-person in the Longwood medical area. 
 
 ### **Workshop bundle**
@@ -12,10 +10,10 @@ The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundl
 
 | **Introduction to R** | **Introduction to bukRNA-seq II** |
 |:---------------|:-------------:|
-| **Friday, April 28, 2023**: 10 AM - 12 PM      |  **Tuesday, May 16, 2023**: 10 AM - 12 PM |
-| **Tuesday, May 2, 2023**: 10 AM - 12 PM        | **Friday, May 19, 2023**: 10 AM - 12 PM |
-| **Friday, May 5, 2023**: 10 AM - 12 PM         |  **Tuesday, May 23, 2023**: 10 AM - 12 PM |
-| **Tuesday, May 9, 2023**: 10 AM - 12 PM        | **Friday, May 26, 2023**: 10 AM - 12 PM
+|  TBD | TBD |
+|  TBD | TBD |
+|  TBD | TBD |
+|  TBD | TBD |
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
