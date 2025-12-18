@@ -83,7 +83,7 @@ Harvard-affiliated researchers who want to learn:
 
 There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
-Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](hhttps://hsph.harvard.edu/research/bioinformatics/training/workshop-pricing/) and should register below.
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
@@ -139,7 +139,8 @@ Priority is given to Harvard researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with Dana-Farber/Harvard Cancer Center (DFHCC) 
+- affiliated with Dana-Farber/Harvard Cancer Center (DFHCC)
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
 <!-- This content will not appear in the rendered Markdown -->
 <!-- OLD:
