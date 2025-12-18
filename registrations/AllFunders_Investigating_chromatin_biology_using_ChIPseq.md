@@ -1,7 +1,5 @@
 # Investigating chromatin biology using ChIP-seq and CUT&RUN 
 
-<!-- OLD: # Understanding chromatin biology using high-throughput sequencing workshop -->
-
 *Note: Some HBC workshops are taught in person and others online via Zoom. Please take note for scheduling purposes!*
 
 <!-- ### **IN-PERSON Workshop dates and times (Longwood Medical Area):** 
@@ -9,16 +7,14 @@
 
 ### **Workshop dates and times:**
 
-**Tuesday, February 10, 2026:** 9:30AM-12PM
+**TBD:** 9:30AM-12PM
 
-**Friday, February 13, 2026:** 9:30AM-12PM
+**TBD:** 9:30AM-12PM
 
-**Tuesday, February 17, 2026:** 9:30AM-12PM
+**TBD:** 9:30AM-12PM
 
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
-
-<!-- This content will not appear in the rendered Markdown -->
 
 Note: Workshop dates and times are subject to change
 
@@ -55,14 +51,6 @@ I am experienced using Shell/HPC but have not attended the HBC prerequisite work
 
 Yes, please register and provide your Shell/HPC exerience on the form, and we'll get back to you.
 
-<!-- This content will not appear in the rendered Markdown -->
-<!-- PREVIOUS VERSION: 
-**I am fluent in command-line and already use HMS-RC's O2 cluster but have not attended the HBC prerequisite workshop, can I still register?**
-
-Yes, you can register **AND** please do the following:
-
-- Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your experience/usage of thw command-line interface and HPC. -->
 ---
 
 ### **Who should attend?**
@@ -79,26 +67,11 @@ Researchers who want to learn:
 
 There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
-Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://hsph.harvard.edu/research/bioinformatics/training/workshop-pricing/) and should register below.
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
 > **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- OLD:
-
-There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop*.
-
-We will be accepting 25 participants on a first-come, first-served basis:
-
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $65 registration fee. 
-- **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
-
-*NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
-
-*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you.
--->
 
 ---
 
@@ -142,11 +115,10 @@ Priority is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
+- affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
   
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
-
-<!--(Please check the eligibility requirements prior to registering)-->
 
 NOTE: We do ***not*** record our training sessions. 
 
