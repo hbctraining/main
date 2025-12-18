@@ -9,13 +9,13 @@
 
 ### **ONLINE Workshop dates and times:**
 
-**Tuesday, June 2, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, June 5, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Tuesday, June 9, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, June 12, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
@@ -75,7 +75,7 @@ Harvard-affiliated researchers who want to learn:
 
 There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
-Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $65. Others interested in our workshops can find [our prices here](https://hsph.harvard.edu/research/bioinformatics/training/workshop-pricing/) and should register below.
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
@@ -136,23 +136,10 @@ Priority is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
-- affiliated with Dana-Farber/Harvard Cancer Center (DFHCC) 
-
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- OLD:
-<sup>*</sup>To be eligible to attend this workshop you should fulfill at least one of the following criteria:
-
-- Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
-- Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
-- Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
-- Researcher at a Harvard-affiliated institution participating in HIV related research [(CFAR)](https://cfar.globalhealth.harvard.edu/).
--->
+- affiliated with Dana-Farber/Harvard Cancer Center (DFHCC) OR
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
-<!-- This content will not appear in the rendered Markdown -->
-<!--(Please check the eligibility requirements prior to registering)-->
 
 NOTE: We do ***not*** record our training sessions. 
 
