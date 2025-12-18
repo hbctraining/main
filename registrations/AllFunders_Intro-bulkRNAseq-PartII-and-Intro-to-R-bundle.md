@@ -4,9 +4,8 @@ The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundl
 
 ### **Workshop bundle**
 
-### **Workshop dates and times:**
-<!-- **IN-PERSON (Longwood Medical Area):**
-### **ONLINE Workshop dates and times:** -->
+<!-- ### ** IN-PERSON (Longwood Medical Area) Workshop dates and times:**
+### **ONLINE (Zoom) Workshop dates and times:** -->
 
 | **Introduction to R** | **Introduction to Differential Gene Expression Analysis** |
 |:---------------|:-------------:|
