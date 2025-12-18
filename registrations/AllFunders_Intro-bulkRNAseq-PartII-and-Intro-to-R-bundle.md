@@ -1,12 +1,12 @@
-# Introducing HBC workshop bundle - Introduction to R AND Introduction to Differential Gene Expression Analysis workshop (2023)
+# Introducing HBC workshop bundle - Introduction to R AND Introduction to Differential Gene Expression Analysis workshop
 
-The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundle* offering *both* **Introduction to R** and **Introduction to bulkRNA-seq II** workshops since R is a pre-requisite for Introduction to bulkRNA-seq II. This bundled workshop is offered in-person in the Longwood medical area. 
+The Harvard Chan Bioinformatics Core Training Team is piloting a *workshop bundle* offering *both* **Introduction to R** and **Introduction to Differential Gene Expression Analysis** workshops since R is a pre-requisite for the Introduction to Differential Gene Expression Analysis. 
 
 ### **Workshop bundle**
 
-### **IN-PERSON: Countway Library** 
-
 ### **Workshop dates and times:**
+<!-- **IN-PERSON (Longwood Medical Area):**
+### **ONLINE Workshop dates and times:** -->
 
 | **Introduction to R** | **Introduction to Differential Gene Expression Analysis** |
 |:---------------|:-------------:|
@@ -30,9 +30,9 @@ These hands-on workshops will introduce participants to R programming and statis
 
 ### **Prerequisites:**
 
-This is one of our bundled workshops and has NO prerequisites and no prior programming experience is required, however, R is a pre-requisite for Introduction to bulk RNA-seq Part II.
+This is one of our bundled workshops and has NO prerequisites and no prior programming experience is required, however, R is a pre-requisite for Introduction to Differential Gene Expression Analysis.
 
-Intro to R will fulfil the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data) including Introduction to single cell RNA-seq analysis and Introduction to bulk RNA-seq Part II.
+Introduction to R will fulfill the required prerequisite for other HBC advanced [workshops](https://hbctraining.github.io/main/table_of_training_README.html#advanced-topics) including Introduction to single cell RNA-seq analysis and Introduction to Differential Gene Expression Analysis.
 
 ---
 
@@ -48,7 +48,7 @@ Intro to R will fulfil the required prerequisite for other HBC advanced [worksho
 - Visualize expression patterns for differentially expressed genes
 - Perform functional analysis on gene lists with R-based tools
 
-Interested in Bulk RNA-seq II workshop only? [Register here instead](https://hbctraining.github.io/main/registrations/AllFunders_Intro-bulkRNAseq-Part-II).
+Interested in the Introduciton to Differential Gene Expression Analysis workshop only? [Register here instead](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-DGE-analysis).
 
 ---
 
@@ -92,7 +92,8 @@ Please make sure you **take the following into account when signing up** for the
 - Harvard Medical School researcher in a lab on the Quad, with grants administered by HMS Gordon Hall
 - Harvard School of Dental Medicine researcher, with grants administered by HMS Gordon Hall
 - Graduate student at the Harvard Medical School
-- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)).
+- Researcher affiliated with the [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) OR
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
