@@ -3,8 +3,8 @@
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 
 
-<!--### **ONLINE Workshop dates and times:**
- **IN-PERSON (Longwood Medical Area):**  -->
+<!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:**
+### **ONLINE (Zoom) Workshop dates and times:** -->
 
 **TBD**: 9:30 AM - 12 PM
 
