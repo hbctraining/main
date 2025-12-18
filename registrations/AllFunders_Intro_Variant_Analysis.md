@@ -2,9 +2,7 @@
 
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!.*
 
-<!-- This content will not appear in the rendered Markdown -->
-<!-- Last workshops Sept 17, 20, 24, 27, May 28, 31, June 4, 7, 2024 
-### **IN-PERSON Workshop dates and times:**
+<!-- ### **IN-PERSON Workshop dates and times:**
 ### **Location: Longwood Medical Area** -->
 
 ### **ONLINE Workshop dates and times:**
@@ -20,8 +18,6 @@
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
 Note: Workshop dates and times are subject to change 
-
-<!-- This content will not appear in the rendered Markdown -->
 
 ---
 
@@ -50,17 +46,10 @@ I am experienced using Shell/HPC but have not attended the HBC prerequisite work
 
 Yes, please register and provide your Shell/HPC exerience on the form, and we'll get back to you.
 
-
-<!-- OLD:
-Yes, you can register **AND** please do the following:
-
-- Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a **detailed** description of your knowledge/experience in command-line interface and HPC. **Failure to do this step may prevent you from being accepted into this advanced workshop.** -->
-
 ---
 
 ### **Who should attend?**
-<!-- OLD: [Eligible*](#eligibility-requirements) Harvard researchers who want to learn: -->
+
 Harvard-affiliated researchers who want to learn: 
 
 - How to design an experiment to call variants
@@ -80,21 +69,6 @@ Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
 > **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- OLD:
-
-There is a ***non-refundable*** and ***non-transferable*** $65 registration fee for this advanced workshop*.
-
-We will be accepting 25 participants on a first-come, first-served basis:
-
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $65 registration fee. 
-- **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
-
-*NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
-
-*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we'll followup with you.
--->
 
 ---
 
