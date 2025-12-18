@@ -66,7 +66,7 @@ This workshop (or fluency in R) is a prerequisite for advanced workshops introdu
 
 There is a ***non-refundable*** and ***non-transferable*** registration fee for this workshop*. After registering below, you will receive an email within 1 week with a link to pay.
 
-Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $50. Others interested in our workshops can find [our prices here](https://bioinformatics.sph.harvard.edu/workshop-pricing) and should register below.
+Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for this workshop at a price of $50. Others interested in our workshops can find [our prices here](https://hsph.harvard.edu/research/bioinformatics/training/workshop-pricing/) and should register below.
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
