@@ -18,9 +18,6 @@ NOTE: Workshop dates are subject to change.
 
 _Instruction will be mostly learner-centric, requiring a time commitment between the workshop sessions!_
 
-<!-- This content will not appear in the rendered Markdown -->
-
-
 ---
 
 ### **Description:**
@@ -36,28 +33,15 @@ This is one of our advanced workshops, and requires registrants to have attended
   
 There is an expectation of participants to have some/all of the following programming knowledge:
 
-* Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
-* Ability to use **functions** regularly and can modify arguments when necessary.
-* Comfortable **installing packages and troubleshooting** issues.
-* **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
-* Familiarity with ggplot2 for **data visualization**.
+- Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
+- Ability to use **functions** regularly and can modify arguments when necessary.
+- Comfortable **installing packages and troubleshooting** issues.
+- **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
+- Familiarity with ggplot2 for **data visualization**.
   
 **I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
 
 Yes, please register and **provide your R/programming exerience on the form**, and we'll get back to you.
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- OLD PREREQ verbiage - keeping just in case we revert back to it.
-This is one of our advanced [workshops](https://hbctraining.github.io/main/training_spring2019.html#advanced-topics-analysis-of-high-throughput-sequencing-ngs-data), and **requires registants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
-
-- [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
-
-**I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
-
-Yes, you can register **AND** please do the following:
-
-- Complete the registration first
-- Then email us directly at hbctraining@hsph.harvard.edu with a description of your knowledge/experience. **Failure to do this step may prevent you from being accepted into this advanced workshop.** -->
 
 ---
 
@@ -82,20 +66,6 @@ Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
 > **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- OLD:
-There is a ***non-refundable*** and ***non-transferable*** fee for this advanced workshop.
-
-We will be accepting 25 participants on a first-come, first-served basis:
-
-- **If you are one of the first 25 eligible* registrants**, you will receive an email within 1 week with a link to pay the (non-refundable & non-transferable) $65 registration fee. 
-- **If you are not among the first 25 eligible* registrants**, you will be added to the waitlist and notified when we open registration for the next iteration of this workshop.
-
-*NOTE: You will not have a reserved seat for this workshop until you pay the registration fee. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.*
-
-*NOTE: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
--->
 
 ---
 
