@@ -6,13 +6,13 @@
 ### **ONLINE Workshop dates and times:**
 <!-- **IN-PERSON (Longwood Medical Area):** -->
 
-**Friday, November 14, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Tuesday, November 18, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Friday, November 21, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Tuesday, November 25, 2025**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
 NOTE: Workshop dates are subject to change.
 
@@ -108,22 +108,22 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eK86Te20HZeJRAy'">Click here to Register!</button></a>
-</div>
-
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
-</div>
-
-<!-- This content will not appear in the rendered Markdown -->
-<!--
-<div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is closed</button></a>
 </div>
 
 <div style="text-align:center">
 
 (Registration opens 2-3 weeks before the start of advanced workshops.)
+
+<!-- This content will not appear in the rendered Markdown -->
+<!--
+<div style="text-align:center">
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_eK86Te20HZeJRAy'">Click here to Register!</button></a>
+</div>
+
+<div style="text-align:center">
+	 (Please check the eligibility requirements below prior to registering)
+</div>
 </div> 
 -->
 
@@ -135,7 +135,7 @@ Priority is given to Harvard researchers:
 - at the Harvard School of Dental Medicine, with grants administered by HMS Gordon Hall OR
 - an HMS graduate student OR 
 - affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu)) 
-<!-- - an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR) -->
+- an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
 *If you are unsure of your eligibility, please register anyway and we will get back to you.*
 
