@@ -180,7 +180,7 @@ These workshops provide an introduction to computational skills required for som
 | :----: | :----: | 
 | [Shell for Bioinformatics - O2 cluster](https://hbctraining.github.io/Shell-for-bioinformatics/) | None |
 | [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | None |
-| [Introduction to R (video tutorials)](https://projects.iq.harvard.edu/hcatrresource/) | None |
+| [Introduction to R (video tutorials)](https://ondemand.catalyst.harvard.edu/products/Introduction-to-R) | None |
   
 ### Advanced Topics:
 
@@ -195,7 +195,7 @@ These are intensive workshops that instruct participants on how to design experi
 | [Introduction to Variant Analysis](https://hbctraining.github.io/Intro-to-variant-analysis/) | Shell for Bioinformatics |
 | [Tools for Reproducible Research](https://hbctraining.github.io/Tools-for-reproducible-research/) | Introduction to R |
 | [Pseudobulk and related approaches for scRNA-seq analysis](https://hbctraining.github.io/Pseudobulk-for-scRNAseq/) | Introduction to R |
-| [Introduction to Peak Analysis](https://github.com/hbctraining/Intro-to-peak-analysis) | Introduction to R |
+| [Introduction to Peak Analysis](https://hbctraining.github.io/Intro-to-peak-analysis/) | Introduction to R |
 
 ***
 
@@ -208,12 +208,12 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|
 | [Foudations in R](https://hbctraining.github.io/Training-modules/IntroR) | None |
-| [Practical Applications of R](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
+| [Practical Applications of R](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource) | Beginner R or [Completion of the Intro to R online resource](https://ondemand.catalyst.harvard.edu/products/Introduction-to-R) |
 | [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
 | [Reproducible Research using RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown) | Beginner R or [Intro to R workshop](https://hbctraining.github.io/Training-modules/IntroR) |
-| [Publication Perfect I: Data visualization basics with ggplot2](https://hbctraining.github.io/Training-modules/publication_perfect) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
+| [Publication Perfect I: Data visualization basics with ggplot2](https://hbctraining.github.io/Training-modules/publication_perfect) | Beginner R or [Completion of the Intro to R online resource](https://ondemand.catalyst.harvard.edu/products/Introduction-to-R) |
 | [Publication Perfect II: Figure formatting in R](https://hbctraining.github.io/Training-modules/publication_perfect#part-ii) | [Publication Perfect: Part I](https://hbctraining.github.io/Training-modules/publication_perfect) |
-| [Interact with your data using RShiny](https://hbctraining.github.io/Training-modules/RShiny/) | Beginner R or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
+| [Interact with your data using RShiny](https://hbctraining.github.io/Training-modules/RShiny/) | Beginner R or [Completion of the Intro to R online resource](https://ondemand.catalyst.harvard.edu/products/Introduction-to-R) |
 
 
 ### Shell-based short workshops:
