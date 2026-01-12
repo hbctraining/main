@@ -221,13 +221,12 @@ These workshops provide instruction on basic data skills as well as introduce ne
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|
 | [Foundations in Shell](https://hbctraining.github.io/Training-modules/Basic_shell) | None |
-| [Intermediate Shell/Accelerate with Automation](https://hbctraining.github.io/Training-modules/Accelerate_with_automation/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
-| [Advanced Shell/Finding and Summarizing Data from Colossal Files](https://hbctraining.github.io/Training-modules/Finding_and_summarizing_colossal_files/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
-| [Tips and Tricks on O2](https://hbctraining.github.io/Training-modules/Tips_and_Tricks_on_O2/) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
-| [“Track Changes” for Your Code: An Introduction to Git and GitHub]() | No pre-requisite (GitHub Desktop) |
-| [Coding with Others: Managing Conflicts on GitHub]() | “Track Changes” for Your Code |
-| [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data) | [Basic Shell](https://hbctraining.github.io/Training-modules/Basic_shell)  |
-
+| [Intermediate Shell/Accelerate with Automation](https://hbctraining.github.io/Training-modules/Accelerate_with_automation/) | [Foundations in Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [Advanced Shell/Finding and Summarizing Data from Colossal Files](https://hbctraining.github.io/Training-modules/Finding_and_summarizing_colossal_files/) | [Foundations in Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [Tips and Tricks on O2](https://hbctraining.github.io/Training-modules/Tips_and_Tricks_on_O2/) | [Foundations in Shell](https://hbctraining.github.io/Training-modules/Basic_shell) |
+| [“Track Changes” for Your Code: An Introduction to Git and GitHub](https://hbctraining.github.io/Training-modules/Git-Github#track-changes-with-your-code-an-introduction-to-git-and-github) | No pre-requisite (GitHub Desktop) |
+| [Coding with Others: Managing Conflicts on GitHub](https://github.com/hbctraining/Training-modules/tree/master/Git-Github#coding-with-others-managing-conflicts-on-github) | [“Track Changes” for Your Code](https://hbctraining.github.io/Training-modules/Git-Github#track-changes-with-your-code-an-introduction-to-git-and-github) |
+| [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Accessing_public_genomic_data) | [Foundations in Shell](https://hbctraining.github.io/Training-modules/Basic_shell)  |
 
 ### Other short workshops:
 
