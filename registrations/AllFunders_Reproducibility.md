@@ -6,11 +6,11 @@
 <!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:**
 ### **ONLINE (Zoom) Workshop dates and times:** -->
 
-**TBD**: 9:30 AM - 12 PM
+**Tuesday, October 27**: 9:30 AM - 12 PM
 
-**TBD**: 9:30 AM - 12 PM
+**Friday, October 30**: 9:30 AM - 12 PM
 
-**TBD**: 9:30 AM - 12 PM
+**Tuesday, November 3**: 9:30 AM - 12 PM
 
 NOTE: Workshop dates are subject to change - please check back!
 
