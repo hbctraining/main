@@ -13,7 +13,7 @@ This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchr
 
 ### **Description:**
 
-This bootcamp will provide an introduction to R, ggplot2 and Shiny apps. In this this bootcamp, you will:
+This bootcamp will provide an introduction to R, ggplot2 and Shiny apps. In this bootcamp, you will:
 
 - Work with data in R: syntax, importing and data wrangling
 - Plot figures using ggplot2
