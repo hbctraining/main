@@ -1,4 +1,5 @@
 ---
+title: R you Ready to Visualize
 layout: default
 hide_banner: true
 ---
