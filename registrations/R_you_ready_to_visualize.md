@@ -1,9 +1,3 @@
----
-title: R you Ready to Visualize
-layout: default
-hide_banner: true
----
-
 <p align="center">
 <img src="../assets/images/R_you_ready_to_visualize_03_23_2026_LinkedIn.png" width="1000">
 </p>
