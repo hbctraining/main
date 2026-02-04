@@ -12,7 +12,16 @@ This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchr
 ---
 
 ### **Description:**
-This workshop begins with an introduction to using R and RStudio. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for  data wrangling. Next, we will utilize ggplot2 and other packages within R to create data visualizations, including scatterplots, barplots, boxplots and more. We will assemble the figures into a single, multipanel, publication-grade figure within R. The workshop will conclude with Shiny, where participants will create interactive apps for data exploration. Throughout the workshop, we will emphasize strong practices for data management and reproducibility, while also providing practical exercises for participants to apply the skills they are learning.
+
+This bootcamp will provide an introduction to R, ggplot2 and Shiny apps. In this this bootcamp, you will:
+
+- Work with data in R: syntax, importing and data wrangling
+- Plot figures using ggplot2
+- Build a custom multipanel figure from real-world datasets
+- Design an interactive app for data exploration with Shiny
+- Customize app layouts for a clean, intuitive user experience
+
+Throughout the workshop, we will emphasize strong practices for data management and reproducibility, while also providing practical exercises for participants to apply the skills they are learning. It **requires no prior programming experience**.
 
 ---
 
