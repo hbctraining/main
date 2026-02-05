@@ -81,8 +81,12 @@ Please make sure you **take the following into account when signing up** for the
 3. _Active participation during discussion sessions._
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_dos7dpP9615SvP0'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
+
+<div style="text-align:center">
+	 (Registration opens 2-3 weeks before the start of the workshop.)
+</div>  
 
 <!-- 
 <div style="text-align:center">
@@ -91,17 +95,12 @@ Please make sure you **take the following into account when signing up** for the
 
 -->
 
-<!-- This content will not appear in the rendered Markdown -->
 
 <!-- 
 
 <div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_dos7dpP9615SvP0'">Click here to Register!</button></a>
 </div>
-
-<div style="text-align:center">
-	 (Registration opens 2-3 weeks before the start of the workshop.)
-</div>  
 
 -->
 
