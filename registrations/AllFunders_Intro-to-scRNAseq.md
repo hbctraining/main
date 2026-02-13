@@ -97,7 +97,7 @@ Please make sure you **take the following into account when signing up** for the
 
 ---
 
-### **Eligibility:**
+### **Priority:**
 
 Priority is given to Harvard-affiliated researchers:
 - at the Harvard Medical School in a lab on the Quad, with grants administered by HMS OR
