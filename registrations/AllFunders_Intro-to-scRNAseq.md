@@ -106,9 +106,6 @@ Priority is given to Harvard-affiliated researchers:
 - affiliated with [Dana-Farber / Harvard Cancer Center (DF/HCC](https://www.dfhcc.harvard.edu))
 - an AIDS researcher affiliated with Harvard Center for AIDS Research (CFAR)
 
-*If you are unsure of your eligibility, please register anyway and we will get back to you.*
-
-
 NOTE: We do ***not*** record our training sessions. 
 
 ---
