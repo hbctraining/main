@@ -2,16 +2,16 @@
 
 *Note: Some HBC workshops are taught in person and others are online via Zoom. Please take note for scheduling purposes!*
 
-### **IN-PERSON (Longwood Medical Area) Workshop dates and times:**
-<!-- ### **ONLINE (Zoom) Workshop dates and times:** -->
+<!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:** -->
+### **ONLINE (Zoom) Workshop dates and times:** 
 
-**Tuesday, February 10, 2026**: 10 AM - 12 PM
+**Friday, August 28, 2026**: 10 AM - 12 PM
 
-**Friday, February 13, 2026**: 10 AM - 12 PM
+**Tuesday, September 1, 2026**: 10 AM - 12 PM
 
-**Tuesday, February 17, 2026**: 10 AM - 12 PM
+**Friday, September 4, 2026**: 10 AM - 12 PM
 
-**Friday, February 20, 2026**: 10 AM - 12 PM
+**Tuesday, September 8, 2026**: 10 AM - 12 PM
 
 _Instruction will be **mostly learner-centric**, requiring a time commitment between the workshop sessions!_
 
