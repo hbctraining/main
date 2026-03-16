@@ -37,16 +37,17 @@ Any interested individuals who are interested in learning to use R to create int
 
 To register for the bootcamp please click on the link below. If you are one of the *first 25 registrants*, you will receive an email within one week with a link to pay the registration fee.
 
-<!--
+
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
--->
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_3UgMZzBRXbpJQIm'">Click here to Register!</button></a>
 </div>
+-->
 
 ---
 
