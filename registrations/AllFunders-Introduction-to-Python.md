@@ -41,7 +41,7 @@ Researchers who want to learn to:
 
 - Setup and install Python and Jupyter Lab
 - Write basic Python code and execute fundamental programming concepts
-- Load, manipulate and analyze data using Python libraries and functions
+- Load and analyze data using Python libraries and functions
 - Wrangle real-world datasets
 - Create clear visualizations with Matplotlib and Seaborn
 
