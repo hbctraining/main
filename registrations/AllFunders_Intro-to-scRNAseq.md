@@ -6,13 +6,13 @@
 ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:**
 <!-- ### **ONLINE (Zoom) Workshop dates and times:** -->
 
-**Friday, March 6, 2026**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Tuesday, March 10, 2026**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Friday, March 13, 2026**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
-**Tuesday, March 17, 2026**: 10 AM - 12 PM
+**TBD**: 10 AM - 12 PM
 
 <!-- NOTE: Workshop dates are subject to change - please check back -->
 
