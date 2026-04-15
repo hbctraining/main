@@ -19,7 +19,7 @@ The training team at the **Harvard Chan Bioinformatics Core provides bioinformat
 
 Our current workshops and courses are designed to **help biologists become comfortable with using tools to analyse high-throughput data**. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills. 
 
-_See our **current workshop schedule** on our [training website](https://bioinformatics.sph.harvard.edu/upcoming-workshops)._
+_See our **current workshop schedule** on our [training website](https://hsph.harvard.edu/research/bioinformatics/training/training-schedule/)._
 
 ### Click on the following questions to expand them for the answers:
 
