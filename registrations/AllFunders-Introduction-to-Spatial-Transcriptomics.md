@@ -87,6 +87,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 
 (Registration opens 2-3 weeks before the start of advanced workshops.)
+</div> 
 -->
 
 
@@ -97,7 +98,7 @@ Please make sure you **take the following into account when signing up** for the
 <div style="text-align:center">
 	 (Please check the eligibility requirements below prior to registering)
 </div>
-</div> 
+
 
 
 ---
