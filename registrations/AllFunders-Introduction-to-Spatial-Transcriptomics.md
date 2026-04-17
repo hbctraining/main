@@ -49,13 +49,13 @@ Yes, please register and **provide your R/programming exerience on the form**, a
 
 ### **Who should attend?**
 
-Harvard-affiliated researchers who have attended our Introduction to R workshop (or have working knowledge of R), and want to learn: 
+Harvard-affiliated researchers who have attended our Introduction to R workshop (or have working knowledge of R), and want to learn to: 
 
-- Experimental design best practices of current spatial transcriptomics technologies
-- Data loading and quality control of Visium HD samples
-- Standard single-cell workflows adapted for spatial data, including highly variable gene selection, PCA, UMAP, kNN and clustering
-- Cell type annotation with deconvolution using RCTD for sequencing-based technologies
-- Spatial-specific analyses that utilize the physical location of bins/cells on the tissue
+- Establish experimental design best practices of current spatial transcriptomics technologies
+- Load Visium HD cancer samples to perform QC and standard analyses
+- Annotate celltypes with deconvolution
+- Calculate spatial-specific values that utilizes the physical location of cells on the tissue, including spatially variable genes and spatially constrained clusters
+- Quantify ligand-receptor interactions with cell-cell communication analyses
 
 ---
 
