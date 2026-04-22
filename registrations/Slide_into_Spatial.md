@@ -12,7 +12,14 @@ This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchr
 ---
 
 ### **Description:**
-This workshop begins with an introduction to using R and RStudio. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for reproducible data wrangling and visualizations. Next, we will begin data analysis in R using 10X Visium HD spatial transcriptomic data. Participants will use Seurat and associated tools to perform analysis of the expression data, including data filtering, quality control, integration and clustering analysis. Finally, the workshop will demonstrate spatially derived clusters, deconvolution, differential gene expression and cell-cell communication.
+
+Discover the power of spatial transcriptomics in this hands-on, beginner-friendly workshop.
+
+Spatial transcriptomics is the latest innovation in high-throughput sequencing, combining the sensitivity of single-cell sequencing with the spatial context of a tissue. If you have ever wanted to take your analysis into your own hands, then this workshop is for you! Without any prior programming experience, you will get hand-on experience analyzing Visium HD data with instructors guiding you.
+
+The first two days will be spent bringing everyone up to speed on the basics of R programming and scripting. With that foundation in place, we’ll move on to spatial analyses using Seurat. We will follow the best practices for quality control and clustering. You’ll learn how to deconvolve the dataset to annotate cell types, then run differential gene expression to uncover meaningful transcriptional changes. Finally, we’ll utilize the “spatial” half of spatial transcriptomics: you’ll calculate spatially constrained clusters, identify spatially variable genes and investigate cell–cell communication through ligand–receptor analysis. Throughout this process, we will be interpreting the biological implications of each of these steps.
+
+By the end of the workshop, you won’t just have watched someone else analyze spatial data — you’ll have done it yourself! You’ll leave with the ability to use R, apply different algorithms and be able to apply these tools to your own research.
 
 ---
 
