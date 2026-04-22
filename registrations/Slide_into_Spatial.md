@@ -20,7 +20,7 @@ This workshop begins with an introduction to using R and RStudio. Participants w
 
 Any interested individuals who are keen in obtaining a foundational understanding of the workflow for analyzing spatial transcriptomics data in R. 
 
-***We encourage academic and industry researchers who are working on scRNA-seq data or have plans to embark on spatial transcriptomic experiments in the near future to apply to this workshop.***
+***We encourage academic and industry researchers who are working on spatial transcriptomics data or have plans to embark on spatial transcriptomic experiments in the near future to apply to this workshop.***
 
 ---
 
