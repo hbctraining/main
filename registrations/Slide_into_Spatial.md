@@ -3,7 +3,7 @@
 </p>
 
 ### **Workshop Details:**
-This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
+This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchronous teaching time and up to 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
 
 **Morning sessions**: 9:30 AM - 12 PM EST
 
