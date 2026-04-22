@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/images/cells_to_insights.png" width="1000">
+<img src="img/Slide_into_Spatial.png" width="1000">
 </p>
 
 ### **Workshop Details:**
