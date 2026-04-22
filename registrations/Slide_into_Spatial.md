@@ -61,7 +61,6 @@ There is a _non-refundable_ and _non-transferable_ registration fee for this wor
 
 Due to limited space the workshop can accommodate **maximum of 25 participants**. Seats are assigned on a **first come, first serve** basis.
 
- 
 ---
 
 ### **Workshop Outline:**
