@@ -78,7 +78,7 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
 
 ### **Day 3:**
 - **Experimental considerations for spatial transcriptomics**: A practical guide on setting up a successful single cell experiment and detailed information on different platforms.
-- **Quality control**: Understanding Space Ranger output and a review of the web summary HTML report. Exploring additional quality control metrics using the Seurat object and various data visualizations in R. 
+- **Quality control**: Understand the Space Ranger output, while exploring additional quality control metrics using the Seurat object and various data visualizations in R. 
 - **Normalization and sketch downsampling**: Normalize your spatial transcriptomics data in order to make comparisons between samples and bins as well as apply sketch-based downsampling to accelerate exploratory analysis on large datasets.
 
 ### **Day 4:**
