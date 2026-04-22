@@ -89,7 +89,7 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
 ### **Day 5:**
 - **Differential gene expresison**: Perform differential expression analysis between celltypes of matched samples and follow this up with an over-representation analysis and gene set enrichment analysis.
 - **Spatially variable genes**: Identify spatially variable genes whose expression changes across tissue locations.
-- **Cell-cell communication analysis**: Analyze cell–cell communication in spatial transcriptomics using `CellChat` infer signaling networks.
+- **Cell-cell communication analysis**: Analyze cell–cell communication in spatial transcriptomics using `CellChat` to infer signaling networks.
 
 
 ---
