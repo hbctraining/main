@@ -23,7 +23,7 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 
 This **hands-on** workshop will take you from installing Python and writing your first lines of code, to working with real-world data and end with producing visualizations. The focus is on **practical skills and applications**, with exercises and examples drawn from the life sciences.
 
-We will cover the **basics of Python programming*, including data types, functions, and how to use popular libraries such as **NumPy**, **pandas**, and **Matplotlib**. The goal is to give you a solid foundation in Python programming that you can build upon for your own projects. **No prior programming experience is required.** By the end, you should feel comfortable reading and writing basic Python code, wrangling data and generating custom visualizations.
+We will cover the *basics of Python programming*, including data types, functions, and how to use popular libraries such as **NumPy**, **pandas**, and **Matplotlib**. The goal is to give you a solid foundation in Python programming that you can build upon for your own projects. **No prior programming experience is required.** By the end, you should feel comfortable reading and writing basic Python code, wrangling data and generating custom visualizations.
 
 ---
 
