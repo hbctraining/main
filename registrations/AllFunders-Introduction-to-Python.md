@@ -1,17 +1,17 @@
 # Introduction to Python Workshop
 
-*Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
+*Note: Some HBC workshops are taught in-person and others are taught online via Zoom. Please take note for scheduling purposes!*
 
-<!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:** -->
-### **ONLINE (Zoom) Workshop dates and times:** 
+### **IN-PERSON (Longwood Medical Area) Workshop dates and times:**
+<!-- ### **ONLINE (Zoom) Workshop dates and times:**  -->
 
-**Tuesday, April 14, 2026**: 10 AM - 12 PM
+**Tuesday, July 7, 2026**: 10 AM - 12 PM
 
-**Friday, April 17, 2026**: 10 AM - 12 PM
+**Friday, July 10, 2026**: 10 AM - 12 PM
 
-**Tuesday, April 21, 2026**: 10 AM - 12 PM
+**Tuesday, July 14, 2026**: 10 AM - 12 PM
 
-**Friday, April 24, 2026**: 10 AM - 12 PM
+**Friday, July 17, 2026**: 10 AM - 12 PM
 
 <!-- NOTE: Workshop dates are subject to change - please check back -->
 
@@ -44,6 +44,7 @@ Researchers who want to learn to:
 - Load and analyze data using Python libraries and functions
 - Wrangle real-world datasets
 - Create clear visualizations with Matplotlib and Seaborn
+- Implement Random Forests from Scikit-learn
 
 ---
 
