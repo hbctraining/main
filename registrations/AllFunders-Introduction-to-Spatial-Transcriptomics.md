@@ -5,13 +5,13 @@
 <!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:** -->
 ### **ONLINE (Zoom) Workshop dates and times:** 
 
-**Tuesday, May 5, 2026**: 10 AM - 12 PM
+**Tuesday, October 6, 2026**: 10 AM - 12 PM
 
-**Friday, May 8, 2026**: 10 AM - 12 PM
+**Friday, October 9, 2026**: 10 AM - 12 PM
 
-**Tuesday, May 12, 2026**: 10 AM - 12 PM
+**Tuesday, October 13, 2026**: 10 AM - 12 PM
 
-**Friday, May 15, 2026**: 10 AM - 12 PM
+**Friday, October 16, 2026**: 10 AM - 12 PM
 
 NOTE: Workshop dates are subject to change.
 
