@@ -179,7 +179,7 @@ These workshops provide an introduction to computational skills required for som
 | Topic and Link(s) to lessons | Prerequisites |
 | :----: | :----: | 
 | [Shell for Bioinformatics - O2 cluster](https://hbctraining.github.io/Shell-for-bioinformatics/) | None |
-| [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | None |
+| [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedule/links-to-lessons.html) | None |
 | [Introduction to R (video tutorials)](https://ondemand.catalyst.harvard.edu/products/Introduction-to-R) | None |
   
 ### Advanced Topics:
