@@ -1,18 +1,17 @@
-# Introduction to single-cell RNA-seq workshop
+# Introduction to single-cell RNA-seq workshop (Python-based)
 
 *Note: Some HBC workshops are taught in person and others are taught online via Zoom. Please take note for scheduling purposes!*
 
+<!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:** -->
+### **ONLINE (Zoom) Workshop dates and times:**
 
-### **IN-PERSON (Longwood Medical Area) Workshop dates and times:**
-<!-- ### **ONLINE (Zoom) Workshop dates and times:** -->
+**Tuesday, August 11, 2026**: 9:30 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, August 14, 2026**: 9:30 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, August 18, 2026**: 9:30 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
-
-**TBD**: 10 AM - 12 PM
+**Friday, August 21, 2026**: 9:30 AM - 12 PM
 
 <!-- NOTE: Workshop dates are subject to change - please check back -->
 
@@ -21,7 +20,7 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 ---
 
 ### **Description:**
-This **hands-on** workshop will instruct participants on how to design a **single-cell RNA-seq experiment**, and **how to efficiently manage and analyze the data** starting from count matrices. This will be a hands-on workshop in which we will focus on using the Seurat package in R.  
+This **hands-on** workshop will instruct participants on how to design a **single-cell RNA-seq experiment**, and **how to efficiently manage and analyze the data** starting from count matrices. This will be a hands-on workshop in which we will focus on using the Scanpy package in Python.  
 
 ---
 
@@ -29,19 +28,19 @@ This **hands-on** workshop will instruct participants on how to design a **singl
 
 This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
-- [Introduction to R](https://hbctraining.github.io/main/registrations/AllFunders_Intro-to-R)
+- [Introduction to Python](https://hbctraining.github.io/main/registrations/AllFunders-Introduction-to-Python)
 
 There is an expectation of participants to have some/all of the following programming knowledge:
 
-* Solid understanding of **data structures** and fluent implementation of **basic syntax** in R.
+* Solid understanding of **data structures** and fluent implementation of **basic syntax** in Python.
 * Ability to use **functions** regularly and can modify arguments when necessary.
-* Comfortable **installing packages and troubleshooting** issues.
-* **Data wrangling** expertise (subsetting vectors and data frames) using base R or tidyverse
-* Familiarity with ggplot2 for **data visualization**.
+* Comfortable **installing libraries and troubleshooting** issues.
+* **Data wrangling** expertise (subsetting vectors and data frames) using Pandas
+* Familiarity with Seaborn for **data visualization**.
 
-**I am fluent in R but have not attended the HBC prerequisite workshop, can I still register?**
+**I am fluent in Python but have not attended the HBC prerequisite workshop, can I still register?**
 
-Yes, please register and provide your R/programming exerience on the form, and we'll get back to you.
+Yes, please register and provide your Python/programming exerience on the form, and we'll get back to you.
 
 ---
 
