@@ -86,7 +86,7 @@ Please make sure you **take the following into account when signing up** for the
 
 <!--
 <div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_72pDBOKblJ3rW9o'">Click here to Register!</button></a>
 </div>
 
 <div style="text-align:center">
