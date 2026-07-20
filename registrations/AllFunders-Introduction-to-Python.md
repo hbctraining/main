@@ -21,9 +21,11 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 
 ### **Description:**
 
-This **hands-on** workshop will take you from installing Python and writing your first lines of code, to working with real-world data and end with producing visualizations. The focus is on **practical skills and applications**, with exercises and examples drawn from the life sciences.
+This **hands-on** workshop starts with installing Python and understanding how to write code with Jupyter Lab. **No prior programming experience is required.** Through the workshop you will learn how to load datasets, generate visuals, and apply Machine Learning methods. The focus is on **practical skills and applications**, with exercises and examples drawn from the life sciences.
 
-We will cover the *basics of Python programming*, including data types, functions, and how to use popular libraries such as **NumPy**, **pandas**, and **Matplotlib**. The goal is to give you a solid foundation in Python programming that you can build upon for your own projects. **No prior programming experience is required.** By the end, you should feel comfortable reading and writing basic Python code, wrangling data and generating custom visualizations.
+We will cover the *basics of Python programming*, including key concepts such as variables, data structures, and how to automate processes. From there, we will utilize popular libraries such as **NumPy**, **pandas**, and **Matplotlib** to showcase how to analyze real-world datasets. The goal is to give you a solid foundation in Python programming that you can build upon for your own projects. 
+
+By the end, you should feel comfortable reading and writing basic Python code, wrangling data and generating custom visualizations.
 
 ---
 
@@ -44,7 +46,7 @@ Researchers who want to learn to:
 - Load and analyze data using Python libraries and functions
 - Wrangle real-world datasets
 - Create clear visualizations with Matplotlib and Seaborn
-- Implement Random Forests from Scikit-learn
+- Implement machine learning methods for annotation with scikit-learn
 
 ---
 
