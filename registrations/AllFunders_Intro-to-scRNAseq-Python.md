@@ -20,7 +20,12 @@ _Instruction will be mostly learner-centric, requiring a time commitment between
 ---
 
 ### **Description:**
-This **hands-on** workshop will instruct participants on how to design a **single-cell RNA-seq experiment**, and **how to efficiently manage and analyze the data** starting from count matrices. This will be a hands-on workshop in which we will focus on using the Scanpy package in Python.  
+
+This hands-on workshop will cover best practices for designing and analyzing single-cell RNA-seq experiments using the Scanpy package in Python. Starting from a raw counts matrix, we will work directly in Python to complete a standard analysis.
+
+The beginning of the workflow will address what quality control metrics should be used to identify high quality cells in a dataset. After this cleaning step, we will follow a standard single-cell workflow, including normalization and integrating disparate datasets. This will give the foundation for us to identify cells that are similar to one another with PCA, UMAP, and clustering algorithms. Finally, using statistical tests to identify unique genes in each cluster, we will get to ultimate end goal of this workshop - annotating the celltypes in the dataset.
+
+By the end of the workshop you will have analyzed a single-cell RNA-seq data from loading in the raw data to producing annotated celltypes - all within Python!
 
 ---
 
@@ -28,7 +33,7 @@ This **hands-on** workshop will instruct participants on how to design a **singl
 
 This is one of our advanced [workshops](https://hbctraining.github.io/main/), and **requires registrants to have attended the following Basic workshop** offered by our training team in the **last 6-8 months**:  
 
-- [Introduction to Python](https://hbctraining.github.io/main/registrations/AllFunders-Introduction-to-Python)
+- [Introduction to Python](https://hbctraining.github.io/main/registrations/AllFunders-Introduction-to-Python.html)
 
 There is an expectation of participants to have some/all of the following programming knowledge:
 
@@ -49,10 +54,10 @@ Yes, please register and provide your Python/programming exerience on the form, 
 Harvard-affiliated researchers who want to learn: 
 
 - How to design a single-cell RNA-seq experiment
-- How to use the Seurat package to analyze single-cell RNA-seq count matrices
+- How to use the ScanPy package to analyze single-cell RNA-seq count matrices
 - How to compute and assess QC metrics at every step in the workflow
 - How to cluster cells based on expression data and derive the identity of the different cell types present
-- How to combine samples within a dataset, and across datasets using Integration
+- How to combine samples within a dataset, and across datasets using integration
 
 ---
 
