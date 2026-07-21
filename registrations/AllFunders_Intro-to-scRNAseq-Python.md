@@ -54,7 +54,7 @@ Yes, please register and provide your Python/programming exerience on the form, 
 Harvard-affiliated researchers who want to learn: 
 
 - How to design a single-cell RNA-seq experiment
-- How to use the ScanPy package to analyze single-cell RNA-seq count matrices
+- How to use the Scanpy package to analyze single-cell RNA-seq count matrices
 - How to compute and assess QC metrics at every step in the workflow
 - How to cluster cells based on expression data and derive the identity of the different cell types present
 - How to combine samples within a dataset, and across datasets using integration
