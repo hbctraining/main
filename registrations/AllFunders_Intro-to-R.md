@@ -68,7 +68,7 @@ Priority is given to Harvard Quad and DF/HCC researchers, who are subsidized for
 
 > **NOTE**: _You will not have a reserved seat for this workshop until you pay the registration fee_. Please make sure you pay within the time stated in that email, else you will lose your spot to someone on the waitlist.
 
-> **NOTE*: HMS Graduate Students may receive waivers on registration fees. Please register and we’ll followup with you.
+> **NOTE*: HMS Graduate Students and researchers affiliated with Harvard University Center for AIDS Research may receive waivers on registration fees. Please register and we’ll followup with you.
 
 ---
 
