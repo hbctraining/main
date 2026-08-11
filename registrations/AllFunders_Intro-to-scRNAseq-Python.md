@@ -5,13 +5,13 @@
 <!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:** -->
 ### **ONLINE (Zoom) Workshop dates and times:**
 
-**Tuesday, August 11, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, August 14, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Tuesday, August 18, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
-**Friday, August 21, 2026**: 9:30 AM - 12 PM
+**TBD**: 9:30 AM - 12 PM
 
 <!-- NOTE: Workshop dates are subject to change - please check back -->
 
@@ -81,9 +81,7 @@ Please make sure you **take the following into account when signing up** for the
 2. _3-5 hours of reading and exercises from selected lessons before each workshop sessions._
 3. _Active participation during discussion sessions._
 
-Please contact hbctraining@hsph.harvard.edu by 1pm August 10th to express your interest!
 
-<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
@@ -92,7 +90,7 @@ Please contact hbctraining@hsph.harvard.edu by 1pm August 10th to express your i
 (Registration opens 2 - 3 weeks before the start of advanced workshops.)
 </div> 
 
-
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_72pDBOKblJ3rW9o'">Click here to Register!</button></a>
 </div>
