@@ -5,13 +5,13 @@
 <!-- ### **IN-PERSON (Longwood Medical Area) Workshop dates and times:**
 ### **ONLINE (Zoom) Workshop dates and times:** -->
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, May 25, 2027**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, May 28, 2027** 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Tuesday, June 1, 2027**: 10 AM - 12 PM
 
-**TBD**: 10 AM - 12 PM
+**Friday, June 4, 2027**: 10 AM - 12 PM
 
 NOTE: Workshop dates are subject to change.
 
